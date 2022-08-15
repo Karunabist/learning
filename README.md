@@ -2,9 +2,16 @@
 
 ![Computer vision and intersection](https://raw.githubusercontent.com/MadanBaduwal/computer-vision-resources/main/computer_vision_and_intersection.png)
 
-## Computer Vision in English,Mathematics,Physics,Chemistry,Biology,Engineering
+Computer Vision in English,Mathematics,Physics,Chemistry,Biology,Engineering
 
+
+# Awesome Lists
+* [Awsom computer vision](https://github.com/jbhuang0604/awesome-computer-vision)
+
+
+# Courses
 1. [Stanford Computer Vision](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLf7L7Kg8_FNxHATtLwDceyh72QQL9pvpQ)
 2. [3D Computer Vision | National University of Singapore](https://www.youtube.com/watch?v=LAHQ_qIzNGU&list=PLxg0CGqViygP47ERvqHw_v7FVnUovJeaz)
 3. [3D computer vision: Perception and Robotic Group: University of Maryland](https://prg.cs.umd.edu/open-positions)
+
 
