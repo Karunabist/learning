@@ -68,12 +68,24 @@ Computer Vision in
 # Computer Vision and Machine Learning Library
 
 ## Machine Learning
+* Numpy
+* Sklearn
 
 ## Computer Vision
+* Opencv
 
-# computer-vision-algorithms
+# Implemented Mathematics and Algorithms
 
-# problem-based-computer-vision-algorithms 
+### Mathematics
+
+### Machine Learning
+* [Machine Learning](https://github.com/MadanBaduwal/ML-algorithms)
+
+### computer vision algorithms
+* [computer-vision-algorithms](https://madanbaduwal.github.io/computer-vision-algorithms/categories/)
+
+### problem based computer vision algorithms 
+* [problem based computer vision algorithms](https://madanbaduwal.github.io/problem-based-computer-vision-algorithms/)
 
 # PHD career
 * [PHD career](https://github.com/MadanBaduwal/phd-career)
