@@ -11,12 +11,16 @@ Computer Vision in
 * Engineering
 * Computer Science(Computer vision and machine learning)
 
+A curated resources of computer vision resources, inspired by [awesome computer vision](https://github.com/jbhuang0604/awesome-computer-vision).
+
+# Table Of Content
+* [PHD career](# PHD career)
+
+
+
 # PHD career
 * [PHD career](https://github.com/MadanBaduwal/phd-career)
 
-
-# Awesome Lists
-* [Awsom computer vision](https://github.com/jbhuang0604/awesome-computer-vision)
 
 # People working in computer Vision 
 * [people working in computer vision](https://github.com/MadanBaduwal/people-in-computer-vision)
