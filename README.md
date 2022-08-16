@@ -9,6 +9,7 @@ Computer Vision in
 * Chemistry
 * Biology
 * Engineering
+* Computer Science(Computer vision and machine learning)
 
 
 # Awesome Lists
@@ -21,7 +22,13 @@ Computer Vision in
 
 * [computer vision datasets](https://www.computervisiondatasets.ml/)
 
-# Courses
+# Books,Courses,Blogs,Tutorials and Talks
+## Books
+
+## Courses
+### Machine Learning
+
+### Computer Vision
 1. [Stanford Computer Vision](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLf7L7Kg8_FNxHATtLwDceyh72QQL9pvpQ)
 2. [3D Computer Vision | National University of Singapore](https://www.youtube.com/watch?v=LAHQ_qIzNGU&list=PLxg0CGqViygP47ERvqHw_v7FVnUovJeaz)
 3. [3D computer vision: Perception and Robotic Group: University of Maryland](https://prg.cs.umd.edu/open-positions)
