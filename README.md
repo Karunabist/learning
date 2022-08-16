@@ -11,6 +11,9 @@ Computer Vision in
 * Engineering
 * Computer Science(Computer vision and machine learning)
 
+# PHD career
+* [PHD career](https://github.com/MadanBaduwal/phd-career)
+
 
 # Awesome Lists
 * [Awsom computer vision](https://github.com/jbhuang0604/awesome-computer-vision)
@@ -86,7 +89,4 @@ Computer Vision in
 
 ### problem based computer vision algorithms 
 * [problem based computer vision algorithms](https://madanbaduwal.github.io/problem-based-computer-vision-algorithms/)
-
-# PHD career
-* [PHD career](https://github.com/MadanBaduwal/phd-career)
 
