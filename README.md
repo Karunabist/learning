@@ -13,31 +13,31 @@ Computer Vision in
 
 A curated resources of computer vision resources, inspired by [awesome computer vision](https://github.com/jbhuang0604/awesome-computer-vision).
 
-# Table Of Content
-* [PHD career](# PHD career)
+## Table Of Content
+* [PHD career](#PHD career)
 
 
 
-# PHD career
+### PHD career
 * [PHD career](https://github.com/MadanBaduwal/phd-career)
 
 
-# People working in computer Vision 
+## People working in computer Vision 
 * [people working in computer vision](https://github.com/MadanBaduwal/people-in-computer-vision)
 
-# Computer Vision Datasets
+## Computer Vision Datasets
 
 * [computer vision datasets](https://www.computervisiondatasets.ml/)
 
-# Books,Courses,Blogs,Tutorials and Talks
-## Books
+## Books,Courses,Blogs,Tutorials and Talks
+### Books
 
-### Mathematics
+#### Mathematics
 * [Introduction to Linear Algebra, Fifth Edition (2016)- Gilbert Strang](https://math.mit.edu/~gs/linearalgebra/)
 * Linear Algebra and Its Applications - Gilbert Strang 1995
 
 
-### Machine Learning
+#### Machine Learning
 * [The hundred-page machine learning book - Burkov, Andriy](https://b-ok.asia/book/3710356/c8880d)
 * Pattern Recognition and Machine Learning - Christopher M. Bishop 2007
 * Neural Networks for Pattern Recognition - Christopher M. Bishop 1995
@@ -49,7 +49,7 @@ A curated resources of computer vision resources, inspired by [awesome computer 
 * Neural Networks and Deep Learning - Michael Nielsen 2014
 * Bayesian Reasoning and Machine Learning - David Barber, Cambridge University Press, 2012
 
-### Computer Vision
+#### Computer Vision
 
 * [Computer Vision: Theory and Application - Rick Szeliski 2010](http://szeliski.org/Book/)
 * Computer Vision: Models, Learning, and Inference - Simon J. D. Prince 2012
@@ -64,33 +64,33 @@ A curated resources of computer vision resources, inspired by [awesome computer 
 * Image Processing and Analysis - Stan Birchfield 2018
 * Computer Vision, From 3D Reconstruction to Recognition - Silvio Savarese 2018
 
-## Courses
-### Machine Learning
+### Courses
+#### Machine Learning
 
-### Computer Vision
+#### Computer Vision
 1. [Stanford Computer Vision](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLf7L7Kg8_FNxHATtLwDceyh72QQL9pvpQ)
 2. [3D Computer Vision | National University of Singapore](https://www.youtube.com/watch?v=LAHQ_qIzNGU&list=PLxg0CGqViygP47ERvqHw_v7FVnUovJeaz)
 3. [3D computer vision: Perception and Robotic Group: University of Maryland](https://prg.cs.umd.edu/open-positions)
 
-# Computer Vision and Machine Learning Library
+## Computer Vision and Machine Learning Library
 
-## Machine Learning
+### Machine Learning
 * Numpy
 * Sklearn
 
-## Computer Vision
+### Computer Vision
 * Opencv
 
-# Implemented Mathematics and Algorithms
+## Implemented Mathematics and Algorithms
 
-### Mathematics
+#### Mathematics
 
-### Machine Learning
+#### Machine Learning
 * [Machine Learning](https://github.com/MadanBaduwal/ML-algorithms)
 
-### computer vision algorithms
+#### computer vision algorithms
 * [computer-vision-algorithms](https://madanbaduwal.github.io/computer-vision-algorithms/categories/)
 
-### problem based computer vision algorithms 
+#### problem based computer vision algorithms 
 * [problem based computer vision algorithms](https://madanbaduwal.github.io/problem-based-computer-vision-algorithms/)
 
