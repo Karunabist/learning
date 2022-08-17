@@ -11,7 +11,7 @@ Computer Vision in
 * Engineering
 * Computer Science(Computer vision and machine learning)
 
-A curated resources of computer vision resources, inspired by [awesome computer vision](https://github.com/jbhuang0604/awesome-computer-vision).
+A curated resources of computer vision resources, inspired by [awesome computer vision](https://github.com/jbhuang0604/awesome-computer-vision), [learning](https://github.com/amitness/learning).
 
 ## Table Of Content
 - [PHD career](#phd-career)
@@ -73,7 +73,7 @@ A curated resources of computer vision resources, inspired by [awesome computer 
 - [ ] Image Processing and Analysis - Stan Birchfield 2018
 - [ ] Computer Vision, From 3D Reconstruction to Recognition - Silvio Savarese 2018
 
-### Courses
+### Courses and Tutorials
 
 ### Mathematics
 - [X] [Essentials Mathematics for machine learning](https://www.youtube.com/results?search_query=mathematics+for+machine+learning+)
@@ -82,6 +82,7 @@ A curated resources of computer vision resources, inspired by [awesome computer 
 
 #### Machine Learning
 - [X] [Andrage Karpathy](https://www.youtube.com/watch?v=VMj-3S1tku0)
+- [X] [Stanford CS229: Machine Learning Full Course taught by Andrew Ng | Autumn 2018](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 
 #### Computer Vision
 - [X] [Stanford Computer Vision](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLf7L7Kg8_FNxHATtLwDceyh72QQL9pvpQ)
@@ -92,23 +93,28 @@ A curated resources of computer vision resources, inspired by [awesome computer 
 ### Blogs
 
 ### Mathematics
-- 
+- [X] [Mathematics of Machine Learning](https://www.tivadardanka.com/blog)
 
 ### Machine Learning
+- [X] [KD nuggets](https://www.kdnuggets.com/tag/machine-learning)
+- [ ] [Machine Learning from Google Developer](https://developers.google.com/machine-learning/crash-course/ml-intro)
+- [ ] [Distill](https://distill.pub/)
+- [ ] [DeepMind’s Blog](https://course.elementsofai.com/)
+- [ ] [PyImageSearch](https://pyimagesearch.com/blog/)
+- [ ] [O’Reilly](https://www.oreilly.com/radar/topics/ai-ml/)
 
 ### Computer Vision
+- [X] [KD nuggets](https://www.kdnuggets.com/tag/computer-vision)
 
-## Tutorials
-
-### MAthematics
-
-### Computer Vision
 
 ## Talks
 
 ### Mathematics
+- [X] [TED](https://www.ted.com/talks/marcus_du_sautoy_symmetry_reality_s_riddle?referrer=playlist-math_talks_to_blow_your_mind&autoplay=true)
 
 ### Machine Learning
+
+- [X] [TED](https://www.ted.com/topics/machine+learning)
 
 ### Computer Vision
 
