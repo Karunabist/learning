@@ -76,10 +76,12 @@ A curated resources of computer vision resources, inspired by [awesome computer 
 ### Courses
 
 ### Mathematics
-- 
+- [X] [Essentials Mathematics for machine learning](https://www.youtube.com/results?search_query=mathematics+for+machine+learning+)
+- [X] [Mathematics for Machine Leaning Linear Algebra](https://www.youtube.com/watch?v=T73ldK46JqE&list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3)
+
 
 #### Machine Learning
-- [ ] [Andrage Karpathy](https://www.youtube.com/watch?v=VMj-3S1tku0)
+- [X] [Andrage Karpathy](https://www.youtube.com/watch?v=VMj-3S1tku0)
 
 #### Computer Vision
 - [X] [Stanford Computer Vision](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLf7L7Kg8_FNxHATtLwDceyh72QQL9pvpQ)
@@ -90,6 +92,7 @@ A curated resources of computer vision resources, inspired by [awesome computer 
 ### Blogs
 
 ### Mathematics
+- 
 
 ### Machine Learning
 
