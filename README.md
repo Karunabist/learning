@@ -17,7 +17,9 @@ A curated resources of computer vision resources, inspired by [awesome computer 
 - [PHD career](#phd-career)
 - [People working in computer Vision](#people-working-in-computer-vision)
 - [Computer Vision Datasets](#computer-vision-datasets)
-- [Books,Courses,Blogs,Tutorials and Talks](#books,courses,blogs,tutorials-and-talks)
+- [Books,Courses,Blogs,Tutorials and Talks](#books-courses-blogs-tutorials-and-talks)
+- [Computer Vision and Machine Learning Library](#computer-vision-and-machine-learning-library)
+- [Implemented Mathematics and Algorithms](#implemented-mathematics-and-algorithms)
 
 
 ## PHD career
