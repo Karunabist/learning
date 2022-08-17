@@ -75,6 +75,7 @@ A curated resources of computer vision resources, inspired by [awesome computer 
 
 ### Courses
 #### Machine Learning
+- [ ] [Andrage Karpathy](https://www.youtube.com/watch?v=VMj-3S1tku0)
 
 #### Computer Vision
 - [X] [Stanford Computer Vision](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLf7L7Kg8_FNxHATtLwDceyh72QQL9pvpQ)
