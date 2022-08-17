@@ -126,6 +126,7 @@ A curated resources of computer vision resources, inspired by [awesome computer 
 ## Implementation
 
 #### Mathematics
+- [ ] [mathematics](https://madanbaduwal.github.io/mathematics/)
 
 #### Machine Learning
 - [ ] [Machine Learning](https://github.com/MadanBaduwal/ML-algorithms)
