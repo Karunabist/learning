@@ -1,4 +1,4 @@
-# computer-vision-resources
+# computer vision 👀 resources
 
 ![Computer vision and intersection](https://raw.githubusercontent.com/MadanBaduwal/computer-vision-resources/main/computer_vision_and_intersection.png)
 
@@ -13,31 +13,29 @@ Computer Vision in
 
 A curated resources of computer vision resources, inspired by [awesome computer vision](https://github.com/jbhuang0604/awesome-computer-vision).
 
-## Computer Vision 👀
+## Table Of Content
+- [PHD career](#phd-career)
+- [People working in computer Vision](#people-working-in-computer-vision)
+- [Computer Vision Datasets](#computer-vision-datasets)
+- [Books,Courses,Blogs,Tutorials and Talks](#books,courses,blogs,tutorials-and-talks)
 
-<details>
-<summary>PHD career</summary>
+
+## PHD career
 
 - [X] [PHD career](https://github.com/MadanBaduwal/phd-career)
 
-</details>
 
-<details>
-<summary>People working in computer Vision </summary>
+## People working in computer Vision
 
 - [X] [people working in computer vision](https://github.com/MadanBaduwal/people-in-computer-vision)
-</details>
 
 
-<details>
-<summary>Computer Vision Datasets</summary>
+## Computer Vision Datasets
 
 - [ ] [computer vision datasets](https://www.computervisiondatasets.ml/)
 
-</details>
 
-<details>
-<summary>Books,Courses,Blogs,Tutorials and Talks</summary>
+## Books,Courses,Blogs,Tutorials and Talks
 
 ### Books
 
@@ -81,10 +79,8 @@ A curated resources of computer vision resources, inspired by [awesome computer 
 - [ ] [3D Computer Vision | National University of Singapore](https://www.youtube.com/watch?v=LAHQ_qIzNGU&list=PLxg0CGqViygP47ERvqHw_v7FVnUovJeaz)
 - [ ] [3D computer vision: Perception and Robotic Group: University of Maryland](https://prg.cs.umd.edu/open-positions)
 
-</details>
 
-<details>
-<summary>Computer Vision and Machine Learning Library</summary>
+## Computer Vision and Machine Learning Library
 
 ### Machine Learning
 - [ ] Numpy
@@ -93,10 +89,8 @@ A curated resources of computer vision resources, inspired by [awesome computer 
 ### Computer Vision
 - [ ] Opencv
 
-</details>
 
-<details>
-<summary>Implemented Mathematics and Algorithms</summary>
+## Implemented Mathematics and Algorithms
 
 #### Mathematics
 
@@ -109,5 +103,4 @@ A curated resources of computer vision resources, inspired by [awesome computer 
 #### problem based computer vision algorithms 
 - [ ] [problem based computer vision algorithms](https://madanbaduwal.github.io/problem-based-computer-vision-algorithms/)
 
-</details>
 
