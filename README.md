@@ -78,7 +78,7 @@ A curated resources of computer vision resources, inspired by [awesome computer 
 
 #### Computer Vision
 - [X] [Stanford Computer Vision](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLf7L7Kg8_FNxHATtLwDceyh72QQL9pvpQ)
-- [ ] [3D Computer Vision | National University of Singapore](https://www.youtube.com/watch?v=LAHQ_qIzNGU&list=PLxg0CGqViygP47ERvqHw_v7FVnUovJeaz)
+- [ ] [3D Computer Vision : National University of Singapore](https://www.youtube.com/watch?v=LAHQ_qIzNGU&list=PLxg0CGqViygP47ERvqHw_v7FVnUovJeaz)
 - [ ] [3D computer vision: Perception and Robotic Group: University of Maryland](https://prg.cs.umd.edu/open-positions)
 
 
