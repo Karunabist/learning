@@ -15,11 +15,11 @@ A curated resources of computer vision resources, inspired by [awesome computer 
 
 ## Table Of Content
 - [PHD career](#phd-career)
-- [People working in computer Vision](#people-working-in-computer-vision)
-- [Computer Vision Datasets](#computer-vision-datasets)
-- [Books,Courses,Blogs,Tutorials and Talks](#books-courses-blogs-tutorials-and-talks)
-- [Computer Vision and Machine Learning Library](#computer-vision-and-machine-learning-library)
-- [Implemented Mathematics and Algorithms](#implemented-mathematics-and-algorithms)
+- [Peoples](#peoples)
+- [Datasets](#datasets)
+- [Knowledge Sources](#knowledge-sources)
+- [Libraries](#libraries)
+- [Implementation](#implementation)
 
 
 ## PHD career
@@ -27,17 +27,17 @@ A curated resources of computer vision resources, inspired by [awesome computer 
 - [X] [PHD career](https://github.com/MadanBaduwal/phd-career)
 
 
-## People working in computer Vision
+## Peoples
 
 - [X] [people working in computer vision](https://github.com/MadanBaduwal/people-in-computer-vision)
 
 
-## Computer Vision Datasets
+## Datasets
 
 - [ ] [computer vision datasets](https://www.computervisiondatasets.ml/)
 
 
-## Books,Courses,Blogs,Tutorials and Talks
+## Knowledge Sources
 
 ### Books
 
@@ -74,6 +74,9 @@ A curated resources of computer vision resources, inspired by [awesome computer 
 - [ ] Computer Vision, From 3D Reconstruction to Recognition - Silvio Savarese 2018
 
 ### Courses
+
+### Mathematics
+
 #### Machine Learning
 - [ ] [Andrage Karpathy](https://www.youtube.com/watch?v=VMj-3S1tku0)
 
@@ -82,18 +85,43 @@ A curated resources of computer vision resources, inspired by [awesome computer 
 - [ ] [3D Computer Vision : National University of Singapore](https://www.youtube.com/watch?v=LAHQ_qIzNGU&list=PLxg0CGqViygP47ERvqHw_v7FVnUovJeaz)
 - [ ] [3D computer vision: Perception and Robotic Group: University of Maryland](https://prg.cs.umd.edu/open-positions)
 
+### Blogs
 
-## Computer Vision and Machine Learning Library
+### Mathematics
 
 ### Machine Learning
+
+### Computer Vision
+
+## Tutorials
+
+### MAthematics
+
+### Computer Vision
+
+## Talks
+
+### Mathematics
+
+### Machine Learning
+
+### Computer Vision
+
+
+## Libraries
+
+### Mathematics
 - [ ] Numpy
+
+### Machine Learning
+
 - [ ] Sklearn
 
 ### Computer Vision
 - [ ] Opencv
 
 
-## Implemented Mathematics and Algorithms
+## Implementation
 
 #### Mathematics
 
