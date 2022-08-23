@@ -89,6 +89,7 @@ A curated resources of computer vision resources, inspired by [awesome computer 
 - [X]  [Deep Learning in Computer Vision HSE University]()
 - [ ] [3D Computer Vision : National University of Singapore](https://www.youtube.com/watch?v=LAHQ_qIzNGU&list=PLxg0CGqViygP47ERvqHw_v7FVnUovJeaz)
 - [ ] [3D computer vision: Perception and Robotic Group: University of Maryland](https://prg.cs.umd.edu/open-positions)
+- [ ] [Audio-Visual Learning](https://gewu-lab.github.io/awesome-audiovisual-learning/)
 
 ### Blogs
 
