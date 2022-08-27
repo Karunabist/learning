@@ -5,6 +5,9 @@
 
 
 A curated resources of computer vision resources, inspired by [awesome computer vision](https://github.com/jbhuang0604/awesome-computer-vision), [learning](https://github.com/amitness/learning).
+## Learning
+
+[T-shape Skills](https://en.wikipedia.org/wiki/T-shaped_skills), [Adjacet Learning](http://www.effectiveengineer.com/blog/master-adjacent-disciplines), [Everyday](https://jamesclear.com/continuous-improvement)
 
 ## Table Of Content
 - [PHD career](#phd-career)
@@ -28,8 +31,9 @@ A curated resources of computer vision resources, inspired by [awesome computer 
      * Engineering
      * Computer Science(Computer vision and machine learning)
 
+<details>
+<summary>PHD career</summary>
 
-## PHD career
 ### Cold Email
 - [X] [My note on cold-email](https://github.com/MadanBaduwal/journals-and-conferences/blob/main/cold-email.md)
 - [X] [University of California Berkely](https://research.berkeley.edu/how-cold-email-professor)
@@ -59,21 +63,43 @@ A curated resources of computer vision resources, inspired by [awesome computer 
 - [X] [Resurchify](https://www.resurchify.com/impact/category/Computer-Vision-and-Pattern-Recognition)
 - [X] [Research](https://research.com/conference-rankings/computer-science/computer-vision)
 
-## Peoples
+</details>
+
+<details>
+<summary>Peoples</summary>
+     
 - [X] [People working in Artificial Intelligance](https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:artificial_intelligence)
 - [X] [People working in Machine Learning](https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:machine_learning)
 - [X] [people working in computer vision my note](https://madanbaduwal.github.io/people-in-computer-vision/) and [scholar](https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:computer_vision)
 
+</details>
 
-## Vision Problems and Datasets
+<details>
+<summary>Vision Problems and Datasets</summary>
 
 ### Vision Problems
 - [X] [vision problems my note](https://www.computervisiondatasets.ml/)
 - [X] [Wikipedia](https://en.wikipedia.org/wiki/Computer_vision#Typical_tasks)
 ### Vision Datasets
 - [X] [vision datasets my note](https://www.computervisiondatasets.ml/)
+- [X] [kaggle](https://www.kaggle.com/datasets?search=image)
+- [X] [paperswithcode](https://paperswithcode.com/datasets)
+- [X] [Jbhuang](https://github.com/jbhuang0604/awesome-computer-vision#datasets)
+- [X] [cvpapers datasets](http://www.cvpapers.com/datasets.html)
+- [X] [rodrigob](http://rodrigob.github.io/are_we_there_yet/build/)
+- [X] [yacvid]([http://yacvid.hayko.at/)
+- [X] [computervisiononline](https://computervisiononline.com/)
+- [X] [CVonline: Databases](https://homepages.inf.ed.ac.uk/cgi/rbf/CVONLINE/entries.pl?TAG363)
+- [X] [Computer Vision Datasets](http://clickdamage.com/sourcecode/cv_datasets.php)
+- [X] [datasets](http://datasets.visionbib.com/info-index.html)
+- [X] [visualdata](https://visualdata.io/discovery)
+- [X] [tensorflow](https://www.tensorflow.org/datasets/catalog/overview)
 
-## Knowledge Sources
+</details>
+
+<details>
+<summary>Knowledge Sources</summary>
+     
 ### Englsih
 - [X] [Google News](https://news.google.com/)
 - [X] [Rich Dad Poor Dad](http://www.lequydonhanoi.edu.vn/upload_images/S%C3%A1ch%20ngo%E1%BA%A1i%20ng%E1%BB%AF/Rich%20Dad%20Poor%20Dad.pdf)
@@ -88,7 +114,10 @@ A curated resources of computer vision resources, inspired by [awesome computer 
 - [X] [Mathematics of Machine Learning](https://www.tivadardanka.com/blog)
 - [X] [TED](https://www.ted.com/talks/marcus_du_sautoy_symmetry_reality_s_riddle?referrer=playlist-math_talks_to_blow_your_mind&autoplay=true)
 
-### Computer Science
+
+     
+
+### Computer Science     
 #### Machine Learning
 - [X] [Andrage Karpathy](https://www.youtube.com/watch?v=VMj-3S1tku0)
 - [X] [Stanford CS229: Machine Learning Full Course taught by Andrew Ng | Autumn 2018](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
@@ -142,9 +171,14 @@ A curated resources of computer vision resources, inspired by [awesome computer 
 
 
 ### Implementation
+
+
+     
 - [X] [mathematics](https://madanbaduwal.github.io/mathematics/)
 - [X] [Machine Learning](https://github.com/MadanBaduwal/ML-algorithms)
 - [X] [computer-vision-algorithms](https://madanbaduwal.github.io/computer-vision-algorithms/categories/)
 - [X] [problem based computer vision algorithms](https://madanbaduwal.github.io/problem-based-computer-vision-algorithms/)
+
+</details>
 
 
