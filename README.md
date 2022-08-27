@@ -1,6 +1,8 @@
 # computer vision 👀 resources
 
-![Computer vision and intersection](https://raw.githubusercontent.com/MadanBaduwal/computer-vision-resources/main/computer_vision_and_intersection.png)
+<img class="zoom" src="https://raw.githubusercontent.com/MadanBaduwal/computer-vision-resources/main/computer_vision_and_intersection.png" width="400" 
+     height="300">
+
 
 Computer Vision in 
 * English
