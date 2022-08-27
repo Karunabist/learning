@@ -119,7 +119,24 @@ A curated resources of computer vision resources, inspired by [awesome computer 
 - [ ] [ Article: Interview Guide to Probability Distributions](https://medium.com/acing-ai/interview-guide-to-probability-distributions-a6dfb08c3766)
 - [ ] [ Article: Introduction to Linear Algebra for Applied Machine Learning with Python](https://pabloinsente.github.io/intro-linear-algebra)
 - [ ] [ Article: Entropy of a probability distribution — in layman’s terms](https://ajitrajasekharan.medium.com/entropy-of-a-probability-distribution-explained-in-laymans-terms-8a4139b329bc)
-- [ ] [
+- [ ] [ Article: KL Divergence — in layman’s terms](https://ajitrajasekharan.medium.com/what-is-kl-divergence-d1fb7921ee5b)
+- [ ] [ Article: Probability Distributions](https://www.simonwardjones.co.uk/posts/probability_distributions/)
+- [ ] [ Article: Relearning Matrices as Linear Functions](https://www.dhruvonmath.com/2018/12/31/matrices/)
+- [ ] [ Article: You Could Have Come Up With Eigenvectors - Here's How](https://www.dhruvonmath.com/2019/02/25/eigenvectors/)
+- [ ] [ Article: PageRank - How Eigenvectors Power the Algorithm Behind Google Search](https://www.dhruvonmath.com/2019/03/20/pagerank/)
+- [ ] [ Article: Interactive Visualization of Why Eigenvectors Matter](https://www.dhruvonmath.com/2020/07/26/who-cares-about-eigenvectors/)
+- [ ] [  Article: Math You Need to Succeed In ML Interviews](https://towardsdatascience.com/math-you-need-to-succeed-in-ml-interviews-9e717d61f296)
+- [ ] [ Book: Basics of Linear Algebra for Machine Learning](https://machinelearningmastery.com/linear_algebra_for_machine_learning/)
+- [ ] [ Datacamp: Introduction to Statistics](https://www.datacamp.com/courses/introduction-to-statistics)
+- [ ] [ Datacamp: Introduction to Statistics in Python](https://www.datacamp.com/courses/introduction-to-statistics-in-python)
+- [ ] [ Datacamp: Foundations of Probability in Python](https://www.datacamp.com/courses/foundations-of-probability-in-python)
+- [ ] [ Datacamp: Hypothesis Testing in Python](https://app.datacamp.com/learn/courses/hypothesis-testing-in-python)
+- [ ] [ Datacamp: Statistical Thinking in Python (Part 1)](https://app.datacamp.com/learn/courses/statistical-thinking-in-python-part-1)
+- [ ] [ Datacamp: Statistical Thinking in Python (Part 2)](https://app.datacamp.com/learn/courses/statistical-thinking-in-python-part-2)  
+     
+     
+     
+     
 ### Computer Science  
 
 #### Data Structure and Algorithms
