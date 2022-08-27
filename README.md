@@ -75,7 +75,7 @@ A curated resources of computer vision resources, inspired by [awesome computer 
 
 ### Courses and Tutorials
 
-### Mathematics
+#### Mathematics
 - [X] [Essentials Mathematics for machine learning](https://www.youtube.com/results?search_query=mathematics+for+machine+learning+)
 - [X] [Mathematics for Machine Leaning Linear Algebra](https://www.youtube.com/watch?v=T73ldK46JqE&list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3)
 
@@ -93,10 +93,13 @@ A curated resources of computer vision resources, inspired by [awesome computer 
 
 ### Blogs
 
-### Mathematics
+#### English
+- [X] [Google News](https://news.google.com/)
+
+#### Mathematics
 - [X] [Mathematics of Machine Learning](https://www.tivadardanka.com/blog)
 
-### Machine Learning
+#### Machine Learning
 - [X] [KD nuggets](https://www.kdnuggets.com/tag/machine-learning)
 - [ ] [Machine Learning from Google Developer](https://developers.google.com/machine-learning/crash-course/ml-intro)
 - [ ] [Distill](https://distill.pub/)
@@ -104,36 +107,36 @@ A curated resources of computer vision resources, inspired by [awesome computer 
 - [ ] [PyImageSearch](https://pyimagesearch.com/blog/)
 - [ ] [O’Reilly](https://www.oreilly.com/radar/topics/ai-ml/)
 
-### Computer Vision
+#### Computer Vision
 - [X] [KD nuggets](https://www.kdnuggets.com/tag/computer-vision)
 
 
-## Talks
+### Talks
 
-### Mathematics
+#### Mathematics
 - [X] [TED](https://www.ted.com/talks/marcus_du_sautoy_symmetry_reality_s_riddle?referrer=playlist-math_talks_to_blow_your_mind&autoplay=true)
 
-### Machine Learning
+#### Machine Learning
 
 - [X] [TED](https://www.ted.com/topics/machine+learning)
 
-### Computer Vision
+#### Computer Vision
 
 
-## Libraries
+### Libraries
 
-### Mathematics
+#### Mathematics
 - [ ] Numpy
 
-### Machine Learning
+#### Machine Learning
 
 - [ ] Sklearn
 
-### Computer Vision
+#### Computer Vision
 - [ ] Opencv
 
 
-## Implementation
+### Implementation
 
 #### Mathematics
 - [ ] [mathematics](https://madanbaduwal.github.io/mathematics/)
