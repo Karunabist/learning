@@ -117,7 +117,10 @@ A curated resources of computer vision resources, inspired by [awesome computer 
 
      
 
-### Computer Science     
+### Computer Science  
+
+#### Data Structure and Algorithms
+     
 #### Machine Learning
 - [X] [Andrage Karpathy](https://www.youtube.com/watch?v=VMj-3S1tku0)
 - [X] [Stanford CS229: Machine Learning Full Course taught by Andrew Ng | Autumn 2018](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
