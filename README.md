@@ -4,15 +4,6 @@
      height="400" align="center">
 
 
-Computer Vision in 
-* English
-* Mathematic 
-* Physics
-* Chemistry
-* Biology
-* Engineering
-* Computer Science(Computer vision and machine learning)
-
 A curated resources of computer vision resources, inspired by [awesome computer vision](https://github.com/jbhuang0604/awesome-computer-vision), [learning](https://github.com/amitness/learning).
 
 ## Table Of Content
@@ -20,7 +11,14 @@ A curated resources of computer vision resources, inspired by [awesome computer 
 - [Peoples](#peoples)
 - [Datasets](#datasets)
 - [Knowledge Sources](#knowledge-sources)
-- [Libraries](#libraries)
+     * English
+     * Mathematic 
+     * Physics
+     * Chemistry
+     * Biology
+     * Engineering
+     * Computer Science(Computer vision and machine learning)
+- [Libraries](#programming-and-libraries)
 - [Implementation](#implementation)
 
 
@@ -31,7 +29,7 @@ A curated resources of computer vision resources, inspired by [awesome computer 
 
 ## Peoples
 
-- [X] [people working in computer vision](https://github.com/MadanBaduwal/people-in-computer-vision)
+- [X] [people working in computer vision](https://madanbaduwal.github.io/people-in-computer-vision/)
 
 
 ## Datasets
@@ -42,6 +40,9 @@ A curated resources of computer vision resources, inspired by [awesome computer 
 ## Knowledge Sources
 
 ### Books
+
+#### English
+- [X] [Rich Dad Poor Dad](http://www.lequydonhanoi.edu.vn/upload_images/S%C3%A1ch%20ngo%E1%BA%A1i%20ng%E1%BB%AF/Rich%20Dad%20Poor%20Dad.pdf)
 
 #### Mathematics
 - [X] [Introduction to Linear Algebra, Fifth Edition (2016)- Gilbert Strang](https://math.mit.edu/~gs/linearalgebra/)
@@ -125,31 +126,34 @@ A curated resources of computer vision resources, inspired by [awesome computer 
 #### Computer Vision
 
 
-### Libraries
+### Programming and Libraries
+
+[Python](https://docs.python.org/3/)
 
 #### Mathematics
-- [ ] Numpy
+- [X] [Numpy](https://numpy.org/doc/)
 
-#### Machine Learning
+#### Machine Learning and deep learning
 
-- [ ] Sklearn
+- [X] [Sklearn](https://scikit-learn.org/stable/)
+- [X] [Ptorch](https://pytorch.org/docs/stable/index.html)
 
 #### Computer Vision
-- [ ] Opencv
+- [X] [Opencv](https://docs.opencv.org/4.x/)
 
 
 ### Implementation
 
 #### Mathematics
-- [ ] [mathematics](https://madanbaduwal.github.io/mathematics/)
+- [X] [mathematics](https://madanbaduwal.github.io/mathematics/)
 
 #### Machine Learning
-- [ ] [Machine Learning](https://github.com/MadanBaduwal/ML-algorithms)
+- [X] [Machine Learning](https://github.com/MadanBaduwal/ML-algorithms)
 
 #### computer vision algorithms
-- [ ] [computer-vision-algorithms](https://madanbaduwal.github.io/computer-vision-algorithms/categories/)
+- [X] [computer-vision-algorithms](https://madanbaduwal.github.io/computer-vision-algorithms/categories/)
 
 #### problem based computer vision algorithms 
-- [ ] [problem based computer vision algorithms](https://madanbaduwal.github.io/problem-based-computer-vision-algorithms/)
+- [X] [problem based computer vision algorithms](https://madanbaduwal.github.io/problem-based-computer-vision-algorithms/)
 
 
