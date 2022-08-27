@@ -164,6 +164,9 @@ A curated resources of computer vision resources, inspired by [awesome computer 
 #### Programming and Libraries
 
 - [X] [Python](https://docs.python.org/3/)
+- [X] [My note on code convention](https://github.com/MadanBaduwal/python-project-structure/blob/main/code-convention.md)
+- [X] [My note in MLOPS](https://github.com/MadanBaduwal/python-project-structure/blob/main/mlops.md)
+- [X] [My note on issues face on python project](https://github.com/MadanBaduwal/python-project-structure/blob/main/error-and-issues.md)
 - [X] [Numpy](https://numpy.org/doc/)
 - [X] [Sklearn](https://scikit-learn.org/stable/)
 - [X] [Ptorch](https://pytorch.org/docs/stable/index.html)
