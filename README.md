@@ -29,7 +29,8 @@ A curated resources of computer vision resources, inspired by [awesome computer 
 ## PHD career
 ### Cold Email
 - [X] [My note on cold-email](https://github.com/MadanBaduwal/journals-and-conferences/blob/main/cold-email.md)
-
+- [X] [University of California Berkely](https://research.berkeley.edu/how-cold-email-professor)
+- [X] [University of California Santa Cruz](https://ugr.ue.ucsc.edu/email)
 ### Paper Reading
 - [X] [My note on paper-reading](https://github.com/MadanBaduwal/phd-career/blob/main/paper-reading.md)
  
