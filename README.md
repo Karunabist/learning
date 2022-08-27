@@ -16,7 +16,9 @@ A curated resources of computer vision resources, inspired by [awesome computer 
      * Artificial Intelligance
      * Machine Learning
      * Computer Vision
-- [Datasets](#datasets)
+- [Vision Problems and Datasets](#vision-problems-and-datasets)
+    - Vision Problems
+    - Datasets
 - [Knowledge Sources](#knowledge-sources)
      * English
      * Mathematic 
@@ -63,10 +65,13 @@ A curated resources of computer vision resources, inspired by [awesome computer 
 - [X] [people working in computer vision my note](https://madanbaduwal.github.io/people-in-computer-vision/) and [scholar](https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:computer_vision)
 
 
-## Datasets
+## Vision Problems and Datasets
 
-- [X] [computer vision datasets](https://www.computervisiondatasets.ml/)
+### Vision Problems
+- [X] [vision problems my note](https://www.computervisiondatasets.ml/)
 
+### Vision Datasets
+- [X] [vision datasets my note](https://www.computervisiondatasets.ml/)
 
 ## Knowledge Sources
 ### Englsih
