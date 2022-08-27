@@ -8,11 +8,12 @@ A curated resources of computer vision resources, inspired by [awesome computer 
 
 ## Table Of Content
 - [PHD career](#phd-career)
-     * [Cold-mail](###cold-email)
+     * Cold-mail
      * paper-reading
      * paper-writting
      * journal and conference
 - [Peoples](#peoples)
+     * Artificial Intelligance
      * Machine Learning
      * Computer Vision
 - [Datasets](#datasets)
@@ -32,18 +33,34 @@ A curated resources of computer vision resources, inspired by [awesome computer 
 - [X] [University of California Berkely](https://research.berkeley.edu/how-cold-email-professor)
 - [X] [University of California Santa Cruz](https://ugr.ue.ucsc.edu/email)
 ### Paper Reading
-- [X] [My note on paper-reading](https://github.com/MadanBaduwal/phd-career/blob/main/paper-reading.md)
- 
+- [X] [How to read paper my note](https://github.com/MadanBaduwal/phd-career/blob/main/paper-reading.md)
+- [X] [How to Read a Paper stanford](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
+- [X] [How to Read a Paper Hardvard](https://www.eecs.harvard.edu/~michaelm/postscripts/ReadPaper.pdf)
+- [X] [How to read a Paper Freecodecamp](https://www.freecodecamp.org/news/building-a-habit-of-reading-research-papers/)
+- [X] [Arxiv](https://arxiv.org/list/cs.CV/new)
+- [X] [CVF](https://openaccess.thecvf.com/menu)
+- [X] [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0,5&q=%22computer+vision%22&scisbd=1)
+
 ### Paper Writing
-- [X] [paper-writting](https://github.com/MadanBaduwal/journals-and-conferences/blob/main/paper-writting.md)
+- [X] [How to write paper my note](https://github.com/MadanBaduwal/journals-and-conferences/blob/main/paper-writting.md)
+- [X] [Uiversity of Wisconsin Madison](https://writing.wisc.edu/handbook/assignments/planresearchpaper/)
+- [X] [Purdue University](https://owl.purdue.edu/owl/general_writing/common_writing_assignments/research_papers/index.html)
+- [X] [Postdam University New York](https://www.potsdam.edu/sites/default/files/documents/support/tutoring/cwc/6-Simple-Steps-for-Writing-a-Research-Paper.pdf)
+- [X] [aresearchguide](https://www.aresearchguide.com/1steps.html)
+- [X] [wikihow](https://www.wikihow.com/Write-a-Research-Paper)
+- [X] [TheBestSchools](https://thebestschools.org/resources/how-to-write-research-paper/)
 
 ### Journals and Conferences
-- [X] [Journals and Conferences](https://github.com/MadanBaduwal/phd-career/blob/main/journals-and-conferences.md)
 
+- [X] [Google Scholar](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_computervisionpatternrecognition)
+- [X] [SJR](https://www.scimagojr.com/journalrank.php?category=1707)
+- [X] [Resurchify](https://www.resurchify.com/impact/category/Computer-Vision-and-Pattern-Recognition)
+- [X] [Research](https://research.com/conference-rankings/computer-science/computer-vision)
 
 ## Peoples
-
-- [X] [people working in computer vision](https://madanbaduwal.github.io/people-in-computer-vision/)
+- [X] [People working in Artificial Intelligance](https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:artificial_intelligence)
+- [X] [People working in Machine Learning](https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:machine_learning)
+- [X] [people working in computer vision my note](https://madanbaduwal.github.io/people-in-computer-vision/) and [scholar](https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:computer_vision)
 
 
 ## Datasets
