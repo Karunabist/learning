@@ -69,7 +69,7 @@ A curated resources of computer vision resources, inspired by [awesome computer 
 
 ### Vision Problems
 - [X] [vision problems my note](https://www.computervisiondatasets.ml/)
-
+- [X] [Wikipedia](https://en.wikipedia.org/wiki/Computer_vision#Typical_tasks)
 ### Vision Datasets
 - [X] [vision datasets my note](https://www.computervisiondatasets.ml/)
 
