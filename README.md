@@ -14,10 +14,10 @@ A curated resources of computer vision resources, inspired by [awesome computer 
 
 ### Journals and Conferences
 
-- [X] [Google Scholar](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_computervisionpatternrecognition)
-- [X] [SJR](https://www.scimagojr.com/journalrank.php?category=1707)
-- [X] [Resurchify](https://www.resurchify.com/impact/category/Computer-Vision-and-Pattern-Recognition)
-- [X] [Research](https://research.com/conference-rankings/computer-science/computer-vision)
+- [X] [List from Google Scholar](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_computervisionpatternrecognition)
+- [X] [List from SJR](https://www.scimagojr.com/journalrank.php?category=1707)
+- [X] [List from Resurchify](https://www.resurchify.com/impact/category/Computer-Vision-and-Pattern-Recognition)
+- [X] [List from Research](https://research.com/conference-rankings/computer-science/computer-vision)
 
 
 ### Paper Writing
@@ -34,6 +34,8 @@ A curated resources of computer vision resources, inspired by [awesome computer 
 - [X] [How to Read a Paper stanford](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
 - [X] [How to Read a Paper Hardvard](https://www.eecs.harvard.edu/~michaelm/postscripts/ReadPaper.pdf)
 - [X] [How to read a Paper Freecodecamp](https://www.freecodecamp.org/news/building-a-habit-of-reading-research-papers/)
+	
+#### Daily paper reading
 - [X] [Arxiv](https://arxiv.org/list/cs.CV/new)
 - [X] [CVF](https://openaccess.thecvf.com/menu)
 - [X] [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0,5&q=%22computer+vision%22&scisbd=1)
@@ -81,8 +83,24 @@ A curated resources of computer vision resources, inspired by [awesome computer 
 <details>
 <summary>Englsih</summary>
 	
+### Daily news and blogs	
 - [X] [Google News](https://news.google.com/)
+
+	
+	
+### Gre
+- [X] [magoosh-gre-1000-words_oct01](https://s3.amazonaws.com/magoosh.resources/magoosh-gre-1000-words_oct01.pdf)
+- [X] [PDF of Greg Mat's Words Groups 1-27 with pictures!! (Thanks Liju and Khalil)](https://drive.google.com/file/d/1Ux9VWn5-nJJqmw4_I1UkwUybY8eDQnBv/view)
+- [X] [GregMat Recommended Resources](https://www.gregmat.com/recommended-resources)
+- [X] [Magoosh 1000 Word GRE Study List](https://quizlet.com/470527785/magoosh-1000-word-gre-study-list-flash-cards/?x=1jqt)
+- [X] [Vocab-ebook-2.5-2019](https://magoosh.com/gre/files/2019/08/Vocab-ebook-2.5-2019.pdf)
+
+### TOEFL
+
+### Books
 - [X] [Rich Dad Poor Dad](http://www.lequydonhanoi.edu.vn/upload_images/S%C3%A1ch%20ngo%E1%BA%A1i%20ng%E1%BB%AF/Rich%20Dad%20Poor%20Dad.pdf)
+
+
 #### Have basic business understanding
 - [X] [Book: Delivering Happiness](https://www.amazon.com/Delivering-Happiness-Profits-Passion-Purpose/dp/0446576220)
 - [X] [Book: Good to Great: Why Some Companies Make the Leap...And Others Don't](https://www.amazon.com/Good-Great-Some-Companies-Others-ebook/dp/B0058DRUV6)
@@ -168,6 +186,13 @@ Forward Pass and Backward Pass
 - [X] [Linear Regression from scratch(Gradient Prespective): Geeksforgeeks](https://www.geeksforgeeks.org/linear-regression-implementation-from-scratch-using-python/#:~:text=Linear%20Regression%20is%20a%20supervised,the%20given%20input%20value%20x.)
 - [X] [Linear Regression from scratch(Variance and Covariance prespective): Machine Learning Mastery](https://machinelearningmastery.com/implement-simple-linear-regression-scratch-python/)
 - [X] [Linear Regression from scratch(Variance and Covariance prespective): toward datascience blog](https://medium.com/@lope.ai/linear-regression-from-scratch-in-python-6bdae2ea3610)
+- [X] [Logistic Regression from scratch(Gradient Prespective): Geeksforgeeks](https://www.geeksforgeeks.org/implementation-of-logistic-regression-from-scratch-using-python/)
+- [X] [Logistic Regression(Gradient Prespective): Toward Datascience blog](https://www.analyticsvidhya.com/blog/2022/02/implementing-logistic-regression-from-scratch-using-python/)
+- [X] [Logistic Regression from scratch(Gradient Prespective): IBM blog](https://developer.ibm.com/articles/implementing-logistic-regression-from-scratch-in-python/)
+- [X] [Support Vector Machine(Gradient Prespective): Toward Datascience Blog](https://towardsdatascience.com/implementing-svm-from-scratch-784e4ad0bc6a)
+- [X] [Support Vector Machine(Gradient Prespective): Toward Datascience Blog](https://towardsdatascience.com/svm-implementation-from-scratch-python-2db2fc52e5c2)
+- [X] [Support Vector Machine(Gradient Prespective): Toward Datascience Blog](https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47)
+- [X] [Support Vector Machine(Gradient Prespective): Machine Learning Mastry](https://machinelearningmastery.com/method-of-lagrange-multipliers-the-theory-behind-support-vector-machines-part-3-implementing-an-svm-from-scratch-in-python/)
 - [X] [Andrage Karpathy](https://www.youtube.com/watch?v=VMj-3S1tku0)
 - [X] [Stanford CS229: Machine Learning Full Course taught by Andrew Ng | Autumn 2018](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 - [X] [The hundred-page machine learning book - Burkov, Andriy](https://b-ok.asia/book/3710356/c8880d)
