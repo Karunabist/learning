@@ -9,43 +9,16 @@ A curated resources of computer vision resources, inspired by [awesome computer 
 
 [T-shape Skills](https://en.wikipedia.org/wiki/T-shaped_skills), [Adjacet Learning](http://www.effectiveengineer.com/blog/master-adjacent-disciplines), [Everyday](https://jamesclear.com/continuous-improvement)
 
-## Table Of Content
-- [PHD career](#phd-career)
-     * Cold-mail
-     * paper-reading
-     * paper-writting
-     * journal and conference
-- [Peoples](#peoples)
-     * Artificial Intelligance
-     * Machine Learning
-     * Computer Vision
-- [Vision Problems and Datasets](#vision-problems-and-datasets)
-    - Vision Problems
-    - Datasets
-- [Knowledge Sources](#knowledge-sources)
-     * English
-     * Mathematic 
-     * Physics
-     * Chemistry
-     * Biology
-     * Engineering
-     * Computer Science(Computer vision and machine learning)
-
 <details>
 <summary>PHD career</summary>
 
-### Cold Email
-- [X] [My note on cold-email](https://github.com/MadanBaduwal/journals-and-conferences/blob/main/cold-email.md)
-- [X] [University of California Berkely](https://research.berkeley.edu/how-cold-email-professor)
-- [X] [University of California Santa Cruz](https://ugr.ue.ucsc.edu/email)
-### Paper Reading
-- [X] [How to read paper my note](https://github.com/MadanBaduwal/phd-career/blob/main/paper-reading.md)
-- [X] [How to Read a Paper stanford](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
-- [X] [How to Read a Paper Hardvard](https://www.eecs.harvard.edu/~michaelm/postscripts/ReadPaper.pdf)
-- [X] [How to read a Paper Freecodecamp](https://www.freecodecamp.org/news/building-a-habit-of-reading-research-papers/)
-- [X] [Arxiv](https://arxiv.org/list/cs.CV/new)
-- [X] [CVF](https://openaccess.thecvf.com/menu)
-- [X] [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0,5&q=%22computer+vision%22&scisbd=1)
+### Journals and Conferences
+
+- [X] [Google Scholar](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_computervisionpatternrecognition)
+- [X] [SJR](https://www.scimagojr.com/journalrank.php?category=1707)
+- [X] [Resurchify](https://www.resurchify.com/impact/category/Computer-Vision-and-Pattern-Recognition)
+- [X] [Research](https://research.com/conference-rankings/computer-science/computer-vision)
+
 
 ### Paper Writing
 - [X] [How to write paper my note](https://github.com/MadanBaduwal/journals-and-conferences/blob/main/paper-writting.md)
@@ -56,13 +29,21 @@ A curated resources of computer vision resources, inspired by [awesome computer 
 - [X] [wikihow](https://www.wikihow.com/Write-a-Research-Paper)
 - [X] [TheBestSchools](https://thebestschools.org/resources/how-to-write-research-paper/)
 
-### Journals and Conferences
-
-- [X] [Google Scholar](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_computervisionpatternrecognition)
-- [X] [SJR](https://www.scimagojr.com/journalrank.php?category=1707)
-- [X] [Resurchify](https://www.resurchify.com/impact/category/Computer-Vision-and-Pattern-Recognition)
-- [X] [Research](https://research.com/conference-rankings/computer-science/computer-vision)
-
+### Paper Reading
+- [X] [How to read paper my note](https://github.com/MadanBaduwal/phd-career/blob/main/paper-reading.md)
+- [X] [How to Read a Paper stanford](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
+- [X] [How to Read a Paper Hardvard](https://www.eecs.harvard.edu/~michaelm/postscripts/ReadPaper.pdf)
+- [X] [How to read a Paper Freecodecamp](https://www.freecodecamp.org/news/building-a-habit-of-reading-research-papers/)
+- [X] [Arxiv](https://arxiv.org/list/cs.CV/new)
+- [X] [CVF](https://openaccess.thecvf.com/menu)
+- [X] [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0,5&q=%22computer+vision%22&scisbd=1)
+	
+### Cold Email
+- [X] [My note on cold-email](https://github.com/MadanBaduwal/journals-and-conferences/blob/main/cold-email.md)
+- [X] [University of California Berkely](https://research.berkeley.edu/how-cold-email-professor)
+- [X] [University of California Santa Cruz](https://ugr.ue.ucsc.edu/email)	
+	
+	
 </details>
 
 <details>
@@ -98,9 +79,8 @@ A curated resources of computer vision resources, inspired by [awesome computer 
 </details>
 
 <details>
-<summary>Knowledge Sources</summary>
-     
-### Englsih
+<summary>Englsih</summary>
+	
 - [X] [Google News](https://news.google.com/)
 - [X] [Rich Dad Poor Dad](http://www.lequydonhanoi.edu.vn/upload_images/S%C3%A1ch%20ngo%E1%BA%A1i%20ng%E1%BB%AF/Rich%20Dad%20Poor%20Dad.pdf)
 #### Have basic business understanding
@@ -122,8 +102,11 @@ A curated resources of computer vision resources, inspired by [awesome computer 
 - [ ] [Udacity: App Marketing](https://www.udacity.com/course/app-marketing--ud719)
 - [ ] [Udacity: How to Build a Startup](https://www.udacity.com/course/how-to-build-a-startup--ep245)
 
+</details>
 
-### Mathematics
+<details>
+<summary>Mathematics</summary>
+
 - [X] [Gilbart Strang Video Series Spring 2005](https://www.youtube.com/watch?v=hNDFwVVKVk0&list=PLEAYkSg4uSQ1-bul680xs3oaCwI90yZHb)
 - [ ] [Introduction to Linear Algebra, Fifth Edition (2016)- Gilbert Strang](https://math.mit.edu/~gs/linearalgebra/)
 - [ ] [Linear Algebra and Its Applications - Gilbert Strang 1995](https://mobt3ath.com/uplode/books/book-34702.pdf)
@@ -165,8 +148,11 @@ A curated resources of computer vision resources, inspired by [awesome computer 
 - [ ] [ Udacity: Statistics](https://www.udacity.com/course/statistics--st095)    
 - [ ] [ Udacity: Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)     
 - [ ] [ Udacity: Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)     
-     
-### Computer Science  
+</details>
+
+<details>
+<summary>Computer Science  </summary>
+
 
 #### Data Structure and Algorithms
 - [X] [Article: Asymptotic Analysis Explained with Pokémon: A Deep Dive into Complexity Analysis](https://www.freecodecamp.org/news/asymptotic-analysis-explained-with-pokemon-a-deep-dive-into-complexity-analysis-8bf4396804e0/)
