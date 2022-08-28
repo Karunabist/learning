@@ -203,6 +203,7 @@ Forward Pass and Backward Pass
 - [X] [Naive Bayes: Implementing Naïve Bayes Classification from Scratch with Python: Medium](https://blog.devgenius.io/implementing-na%C3%AFve-bayes-classification-from-scratch-with-python-badd5a9be9c3)
 - [X] [Naive Bayes: Implementing Naive Bayes Algorithm from Scratch — Python: Medium](https://towardsdatascience.com/implementing-naive-bayes-algorithm-from-scratch-python-c6880cfc9c41)
 - [X] [Naive Bayes: Naïve Bayes Algorithm -Implementation from scratch in Python: Medium](https://medium.com/@rangavamsi5/na%C3%AFve-bayes-algorithm-implementation-from-scratch-in-python-7b2cc39268b9)
+- [X] [Random Forest: Medium](https://towardsdatascience.com/master-machine-learning-random-forest-from-scratch-with-python-3efdd51b6d7a)
 - [X] [Andrage Karpathy](https://www.youtube.com/watch?v=VMj-3S1tku0)
 - [X] [Stanford CS229: Machine Learning Full Course taught by Andrew Ng | Autumn 2018](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 - [X] [The hundred-page machine learning book - Burkov, Andriy](https://b-ok.asia/book/3710356/c8880d)
