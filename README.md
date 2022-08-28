@@ -1,10 +1,10 @@
 # Awesome Learning 👀 
 
-<img class="zoom" src="https://raw.githubusercontent.com/MadanBaduwal/computer-vision-resources/main/computer_vision_and_intersection.png" width="500" 
-     height="400" align="center">
+|  | |
+| ----- | -----|
+| ![](https://raw.githubusercontent.com/MadanBaduwal/computer-vision-resources/main/computer_vision_and_intersection.png) | A curated resources of computer vision resources, inspired by [awesome computer vision](https://github.com/jbhuang0604/awesome-computer-vision), [learning](https://github.com/amitness/learning),[aman.ai](https://aman.ai/),[Vinija.ai](https://vinija.ai/). With [T-shape Skills](https://en.wikipedia.org/wiki/T-shaped_skills), [Adjacet Learning](http://www.effectiveengineer.com/blog/master-adjacent-disciplines), [Everyday](https://jamesclear.com/continuous-improvement) Learning. |
 
 
-A curated resources of computer vision resources, inspired by [awesome computer vision](https://github.com/jbhuang0604/awesome-computer-vision), [learning](https://github.com/amitness/learning),[aman.ai](https://aman.ai/),[Vinija.ai](https://vinija.ai/). With [T-shape Skills](https://en.wikipedia.org/wiki/T-shaped_skills), [Adjacet Learning](http://www.effectiveengineer.com/blog/master-adjacent-disciplines), [Everyday](https://jamesclear.com/continuous-improvement) Learning.
 
 -------------------------
 
