@@ -4,7 +4,7 @@
      height="400" align="center">
 
 
-A curated resources of computer vision resources, inspired by [awesome computer vision](https://github.com/jbhuang0604/awesome-computer-vision), [learning](https://github.com/amitness/learning).
+A curated resources of computer vision resources, inspired by [awesome computer vision](https://github.com/jbhuang0604/awesome-computer-vision), [learning](https://github.com/amitness/learning),[aman.ai](https://aman.ai/),[Vinija.ai](https://vinija.ai/).
 ## Learning
 
 [T-shape Skills](https://en.wikipedia.org/wiki/T-shaped_skills), [Adjacet Learning](http://www.effectiveengineer.com/blog/master-adjacent-disciplines), [Everyday](https://jamesclear.com/continuous-improvement)
@@ -204,6 +204,10 @@ Forward Pass and Backward Pass
 - [X] [Naive Bayes: Implementing Naive Bayes Algorithm from Scratch — Python: Medium](https://towardsdatascience.com/implementing-naive-bayes-algorithm-from-scratch-python-c6880cfc9c41)
 - [X] [Naive Bayes: Naïve Bayes Algorithm -Implementation from scratch in Python: Medium](https://medium.com/@rangavamsi5/na%C3%AFve-bayes-algorithm-implementation-from-scratch-in-python-7b2cc39268b9)
 - [X] [Random Forest: Medium](https://towardsdatascience.com/master-machine-learning-random-forest-from-scratch-with-python-3efdd51b6d7a)
+- [X] [Random Forest: Building a Random Forest from Scratch & Understanding Real-World Data Products (ML for Programmers – Part 3)](https://www.analyticsvidhya.com/blog/2018/12/building-a-random-forest-from-scratch-understanding-real-world-data-products-ml-for-programmers-part-3/)
+- [X] [Random Forest:Random Forests From Scratch](https://carbonati.github.io/posts/random-forests-from-scratch/)
+- [X] [Random Forest: Build Random Forest from scratch](https://insidelearningmachines.com/build-a-random-forest-in-python/)
+	
 - [X] [Andrage Karpathy](https://www.youtube.com/watch?v=VMj-3S1tku0)
 - [X] [Stanford CS229: Machine Learning Full Course taught by Andrew Ng | Autumn 2018](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 - [X] [The hundred-page machine learning book - Burkov, Andriy](https://b-ok.asia/book/3710356/c8880d)
