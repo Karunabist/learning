@@ -966,6 +966,12 @@ Forward Pass and Backward Pass
 - [X] [How to Read a Paper Hardvard](https://www.eecs.harvard.edu/~michaelm/postscripts/ReadPaper.pdf)
 - [X] [How to read a Paper Freecodecamp](https://www.freecodecamp.org/news/building-a-habit-of-reading-research-papers/)
 
+Daily paper reading
+
+1. [arxiv](https://arxiv.org/list/cs.CV/new)
+2. [CVF](https://openaccess.thecvf.com/menu)
+3. [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0,5&q=%22computer+vision%22&scisbd=1)
+
 
 # Paper Writing
 - [X] [How to write paper my note](https://github.com/MadanBaduwal/journals-and-conferences/blob/main/paper-writting.md)
@@ -987,6 +993,12 @@ Forward Pass and Backward Pass
 - [X] [How to present a line plot?](https://twitter.com/jbhuang0604/status/1506101759911116809)
 - [X] [How to prepare your presentation slides?](https://twitter.com/jbhuang0604/status/1397058827405742085)
 - [X] [How to organize your talk?](https://twitter.com/jbhuang0604/status/1509033327981965313)
+
+# Journals and Conferences
+- [X] [List from Google Scholar](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_computervisionpatternrecognition)
+- [X] [List from SJR](https://www.scimagojr.com/journalrank.php?category=1707)
+- [X] [List from Resurchify](https://www.resurchify.com/impact/category/Computer-Vision-and-Pattern-Recognition)
+- [X] [List from Research](https://research.com/conference-rankings/computer-science/computer-vision)
 
 
 # Research
@@ -1020,12 +1032,6 @@ Forward Pass and Backward Pass
 - [X] [How to write good cold emails?](cold-emails.md)
 - [X] [How do I get professors to answer my emails?](https://twitter.com/jbhuang0604/status/1441548826645602309)
 
-# Journals and Conferences
-
-- [X] [List from Google Scholar](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_computervisionpatternrecognition)
-- [X] [List from SJR](https://www.scimagojr.com/journalrank.php?category=1707)
-- [X] [List from Resurchify](https://www.resurchify.com/impact/category/Computer-Vision-and-Pattern-Recognition)
-- [X] [List from Research](https://research.com/conference-rankings/computer-science/computer-vision)
 
 # Communication
 - [X] [How to disseminate your research?](https://twitter.com/jbhuang0604/status/1379448897823776769)
