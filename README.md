@@ -1,4 +1,4 @@
-# Awesome Learning 👀 
+# Learning 👀 
 
 <table width="100%">
   <tr>
