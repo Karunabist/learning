@@ -2,9 +2,9 @@
 
 <table width="100%">
   <tr>
-  <td width="80%"><img src="https://raw.githubusercontent.com/MadanBaduwal/computer-vision-resources/main/computer_vision_and_intersection.png" alt="Italian Trulli">
+  <td width="70%"><img src="https://raw.githubusercontent.com/MadanBaduwal/computer-vision-resources/main/computer_vision_and_intersection.png" alt="Italian Trulli">
 </td>
-  <td width="20%">A curated resources of computer vision resources, inspired by <a href="https://github.com/jbhuang0604/awesome-computer-vision">awesome computer vision</a>, <a href="https://github.com/amitness/learning">learning</a>,<a href="https://aman.ai/">aman.ai</a>,<a href="https://vinija.ai/">Vinija.ai</a>. With <a href="https://en.wikipedia.org/wiki/T-shaped_skills".T-shape Skills</a>, <a href="http://www.effectiveengineer.com/blog/master-adjacent-disciplines">Adjacet Learning</a>, <a href="https://jamesclear.com/continuous-improvement">Everyday</a> Learning.</td>
+  <td width="30%">A curated resources of computer vision resources, inspired by <a href="https://github.com/jbhuang0604/awesome-computer-vision">awesome computer vision</a>, <a href="https://github.com/amitness/learning">learning</a>,<a href="https://aman.ai/">aman.ai</a>,<a href="https://vinija.ai/">Vinija.ai</a>. With <a href="https://en.wikipedia.org/wiki/T-shaped_skills".T-shape Skills</a>, <a href="http://www.effectiveengineer.com/blog/master-adjacent-disciplines">Adjacet Learning</a>, <a href="https://jamesclear.com/continuous-improvement">Everyday</a> Learning.</td>
   </tr>
 </table>
 
