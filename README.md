@@ -4,10 +4,9 @@
      height="400" align="center">
 
 
-A curated resources of computer vision resources, inspired by [awesome computer vision](https://github.com/jbhuang0604/awesome-computer-vision), [learning](https://github.com/amitness/learning),[aman.ai](https://aman.ai/),[Vinija.ai](https://vinija.ai/).
-# Learning
+A curated resources of computer vision resources, inspired by [awesome computer vision](https://github.com/jbhuang0604/awesome-computer-vision), [learning](https://github.com/amitness/learning),[aman.ai](https://aman.ai/),[Vinija.ai](https://vinija.ai/). With [T-shape Skills](https://en.wikipedia.org/wiki/T-shaped_skills), [Adjacet Learning](http://www.effectiveengineer.com/blog/master-adjacent-disciplines), [Everyday](https://jamesclear.com/continuous-improvement) Learning.
 
-[T-shape Skills](https://en.wikipedia.org/wiki/T-shaped_skills), [Adjacet Learning](http://www.effectiveengineer.com/blog/master-adjacent-disciplines), [Everyday](https://jamesclear.com/continuous-improvement)
+-------------------------
 
 <details>
 <summary>PHD career</summary>
@@ -21,20 +20,20 @@ A curated resources of computer vision resources, inspired by [awesome computer 
 
 
 # Communication
-- [How to disseminate your research?](https://twitter.com/jbhuang0604/status/1379448897823776769)
-- [How to ask research questions?](https://twitter.com/jbhuang0604/status/1472808608874352641)
-- [How to make a research poster?](https://twitter.com/jbhuang0604/status/1438948793718804486)
-- [How to improve asynchronous communication?](https://twitter.com/jbhuang0604/status/1515912622721355781)
-- [How to communicate clearly?](https://twitter.com/jbhuang0604/status/1520615196498214913)
-- [How to set up a good calendar invite?](https://twitter.com/jbhuang0604/status/1528566229505650691)
+- [X] [How to disseminate your research?](https://twitter.com/jbhuang0604/status/1379448897823776769)
+- [X] [How to ask research questions?](https://twitter.com/jbhuang0604/status/1472808608874352641)
+- [X] [How to make a research poster?](https://twitter.com/jbhuang0604/status/1438948793718804486)
+- [X] [How to improve asynchronous communication?](https://twitter.com/jbhuang0604/status/1515912622721355781)
+- [X] [How to communicate clearly?](https://twitter.com/jbhuang0604/status/1520615196498214913)
+- [X] [How to set up a good calendar invite?](https://twitter.com/jbhuang0604/status/1528566229505650691)
 
 # Presentation
-- [How to start a presentation?](https://twitter.com/jbhuang0604/status/1548882661581754370)
-- [How to end a presentation?](https://twitter.com/jbhuang0604/status/1549959041908150275)
-- [How to handle questions in a presentation?](https://twitter.com/jbhuang0604/status/1553583984948531205)
-- [How to present a line plot?](https://twitter.com/jbhuang0604/status/1506101759911116809)
-- [How to prepare your presentation slides?](https://twitter.com/jbhuang0604/status/1397058827405742085)
-- [How to organize your talk?](https://twitter.com/jbhuang0604/status/1509033327981965313)
+- [X] [How to start a presentation?](https://twitter.com/jbhuang0604/status/1548882661581754370)
+- [X] [How to end a presentation?](https://twitter.com/jbhuang0604/status/1549959041908150275)
+- [X] [How to handle questions in a presentation?](https://twitter.com/jbhuang0604/status/1553583984948531205)
+- [X] [How to present a line plot?](https://twitter.com/jbhuang0604/status/1506101759911116809)
+- [X] [How to prepare your presentation slides?](https://twitter.com/jbhuang0604/status/1397058827405742085)
+- [X] [How to organize your talk?](https://twitter.com/jbhuang0604/status/1509033327981965313)
 
 
 # Paper Writing
@@ -44,11 +43,11 @@ A curated resources of computer vision resources, inspired by [awesome computer 
 - [X] [aresearchguide](https://www.aresearchguide.com/1steps.html)
 - [X] [wikihow](https://www.wikihow.com/Write-a-Research-Paper)
 - [X] [TheBestSchools](https://thebestschools.org/resources/how-to-write-research-paper/)
-- [How to write papers that are easy to read?](paper-writing.md)
-- [How to write a paper that looks like a good one?](https://twitter.com/jbhuang0604/status/1437443017510621185)
-- [How to write clear and concise sentences?](https://twitter.com/jbhuang0604/status/1437931004451250176)
-- [How to write a good related work section?](related-work.md)
-- [How to prepare journal response letter?](https://twitter.com/jbhuang0604/status/1387148974377865219)
+- [X] [How to write papers that are easy to read?](paper-writing.md)
+- [X] [How to write a paper that looks like a good one?](https://twitter.com/jbhuang0604/status/1437443017510621185)
+- [X] [How to write clear and concise sentences?](https://twitter.com/jbhuang0604/status/1437931004451250176)
+- [X] [How to write a good related work section?](related-work.md)
+- [X] [How to prepare journal response letter?](https://twitter.com/jbhuang0604/status/1387148974377865219)
 
 # Paper Reading
 - [X] [How to read paper my note](https://github.com/MadanBaduwal/phd-career/blob/main/paper-reading.md)
@@ -59,38 +58,38 @@ A curated resources of computer vision resources, inspired by [awesome computer 
 
 
 # Research
-- [How to make steady research progress?](steady-progress.md)
-- [How to share progress with your mentors/collaborators?](https://twitter.com/jbhuang0604/status/1453378296608137229)
-- [How to work with my mentors effectively?](working-with-mentor.md)
-- [How to keep track of literature?](https://twitter.com/jbhuang0604/status/1426039195542360070)
-- [How to come up with research ideas?](https://twitter.com/jbhuang0604/status/1423499757591400448)
-- [How to cope with paper rejection?](https://twitter.com/jbhuang0604/status/1443248831102136333)
-- [How to work with your advisor?](https://twitter.com/jbhuang0604/status/1546361365778022400)
-- [How to work with your senior advisor?](https://twitter.com/jbhuang0604/status/1563740402657775618)
+- [X] [How to make steady research progress?](steady-progress.md)
+- [X] [How to share progress with your mentors/collaborators?](https://twitter.com/jbhuang0604/status/1453378296608137229)
+- [X] [How to work with my mentors effectively?](working-with-mentor.md)
+- [X] [How to keep track of literature?](https://twitter.com/jbhuang0604/status/1426039195542360070)
+- [X] [How to come up with research ideas?](https://twitter.com/jbhuang0604/status/1423499757591400448)
+- [X] [How to cope with paper rejection?](https://twitter.com/jbhuang0604/status/1443248831102136333)
+- [X] [How to work with your advisor?](https://twitter.com/jbhuang0604/status/1546361365778022400)
+- [X] [How to work with your senior advisor?](https://twitter.com/jbhuang0604/status/1563740402657775618)
 
 # Career
-- [How to prepare your Curriculum Vitae?](https://twitter.com/jbhuang0604/status/1433651068282540033)
-- [How to find a research internship?](https://twitter.com/jbhuang0604/status/1438337355031719941)
-- [How to intern?](https://twitter.com/jbhuang0604/status/1505734716657438724)
-- [How to prepare graduate school interview?](https://twitter.com/jbhuang0604/status/1482238901595127808)
-- [How to improve graduate application after submission?](https://twitter.com/jbhuang0604/status/1472410988322377732)
-- [How do I maximize my chance for PhD programs?](https://twitter.com/jbhuang0604/status/1425204888301150208)
-- [How to ask for a letter of recommendation?](https://twitter.com/jbhuang0604/status/1522072974068703233)
-- [How to survive the first year of PhD?](https://twitter.com/jbhuang0604/status/1523505108318924802)
-- [How to get a tenure-track faculty job?](https://twitter.com/jbhuang0604/status/1533302893364789257)
+- [X] [How to prepare your Curriculum Vitae?](https://twitter.com/jbhuang0604/status/1433651068282540033)
+- [X] [How to find a research internship?](https://twitter.com/jbhuang0604/status/1438337355031719941)
+- [X] [How to intern?](https://twitter.com/jbhuang0604/status/1505734716657438724)
+- [X] [How to prepare graduate school interview?](https://twitter.com/jbhuang0604/status/1482238901595127808)
+- [X] [How to improve graduate application after submission?](https://twitter.com/jbhuang0604/status/1472410988322377732)
+- [X] [How do I maximize my chance for PhD programs?](https://twitter.com/jbhuang0604/status/1425204888301150208)
+- [X] [How to ask for a letter of recommendation?](https://twitter.com/jbhuang0604/status/1522072974068703233)
+- [X] [How to survive the first year of PhD?](https://twitter.com/jbhuang0604/status/1523505108318924802)
+- [X] [How to get a tenure-track faculty job?](https://twitter.com/jbhuang0604/status/1533302893364789257)
 
 # Productivity
-- [How to manage your time?](https://twitter.com/jbhuang0604/status/1430003911037947904)
-- [How to be productive?](https://twitter.com/jbhuang0604/status/1430003911037947904)
+- [X] [How to manage your time?](https://twitter.com/jbhuang0604/status/1430003911037947904)
+- [X] [How to be productive?](https://twitter.com/jbhuang0604/status/1430003911037947904)
 
 # Networking
-- [How to network in a in-person conference?](https://twitter.com/jbhuang0604/status/1517352789780934656)
-- [How to network in a virtual conference?](https://twitter.com/jbhuang0604/status/1446692346800873477)
-- [How to write good cold emails?](cold-emails.md)
-- [How do I get professors to answer my emails?](https://twitter.com/jbhuang0604/status/1441548826645602309)
+- [X] [How to network in a in-person conference?](https://twitter.com/jbhuang0604/status/1517352789780934656)
+- [X] [How to network in a virtual conference?](https://twitter.com/jbhuang0604/status/1446692346800873477)
+- [X] [How to write good cold emails?](cold-emails.md)
+- [X] [How do I get professors to answer my emails?](https://twitter.com/jbhuang0604/status/1441548826645602309)
 
 # Financial
-- [How to save for retirement as a graduate student (in the US)?](https://twitter.com/jbhuang0604/status/1510479669962940416)
+- [X] [How to save for retirement as a graduate student (in the US)?](https://twitter.com/jbhuang0604/status/1510479669962940416)
 
 # Write cold email
 - [X] [My note on cold-email](https://github.com/MadanBaduwal/journals-and-conferences/blob/main/cold-email.md)
