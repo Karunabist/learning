@@ -96,6 +96,7 @@ A curated resources of computer vision resources, inspired by [awesome computer 
 - [X] [Vocab-ebook-2.5-2019](https://magoosh.com/gre/files/2019/08/Vocab-ebook-2.5-2019.pdf)
 
 ### TOEFL
+- [X] [invensislearning](https://www.invensislearning.com/upskill/20-great-toefl-exam-resources)
 
 ### Books
 - [X] [Rich Dad Poor Dad](http://www.lequydonhanoi.edu.vn/upload_images/S%C3%A1ch%20ngo%E1%BA%A1i%20ng%E1%BB%AF/Rich%20Dad%20Poor%20Dad.pdf)
@@ -193,6 +194,15 @@ Forward Pass and Backward Pass
 - [X] [Support Vector Machine(Gradient Prespective): Toward Datascience Blog](https://towardsdatascience.com/svm-implementation-from-scratch-python-2db2fc52e5c2)
 - [X] [Support Vector Machine(Gradient Prespective): Toward Datascience Blog](https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47)
 - [X] [Support Vector Machine(Gradient Prespective): Machine Learning Mastry](https://machinelearningmastery.com/method-of-lagrange-multipliers-the-theory-behind-support-vector-machines-part-3-implementing-an-svm-from-scratch-in-python/)
+- [X] [Decision tree: How to program a decision tree in Python from 0](https://anderfernandez.com/en/blog/code-decision-tree-python-from-scratch/)
+- [X] [Decision tree: Decision tree from scratch: Machine Learning Mastry](https://machinelearningmastery.com/implement-decision-tree-algorithm-scratch-python/)
+- [X] [Decision tree: All About Decision Tree from Scratch with Python Implementation: Analytics Vidhya](https://www.analyticsvidhya.com/blog/2020/10/all-about-decision-tree-from-scratch-with-python-implementation/)
+- [X] [Decision tree: Building a Decision Tree from Scratch in Python | Machine Learning from Scratch (Part III): Toward Datascience](https://levelup.gitconnected.com/building-a-decision-tree-from-scratch-in-python-machine-learning-from-scratch-part-ii-6e2e56265b19)
+- [X] [Naive Bayes: ML | Naive Bayes Scratch Implementation using Python: Geeksforgeeks](https://www.geeksforgeeks.org/ml-naive-bayes-scratch-implementation-using-python/)
+- [X] [Naive Bayes: Naive Bayes from scratch python: Machine Learning Mastry](https://machinelearningmastery.com/naive-bayes-classifier-scratch-python/)
+- [X] [Naive Bayes: Implementing Naïve Bayes Classification from Scratch with Python: Medium](https://blog.devgenius.io/implementing-na%C3%AFve-bayes-classification-from-scratch-with-python-badd5a9be9c3)
+- [X] [Naive Bayes: Implementing Naive Bayes Algorithm from Scratch — Python: Medium](https://towardsdatascience.com/implementing-naive-bayes-algorithm-from-scratch-python-c6880cfc9c41)
+- [X] [Naive Bayes: Naïve Bayes Algorithm -Implementation from scratch in Python: Medium](https://medium.com/@rangavamsi5/na%C3%AFve-bayes-algorithm-implementation-from-scratch-in-python-7b2cc39268b9)
 - [X] [Andrage Karpathy](https://www.youtube.com/watch?v=VMj-3S1tku0)
 - [X] [Stanford CS229: Machine Learning Full Course taught by Andrew Ng | Autumn 2018](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 - [X] [The hundred-page machine learning book - Burkov, Andriy](https://b-ok.asia/book/3710356/c8880d)
