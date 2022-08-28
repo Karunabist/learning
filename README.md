@@ -18,6 +18,8 @@ A curated resources of computer vision resources, inspired by [awesome computer 
 - [X] [List from SJR](https://www.scimagojr.com/journalrank.php?category=1707)
 - [X] [List from Resurchify](https://www.resurchify.com/impact/category/Computer-Vision-and-Pattern-Recognition)
 - [X] [List from Research](https://research.com/conference-rankings/computer-science/computer-vision)
+
+
 # Communication
 - [How to disseminate your research?](https://twitter.com/jbhuang0604/status/1379448897823776769)
 - [How to ask research questions?](https://twitter.com/jbhuang0604/status/1472808608874352641)
@@ -36,10 +38,7 @@ A curated resources of computer vision resources, inspired by [awesome computer 
 
 
 # Paper Writing
-- [X] [How to write paper my note](https://github.com/MadanBaduwal/journals-and-conferences/blob/main/paper-writting.md)
-- [X] [Uiversity of Wisconsin Madison](https://writing.wisc.edu/handbook/assignments/planresearchpaper/)
-- [X] [Purdue University](https://owl.purdue.edu/owl/general_writing/common_writing_assignments/research_papers/index.html)
-- [X] [Postdam University New York](https://www.potsdam.edu/sites/default/files/documents/support/tutoring/cwc/6-Simple-Steps-for-Writing-a-Research-Paper.pdf)
+@@ -28,6 +43,11 @@ A curated resources of computer vision resources, inspired by [awesome computer
 - [X] [aresearchguide](https://www.aresearchguide.com/1steps.html)
 - [X] [wikihow](https://www.wikihow.com/Write-a-Research-Paper)
 - [X] [TheBestSchools](https://thebestschools.org/resources/how-to-write-research-paper/)
@@ -51,19 +50,11 @@ A curated resources of computer vision resources, inspired by [awesome computer 
 
 # Paper Reading
 - [X] [How to read paper my note](https://github.com/MadanBaduwal/phd-career/blob/main/paper-reading.md)
-- [X] [How to Read a Paper stanford](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
-- [X] [How to Read a Paper Hardvard](https://www.eecs.harvard.edu/~michaelm/postscripts/ReadPaper.pdf)
-- [X] [How to read a Paper Freecodecamp](https://www.freecodecamp.org/news/building-a-habit-of-reading-research-papers/)
-	
-## Daily paper reading
-- [X] [Arxiv](https://arxiv.org/list/cs.CV/new)
-- [X] [CVF](https://openaccess.thecvf.com/menu)
-- [X] [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0,5&q=%22computer+vision%22&scisbd=1)
-	
-# Cold Email
+@@ -44,7 +64,45 @@ A curated resources of computer vision resources, inspired by [awesome computer
 - [X] [My note on cold-email](https://github.com/MadanBaduwal/journals-and-conferences/blob/main/cold-email.md)
 - [X] [University of California Berkely](https://research.berkeley.edu/how-cold-email-professor)
 - [X] [University of California Santa Cruz](https://ugr.ue.ucsc.edu/email)	
+
 
 # Research
 - [How to make steady research progress?](steady-progress.md)
@@ -98,11 +89,7 @@ A curated resources of computer vision resources, inspired by [awesome computer 
 
 # Financial
 - [How to save for retirement as a graduate student (in the US)?](https://twitter.com/jbhuang0604/status/1510479669962940416)
-
-
-
-
-
+	
 	
 </details>
 
@@ -147,7 +134,19 @@ A curated resources of computer vision resources, inspired by [awesome computer 
 # Daily news and blogs	
 - [X] [Google News](https://news.google.com/)
 
+# Englsih Basic
+## Phonology
+- [X] [My note on phonology](https://colab.research.google.com/drive/1p8--pbceik_zlp_Mwc8bJpx_dNzNTxUD?usp=sharing)
+- [X] [American English Phonetic Symbols](https://koreatesol.org/sites/default/files/EClinic-%20Phonetic%20Symbols.pdf)	
+- [X] [The 44* Phonemes](https://www.boardman.k12.oh.us/userfiles/363/Phonological%20Awareness/44Phonemes.pdf)
+## Grammer
+- [X] [My note on grammer](https://colab.research.google.com/drive/1_z4bJJy3MWq0GHh9mK3DyuiKjgA14E71?usp=sharing)
+- [X] [ENGLISH GRAMMAR IN USE Raymond Murphy](https://corsidilaurea.uniroma1.it/sites/default/files/english_grammar_in_use_intermediate_2019_5th-ed.pdf)
+## Vocabulary
+- [X] [My note on vocabulary](https://drive.google.com/drive/folders/18yRZM1sSNAs1PAbCmCHeSOEDvMgyEYGT?usp=sharing)
 	
+## Writting
+- [X] [My note on writting](https://drive.google.com/drive/folders/1-qPhvWNKctaNBjH9shw-JBEiC76-cGJr?usp=sharing)
 	
 # Gre
 - [X] [magoosh-gre-1000-words_oct01](https://s3.amazonaws.com/magoosh.resources/magoosh-gre-1000-words_oct01.pdf)
@@ -235,6 +234,7 @@ A curated resources of computer vision resources, inspired by [awesome computer 
 
 # Programming and Libraries
 
+## Python
 - [X] [Python](https://docs.python.org/3/)
 - [X] [Article: A reverse chronology of some Python features](https://snarky.ca/a-reverse-chronology-of-some-python-features/)
 - [ ] [Article: No Really, Python's Pathlib is Great](https://rednafi.github.io/digressions/python/2020/04/13/python-pathlib.html)
@@ -278,10 +278,43 @@ A curated resources of computer vision resources, inspired by [awesome computer 
 - [X] [My note on code convention](https://github.com/MadanBaduwal/python-project-structure/blob/main/code-convention.md)
 - [X] [My note in MLOPS](https://github.com/MadanBaduwal/python-project-structure/blob/main/mlops.md)
 - [X] [My note on issues face on python project](https://github.com/MadanBaduwal/python-project-structure/blob/main/error-and-issues.md)
+	
+## Machine Learning and Deep Learning
 - [X] [Numpy](https://numpy.org/doc/)
 - [X] [Sklearn](https://scikit-learn.org/stable/)
 - [X] [Ptorch](https://pytorch.org/docs/stable/index.html)
+- [ ] [REXMEX](https://rexmex.readthedocs.io/en/latest/)
+## Computer Vision
 - [X] [Opencv](https://docs.opencv.org/4.x/)
+- [ ] [Scikit-Image](https://github.com/scikit-image/scikit-image)
+- [ ] [Scikit-Opt](https://github.com/guofei9987/scikit-opt)
+- [ ] [SimpleCV ](http://simplecv.org/)
+- [ ] [Vigranumpy](https://github.com/ukoethe/vigra)
+- [ ] [OpenFace ](https://cmusatyalab.github.io/openface/)
+- [ ] [PCV](https://github.com/jesolem/PCV)
+- [ ] [face_recognition ](https://github.com/ageitgey/face_recognition)
+- [ ] [deepface ](https://github.com/serengil/deepface)
+- [ ] [retinaface](https://github.com/serengil/retinaface)
+- [ ] [dockerface](https://github.com/natanielruiz/dockerface)
+- [ ] [Detectron ](https://github.com/facebookresearch/Detectron)
+- [ ] [detectron2](https://github.com/facebookresearch/detectron2)
+- [ ] [albumentations ](https://github.com/albumentations-team/albumentations)
+- [ ] [pytessarct](https://github.com/madmaze/pytesseract)
+- [ ] [imutils ](https://github.com/PyImageSearch/imutils)
+- [ ] [PyTorchCV](https://github.com/donnyyou/PyTorchCV)
+- [ ] [neural-style-pt](https://github.com/ProGamerGov/neural-style-pt)
+- [ ] [Detecto ](https://github.com/alankbi/detecto)
+- [ ] [neural-dream](https://github.com/ProGamerGov/neural-dream)
+- [ ] [Openpose ](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
+- [ ] [Deep High-Resolution-Net](https://github.com/josephmisiti/awesome-machine-learning#python-computer-vision)
+- [ ] [dream-creator](https://github.com/ProGamerGov/dream-creator)
+- [ ] [Lucent](https://github.com/greentfrapp/lucent)
+- [ ] [lightly](https://github.com/lightly-ai/lightly)
+- [ ] [Learnergy](https://github.com/gugarosa/learnergy)
+- [ ] [OpenVisionAPI ](https://github.com/openvisionapi)
+- [ ] [IoT Owl ](https://github.com/Ret2Me/IoT-Owl)
+- [ ] [Exadel CompreFace ](https://github.com/exadel-inc/CompreFace)
+- [ ] [computer-vision-in-action ](https://github.com/Charmve/computer-vision-in-action)
 	
 # Data Structure and Algorithms
 - [X] [Article: Asymptotic Analysis Explained with Pokémon: A Deep Dive into Complexity Analysis](https://www.freecodecamp.org/news/asymptotic-analysis-explained-with-pokemon-a-deep-dive-into-complexity-analysis-8bf4396804e0/)
