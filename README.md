@@ -172,8 +172,57 @@ A curated resources of computer vision resources, inspired by [awesome computer 
 <details>
 <summary>Computer Science  </summary>
 
+# Programming and Libraries
 
-#### Data Structure and Algorithms
+- [X] [Python](https://docs.python.org/3/)
+- [X] [Article: A reverse chronology of some Python features](https://snarky.ca/a-reverse-chronology-of-some-python-features/)
+- [ ] [Article: No Really, Python's Pathlib is Great](https://rednafi.github.io/digressions/python/2020/04/13/python-pathlib.html)
+- [ ] [Article: When to switch to Python 3.9](https://pythonspeed.com/articles/switch-python-3.9/)
+- [X] [Article: A deep dive on Python type hints](http://veekaybee.github.io/2019/07/08/python-type-hints/)
+- [X] [Article: I wish I knew these things when I learned Python](http://bugra.github.io/posts/2015/1/3/i-wish-i-knew-these-things-when-i-learned-python/)
+- [X] [Article: Python Concurrency: The Tricky Bits](https://python.hamel.dev/concurrency/)
+- [ ] [Article: The Complete Python Development Guide](https://testdriven.io/guides/complete-python/)
+- [ ] [Article: Speeding Up Python with Concurrency, Parallelism, and asyncio](https://testdriven.io/blog/concurrency-parallelism-asyncio/)
+- [ ] [Article: Speed Up Your Python Program With Concurrency](https://testdriven.io/blog/concurrency-parallelism-asyncio/)
+- [ ] [Article: A Python prompt into a running process: debugging with Manhole](https://pythonspeed.com/articles/live-debugging-python/)
+- [X] [Regex For Noobs (like me!) - An Illustrated Guide](https://www.janmeppe.com/blog/regex-for-noobs/)
+- [X] [Book: A Byte of Python](https://python.swaroopch.com)
+- [X] [Book: Learn Python The Hard way](https://learnpythonthehardway.org)
+- [ ] [Book: Python 201](https://leanpub.com/python201)
+- [ ] [Book: The Python 3 Standard Library By Example](https://doughellmann.com/blog/the-python-3-standard-library-by-example)
+- [ ] [Book: Writing Idiomatic Python 3](https://www.amazon.com/Writing-Idiomatic-Python-Jeff-Knupp-ebook/dp/B00B5VXMRG)
+- [X] [Calmcode: ray](https://calmcode.io/ray/introduction.html)
+- [X] [Codecademy: Learn Python](https://www.codecademy.com/learn/learn-python)
+- [X] [Cognitiveclass.ai: Python for Data Science](https://cognitiveclass.ai/courses/python-for-data-science)
+- [X] [Datacamp: Python for R Users](https://www.datacamp.com/courses/python-for-r-users)
+- [X] [Datacamp: Python for Spreadsheet Users](https://www.datacamp.com/courses/python-for-spreadsheet-users)
+- [X] [Datacamp: Importing Data in Python (Part 1)](https://www.datacamp.com/courses/importing-data-in-python-part-1)
+- [X] [Datacamp: Intermediate Python for Data Science](https://www.datacamp.com/courses/intermediate-python-for-data-science)
+- [X] [Datacamp: Python Data Science Toolbox (Part 1)](https://www.datacamp.com/courses/python-data-science-toolbox-part-1)
+- [X] [Datacamp: Python Data Science Toolbox (Part 2)](https://www.datacamp.com/courses/python-data-science-toolbox-part-2)
+- [X] [Datacamp: Intro to Python for Finance](https://www.datacamp.com/courses/intro-to-python-for-finance)
+- [X] [Datacamp: Writing Efficient Python Code](https://www.datacamp.com/courses/writing-efficient-python-code)
+- [X] [Datacamp: Writing Functions in Python](https://www.datacamp.com/courses/writing-functions-in-python)
+- [ ] [Datacamp: Working with Dates and Times in Python](https://www.datacamp.com/courses/working-with-dates-and-times-in-python)
+- [X] [edX: Introduction to Python for Data Science](https://www.edx.org/course/introduction-python-data-science-microsoft-dat208x-7)
+- [X] [edX: Programming with Python for Data Science](https://www.edx.org/course/programming-python-data-science-microsoft-dat210x-5)
+- [X] [Google's Python Class](https://developers.google.com/edu/python/)
+- [X] [Treehouse: Python Basics](https://teamtreehouse.com/library/python-basics)
+- [X] [TheNewBoston: Python Programming Tutorials](https://www.youtube.com/watch?v=4Mf0h3HphEA&list=PLEA1FEF17E1E5C0DA)
+- [X] [Youtube: Python 3 Programming Tutorial - Regular Expressions / Regex with re](https://www.youtube.com/watch?v=sZyAn2TW7GY)
+- [X] [Youtube: Python Tutorial: re Module - How to Write and Match Regular Expressions (Regex)](https://www.youtube.com/watch?v=K8L6KVGG-7o)
+- [ ] [Youtube: Python Concurrency and Multithreading](https://advanced-python.namespace.im/python-concurrency-and-multithreading/)
+- [ ] [Youtube: Aaron Richter- Parallel Processing in Python| PyData Global 2020](https://www.youtube.com/watch?v=eJyjB3cNIB0&feature=youtu.be)
+- [ ] [Youtube: The Clean Architecture in Python](https://www.youtube.com/watch?v=DJtef410XaM)
+- [X] [My note on code convention](https://github.com/MadanBaduwal/python-project-structure/blob/main/code-convention.md)
+- [X] [My note in MLOPS](https://github.com/MadanBaduwal/python-project-structure/blob/main/mlops.md)
+- [X] [My note on issues face on python project](https://github.com/MadanBaduwal/python-project-structure/blob/main/error-and-issues.md)
+- [X] [Numpy](https://numpy.org/doc/)
+- [X] [Sklearn](https://scikit-learn.org/stable/)
+- [X] [Ptorch](https://pytorch.org/docs/stable/index.html)
+- [X] [Opencv](https://docs.opencv.org/4.x/)
+	
+# Data Structure and Algorithms
 - [X] [Article: Asymptotic Analysis Explained with Pokémon: A Deep Dive into Complexity Analysis](https://www.freecodecamp.org/news/asymptotic-analysis-explained-with-pokemon-a-deep-dive-into-complexity-analysis-8bf4396804e0/)
 - [X] [Book: Grokking Algorithms](https://www.manning.com/books/grokking-algorithms) 
 - [X] [Codecademy: Big O](https://www.codecademy.com/courses/big-o/0/1 )
@@ -181,7 +230,7 @@ A curated resources of computer vision resources, inspired by [awesome computer 
 - [ ] [Udacity: Intro to Algorithms](https://www.udacity.com/course/intro-to-algorithms--cs215)
 - [ ] [Udacity: Programming Languages](https://www.udacity.com/course/programming-languages--cs262)
      
-#### Machine Learning
+# Machine Learning
 Notes:
 Forward Pass and Backward Pass
 - [X] [Linear Regression from scratch(Gradient Prespective): Geeksforgeeks](https://www.geeksforgeeks.org/linear-regression-implementation-from-scratch-using-python/#:~:text=Linear%20Regression%20is%20a%20supervised,the%20given%20input%20value%20x.)
@@ -190,6 +239,7 @@ Forward Pass and Backward Pass
 - [X] [Logistic Regression from scratch(Gradient Prespective): Geeksforgeeks](https://www.geeksforgeeks.org/implementation-of-logistic-regression-from-scratch-using-python/)
 - [X] [Logistic Regression(Gradient Prespective): Toward Datascience blog](https://www.analyticsvidhya.com/blog/2022/02/implementing-logistic-regression-from-scratch-using-python/)
 - [X] [Logistic Regression from scratch(Gradient Prespective): IBM blog](https://developer.ibm.com/articles/implementing-logistic-regression-from-scratch-in-python/)
+- [X] [Logistic: Logistic Regression](https://ml-cheatsheet.readthedocs.io/en/latest/logistic_regression.html)
 - [X] [Support Vector Machine(Gradient Prespective): Toward Datascience Blog](https://towardsdatascience.com/implementing-svm-from-scratch-784e4ad0bc6a)
 - [X] [Support Vector Machine(Gradient Prespective): Toward Datascience Blog](https://towardsdatascience.com/svm-implementation-from-scratch-python-2db2fc52e5c2)
 - [X] [Support Vector Machine(Gradient Prespective): Toward Datascience Blog](https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47)
@@ -207,6 +257,31 @@ Forward Pass and Backward Pass
 - [X] [Random Forest: Building a Random Forest from Scratch & Understanding Real-World Data Products (ML for Programmers – Part 3)](https://www.analyticsvidhya.com/blog/2018/12/building-a-random-forest-from-scratch-understanding-real-world-data-products-ml-for-programmers-part-3/)
 - [X] [Random Forest:Random Forests From Scratch](https://carbonati.github.io/posts/random-forests-from-scratch/)
 - [X] [Random Forest: Build Random Forest from scratch](https://insidelearningmachines.com/build-a-random-forest-in-python/)
+- [X] [Boosting: Gradient Boosting in Python from Scratch](https://towardsdatascience.com/gradient-boosting-in-python-from-scratch-788d1cf1ca7)
+- [X] [Boosting: dafriedman97](https://dafriedman97.github.io/mlbook/content/c6/s2/boosting.html)
+- [X] [Boosting: How to Build a Gradient Boosting Machine from Scratch](https://blog.mattbowers.dev/gradient-boosting-machine-from-scratch)
+- [X] [KNN: K-Nearest Neighbors from Scratch with Python](https://www.askpython.com/python/examples/k-nearest-neighbors-from-scratch)
+- [X] [KNN: Create a K-Nearest Neighbors Algorithm from Scratch in Python](https://towardsdatascience.com/create-your-own-k-nearest-neighbors-algorithm-in-python-eb7093fc6339)
+- [X] [KNN: Develop k-Nearest Neighbors in Python From Scratch](https://machinelearningmastery.com/tutorial-to-implement-k-nearest-neighbors-in-python-from-scratch/)
+- [X] [KNN: Implementing K Nearest Neighbors from scratch in Python](https://blog.devgenius.io/implementing-k-nearest-neighbors-from-scratch-in-python-d5eaaf558d49)
+- [X] [KNN: K-Nearest Neighbors (KNN) Algorithm in Python from Scratch](https://www.linkedin.com/pulse/k-nearest-neighbors-knn-algorithm-python-from-scratch-amit-kumar/)
+- [X] [K-Means Clustering: KMeans Clustering From Scratch](https://www.kaggle.com/code/adinishad/kmeans-clustering-from-scratch)
+- [X] [K-Means Clustering: Create a K-Means Clustering Algorithm from Scratch in Python](https://towardsdatascience.com/create-your-own-k-means-clustering-algorithm-in-python-d7d4c9077670)
+- [X] [K-Means Clustering: K-Means Clustering From Scratch in Python](https://www.askpython.com/python/examples/k-means-clustering-from-scratch)
+- [X] [K-Means Clusteing:K-means Clustering from Scratch in Python](https://medium.com/machine-learning-algorithms-from-scratch/k-means-clustering-from-scratch-in-python-1675d38eee42)
+- [X] [K-Means Clustering: K-Means Clustering Algorithm from Scratch](https://www.machinelearningplus.com/predictive-modeling/k-means-clustering/)
+- [X] [PCA: Principal Component Analysis from Scratch in Python](https://www.askpython.com/python/examples/principal-component-analysis)
+- [X] [PCA: Principal Component Analysis (PCA) from scratch in Python](https://towardsdatascience.com/principal-component-analysis-pca-from-scratch-in-python-7f3e2a540c51)
+- [X] [PCA: Machine Learning Mastry](https://machinelearningmastery.com/calculate-principal-component-analysis-scratch-python/)
+- [X] [PCA: Principal Component Analysis From Scratch in Python](https://medium.com/swlh/principal-component-analysis-from-scratch-in-python-2f139c6420c9)
+- [X] [PCA: PCA Implementation in Python](https://medium.com/geekculture/ca-pca-implementation-in-python-151fe466a4b4)
+- [X] [PCA: PCA (Principal Component Analysis) in Python - ML From Scratch 11](https://www.python-engineer.com/courses/mlfromscratch/11_pca/)
+- [X] [PCA: Principal Component Analysis (PCA) in Python Tutorial](https://www.datacamp.com/tutorial/principal-component-analysis-in-python)
+
+	
+- [X] [Machine Learning from Scratch](https://dafriedman97.github.io/mlbook/content/introduction.html)
+- [X] [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
+- [X] [Dive into Deep Learning](https://d2l.ai/)
 	
 - [X] [Andrage Karpathy](https://www.youtube.com/watch?v=VMj-3S1tku0)
 - [X] [Stanford CS229: Machine Learning Full Course taught by Andrew Ng | Autumn 2018](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
@@ -231,7 +306,7 @@ Forward Pass and Backward Pass
 - [ ] [ Article: A Visual Tour of Backpropagation](https://blog.jinay.dev/posts/backprop/)
 
 
-##### Be familiar with how ML is applied at other companies
+## Be familiar with how ML is applied at other companies
 - [X] [Article: How Facebook uses super-efficient AI models to detect hate speech](https://ai.facebook.com/blog/how-facebook-uses-super-efficient-ai-models-to-detect-hate-speech)
 - [X] [Article: Recent Advances in Google Translate](https://ai.googleblog.com/2020/06/recent-advances-in-google-translate.html)
 - [X] [Article: Cannes: How ML saves us $1.7M a year on document previews](https://dropbox.tech/machine-learning/cannes--how-ml-saves-us--1-7m-a-year-on-document-previews)
@@ -280,7 +355,7 @@ Forward Pass and Backward Pass
 - [X] [Youtube: Brandon Rohrer - Machine Learning in Production for Robots](https://www.youtube.com/watch?v=_Ot35PspXw4) `0:34:31`
 - [X] [Youtube: [CVPR'21 WAD] Keynote - Andrej Karpathy, Tesla](https://youtu.be/g6bOwQdCJrc)
 
-##### Be able to frame an ML problem
+## Be able to frame an ML problem
 - [X] [AWS: Types of Machine Learning Solutions](https://www.aws.training/learningobject/video?id=27224)
 - [X] [Article: Apply Machine Learning to your Business](https://theaisummer.com/Machine-Learning-Business/)
 - [X] [Article: Resilience and Vibrancy: The 2020 Data & AI Landscape](https://mattturck.com/data2020/)
@@ -319,7 +394,7 @@ Forward Pass and Backward Pass
 - [X] [Youtube: Building intuitions before building models](https://youtu.be/xNGI0B_Sn1E?list=LL)
 - [X] [Youtube: Recent Breakthroughs in AI with Andrej Karpathy and Lex Fridman](https://www.youtube.com/watch?v=Xl0xAJJqPfY)
 
-##### Be familiar with data ethics
+## Be familiar with data ethics
 - [X] [Article: How to Detect Bias in AI](https://www.maartengrootendorst.com/blog/bias/)
 - [X] [Netflix: Coded Bias](https://www.netflix.com/np/title/81328723)
 - [X] [Netflix: The Great Hack](https://www.netflix.com/np/title/80117542)
@@ -339,12 +414,12 @@ Forward Pass and Backward Pass
 - [ ] [Youtube: SE4AI: Security](https://www.youtube.com/watch?v=5ZdrNYvTmq8) `1:18:24`
 - [ ] [Youtube: SE4AI: Safety](https://www.youtube.com/watch?v=xRlFDXV3-8E) `1:17:37`
 
-##### Be able to import data from multiple sources
+## Be able to import data from multiple sources
 - [X] [Docs: Beautiful Soup Documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 - [X] [Datacamp: Importing Data in Python (Part 2)](https://www.datacamp.com/courses/importing-data-in-python-part-2)
 - [ ] [Datacamp: Web Scraping in Python](https://www.datacamp.com/courses/web-scraping-with-python)
 
-##### Be able to setup data annotation efficiently
+## Be able to setup data annotation efficiently
 - [X] [Article: Create A Synthetic Image Dataset — The “What”, The “Why” and The “How”](https://towardsdatascience.com/create-a-synthetic-image-dataset-the-what-the-why-and-the-how-f820e6b6f718)
 - [X] [Article: We need Synthetic Data](https://towardsdatascience.com/we-need-synthetic-data-e6f90a8532a4)
 - [X] [Article: Weak Supervision for Online Discussions](https://trishalaneeraj.github.io/2020-07-05/weak-supervision)
@@ -366,7 +441,7 @@ Forward Pass and Backward Pass
 - [X] [Youtube: SE4AI: Managing and Processing Large Datasets](https://www.youtube.com/watch?v=iPmQ5ezQNPY) `1:21:27`
 
 
-##### Be able to manipulate data with Numpy
+## Be able to manipulate data with Numpy
 - [X] [Article: A Visual Intro to NumPy and Data Representation](https://jalammar.github.io/visual-numpy/)
 - [X] [Article: Good practices with numpy random number generators](https://albertcthomas.github.io/good-practices-random-number-generators/)
 - [ ] [Article: NumPy Illustrated: The Visual Guide to NumPy](https://medium.com/better-programming/numpy-illustrated-the-visual-guide-to-numpy-3b1d4976de1d)
@@ -374,7 +449,7 @@ Forward Pass and Backward Pass
 - [X] [Datacamp: Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 - [X] [Pluralsight: Working with Multidimensional Data Using NumPy](https://www.pluralsight.com/courses/numpy-working-with-multidimensional-data)
 
-##### Be able to manipulate data with Pandas
+## Be able to manipulate data with Pandas
 - [X] [Article: Visualizing Pandas' Pivoting and Reshaping Functions](https://jalammar.github.io/visualizing-pandas-pivoting-and-reshaping/)
 - [X] [Article: A Gentle Visual Intro to Data Analysis in Python Using Pandas](https://jalammar.github.io/gentle-visual-intro-to-data-analysis-python-pandas/)
 - [X] [Article: Comprehensive Guide to Grouping and Aggregating with Pandas](https://pbpython.com/groupby-agg.html)
@@ -398,7 +473,7 @@ Forward Pass and Backward Pass
     - [X] [Modern Pandas (Part 7)](https://tomaugspurger.github.io/modern-7-timeseries.html)
     - [X] [Modern Pandas (Part 8)](https://tomaugspurger.github.io/modern-8-scaling.html)
 
-##### Be able to manipulate data in spreadsheets
+## Be able to manipulate data in spreadsheets
 - [X] [Datacamp: Spreadsheet basics](https://www.datacamp.com/courses/spreadsheet-basics)
 - [ ] [Datacamp: Data Analysis with Spreadsheets](https://www.datacamp.com/courses/data-analysis-with-spreadsheets)
 - [ ] [Datacamp: Intermediate Spreadsheets for Data Science](https://www.datacamp.com/courses/intermediate-spreadsheets-for-data-science)
@@ -412,7 +487,7 @@ Forward Pass and Backward Pass
 
 
 
-##### Be able to perform feature selection and engineering
+## Be able to perform feature selection and engineering
 - [X] [Article: Tips for Advanced Feature Engineering](https://www.maartengrootendorst.com/blog/feature-engineering/)
 - [ ] [Article: Preparing data for a machine learning model](https://www.jeremyjordan.me/preparing-data-for-a-machine-learning-model/)
 - [ ] [Article: Feature selection for a machine learning model](https://www.jeremyjordan.me/feature-selection/)
@@ -436,7 +511,7 @@ Forward Pass and Backward Pass
 - [X] [Youtube: Applied ML 2020 - 04 - Preprocessing](https://www.youtube.com/watch?v=XpOBSaktb6s) `1:07:40`
 - [X] [Youtube: Applied ML 2020 - 11 - Model Inspection and Feature Selection](https://www.youtube.com/watch?v=FDhyS6Xjxa8) `1:15:15`
 
-##### Be able to experiment in a notebook
+## Be able to experiment in a notebook
 - [X] [Article: Securely storing configuration credentials in a Jupyter Notebook](http://veekaybee.github.io/2020/02/25/secrets/)
 - [X] [Article: Automatically Reload Modules with %autoreload](https://switowski.com/blog/ipython-autoreload)
 - [ ] [Calmcode: ipywidgets](https://calmcode.io/ipywidgets/introduction.html)
@@ -449,7 +524,7 @@ Forward Pass and Backward Pass
 - [X] [Youtube: nbdev live coding with Hamel Husain](https://www.youtube.com/watch?v=ZJTop5uqC2U&feature=youtu.be)
 - [X] [Youtube: How to Use JupyterLab](https://www.youtube.com/watch?v=A5YyoCKxEOU&feature=emb_logo)
 
-##### Be able to visualize data
+## Be able to visualize data
 - [X] [Article: Creating a Catchier Word Cloud Presentation](https://towardsdatascience.com/creating-a-catchier-word-cloud-presentation-e17fa2c1ef46)
 - [X] [Article: Effectively Using Matplotlib](https://pbpython.com/effective-matplotlib.html)
 - [ ] [Article: Which color scale to use when visualizing data](https://blog.datawrapper.de/which-color-scale-to-use-in-data-vis/)
@@ -463,7 +538,7 @@ Forward Pass and Backward Pass
 - [ ] [Datacamp: Interactive Data Visualization with Bokeh](https://www.datacamp.com/courses/interactive-data-visualization-with-bokeh)
 - [X] [Youtube: Applied ML 2020 - 02 Visualization and matplotlib](https://www.youtube.com/watch?v=OW3oco7nlV4) `1:07:30`
 
-##### Be able to do literature review using research papers
+## Be able to do literature review using research papers
 - [X] [Paper: A Neural Probabilistic Language Model](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)
 - [ ] [Paper: Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/pdf/1301.3781.pdf)
 - [X] [Paper: Sequence to Sequence Learning with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
@@ -527,7 +602,7 @@ Forward Pass and Backward Pass
 
 
 
-##### Be able to version control data
+## Be able to version control data
 - [ ] [Youtube: DVC Basics](https://www.youtube.com/playlist?list=PL7WG7YrwYcnDb0qdPl9-KEStsL-3oaEjg)
 	- [X] [Versioning Data with DVC (Hands-On Tutorial!)](https://www.youtube.com/watch?v=kLKBcPonMYw) `0:13:04`
 	- [X] [Sharing Data and Models with DVC (Hands-On Data Science Tutorial!)](https://www.youtube.com/watch?v=EE7Gk84OZY8) `0:08:53`
@@ -536,7 +611,7 @@ Forward Pass and Backward Pass
 - [X] [Zoom: Data versioning with DVC Part 1](https://uniroma1.zoom.us/rec/share/74BYg5pKsplJLy4p-Yvo6g5bFa7eAEATwgqv5jzu6brzNZETWA9nISj_CK8_o192.WDm8fOY7zzd96bLA?startTime=1620383404000)
 - [X] [Zoom: Data versioning with DVC Part 2](https://uniroma1.zoom.us/rec/share/c2HsnkU5-DSdKWatv9AlmEjLM0a_i741VtnAZOx-eea2loTltiFPKBX196UaT8_3.-B4RbvXecplLujXK?startTime=1620803785000)
 
-##### Be able to use experiment management tools
+## Be able to use experiment management tools
 - [X] [Article: Supercharge your Training with Pytorch Lightning + Weights & Biases](https://colab.research.google.com/github/wandb/examples/blob/master/colabs/pytorch-lightning/Supercharge_your_Training_with_Pytorch_Lightning_%2B_Weights_%26_Biases.ipynb)
 - [X] [Article: Storing Metadata from Machine Learning Experiments](https://mlinproduction.com/ml-metadata/)
 - [X] [Youtube: Weights and Biases Tutorial](https://www.youtube.com/playlist?list=PLD80i8An1OEE0xs5BjKpCBdm0aaDI00U9)
@@ -547,7 +622,7 @@ Forward Pass and Backward Pass
 - [ ] [Youtube: Weight & Biases](https://uniroma1.zoom.us/rec/share/W6zWeel0z0w561Rza8iaoP39daROQ7MN144R2VYSksMhSBrh6l1MPrd_jIUFiy4s.fpA9W3TdJdXg_2Hx?startTime=1620976559000)
 - [ ] [Youtube: SE4AI: Versioning, Provenance, and Reproducibility](https://www.youtube.com/watch?v=eGlIW28eRfA) `1:18:29`
 
-##### Be able to setup model validation
+## Be able to setup model validation
 - [ ] [Article: Evaluating a machine learning model](https://www.jeremyjordan.me/evaluating-a-machine-learning-model/)
 - [X] [Article: Validating your Machine Learning Model](https://www.maartengrootendorst.com/blog/validate/)
 - [ ] [Article: Measuring Performance: AUPRC and Average Precision](https://glassboxmedicine.com/2019/03/02/measuring-performance-auprc/)
@@ -569,7 +644,7 @@ Forward Pass and Backward Pass
 - [X] [Youtube: ROC and AUC, Clearly Explained!](https://www.youtube.com/watch?v=4jRBRDbJemM) `0:16:26`
 
 
-##### Be familiar with inner working of models
+## Be familiar with inner working of models
 - [ ] [Article: Naive Bayes classification](https://www.jeremyjordan.me/naive-bayes-classification/)
 - [ ] [Article: Linear regression](https://www.jeremyjordan.me/linear-regression/)
 - [ ] [Article: Polynomial regression](https://www.jeremyjordan.me/polynomial-regression/)
@@ -664,7 +739,10 @@ Forward Pass and Backward Pass
      
      
      
-#### Computer Vision
+# Computer Vision
+
+- [ ] [pyimagesearch](https://pyimagesearch.com/)
+	
 
 - [ ] [Computer Vision: Theory and Application - Rick Szeliski 2010](http://szeliski.org/Book/)(Ongoing)
 - [ ] Computer Vision: Models, Learning, and Inference - Simon J. D. Prince 2012
@@ -686,58 +764,8 @@ Forward Pass and Backward Pass
 - [ ] [KD nuggets](https://www.kdnuggets.com/tag/computer-vision)
 
 
-#### Programming and Libraries
 
-- [X] [Python](https://docs.python.org/3/)
-- [X] [Article: A reverse chronology of some Python features](https://snarky.ca/a-reverse-chronology-of-some-python-features/)
-- [ ] [Article: No Really, Python's Pathlib is Great](https://rednafi.github.io/digressions/python/2020/04/13/python-pathlib.html)
-- [ ] [Article: When to switch to Python 3.9](https://pythonspeed.com/articles/switch-python-3.9/)
-- [X] [Article: A deep dive on Python type hints](http://veekaybee.github.io/2019/07/08/python-type-hints/)
-- [X] [Article: I wish I knew these things when I learned Python](http://bugra.github.io/posts/2015/1/3/i-wish-i-knew-these-things-when-i-learned-python/)
-- [X] [Article: Python Concurrency: The Tricky Bits](https://python.hamel.dev/concurrency/)
-- [ ] [Article: The Complete Python Development Guide](https://testdriven.io/guides/complete-python/)
-- [ ] [Article: Speeding Up Python with Concurrency, Parallelism, and asyncio](https://testdriven.io/blog/concurrency-parallelism-asyncio/)
-- [ ] [Article: Speed Up Your Python Program With Concurrency](https://testdriven.io/blog/concurrency-parallelism-asyncio/)
-- [ ] [Article: A Python prompt into a running process: debugging with Manhole](https://pythonspeed.com/articles/live-debugging-python/)
-- [X] [Regex For Noobs (like me!) - An Illustrated Guide](https://www.janmeppe.com/blog/regex-for-noobs/)
-- [X] [Book: A Byte of Python](https://python.swaroopch.com)
-- [X] [Book: Learn Python The Hard way](https://learnpythonthehardway.org)
-- [ ] [Book: Python 201](https://leanpub.com/python201)
-- [ ] [Book: The Python 3 Standard Library By Example](https://doughellmann.com/blog/the-python-3-standard-library-by-example)
-- [ ] [Book: Writing Idiomatic Python 3](https://www.amazon.com/Writing-Idiomatic-Python-Jeff-Knupp-ebook/dp/B00B5VXMRG)
-- [X] [Calmcode: ray](https://calmcode.io/ray/introduction.html)
-- [X] [Codecademy: Learn Python](https://www.codecademy.com/learn/learn-python)
-- [X] [Cognitiveclass.ai: Python for Data Science](https://cognitiveclass.ai/courses/python-for-data-science)
-- [X] [Datacamp: Python for R Users](https://www.datacamp.com/courses/python-for-r-users)
-- [X] [Datacamp: Python for Spreadsheet Users](https://www.datacamp.com/courses/python-for-spreadsheet-users)
-- [X] [Datacamp: Importing Data in Python (Part 1)](https://www.datacamp.com/courses/importing-data-in-python-part-1)
-- [X] [Datacamp: Intermediate Python for Data Science](https://www.datacamp.com/courses/intermediate-python-for-data-science)
-- [X] [Datacamp: Python Data Science Toolbox (Part 1)](https://www.datacamp.com/courses/python-data-science-toolbox-part-1)
-- [X] [Datacamp: Python Data Science Toolbox (Part 2)](https://www.datacamp.com/courses/python-data-science-toolbox-part-2)
-- [X] [Datacamp: Intro to Python for Finance](https://www.datacamp.com/courses/intro-to-python-for-finance)
-- [X] [Datacamp: Writing Efficient Python Code](https://www.datacamp.com/courses/writing-efficient-python-code)
-- [X] [Datacamp: Writing Functions in Python](https://www.datacamp.com/courses/writing-functions-in-python)
-- [ ] [Datacamp: Working with Dates and Times in Python](https://www.datacamp.com/courses/working-with-dates-and-times-in-python)
-- [X] [edX: Introduction to Python for Data Science](https://www.edx.org/course/introduction-python-data-science-microsoft-dat208x-7)
-- [X] [edX: Programming with Python for Data Science](https://www.edx.org/course/programming-python-data-science-microsoft-dat210x-5)
-- [X] [Google's Python Class](https://developers.google.com/edu/python/)
-- [X] [Treehouse: Python Basics](https://teamtreehouse.com/library/python-basics)
-- [X] [TheNewBoston: Python Programming Tutorials](https://www.youtube.com/watch?v=4Mf0h3HphEA&list=PLEA1FEF17E1E5C0DA)
-- [X] [Youtube: Python 3 Programming Tutorial - Regular Expressions / Regex with re](https://www.youtube.com/watch?v=sZyAn2TW7GY)
-- [X] [Youtube: Python Tutorial: re Module - How to Write and Match Regular Expressions (Regex)](https://www.youtube.com/watch?v=K8L6KVGG-7o)
-- [ ] [Youtube: Python Concurrency and Multithreading](https://advanced-python.namespace.im/python-concurrency-and-multithreading/)
-- [ ] [Youtube: Aaron Richter- Parallel Processing in Python| PyData Global 2020](https://www.youtube.com/watch?v=eJyjB3cNIB0&feature=youtu.be)
-- [ ] [Youtube: The Clean Architecture in Python](https://www.youtube.com/watch?v=DJtef410XaM)
-- [X] [My note on code convention](https://github.com/MadanBaduwal/python-project-structure/blob/main/code-convention.md)
-- [X] [My note in MLOPS](https://github.com/MadanBaduwal/python-project-structure/blob/main/mlops.md)
-- [X] [My note on issues face on python project](https://github.com/MadanBaduwal/python-project-structure/blob/main/error-and-issues.md)
-- [X] [Numpy](https://numpy.org/doc/)
-- [X] [Sklearn](https://scikit-learn.org/stable/)
-- [X] [Ptorch](https://pytorch.org/docs/stable/index.html)
-- [X] [Opencv](https://docs.opencv.org/4.x/)
-
-
-### Implementation
+# Implementation
 
 
      
