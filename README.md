@@ -38,7 +38,9 @@ A curated resources of computer vision resources, inspired by [awesome computer 
 
 
 # Paper Writing
-@@ -28,6 +43,11 @@ A curated resources of computer vision resources, inspired by [awesome computer
+- [X] [How to write paper my note](https://github.com/MadanBaduwal/journals-and-conferences/blob/main/paper-writting.md)
+- [X] [Uiversity of Wisconsin Madison](https://writing.wisc.edu/handbook/assignments/planresearchpaper/)
+- [X] [Purdue University](https://owl.purdue.edu/owl/general_writing/common_writing_assignments/research_papers/index.html)
 - [X] [aresearchguide](https://www.aresearchguide.com/1steps.html)
 - [X] [wikihow](https://www.wikihow.com/Write-a-Research-Paper)
 - [X] [TheBestSchools](https://thebestschools.org/resources/how-to-write-research-paper/)
@@ -50,10 +52,10 @@ A curated resources of computer vision resources, inspired by [awesome computer 
 
 # Paper Reading
 - [X] [How to read paper my note](https://github.com/MadanBaduwal/phd-career/blob/main/paper-reading.md)
-@@ -44,7 +64,45 @@ A curated resources of computer vision resources, inspired by [awesome computer
-- [X] [My note on cold-email](https://github.com/MadanBaduwal/journals-and-conferences/blob/main/cold-email.md)
-- [X] [University of California Berkely](https://research.berkeley.edu/how-cold-email-professor)
-- [X] [University of California Santa Cruz](https://ugr.ue.ucsc.edu/email)	
+- [X] [How to read paper my note](https://github.com/MadanBaduwal/phd-career/blob/main/paper-reading.md)
+- [X] [How to Read a Paper stanford](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
+- [X] [How to Read a Paper Hardvard](https://www.eecs.harvard.edu/~michaelm/postscripts/ReadPaper.pdf)
+- [X] [How to read a Paper Freecodecamp](https://www.freecodecamp.org/news/building-a-habit-of-reading-research-papers/)
 
 
 # Research
@@ -89,7 +91,12 @@ A curated resources of computer vision resources, inspired by [awesome computer 
 
 # Financial
 - [How to save for retirement as a graduate student (in the US)?](https://twitter.com/jbhuang0604/status/1510479669962940416)
-	
+
+# Write cold email
+- [X] [My note on cold-email](https://github.com/MadanBaduwal/journals-and-conferences/blob/main/cold-email.md)
+- [X] [University of California Berkely](https://research.berkeley.edu/how-cold-email-professor)
+- [X] [University of California Santa Cruz](https://ugr.ue.ucsc.edu/email)	
+
 	
 </details>
 
