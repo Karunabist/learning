@@ -5,14 +5,14 @@
 
 
 A curated resources of computer vision resources, inspired by [awesome computer vision](https://github.com/jbhuang0604/awesome-computer-vision), [learning](https://github.com/amitness/learning),[aman.ai](https://aman.ai/),[Vinija.ai](https://vinija.ai/).
-## Learning
+# Learning
 
 [T-shape Skills](https://en.wikipedia.org/wiki/T-shaped_skills), [Adjacet Learning](http://www.effectiveengineer.com/blog/master-adjacent-disciplines), [Everyday](https://jamesclear.com/continuous-improvement)
 
 <details>
 <summary>PHD career</summary>
 
-### Journals and Conferences
+# Journals and Conferences
 
 - [X] [List from Google Scholar](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_computervisionpatternrecognition)
 - [X] [List from SJR](https://www.scimagojr.com/journalrank.php?category=1707)
@@ -20,7 +20,7 @@ A curated resources of computer vision resources, inspired by [awesome computer 
 - [X] [List from Research](https://research.com/conference-rankings/computer-science/computer-vision)
 
 
-### Paper Writing
+# Paper Writing
 - [X] [How to write paper my note](https://github.com/MadanBaduwal/journals-and-conferences/blob/main/paper-writting.md)
 - [X] [Uiversity of Wisconsin Madison](https://writing.wisc.edu/handbook/assignments/planresearchpaper/)
 - [X] [Purdue University](https://owl.purdue.edu/owl/general_writing/common_writing_assignments/research_papers/index.html)
@@ -29,18 +29,18 @@ A curated resources of computer vision resources, inspired by [awesome computer 
 - [X] [wikihow](https://www.wikihow.com/Write-a-Research-Paper)
 - [X] [TheBestSchools](https://thebestschools.org/resources/how-to-write-research-paper/)
 
-### Paper Reading
+# Paper Reading
 - [X] [How to read paper my note](https://github.com/MadanBaduwal/phd-career/blob/main/paper-reading.md)
 - [X] [How to Read a Paper stanford](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
 - [X] [How to Read a Paper Hardvard](https://www.eecs.harvard.edu/~michaelm/postscripts/ReadPaper.pdf)
 - [X] [How to read a Paper Freecodecamp](https://www.freecodecamp.org/news/building-a-habit-of-reading-research-papers/)
 	
-#### Daily paper reading
+## Daily paper reading
 - [X] [Arxiv](https://arxiv.org/list/cs.CV/new)
 - [X] [CVF](https://openaccess.thecvf.com/menu)
 - [X] [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0,5&q=%22computer+vision%22&scisbd=1)
 	
-### Cold Email
+# Cold Email
 - [X] [My note on cold-email](https://github.com/MadanBaduwal/journals-and-conferences/blob/main/cold-email.md)
 - [X] [University of California Berkely](https://research.berkeley.edu/how-cold-email-professor)
 - [X] [University of California Santa Cruz](https://ugr.ue.ucsc.edu/email)	
@@ -50,9 +50,12 @@ A curated resources of computer vision resources, inspired by [awesome computer 
 
 <details>
 <summary>Peoples</summary>
-     
+
+# Artificial Intelligence
 - [X] [People working in Artificial Intelligance](https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:artificial_intelligence)
+# Machine Learning
 - [X] [People working in Machine Learning](https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:machine_learning)
+# Computer Vision
 - [X] [people working in computer vision my note](https://madanbaduwal.github.io/people-in-computer-vision/) and [scholar](https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:computer_vision)
 
 </details>
@@ -60,10 +63,10 @@ A curated resources of computer vision resources, inspired by [awesome computer 
 <details>
 <summary>Vision Problems and Datasets</summary>
 
-### Vision Problems
+# Vision Problems
 - [X] [vision problems my note](https://www.computervisiondatasets.ml/)
 - [X] [Wikipedia](https://en.wikipedia.org/wiki/Computer_vision#Typical_tasks)
-### Vision Datasets
+# Vision Datasets
 - [X] [vision datasets my note](https://www.computervisiondatasets.ml/)
 - [X] [kaggle](https://www.kaggle.com/datasets?search=image)
 - [X] [paperswithcode](https://paperswithcode.com/datasets)
@@ -83,26 +86,26 @@ A curated resources of computer vision resources, inspired by [awesome computer 
 <details>
 <summary>Englsih</summary>
 	
-### Daily news and blogs	
+# Daily news and blogs	
 - [X] [Google News](https://news.google.com/)
 
 	
 	
-### Gre
+# Gre
 - [X] [magoosh-gre-1000-words_oct01](https://s3.amazonaws.com/magoosh.resources/magoosh-gre-1000-words_oct01.pdf)
 - [X] [PDF of Greg Mat's Words Groups 1-27 with pictures!! (Thanks Liju and Khalil)](https://drive.google.com/file/d/1Ux9VWn5-nJJqmw4_I1UkwUybY8eDQnBv/view)
 - [X] [GregMat Recommended Resources](https://www.gregmat.com/recommended-resources)
 - [X] [Magoosh 1000 Word GRE Study List](https://quizlet.com/470527785/magoosh-1000-word-gre-study-list-flash-cards/?x=1jqt)
 - [X] [Vocab-ebook-2.5-2019](https://magoosh.com/gre/files/2019/08/Vocab-ebook-2.5-2019.pdf)
 
-### TOEFL
+# TOEFL
 - [X] [invensislearning](https://www.invensislearning.com/upskill/20-great-toefl-exam-resources)
 
-### Books
+# Books
 - [X] [Rich Dad Poor Dad](http://www.lequydonhanoi.edu.vn/upload_images/S%C3%A1ch%20ngo%E1%BA%A1i%20ng%E1%BB%AF/Rich%20Dad%20Poor%20Dad.pdf)
 
 
-#### Have basic business understanding
+# Have basic business understanding
 - [X] [Book: Delivering Happiness](https://www.amazon.com/Delivering-Happiness-Profits-Passion-Purpose/dp/0446576220)
 - [X] [Book: Good to Great: Why Some Companies Make the Leap...And Others Don't](https://www.amazon.com/Good-Great-Some-Companies-Others-ebook/dp/B0058DRUV6)
 - [X] [Book: Hello, Startup: A Programmer's Guide to Building Products, Technologies, and Teams](https://www.amazon.com/Hello-Startup-Programmers-Building-Technologies/dp/1491909900)
@@ -236,6 +239,15 @@ Forward Pass and Backward Pass
 - [X] [Linear Regression from scratch(Gradient Prespective): Geeksforgeeks](https://www.geeksforgeeks.org/linear-regression-implementation-from-scratch-using-python/#:~:text=Linear%20Regression%20is%20a%20supervised,the%20given%20input%20value%20x.)
 - [X] [Linear Regression from scratch(Variance and Covariance prespective): Machine Learning Mastery](https://machinelearningmastery.com/implement-simple-linear-regression-scratch-python/)
 - [X] [Linear Regression from scratch(Variance and Covariance prespective): toward datascience blog](https://medium.com/@lope.ai/linear-regression-from-scratch-in-python-6bdae2ea3610)
+- [X] [Multivariate Adaptive Regression Splines(MARS)](https://contrib.scikit-learn.org/py-earth/content.html)
+- [X] [Multivariate Adaptive Regression Splines on Python](https://medium.com/@aishwaryapatange/pyearth-multivariate-adaptive-regression-splines-on-python-86e8dd647030)
+- [X] [Multivariate Adaptive Regression Splines](https://towardsdatascience.com/mars-multivariate-adaptive-regression-splines-how-to-improve-on-linear-regression-e1e7a63c5eae)
+- [X] [Multivariate Adaptive Regression Splines:An Introduction to Multivariate Adaptive Regression Splines](https://www.statology.org/multivariate-adaptive-regression-splines/)
+- [X] [Stepwise Regression: Stepwise Regression Tutorial in Python](https://towardsdatascience.com/stepwise-regression-tutorial-in-python-ebf7c782c922)
+- [X] [Stepwise Regression: A Beginner’s Guide to Stepwise Multiple Linear Regression](https://medium.com/analytics-vidhya/a-beginners-guide-to-stepwise-multiple-linear-regression-e81df82b9f9e)
+- [X] [Local Regression: Implementation of Locally Weighted Linear Regression](https://www.geeksforgeeks.org/implementation-of-locally-weighted-linear-regression/)
+- [X] [Local Regression:Locally Weighted Linear Regression in Python](https://towardsdatascience.com/locally-weighted-linear-regression-in-python-3d324108efbf)
+- [X] [Local regression: Locally weighted linear Regression using Python](https://www.geeksforgeeks.org/locally-weighted-linear-regression-using-python/)
 - [X] [Logistic Regression from scratch(Gradient Prespective): Geeksforgeeks](https://www.geeksforgeeks.org/implementation-of-logistic-regression-from-scratch-using-python/)
 - [X] [Logistic Regression(Gradient Prespective): Toward Datascience blog](https://www.analyticsvidhya.com/blog/2022/02/implementing-logistic-regression-from-scratch-using-python/)
 - [X] [Logistic Regression from scratch(Gradient Prespective): IBM blog](https://developer.ibm.com/articles/implementing-logistic-regression-from-scratch-in-python/)
@@ -248,6 +260,16 @@ Forward Pass and Backward Pass
 - [X] [Decision tree: Decision tree from scratch: Machine Learning Mastry](https://machinelearningmastery.com/implement-decision-tree-algorithm-scratch-python/)
 - [X] [Decision tree: All About Decision Tree from Scratch with Python Implementation: Analytics Vidhya](https://www.analyticsvidhya.com/blog/2020/10/all-about-decision-tree-from-scratch-with-python-implementation/)
 - [X] [Decision tree: Building a Decision Tree from Scratch in Python | Machine Learning from Scratch (Part III): Toward Datascience](https://levelup.gitconnected.com/building-a-decision-tree-from-scratch-in-python-machine-learning-from-scratch-part-ii-6e2e56265b19)
+- [X] [Conditional tree(Split on the basis of P value)]()
+- [X] [One level decision tree/decision stump(weak learner)]()
+- [X] [C4.5 Decision Tree: A Step By Step C4.5 Decision Tree Example](https://sefiks.com/2018/05/13/a-step-by-step-c4-5-decision-tree-example/)
+- [X] [C4.5 Decision Tree: Github](https://github.com/barisesmer/C4.5)
+- [X] [CHAID Decision Tree: Implement Of Decision Tree Using Chi_Square Automatic Interaction Detection](https://www.analyticsvidhya.com/blog/2021/05/implement-of-decision-tree-using-chaid/)
+- [X] [CART Decision tree: github](https://github.com/zziz/cart)
+- [X] [CART Decision tree: Implementing a classification tree with Gini Impurity from scratch in Python](https://pandulaofficial.medium.com/implementing-cart-algorithm-from-scratch-in-python-5dd00e9d36e)
+- [X] [ID3 decision tree: Decision Trees from Scratch Using ID3 Python: Coding It Up !!](https://medium.com/@lope.ai/decision-trees-from-scratch-using-id3-python-coding-it-up-6b79e3458de4)
+- [X] [ID3 decision tree: ID3 Decision Tree Classifier from scratch in Python](https://towardsdatascience.com/id3-decision-tree-classifier-from-scratch-in-python-b38ef145fd90)
+- [X] [ID3 decision tree: Step by Step Decision Tree: ID3 Algorithm From Scratch in Python [No Fancy Library]](https://medium.com/geekculture/step-by-step-decision-tree-id3-algorithm-from-scratch-in-python-no-fancy-library-4822bbfdd88f)
 - [X] [Naive Bayes: ML | Naive Bayes Scratch Implementation using Python: Geeksforgeeks](https://www.geeksforgeeks.org/ml-naive-bayes-scratch-implementation-using-python/)
 - [X] [Naive Bayes: Naive Bayes from scratch python: Machine Learning Mastry](https://machinelearningmastery.com/naive-bayes-classifier-scratch-python/)
 - [X] [Naive Bayes: Implementing Naïve Bayes Classification from Scratch with Python: Medium](https://blog.devgenius.io/implementing-na%C3%AFve-bayes-classification-from-scratch-with-python-badd5a9be9c3)
@@ -270,6 +292,8 @@ Forward Pass and Backward Pass
 - [X] [K-Means Clustering: K-Means Clustering From Scratch in Python](https://www.askpython.com/python/examples/k-means-clustering-from-scratch)
 - [X] [K-Means Clusteing:K-means Clustering from Scratch in Python](https://medium.com/machine-learning-algorithms-from-scratch/k-means-clustering-from-scratch-in-python-1675d38eee42)
 - [X] [K-Means Clustering: K-Means Clustering Algorithm from Scratch](https://www.machinelearningplus.com/predictive-modeling/k-means-clustering/)
+- [X] [K-median Clustering: Wikipedia](https://en.wikipedia.org/wiki/K-medians_clustering) 
+- [X] [K-median Clustering: Coursera](https://www.coursera.org/lecture/cluster-analysis/3-5-the-k-medians-and-k-modes-clustering-methods-pShI2)
 - [X] [PCA: Principal Component Analysis from Scratch in Python](https://www.askpython.com/python/examples/principal-component-analysis)
 - [X] [PCA: Principal Component Analysis (PCA) from scratch in Python](https://towardsdatascience.com/principal-component-analysis-pca-from-scratch-in-python-7f3e2a540c51)
 - [X] [PCA: Machine Learning Mastry](https://machinelearningmastery.com/calculate-principal-component-analysis-scratch-python/)
