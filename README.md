@@ -47,7 +47,13 @@
 - [X] [oxfordwordlist](http://mooneewestps.vic.edu.au/app/webroot/uploaded_files/media/oxford_plus_list.pdf)
 - [X] [The Oxford 3000™ (American English)](https://www.oxfordlearnersdictionaries.com/external/pdf/wordlists/oxford-3000-5000/American_Oxford_3000.pdf)
 - [X] [The Oxford 5000™ (American English)](https://www.oxfordlearnersdictionaries.com/external/pdf/wordlists/oxford-3000-5000/American_Oxford_5000.pdf)
-- [X] [My note on vocabulary](https://drive.google.com/drive/folders/18yRZM1sSNAs1PAbCmCHeSOEDvMgyEYGT?usp=sharing)
+- [X] [Slang: 321 colorful, odd and unique American slang words and phrases](https://www.berlitz.com/blog/american-slang-words)
+- [X] [Slang: American Slang: Top Words and Dictionaries to Use](https://grammar.yourdictionary.com/slang/american-slang-dictionary.html)
+- [X] [Slang: AMERICAN SLANG WORDS AND PHRASES](https://www.umass.edu/ipo/sites/default/files/slang.pdf)
+- [X] [Slang: The 70+ Most Common English Slang Words & Phrases](https://takelessons.com/blog/american-english-slang-words)
+- [X] [Contractions: 95+ English Contractions That Native Speakers Use Every Day](https://www.fluentu.com/blog/english/english-contractions/)
+- [X] [Acrimony: Abbreviations](https://public.oed.com/how-to-use-the-oed/abbreviations/)
+- [X] [Acrimony: List of Abbreviations | Example, Template & Best Practices](https://www.scribbr.com/dissertation/list-of-abbreviations/)
 
 	
 ## Writting
