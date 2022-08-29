@@ -15,7 +15,7 @@
 		  <li>Companies(motivations)</li>
 		  <li>Computer science(Array)</li>
 	  </ul> </td>
-  <td width="60%"><img class="zoom" src="https://www.bloo.vision/cms/wp-content/uploads/2020/02/vision-system_eye-and-brain-uai-1440x1164.png" alt="Italian Trulli">
+  <td width="60%"><img class="zoom" src="https://www.bloo.vision/cms/wp-content/uploads/2020/02/vision-system_eye-and-brain-uai-1440x1164.png" alt="Italian Trulli"> 
 </td>
   <td width="20%">Inspired by 
 	  <ul>
