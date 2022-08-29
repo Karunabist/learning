@@ -17,18 +17,38 @@
 <summary>Englsih</summary>
 	
 # Daily news and blogs	
-- [X] [Google News](https://news.google.com/)
+- [X] [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB/sections/CAQiQ0NCQVNMQW9JTDIwdk1EZGpNWFlTQW1WdUdnSlZVeUlOQ0FRYUNRb0hMMjB2TUcxcmVpb0pFZ2N2YlM4d2JXdDZLQUEqKggAKiYICiIgQ0JBU0Vnb0lMMjB2TURkak1YWVNBbVZ1R2dKVlV5Z0FQAVAB?hl=en-US&gl=US&ceid=US%3Aen/)
 
 # Englsih Basic
-## Phonology
+## Phonology/ IPA
 - [X] [My note on phonology](https://colab.research.google.com/drive/1p8--pbceik_zlp_Mwc8bJpx_dNzNTxUD?usp=sharing)
-- [X] [American English Phonetic Symbols](https://koreatesol.org/sites/default/files/EClinic-%20Phonetic%20Symbols.pdf)	
 - [X] [The 44* Phonemes](https://www.boardman.k12.oh.us/userfiles/363/Phonological%20Awareness/44Phonemes.pdf)
+- [X] [American English Phonetic Symbols](https://koreatesol.org/sites/default/files/EClinic-%20Phonetic%20Symbols.pdf)	
+- [X] [Learn to Pronounce Sounds in American English](https://pronuncian.com/sounds)
+- [X] [Pronunciation Guide (American English Dictionary](https://www.oxfordlearnersdictionaries.com/about/pronunciation_american_english)
+- [X] [International Phonetic Alphabet for American English - IPA Chart](https://easypronunciation.com/en/american-english-pronunciation-ipa-chart)
+
+- [X] [Oxford Online English](https://www.youtube.com/watch?v=WU7p-RptAfI)
+- [X] [Rachel's English](https://www.youtube.com/watch?v=c97xwLdSsXU)
+- [X] [Pronunciation Pro](https://www.youtube.com/c/pronunciationpro)
+- [X] [ccent's Way English with Hadar](https://www.youtube.com/c/accentsway)
+
+
 ## Grammer
 - [X] [My note on grammer](https://colab.research.google.com/drive/1_z4bJJy3MWq0GHh9mK3DyuiKjgA14E71?usp=sharing)
 - [X] [ENGLISH GRAMMAR IN USE Raymond Murphy](https://corsidilaurea.uniroma1.it/sites/default/files/english_grammar_in_use_intermediate_2019_5th-ed.pdf)
+- [X] [Learn American English Online](https://www.learnamericanenglishonline.com/)
+- [X] [AccurateEnglish](https://www.youtube.com/c/AccurateEnglish)
+- [X] [Janhavi Panwar](https://www.youtube.com/c/WonderGirlJanhavi)
+- [X] [English with Alex · engVid English Classes](https://www.youtube.com/c/engvidAlex)
+
 ## Vocabulary
+- [X] [oxfordwordlist](https://www.oxfordwordlist.com/pages/report.asp)
+- [X] [oxfordwordlist](http://mooneewestps.vic.edu.au/app/webroot/uploaded_files/media/oxford_plus_list.pdf)
+- [X] [The Oxford 3000™ (American English)](https://www.oxfordlearnersdictionaries.com/external/pdf/wordlists/oxford-3000-5000/American_Oxford_3000.pdf)
+- [X] [The Oxford 5000™ (American English)](https://www.oxfordlearnersdictionaries.com/external/pdf/wordlists/oxford-3000-5000/American_Oxford_5000.pdf)
 - [X] [My note on vocabulary](https://drive.google.com/drive/folders/18yRZM1sSNAs1PAbCmCHeSOEDvMgyEYGT?usp=sharing)
+
 	
 ## Writting
 - [X] [My note on writting](https://drive.google.com/drive/folders/1-qPhvWNKctaNBjH9shw-JBEiC76-cGJr?usp=sharing)
@@ -36,6 +56,7 @@
 # Gre
 - [X] [magoosh-gre-1000-words_oct01](https://s3.amazonaws.com/magoosh.resources/magoosh-gre-1000-words_oct01.pdf)
 - [X] [PDF of Greg Mat's Words Groups 1-27 with pictures!! (Thanks Liju and Khalil)](https://drive.google.com/file/d/1Ux9VWn5-nJJqmw4_I1UkwUybY8eDQnBv/view)
+- [X] [Sachin Pulli 600 gre vocab](https://drive.google.com/file/d/15uTpXC17WeGGjsS18OLY8nuMm3dA1B0G/view?usp=sharing)
 - [X] [GregMat Recommended Resources](https://www.gregmat.com/recommended-resources)
 - [X] [Magoosh 1000 Word GRE Study List](https://quizlet.com/470527785/magoosh-1000-word-gre-study-list-flash-cards/?x=1jqt)
 - [X] [Vocab-ebook-2.5-2019](https://magoosh.com/gre/files/2019/08/Vocab-ebook-2.5-2019.pdf)
