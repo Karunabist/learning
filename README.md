@@ -11,15 +11,17 @@
 		  <li>Biology(cell)</li> 
 		  <li>Engineering(atom)</li>
 		  <li>Economics(supply and demand)</li>
-		  <li>Managment,accounting,Education,General Knowledge ...etc</li>
+		  <li>Managment,accounting,Education,
+			  General Knowledge ...etc</li>
 		  <li>Companies(motivations)</li>
 		  <li>Computer science(Array)</li>
 	  </ul> </td>
   <td width="60%"><img class="zoom" src="https://www.bloo.vision/cms/wp-content/uploads/2020/02/vision-system_eye-and-brain-uai-1440x1164.png" alt="Italian Trulli"> 
 </td>
   <td width="20%">Inspired by 
-	  <ul>
-		  <li><a href="https://github.com/jbhuang0604/awesome-computer-vision">awesome computervision</a></li>            
+	  <ul>    <li><a href="https://github.com/ujjwalkarn/Machine-Learning-Tutorials">Machine-Learning-Tutorials</a></li>
+		  <li><a href="https://github.com/jbhuang0604/awesome-computer-vision">awesome computervision</a></li> 
+		  <li><a href="https://github.com/aymericdamien/TopDeepLearning">TopDeepLearning</a></li>
 		  <li><a href="https://github.com/amitness/learning">learning</a></li>
 		  <li> <a href="https://github.com/eugeneyan/applied-ml">applied-ml</a></li>
 		  <li><a href="https://aman.ai/">aman.ai</a></li>
@@ -274,6 +276,9 @@
 - [X] [My note in MLOPS](https://github.com/MadanBaduwal/python-project-structure/blob/main/mlops.md)
 - [X] [My note on issues face on python project](https://github.com/MadanBaduwal/python-project-structure/blob/main/error-and-issues.md)
 - [X] [python-is-cool](https://github.com/chiphuyen/python-is-cool)
+- [X] [pytudes](https://github.com/norvig/pytudes)	
+- [X] [IPython: Productive Interactive Computing](https://github.com/ipython/ipython)
+	
 # Artificial intelligence
 
 ## Machine Learning
@@ -372,6 +377,11 @@ Forward Pass and Backward Pass
 - [X] [Introduction to Machine Learning Interviews Book](https://huyenchip.com/ml-interviews-book/)
 - [X] [Machine Learning Systems Design](https://huyenchip.com/machine-learning-systems-design/toc.html)	
 - [X] [Designing Machine Learning Systems (Chip Huyen 2022)](https://github.com/chiphuyen/dmls-book)
+- [X] [dlaicourse](https://github.com/lmoroney/dlaicourse)
+- [X] [Laurence Moroney - The AI Guy.](https://laurencemoroney.com/)
+- [X] [aima-python](https://github.com/aimacode/aima-python)
+- [X] [deep-learning-with-python-notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks)
+	
 - [X] [Andrage Karpathy](https://www.youtube.com/watch?v=VMj-3S1tku0)
 - [X] [Stanford CS229: Machine Learning Full Course taught by Andrew Ng | Autumn 2018](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 - [X] [The hundred-page machine learning book - Burkov, Andriy](https://b-ok.asia/book/3710356/c8880d)
@@ -992,7 +1002,11 @@ Forward Pass and Backward Pass
 * [Colossal-AI](https://github.com/hpcaitech/ColossalAI): An open-source deep learning system for large-scale model training and inference with high efficiency and low cost.
 * [dirty_cat](https://github.com/dirty-cat/dirty_cat) - facilitates machine-learning on dirty, non-curated categories. It provides transformers and encoders robust to morphological variants, such as typos.
 * [Upgini](https://github.com/upgini/river): Free automated data & feature enrichment library for machine learning - automatically searches through thousands of ready-to-use features from public and community shared data sources and enriches your training dataset with only the accuracy improving features.    
-     
+
+## Be familar with scary usages of AI
+
+- [X] [Awful AI](https://github.com/daviddao/awful-ai)
+
 ### Be familar with MLOPS
 * [X] [MadewithML](https://madewithml.com/)
 * [X] [mlops-course](https://github.com/GokuMohandas/mlops-course)
