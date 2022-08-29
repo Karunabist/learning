@@ -15,7 +15,7 @@
 		  <li>Companies(motivations)</li>
 		  <li>Computer science(Array)</li>
 	  </ul> </td>
-  <td width="60%"><img class="zoom" src="https://raw.githubusercontent.com/MadanBaduwal/computer-vision-resources/main/computer_vision_and_intersection.png" alt="Italian Trulli">
+  <td width="60%"><img class="zoom" src="https://www.bloo.vision/cms/wp-content/uploads/2020/02/vision-system_eye-and-brain-uai-1440x1164.png" alt="Italian Trulli">
 </td>
   <td width="20%">Inspired by 
 	  <ul>
@@ -273,7 +273,7 @@
 - [X] [My note on code convention](https://github.com/MadanBaduwal/python-project-structure/blob/main/code-convention.md)
 - [X] [My note in MLOPS](https://github.com/MadanBaduwal/python-project-structure/blob/main/mlops.md)
 - [X] [My note on issues face on python project](https://github.com/MadanBaduwal/python-project-structure/blob/main/error-and-issues.md)
-
+- [X] [python-is-cool](https://github.com/chiphuyen/python-is-cool)
 # Artificial intelligence
 
 ## Machine Learning
@@ -361,11 +361,17 @@ Forward Pass and Backward Pass
 - [X] [PCA: Principal Component Analysis (PCA) in Python Tutorial](https://www.datacamp.com/tutorial/principal-component-analysis-in-python)
 
 - [X] [Machine Learning: My own implementation](https://github.com/MadanBaduwal/ML-algorithms)
-	
+- [X] [scikit-learn](https://github.com/scikit-learn/scikit-learn)
+- [X] [handson-ml](https://github.com/ageron/handson-ml)
+- [X] [handson-ml2](https://github.com/ageron/handson-ml2)
+- [X] [handson-ml3](https://github.com/ageron/handson-ml3)
+- [X] [neural-networks-and-deep-learning](https://github.com/mnielsen/neural-networks-and-deep-learning)
 - [X] [Machine Learning from Scratch](https://dafriedman97.github.io/mlbook/content/introduction.html)
 - [X] [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
 - [X] [Dive into Deep Learning](https://d2l.ai/)
-	
+- [X] [Introduction to Machine Learning Interviews Book](https://huyenchip.com/ml-interviews-book/)
+- [X] [Machine Learning Systems Design](https://huyenchip.com/machine-learning-systems-design/toc.html)	
+- [X] [Designing Machine Learning Systems (Chip Huyen 2022)](https://github.com/chiphuyen/dmls-book)
 - [X] [Andrage Karpathy](https://www.youtube.com/watch?v=VMj-3S1tku0)
 - [X] [Stanford CS229: Machine Learning Full Course taught by Andrew Ng | Autumn 2018](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 - [X] [The hundred-page machine learning book - Burkov, Andriy](https://b-ok.asia/book/3710356/c8880d)
