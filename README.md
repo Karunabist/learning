@@ -942,14 +942,26 @@ Forward Pass and Backward Pass
 
 
 # Implementation
-
-
-     
+ 
 - [X] [mathematics](https://madanbaduwal.github.io/mathematics/)
 - [X] [Machine Learning](https://github.com/MadanBaduwal/ML-algorithms)
 - [X] [computer-vision-algorithms](https://madanbaduwal.github.io/computer-vision-algorithms/categories/)
 - [X] [problem based computer vision algorithms](https://madanbaduwal.github.io/problem-based-computer-vision-algorithms/)
+	
+# MLOPS
+* [X] [MadewithML](https://madewithml.com/)
+* [X] [mlops-course](https://github.com/GokuMohandas/mlops-course)
 
+# Other resources
+* [X] [https://github.com/mihail911/nlp-library](nlp-library)
+
+# Web Framework
+## Backend
+- [X] [Django: Documentaion](https://docs.djangoproject.com/en/4.1/)
+- [X] [Django : awesome-django](https://github.com/wsvincent/awesome-django)
+## Front-End
+- [X] [Tailwind](https://tailwindcss.com/)
+	
 </details>
 
 <details>
