@@ -2,7 +2,8 @@
 
 <table width="100%">
   <tr>
-	  <td width="20%"><ul>
+	  <td width="20%">
+	<ul>
 		  Life long learning with there basic unit.
 		  <li>Language(English)(letter)</li>            
 		  <li>Mathematics(number)</li>
@@ -16,21 +17,31 @@
 		  <li>Companies(motivations)</li>
 		  <li>Computer science(Array)</li>
 	  </ul> </td>
-  <td width="60%"><img class="zoom" src="https://www.bloo.vision/cms/wp-content/uploads/2020/02/vision-system_eye-and-brain-uai-1440x1164.png" alt="Italian Trulli"> 
+	  
+  <td width="50%"><img class="zoom" src="https://www.bloo.vision/cms/wp-content/uploads/2020/02/vision-system_eye-and-brain-uai-1440x1164.png" alt="Italian Trulli"> 
 </td>
-  <td width="20%">Inspired by 
-	  <ul>    <li><a href="https://github.com/ujjwalkarn/Machine-Learning-Tutorials">Machine-Learning-Tutorials</a></li>
+  <td width="30%">
+	  <ul>    
+		  Inspired by 
+		  <li><a href="https://github.com/ujjwalkarn/Machine-Learning-Tutorials">Machine-Learning-Tutorials</a></li>
 		  <li><a href="https://github.com/jbhuang0604/awesome-computer-vision">awesome computervision</a></li> 
 		  <li><a href="https://github.com/aymericdamien/TopDeepLearning">TopDeepLearning</a></li>
 		  <li><a href="https://github.com/amitness/learning">learning</a></li>
 		  <li> <a href="https://github.com/eugeneyan/applied-ml">applied-ml</a></li>
+		  <li><a href="https://github.com/sindresorhus/awesome">awesome</a></li>
+		  <li><a href="https://github.com/ujjwalkarn/DataSciencePython">DataSciencePython</a></li>
+		  <li><a href="https://github.com/dennybritz/deeplearning-papernotes">deeplearning-papernotes</a></li>
+		  <li><a href="https://github.com/keon/awesome-nlp">awesome-nlp</a></li>
+		  <li><a href="https://github.com/lucidrains/vit-pytorch">vit-pytorch</a></li>
+		  <li><a href="https://github.com/donnemartin/system-design-primer">system-design-primer</a></li>
+		  <li><a href="https://github.com/donnemartin/interactive-coding-challenges">interactive-coding-challenges</a></li>
 		  <li><a href="https://aman.ai/">aman.ai</a></li>
 		  <li> <a href="https://vinija.ai/">Vinija.ai</a></li> 
 		  <li> <a href="https://github.com/mihail911/nlp-library">nlp-library</a></li>
-	  </ul>
 	  With <a href="https://en.wikipedia.org/wiki/T-shaped_skills".T-shape Skills</a> 
 	  <a href="http://www.effectiveengineer.com/blog/master-adjacent-disciplines">Adjacet Learning</a>, 
 	  <a href="https://jamesclear.com/continuous-improvement">Everyday</a> Learning.</td>
+	  </ul>
   </tr>
 </table>
 
@@ -278,6 +289,8 @@
 - [X] [python-is-cool](https://github.com/chiphuyen/python-is-cool)
 - [X] [pytudes](https://github.com/norvig/pytudes)	
 - [X] [IPython: Productive Interactive Computing](https://github.com/ipython/ipython)
+- [X] [python3_with_pleasure](https://github.com/arogozhnikov/python3_with_pleasure)
+	
 	
 # Artificial intelligence
 
@@ -381,7 +394,9 @@ Forward Pass and Backward Pass
 - [X] [Laurence Moroney - The AI Guy.](https://laurencemoroney.com/)
 - [X] [aima-python](https://github.com/aimacode/aima-python)
 - [X] [deep-learning-with-python-notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks)
-	
+- [X] [nn-from-scratch](https://github.com/dennybritz/nn-from-scratch)	
+- [X] [pytorch-Deep-Learning](https://github.com/Atcold/pytorch-Deep-Learning)
+- [X] [DEEP LEARNING](https://atcold.github.io/NYU-DLSP21/)
 - [X] [Andrage Karpathy](https://www.youtube.com/watch?v=VMj-3S1tku0)
 - [X] [Stanford CS229: Machine Learning Full Course taught by Andrew Ng | Autumn 2018](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 - [X] [The hundred-page machine learning book - Burkov, Andriy](https://b-ok.asia/book/3710356/c8880d)
@@ -1118,7 +1133,7 @@ Forward Pass and Backward Pass
 - [X] [My note on cold-email](https://github.com/MadanBaduwal/journals-and-conferences/blob/main/cold-email.md)
 - [X] [University of California Berkely](https://research.berkeley.edu/how-cold-email-professor)
 - [X] [University of California Santa Cruz](https://ugr.ue.ucsc.edu/email)	
-
+- [X] [getting-a-gig](https://github.com/cassidoo/getting-a-gig)
 
 # Paper Reading
 - [X] [How to read paper my note](https://github.com/MadanBaduwal/phd-career/blob/main/paper-reading.md)
