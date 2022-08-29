@@ -3,9 +3,10 @@
 <table width="100%">
   <tr>
 	  <td width="20%"><ul>
-		  <li>Language(English)</li>            
-		  <li>Mathematics</li>
-		  <li>Physics</li>
+		  Life long learning with there basic unit.
+		  <li>Language(English)(Letter)</li>            
+		  <li>Mathematics(Number)</li>
+		  <li>Physics()</li>
 		  <li>Chemistry</li>
 		  <li>Biology</li> 
 		  <li>Engineering</li>
@@ -37,7 +38,13 @@
 	
 <details>
 <summary>Language(English)</summary>
-5 things : phonology > grammer> vocabulary > writing
+5 things : 
+	
+* phonology 
+* grammer
+* vocabulary 
+* writing
+* Accent
 	
 # Daily news and blogs	
 - [X] [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB/sections/CAQiQ0NCQVNMQW9JTDIwdk1EZGpNWFlTQW1WdUdnSlZVeUlOQ0FRYUNRb0hMMjB2TUcxcmVpb0pFZ2N2YlM4d2JXdDZLQUEqKggAKiYICiIgQ0JBU0Vnb0lMMjB2TURkak1YWVNBbVZ1R2dKVlV5Z0FQAVAB?hl=en-US&gl=US&ceid=US%3Aen/)
@@ -149,7 +156,15 @@
 
 <details>
 <summary>Mathematics</summary>
+3 field: 
+	
+* Foundations and philosophy: Mathematical logics(^(and), v (or), ¬ (not), → (implies),),Set theory({a,b,c..}),Category theory(f:x→y,f:y→z,g o f:x→z , functors(functions) map between categories ), Theory of Computation(finite stste of automata, infinite state of automata)), 
+* Pure Mathematics: Quantity(Arthmatic), Structure(Algebra),Space(Geometry), Change(Calculus)
+* Applied Mathematics: Statistics and other decision sciences(probability and statistics), Computational mathematics
 
+# Pure Mathematics
+	
+## Structure(Algebra)
 - [X] [Gilbart Strang Video Series Spring 2005](https://www.youtube.com/watch?v=hNDFwVVKVk0&list=PLEAYkSg4uSQ1-bul680xs3oaCwI90yZHb)
 - [ ] [Introduction to Linear Algebra, Fifth Edition (2016)- Gilbert Strang](https://math.mit.edu/~gs/linearalgebra/)
 - [ ] [Linear Algebra and Its Applications - Gilbert Strang 1995](https://mobt3ath.com/uplode/books/book-34702.pdf)
