@@ -165,6 +165,7 @@
 # Pure Mathematics
 	
 ## Structure(Algebra)
+### Linear Algebra
 - [X] [Gilbart Strang Video Series Spring 2005](https://www.youtube.com/watch?v=hNDFwVVKVk0&list=PLEAYkSg4uSQ1-bul680xs3oaCwI90yZHb)
 - [ ] [Introduction to Linear Algebra, Fifth Edition (2016)- Gilbert Strang](https://math.mit.edu/~gs/linearalgebra/)
 - [ ] [Linear Algebra and Its Applications - Gilbert Strang 1995](https://mobt3ath.com/uplode/books/book-34702.pdf)
@@ -211,6 +212,12 @@
 <details>
 <summary>Computer Science  </summary>
 
+3 fields:
+
+* Theoretical computer science: Theory of computation, Information and coading theory, DSA,Programming language theory and formal methods
+* Computer systems and computational processes: Artificial intelligence
+	
+	
 # Programming and Libraries
 
 ## Python
