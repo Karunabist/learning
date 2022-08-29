@@ -18,7 +18,9 @@
 	
 # Daily news and blogs	
 - [X] [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB/sections/CAQiQ0NCQVNMQW9JTDIwdk1EZGpNWFlTQW1WdUdnSlZVeUlOQ0FRYUNRb0hMMjB2TUcxcmVpb0pFZ2N2YlM4d2JXdDZLQUEqKggAKiYICiIgQ0JBU0Vnb0lMMjB2TURkak1YWVNBbVZ1R2dKVlV5Z0FQAVAB?hl=en-US&gl=US&ceid=US%3Aen/)
-
+- [X] [Word of the day](https://www.merriam-webster.com/word-of-the-day)
+- [X] [Collins Word of the Day](https://www.collinsdictionary.com/word-of-the-day)
+	
 # Englsih Basic
 ## Phonology/ IPA
 - [X] [My note on phonology](https://colab.research.google.com/drive/1p8--pbceik_zlp_Mwc8bJpx_dNzNTxUD?usp=sharing)
@@ -77,6 +79,8 @@
 - [X] [Shapes: Different Shape Names (with Useful List, Types)](https://7esl.com/shapes-vocabulary/)
 	
 ## Writting
+- [X] [ Using vocabulary to improve your writing: My note](https://docs.google.com/document/d/1uvjGYMR9Uy9qrG-THfgxlvAXGJ-OC9C0LdwPDhUeztw/edit?usp=sharing)
+- [X] [Using vocabulary to improve your writing: 8 Ways to Expand your Writing Vocabulary](https://wordcounter.io/blog/8-ways-to-expand-your-writing-vocabulary)
 - [X] [My note on writting](https://drive.google.com/drive/folders/1-qPhvWNKctaNBjH9shw-JBEiC76-cGJr?usp=sharing)
 	
 # Gre
