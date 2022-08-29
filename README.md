@@ -14,14 +14,14 @@
 -------------------------
 	
 <details>
-<summary>Englsih</summary>
+<summary>English</summary>
 	
 # Daily news and blogs	
 - [X] [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB/sections/CAQiQ0NCQVNMQW9JTDIwdk1EZGpNWFlTQW1WdUdnSlZVeUlOQ0FRYUNRb0hMMjB2TUcxcmVpb0pFZ2N2YlM4d2JXdDZLQUEqKggAKiYICiIgQ0JBU0Vnb0lMMjB2TURkak1YWVNBbVZ1R2dKVlV5Z0FQAVAB?hl=en-US&gl=US&ceid=US%3Aen/)
 - [X] [Word of the day](https://www.merriam-webster.com/word-of-the-day)
 - [X] [Collins Word of the Day](https://www.collinsdictionary.com/word-of-the-day)
 	
-# Englsih Basic
+# English Basic
 ## Phonology/ IPA
 - [X] [My note on phonology](https://colab.research.google.com/drive/1p8--pbceik_zlp_Mwc8bJpx_dNzNTxUD?usp=sharing)
 - [X] [The 44* Phonemes](https://www.boardman.k12.oh.us/userfiles/363/Phonological%20Awareness/44Phonemes.pdf)
@@ -81,7 +81,12 @@
 ## Writting
 - [X] [ Using vocabulary to improve your writing: My note](https://docs.google.com/document/d/1uvjGYMR9Uy9qrG-THfgxlvAXGJ-OC9C0LdwPDhUeztw/edit?usp=sharing)
 - [X] [Using vocabulary to improve your writing: 8 Ways to Expand your Writing Vocabulary](https://wordcounter.io/blog/8-ways-to-expand-your-writing-vocabulary)
+- [X] [Using vocabulary to improve your writing:1 Hour to Improve Your English Writing Skills](https://www.youtube.com/watch?v=4V0wKH6hd30)
+- [X] [Using vocabulary to improve your writing: 25 Ways to Improve Your Writing Vocabulary](https://wordcounter.net/blog/2014/01/22/1027_25-ways-to-improve-your-writing-vocabulary.html)
+- [X] [Using vocabulary to improve your writing:HOW TO IMPROVE YOUR VOCABULARY FOR WRITING & SPEAKING SUCCESS](https://www.briantracy.com/blog/writing/how-to-improve-your-vocabulary/)
+- [X] []()
 - [X] [My note on writting](https://drive.google.com/drive/folders/1-qPhvWNKctaNBjH9shw-JBEiC76-cGJr?usp=sharing)
+
 	
 # Gre
 - [X] [magoosh-gre-1000-words_oct01](https://s3.amazonaws.com/magoosh.resources/magoosh-gre-1000-words_oct01.pdf)
