@@ -18,9 +18,14 @@
 		  <li>Computer science(Array)</li>
 	  </ul> </td>
 	  
-  <td width="50%"><img class="zoom" src="https://www.bloo.vision/cms/wp-content/uploads/2020/02/vision-system_eye-and-brain-uai-1440x1164.png" alt="Italian Trulli"> 
+  <td width="40%"><img class="zoom" src="https://www.bloo.vision/cms/wp-content/uploads/2020/02/vision-system_eye-and-brain-uai-1440x1164.png" alt="Italian Trulli"> 
+	  <ul>
+		  <li><a href="https://en.wikipedia.org/wiki/T-shaped_skills">T-shape Skills</a> </li>
+	          <li><a href="http://www.effectiveengineer.com/blog/master-adjacent-disciplines">Adjacet Learning</a></li> 
+		  <li><a href="https://jamesclear.com/continuous-improvement">Everyday Learning</a></li>
+	  </ul>
 </td>
-  <td width="30%">
+  <td width="40%">
 	  <ul>    
 		  Inspired by 
 		  <li><a href="https://github.com/ujjwalkarn/Machine-Learning-Tutorials">Machine-Learning-Tutorials</a></li>
@@ -38,12 +43,12 @@
 		  <li><a href="https://github.com/donnemartin/data-science-ipython-notebooks">data-science-ipython-notebooks</a></li>
 		  <li><a href="https://github.com/donnemartin/awesome-aws">awesome-aws</a></li>
 		  <li><a href="https://github.com/donnemartin/gitsome">gitsome</a></li>
-		  <li><a href="https://aman.ai/">aman.ai</a></li>
-		  <li> <a href="https://vinija.ai/">Vinija.ai</a></li> 
+		  <li><a href="https://github.com/visenger/awesome-mlops">awesome-mlops</a></li>
+		  <li><a href="https://github.com/prakhar1989/awesome-courses">awesome-courses</a></li>
+		  <li><a href="https://github.com/alexeygrigorev/data-science-interviews">data-science-interviews</a></li>
+		  <li><a href="https://github.com/EthicalML/awesome-production-machine-learning">awesome-production-machine-learning</a></li>
 		  <li> <a href="https://github.com/mihail911/nlp-library">nlp-library</a></li>
-	  With <a href="https://en.wikipedia.org/wiki/T-shaped_skills".T-shape Skills</a> 
-	  <a href="http://www.effectiveengineer.com/blog/master-adjacent-disciplines">Adjacet Learning</a>, 
-	  <a href="https://jamesclear.com/continuous-improvement">Everyday</a> Learning.</td>
+		  </td>
 	  </ul>
   </tr>
 </table>
@@ -400,6 +405,10 @@ Forward Pass and Backward Pass
 - [X] [nn-from-scratch](https://github.com/dennybritz/nn-from-scratch)	
 - [X] [pytorch-Deep-Learning](https://github.com/Atcold/pytorch-Deep-Learning)
 - [X] [DEEP LEARNING](https://atcold.github.io/NYU-DLSP21/)
+- [X] [zero-to-mastery-ml](https://github.com/mrdbourke/zero-to-mastery-ml)
+- [X] [machine-learning-roadmap](https://github.com/mrdbourke/machine-learning-roadmap)
+- [X] [aman.ai](https://aman.ai/")
+- [X] [vinija.ai](https://vinija.ai/")
 - [X] [Andrage Karpathy](https://www.youtube.com/watch?v=VMj-3S1tku0)
 - [X] [Stanford CS229: Machine Learning Full Course taught by Andrew Ng | Autumn 2018](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 - [X] [The hundred-page machine learning book - Burkov, Andriy](https://b-ok.asia/book/3710356/c8880d)
