@@ -4,18 +4,18 @@
   <tr>
 	  <td width="20%"><ul>
 		  Life long learning with there basic unit.
-		  <li>Language(English)(Letter)</li>            
-		  <li>Mathematics(Number)</li>
-		  <li>Physics()</li>
-		  <li>Chemistry</li>
-		  <li>Biology</li> 
-		  <li>Engineering</li>
-		  <li>Economics</li>
+		  <li>Language(English)(letter)</li>            
+		  <li>Mathematics(number)</li>
+		  <li>Physics(atom)</li>
+		  <li>Chemistry(ion)</li>
+		  <li>Biology(cell)</li> 
+		  <li>Engineering(atom)</li>
+		  <li>Economics(supply and demand)</li>
 		  <li>Managment,accounting,Education,General Knowledge ...etc</li>
-		  <li>Companies</li>
-		  <li>Computer science</li>
+		  <li>Companies(motivations)</li>
+		  <li>Computer science(Array)</li>
 	  </ul> </td>
-  <td width="60%"><img src="https://raw.githubusercontent.com/MadanBaduwal/computer-vision-resources/main/computer_vision_and_intersection.png" alt="Italian Trulli">
+  <td width="60%"><img class="zoom" src="https://raw.githubusercontent.com/MadanBaduwal/computer-vision-resources/main/computer_vision_and_intersection.png" alt="Italian Trulli">
 </td>
   <td width="20%">Inspired by 
 	  <ul>
