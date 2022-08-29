@@ -2,9 +2,9 @@
 
 <table width="100%">
   <tr>
-  <td width="70%"><img src="https://raw.githubusercontent.com/MadanBaduwal/computer-vision-resources/main/computer_vision_and_intersection.png" alt="Italian Trulli">
+  <td width="60%"><img src="https://raw.githubusercontent.com/MadanBaduwal/computer-vision-resources/main/computer_vision_and_intersection.png" alt="Italian Trulli">
 </td>
-  <td width="30%">A curated resources of computer vision resources, inspired by <a href="https://github.com/jbhuang0604/awesome-computer-vision">awesome computer vision</a>, <a href="https://github.com/amitness/learning">learning</a>,<a href="https://github.com/eugeneyan/applied-ml">applied-ml</a>,<a href="https://aman.ai/">aman.ai</a>,<a href="https://vinija.ai/">Vinija.ai</a>. With <a href="https://en.wikipedia.org/wiki/T-shaped_skills".T-shape Skills</a>, <a href="http://www.effectiveengineer.com/blog/master-adjacent-disciplines">Adjacet Learning</a>, <a href="https://jamesclear.com/continuous-improvement">Everyday</a> Learning.</td>
+  <td width="40%">A curated resources of computer vision resources, inspired by <a href="https://github.com/jbhuang0604/awesome-computer-vision">awesome computer vision</a>, <a href="https://github.com/amitness/learning">learning</a>,<a href="https://github.com/eugeneyan/applied-ml">applied-ml</a>,<a href="https://aman.ai/">aman.ai</a>,<a href="https://vinija.ai/">Vinija.ai</a>. With <a href="https://en.wikipedia.org/wiki/T-shaped_skills".T-shape Skills</a>, <a href="http://www.effectiveengineer.com/blog/master-adjacent-disciplines">Adjacet Learning</a>, <a href="https://jamesclear.com/continuous-improvement">Everyday</a> Learning.</td>
   </tr>
 </table>
 
@@ -362,6 +362,9 @@
 # Machine Learning
 Notes:
 Forward Pass and Backward Pass
+	
+## Be write basic machine learning algorithms from scratch
+
 - [X] [Linear Regression from scratch(Gradient Prespective): Geeksforgeeks](https://www.geeksforgeeks.org/linear-regression-implementation-from-scratch-using-python/#:~:text=Linear%20Regression%20is%20a%20supervised,the%20given%20input%20value%20x.)
 - [X] [Linear Regression from scratch(Variance and Covariance prespective): Machine Learning Mastery](https://machinelearningmastery.com/implement-simple-linear-regression-scratch-python/)
 - [X] [Linear Regression from scratch(Variance and Covariance prespective): toward datascience blog](https://medium.com/@lope.ai/linear-regression-from-scratch-in-python-6bdae2ea3610)
@@ -401,6 +404,14 @@ Forward Pass and Backward Pass
 - [X] [Naive Bayes: Implementing Naïve Bayes Classification from Scratch with Python: Medium](https://blog.devgenius.io/implementing-na%C3%AFve-bayes-classification-from-scratch-with-python-badd5a9be9c3)
 - [X] [Naive Bayes: Implementing Naive Bayes Algorithm from Scratch — Python: Medium](https://towardsdatascience.com/implementing-naive-bayes-algorithm-from-scratch-python-c6880cfc9c41)
 - [X] [Naive Bayes: Naïve Bayes Algorithm -Implementation from scratch in Python: Medium](https://medium.com/@rangavamsi5/na%C3%AFve-bayes-algorithm-implementation-from-scratch-in-python-7b2cc39268b9)
+- [X] [AODE: Averaged one-dependence estimators]()
+- [X] [Gaussian Naive Bayes](https://hackernoon.com/implementation-of-gaussian-naive-bayes-in-python-from-scratch-c4ea64e3944d)
+- [X] [Multinomial Naive Bayes: Implementing a Multinomial Naive Bayes Classifier from Scratch with Python](https://medium.com/@johnm.kovachi/implementing-a-multinomial-naive-bayes-classifier-from-scratch-with-python-e70de6a3b92e)
+- [X] [Multinomial Naive Bayes:Multinomial Naive Bayes from Scratch](https://www.kaggle.com/code/riyadhrazzaq/multinomial-naive-bayes-from-scratch/notebook)
+- [X] [Bernoulli Naive Bayes: Github](https://github.com/akaashagarwal/naive-bayes)
+- [X] [Bayesian Balief Network: Edureka](https://www.edureka.co/blog/bayesian-networks/)
+- [X] [Bayesian Balief Network: BBN: Bayesian Belief Networks — How to Build Them Effectively in Python](https://towardsdatascience.com/bbn-bayesian-belief-networks-how-to-build-them-effectively-in-python-6b7f93435bba)
+- [X] [Bayesian Balief Network:A Guide to Inferencing With Bayesian Network in Python](https://analyticsindiamag.com/a-guide-to-inferencing-with-bayesian-network-in-python/)
 - [X] [Random Forest: Medium](https://towardsdatascience.com/master-machine-learning-random-forest-from-scratch-with-python-3efdd51b6d7a)
 - [X] [Random Forest: Building a Random Forest from Scratch & Understanding Real-World Data Products (ML for Programmers – Part 3)](https://www.analyticsvidhya.com/blog/2018/12/building-a-random-forest-from-scratch-understanding-real-world-data-products-ml-for-programmers-part-3/)
 - [X] [Random Forest:Random Forests From Scratch](https://carbonati.github.io/posts/random-forests-from-scratch/)
@@ -420,6 +431,10 @@ Forward Pass and Backward Pass
 - [X] [K-Means Clustering: K-Means Clustering Algorithm from Scratch](https://www.machinelearningplus.com/predictive-modeling/k-means-clustering/)
 - [X] [K-median Clustering: Wikipedia](https://en.wikipedia.org/wiki/K-medians_clustering) 
 - [X] [K-median Clustering: Coursera](https://www.coursera.org/lecture/cluster-analysis/3-5-the-k-medians-and-k-modes-clustering-methods-pShI2)
+- [X] [BIRCH: BIRCH Clustering Algorithm Example In Python](https://towardsdatascience.com/machine-learning-birch-clustering-algorithm-clearly-explained-fb9838cbeed9)
+- [X] [BIRCH: Guide To BIRCH Clustering Algorithm(With Python Codes)](https://analyticsindiamag.com/guide-to-birch-clustering-algorithmwith-python-codes/)
+- [X] [Fuzzy C-means: github](https://github.com/TejasV58/Fuzzy-C-means-from-scratch)
+- [X] [Fuzzy C-means:Fuzzy C-Means Clustering with Python](https://towardsdatascience.com/fuzzy-c-means-clustering-with-python-f4908c714081)
 - [X] [PCA: Principal Component Analysis from Scratch in Python](https://www.askpython.com/python/examples/principal-component-analysis)
 - [X] [PCA: Principal Component Analysis (PCA) from scratch in Python](https://towardsdatascience.com/principal-component-analysis-pca-from-scratch-in-python-7f3e2a540c51)
 - [X] [PCA: Machine Learning Mastry](https://machinelearningmastery.com/calculate-principal-component-analysis-scratch-python/)
@@ -455,6 +470,17 @@ Forward Pass and Backward Pass
 - [ ] [ 3Blue1Brown: Neural networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 - [ ] [ Article: A Visual Tour of Backpropagation](https://blog.jinay.dev/posts/backprop/)
 
+## Be familar with loss functions
+### Regression Loss Function
+### Classfification Loss Function
+	
+## Be familar with optimization algorithms
+
+## Be familar with hypothesis testing
+
+## Be familar with accuracy matrix
+
+## Be familar with deep learning algorithms
 
 ## Be familiar with how ML is applied at other companies
 - [X] [Article: How Facebook uses super-efficient AI models to detect hate speech](https://ai.facebook.com/blog/how-facebook-uses-super-efficient-ai-models-to-detect-hate-speech)
