@@ -35,6 +35,9 @@
 		  <li><a href="https://github.com/lucidrains/vit-pytorch">vit-pytorch</a></li>
 		  <li><a href="https://github.com/donnemartin/system-design-primer">system-design-primer</a></li>
 		  <li><a href="https://github.com/donnemartin/interactive-coding-challenges">interactive-coding-challenges</a></li>
+		  <li><a href="https://github.com/donnemartin/data-science-ipython-notebooks">data-science-ipython-notebooks</a></li>
+		  <li><a href="https://github.com/donnemartin/awesome-aws">awesome-aws</a></li>
+		  <li><a href="https://github.com/donnemartin/gitsome">gitsome</a></li>
 		  <li><a href="https://aman.ai/">aman.ai</a></li>
 		  <li> <a href="https://vinija.ai/">Vinija.ai</a></li> 
 		  <li> <a href="https://github.com/mihail911/nlp-library">nlp-library</a></li>
