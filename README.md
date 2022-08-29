@@ -215,9 +215,16 @@
 3 fields:
 
 * Theoretical computer science: Theory of computation, Information and coading theory, DSA,Programming language theory and formal methods
-* Computer systems and computational processes: Artificial intelligence
+* Computer systems and computational processes: Artificial intelligence, Computer architecture and organization, Concurrent parallel and distributed computing, Computer network(ip & port), Computer security and cryptography, Databases and data mining and data science, Computer graphics and visualization, Image and sound processing
 	
-	
+# Data Structure and Algorithms
+- [X] [Article: Asymptotic Analysis Explained with Pokémon: A Deep Dive into Complexity Analysis](https://www.freecodecamp.org/news/asymptotic-analysis-explained-with-pokemon-a-deep-dive-into-complexity-analysis-8bf4396804e0/)
+- [X] [Book: Grokking Algorithms](https://www.manning.com/books/grokking-algorithms) 
+- [X] [Codecademy: Big O](https://www.codecademy.com/courses/big-o/0/1 )
+- [ ] [Khan Academy: Data Structures](https://www.khanacademy.org/computing/computer-science/algorithms)
+- [ ] [Udacity: Intro to Algorithms](https://www.udacity.com/course/intro-to-algorithms--cs215)
+- [ ] [Udacity: Programming Languages](https://www.udacity.com/course/programming-languages--cs262)
+     	
 # Programming and Libraries
 
 ## Python
@@ -452,14 +459,7 @@
 - [ ] [Exadel CompreFace ](https://github.com/exadel-inc/CompreFace)
 - [ ] [computer-vision-in-action ](https://github.com/Charmve/computer-vision-in-action)
 	
-# Data Structure and Algorithms
-- [X] [Article: Asymptotic Analysis Explained with Pokémon: A Deep Dive into Complexity Analysis](https://www.freecodecamp.org/news/asymptotic-analysis-explained-with-pokemon-a-deep-dive-into-complexity-analysis-8bf4396804e0/)
-- [X] [Book: Grokking Algorithms](https://www.manning.com/books/grokking-algorithms) 
-- [X] [Codecademy: Big O](https://www.codecademy.com/courses/big-o/0/1 )
-- [ ] [Khan Academy: Data Structures](https://www.khanacademy.org/computing/computer-science/algorithms)
-- [ ] [Udacity: Intro to Algorithms](https://www.udacity.com/course/intro-to-algorithms--cs215)
-- [ ] [Udacity: Programming Languages](https://www.udacity.com/course/programming-languages--cs262)
-     
+
 # Machine Learning
 Notes:
 Forward Pass and Backward Pass
