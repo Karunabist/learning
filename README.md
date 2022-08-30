@@ -431,6 +431,21 @@ Forward Pass and Backward Pass
 - [ ] [ Article: A Visual Tour of Backpropagation](https://blog.jinay.dev/posts/backprop/)
 
 ### Be familar with deep learning algorithms
+	
+- [ ] [Feed forward neural network: Neural Networks from Scratch in Python](https://towardsdatascience.com/creating-neural-networks-from-scratch-in-python-6f02b5dd911#:~:text=Feedforward%3A%20The%20inputs%20are%20fed,the%20network%20has%20finished%20training.)
+- [ ] [Feed forward neural network: Building a Feedforward Neural Network from Scratch in Python](https://medium.com/hackernoon/building-a-feedforward-neural-network-from-scratch-in-python-d3526457156b)
+- [ ] [Feed forward neural network: How to Code a Neural Network with Backpropagation In Python (from scratch)](https://machinelearningmastery.com/implement-backpropagation-algorithm-scratch-python/)
+- [ ] [Feed forward neural network: Neural Network Code in Python 3 from Scratch](https://pythonalgos.com/create-a-neural-network-from-scratch-in-python-3/)
+- [ ] [Feed forward neural network: packet](https://subscription.packtpub.com/book/data/9781789346640/1/ch01lvl1sec05/feed-forward-propagation-from-scratch-in-python)
+
+- [ ] [CNN: CNN from scratch(numpy)](https://www.kaggle.com/code/milan400/cnn-from-scratch-numpy/notebook)
+- [ ] [CNN: How to Develop a CNN From Scratch for CIFAR-10 Photo Classification](https://machinelearningmastery.com/how-to-develop-a-cnn-from-scratch-for-cifar-10-photo-classification/)
+- [ ] [CNN: Building Convolutional Neural Network using NumPy from Scratch](https://towardsdatascience.com/building-convolutional-neural-network-using-numpy-from-scratch-b30aac50e50a)
+- [ ] [CNN: Github ](https://github.com/AlessandroSaviolo/CNN-from-Scratch)
+- [ ] [CNN: CNN-from-Scratch](https://github.com/zishansami102/CNN-from-Scratch)
+- [ ] [CNN: Building Convolutional Neural Network using NumPy from Scratch](https://www.kdnuggets.com/2018/04/building-convolutional-neural-network-numpy-scratch.html)
+- [ ] [CNN: Convolutional Neural Networks From Scratch on Python](https://q-viper.github.io/2020/06/05/convolutional-neural-networks-from-scratch-on-python/)
+	
 
 	
 ### Be familar with loss functions
