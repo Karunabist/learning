@@ -432,8 +432,8 @@ Forward Pass and Backward Pass
 - [ ] [ Article: A Visual Tour of Backpropagation](https://blog.jinay.dev/posts/backprop/)
 
 ### Be familar with loss functions
-#### Regression Loss Function
-#### Classfification Loss Function
+
+- [ ] []()
 	
 ### Be familar with optimization algorithms
 
