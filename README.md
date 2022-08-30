@@ -60,6 +60,7 @@
 	
 <details>
 <summary>Language(English)</summary>
+	
 5 things : 
 	
 * phonology 
@@ -445,6 +446,14 @@ Forward Pass and Backward Pass
 - [ ] [CNN: CNN-from-Scratch](https://github.com/zishansami102/CNN-from-Scratch)
 - [ ] [CNN: Building Convolutional Neural Network using NumPy from Scratch](https://www.kdnuggets.com/2018/04/building-convolutional-neural-network-numpy-scratch.html)
 - [ ] [CNN: Convolutional Neural Networks From Scratch on Python](https://q-viper.github.io/2020/06/05/convolutional-neural-networks-from-scratch-on-python/)
+
+- [ ] [Transformer: Transformers from Scratch in PyTorch](https://medium.com/the-dl/transformers-from-scratch-in-pytorch-8777e346ca51)
+- [ ] [Transformer from scratch using pytorch](https://www.kaggle.com/code/arunmohan003/transformer-from-scratch-using-pytorch/notebook)
+- [ ] [Transformer: TRANSFORMERS FROM SCRATCH](https://peterbloem.nl/blog/transformers)
+- [ ] [Transformer: Transformers in Pytorch from scratch for NLP Beginners](https://www.hyugen.com/article/transformers-in-pytorch-from-scratch-for-nlp-beginners-113cb366a5)
+- [ ] [Transformer: Transformers from Scratch](https://e2eml.school/transformers.html)
+- [ ] [Transformer: Pytorch Transformers from Scratch (Attention is all you need)](https://morioh.com/p/9cab1b4a01f8)
+- [ ] [Transformer: Transformer model for language understanding](https://www.tensorflow.org/text/tutorials/transformer)
 	
 
 	
