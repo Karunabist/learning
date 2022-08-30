@@ -494,8 +494,9 @@ Forward Pass and Backward Pass
 - [ ] [Transformer: Transformers from Scratch](https://e2eml.school/transformers.html)
 - [ ] [Transformer: Pytorch Transformers from Scratch (Attention is all you need)](https://morioh.com/p/9cab1b4a01f8)
 - [ ] [Transformer: Transformer model for language understanding](https://www.tensorflow.org/text/tutorials/transformer)
-	
 
+- [ ] [AutoEncoder: github ](https://github.com/eriklindernoren/ML-From-Scratch/blob/master/mlfromscratch/unsupervised_learning/autoencoder.py)
+- [ ] [GAN: Building a basic GAN from scratch](https://www.kaggle.com/code/balaka18/building-a-basic-gan-from-scratch/notebook)
 	
 ### Be familar with loss functions
 
