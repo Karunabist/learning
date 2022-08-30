@@ -86,7 +86,7 @@
 - [X] [Oxford Online English](https://www.youtube.com/watch?v=WU7p-RptAfI)
 - [X] [Rachel's English](https://www.youtube.com/watch?v=c97xwLdSsXU)
 - [X] [Pronunciation Pro](https://www.youtube.com/c/pronunciationpro)
-- [X] [ccent's Way English with Hadar](https://www.youtube.com/c/accentsway)
+- [X] [Accent's Way English with Hadar](https://www.youtube.com/c/accentsway)
 
 
 ## Grammer
