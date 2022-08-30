@@ -92,11 +92,20 @@
 ## Grammer
 - [X] [My note on grammer](https://colab.research.google.com/drive/1_z4bJJy3MWq0GHh9mK3DyuiKjgA14E71?usp=sharing)
 - [X] [ENGLISH GRAMMAR IN USE Raymond Murphy](https://corsidilaurea.uniroma1.it/sites/default/files/english_grammar_in_use_intermediate_2019_5th-ed.pdf)
-- [X] [Learn American English Online](https://www.learnamericanenglishonline.com/)
 - [X] [AccurateEnglish](https://www.youtube.com/c/AccurateEnglish)
 - [X] [Janhavi Panwar](https://www.youtube.com/c/WonderGirlJanhavi)
 - [X] [English with Alex · engVid English Classes](https://www.youtube.com/c/engvidAlex)
-
+- [ ] [Elements of Style by William Strunk, Jr. and E.B. White](https://daoyuan14.github.io/elos.pdf)
+- [ ] [Oxford Modern English Grammar by Bas Aarts](https://xn--webducation-dbb.com/wp-content/uploads/2018/12/Bas-Aarts-Oxford-Modern-English-Grammar-Oxford-University-Press-2011.pdf)
+- [ ] [Purdue Online Writing Lab](https://owl.purdue.edu/)
+- [ ] [Grammar Exercises from the University of Bristol’s Faculty of Arts](https://www.ole.bris.ac.uk/bbcswebdav/courses/Study_Skills/grammar-and-punctuation/index.html#/)
+- [ ] [Grammar Monster](https://www.grammar-monster.com/)
+- [ ] [UsingEnglish.com](https://www.usingenglish.com/)
+- [ ] [Edufind.com](https://www.ef.com/wwen/english-resources/)
+- [ ] [British Council](https://learnenglish.britishcouncil.org/grammar/b1-b2-grammar)
+	
+	
+	
 ## Vocabulary
 - [X] [oxfordwordlist](https://www.oxfordwordlist.com/pages/report.asp)
 - [X] [oxfordwordlist](http://mooneewestps.vic.edu.au/app/webroot/uploaded_files/media/oxford_plus_list.pdf)
@@ -137,7 +146,18 @@
 - [X] [Using vocabulary to improve your writing:1 Hour to Improve Your English Writing Skills](https://www.youtube.com/watch?v=4V0wKH6hd30)
 - [X] [Using vocabulary to improve your writing: 25 Ways to Improve Your Writing Vocabulary](https://wordcounter.net/blog/2014/01/22/1027_25-ways-to-improve-your-writing-vocabulary.html)
 - [X] [Using vocabulary to improve your writing:HOW TO IMPROVE YOUR VOCABULARY FOR WRITING & SPEAKING SUCCESS](https://www.briantracy.com/blog/writing/how-to-improve-your-vocabulary/)
-- [X] []()
+- [X] [The writing process: My note](https://docs.google.com/document/d/1_8lGiz0xQt_Dv5GCQNuFGExXN9I7P5eodkPy_6DwiGM/edit?usp=sharing)
+- [X] [The writing process](http://bowenpeters.weebly.com/uploads/8/1/1/9/8119969/writing_process_detailed.pdf)
+- [X] [The Writing Process](https://teacher.scholastic.com/products/ruth-culham-writing-program/html_images/commoncore_images/ProductionDistribution.pdf)
+- [X] [Answering the question: My note](https://docs.google.com/document/d/1fAAFdkP8_18xOjJPDZTEEaHVystogii4M8rIZYBSM7o/edit?usp=sharing)
+- [X] [Writing a comparison essay: My note](https://docs.google.com/document/d/1r1BGYve80izq2anQ0bpMx0fjKLOqfeAfU4TdKvROJhM/edit?usp=sharing)
+- [X] [Writing a comparison essay:Compare & Contrast Essays](https://www.eapfoundation.com/writing/essays/candc/)
+- [X] [Writing an argument essay: My note](https://docs.google.com/document/d/1uowqtsaReUkFndQcWcB4e4PUJNfYLnF-Bi3CUQxM5tQ/edit?usp=sharing)
+- [ ] [Writing an argument essay: How to Write a Standout Argumentative Essay](https://www.grammarly.com/blog/argumentative-essay/)
+- [ ] [Writing a longer essay or Thesis,dissertation,research paper: My note](https://docs.google.com/document/d/1qSC3_GwYq83grW2HNlvnCV_Stb2a0qRarwqbPN5VAn4/edit?usp=sharing)
+- [ ] [Writing a longer essay or Thesis,dissertation,research paper: What is the difference between an essay, a dissertation and a thesis?](https://www.linkedin.com/pulse/what-difference-between-essay-dissertation-thesis-tom-alter/)
+
+	
 - [X] [My note on writting](https://drive.google.com/drive/folders/1-qPhvWNKctaNBjH9shw-JBEiC76-cGJr?usp=sharing)
 
 	
