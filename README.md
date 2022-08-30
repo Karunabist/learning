@@ -28,6 +28,14 @@
   <td width="40%">
 	  <ul>    
 		  Inspired by 
+		  <li><a href="https://github.com/donnemartin/system-design-primer">system-design-primer</a></li>
+		  <li><a href="https://github.com/donnemartin/interactive-coding-challenges">interactive-coding-challenges</a></li>
+		  <li><a href="https://github.com/donnemartin/data-science-ipython-notebooks">data-science-ipython-notebooks</a></li>
+		  <li><a href="https://github.com/donnemartin/awesome-aws">awesome-aws</a></li>
+		  <li><a href="https://github.com/donnemartin/gitsome">gitsome</a></li>
+		  <li><a href="https://github.com/visenger/awesome-mlops">awesome-mlops</a></li>
+		  <li><a href="https://github.com/prakhar1989/awesome-courses">awesome-courses</a></li>
+		  <li><a href="https://github.com/alexeygrigorev/data-science-interviews">data-science-interviews</a></li>
 		  <li><a href="https://github.com/ujjwalkarn/Machine-Learning-Tutorials">Machine-Learning-Tutorials</a></li>
 		  <li><a href="https://github.com/jbhuang0604/awesome-computer-vision">awesome computervision</a></li> 
 		  <li><a href="https://github.com/aymericdamien/TopDeepLearning">TopDeepLearning</a></li>
@@ -38,14 +46,6 @@
 		  <li><a href="https://github.com/dennybritz/deeplearning-papernotes">deeplearning-papernotes</a></li>
 		  <li><a href="https://github.com/keon/awesome-nlp">awesome-nlp</a></li>
 		  <li><a href="https://github.com/lucidrains/vit-pytorch">vit-pytorch</a></li>
-		  <li><a href="https://github.com/donnemartin/system-design-primer">system-design-primer</a></li>
-		  <li><a href="https://github.com/donnemartin/interactive-coding-challenges">interactive-coding-challenges</a></li>
-		  <li><a href="https://github.com/donnemartin/data-science-ipython-notebooks">data-science-ipython-notebooks</a></li>
-		  <li><a href="https://github.com/donnemartin/awesome-aws">awesome-aws</a></li>
-		  <li><a href="https://github.com/donnemartin/gitsome">gitsome</a></li>
-		  <li><a href="https://github.com/visenger/awesome-mlops">awesome-mlops</a></li>
-		  <li><a href="https://github.com/prakhar1989/awesome-courses">awesome-courses</a></li>
-		  <li><a href="https://github.com/alexeygrigorev/data-science-interviews">data-science-interviews</a></li>
 		  <li><a href="https://github.com/EthicalML/awesome-production-machine-learning">awesome-production-machine-learning</a></li>
 		  <li> <a href="https://github.com/mihail911/nlp-library">nlp-library</a></li>
 		  </td>
