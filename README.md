@@ -430,6 +430,9 @@ Forward Pass and Backward Pass
 - [ ] [ 3Blue1Brown: Neural networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 - [ ] [ Article: A Visual Tour of Backpropagation](https://blog.jinay.dev/posts/backprop/)
 
+### Be familar with deep learning algorithms
+
+	
 ### Be familar with loss functions
 
 Regression Loss Functions, Binary Classification Loss Functions, Multi-Class Classification Loss Functions
@@ -449,10 +452,17 @@ Regression Loss Functions, Binary Classification Loss Functions, Multi-Class Cla
 - [ ] [A Survey of Optimization Methods from a Machine Learning Perspective](https://arxiv.org/pdf/1906.06821.pdf)
 
 ### Be familar with hypothesis testing
+- [ ] [Hypothesis Testing with Python: Step by step hands-on tutorial with practical examples](https://towardsdatascience.com/hypothesis-testing-with-python-step-by-step-hands-on-tutorial-with-practical-examples-e805975ea96e)
+- [ ] [Hypothesis testing in Machine learning using Python](https://towardsdatascience.com/hypothesis-testing-in-machine-learning-using-python-a0dc89e169ce)
+- [ ] [Statistical Hypothesis Testing with Python Implementation](https://www.section.io/engineering-education/statistical-hypothesis-testing-python-implementation/)
+- [ ] [An Interactive Guide to Hypothesis Testing in Python](https://www.visual-design.net/post/an-interactive-guide-to-hypothesis-testing-in-python)
 
+	
 ### Be familar with accuracy matrix
+- [ ] [Evaluating Deep Learning Models: The Confusion Matrix, Accuracy, Precision, and Recall](https://blog.paperspace.com/deep-learning-metrics-precision-recall-accuracy/)
+- [ ] [Everything you Should Know about Confusion Matrix for Machine Learning](https://www.analyticsvidhya.com/blog/2020/04/confusion-matrix-machine-learning/)
+- [ ] [Metrics to Evaluate your Machine Learning Algorithm](https://towardsdatascience.com/metrics-to-evaluate-your-machine-learning-algorithm-f10ba6e38234)
 
-### Be familar with deep learning algorithms
 
 ### Be familiar with how ML is applied at other companies
 - [X] [Article: How Facebook uses super-efficient AI models to detect hate speech](https://ai.facebook.com/blog/how-facebook-uses-super-efficient-ai-models-to-detect-hate-speech)
