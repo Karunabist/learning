@@ -243,12 +243,26 @@
 * Applied  computer science: Computational science finance and engineering, Social computing and human–computer interaction, Software engineer
 	
 # Data Structure and Algorithms
+
+- [X] [Python array vs list](https://www.geeksforgeeks.org/difference-between-list-and-array-in-python/)
+- [X] [Stack: How to Implement a Stack in Python](https://stephenagrice.medium.com/how-to-implement-a-stack-in-python-423df8e81fd3)
+- [ ] [Stack: How To Create a Stack in Python From Scratch](https://python.plainenglish.io/how-to-create-a-stack-in-python-from-scratch-86350d0c15d0)
+- [ ] [Queue: Queue Implementation in Python](https://www.techiedelight.com/queue-implementation-python/)
+- [ ] [Queue: Implementing a Queue in Python](https://runestone.academy/ns/books/published/pythonds/BasicDS/ImplementingaQueueinPython.html)
+- [ ] [Queue: Queue Data Structure](https://www.programiz.com/dsa/queue)
+- [ ] [Singly linked list: Implementing a Singly Linked List in Python](https://www.codefellows.org/blog/implementing-a-singly-linked-list-in-python/)
+- [ ] [Doubly linked list: Doubly Linked List (Python Code with Example)](https://favtutor.com/blogs/doubly-linked-list-python)
+- [ ] [Doubly linked list: How to create a doubly linked list in Python](https://www.educative.io/answers/how-to-create-a-doubly-linked-list-in-python)
+- [ ] [Doubly linked list: Doubly Linked List | Set 1 (Introduction and Insertion)](https://www.geeksforgeeks.org/doubly-linked-list/)
+
+- [X] [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges)
 - [X] [Article: Asymptotic Analysis Explained with Pokémon: A Deep Dive into Complexity Analysis](https://www.freecodecamp.org/news/asymptotic-analysis-explained-with-pokemon-a-deep-dive-into-complexity-analysis-8bf4396804e0/)
 - [X] [Book: Grokking Algorithms](https://www.manning.com/books/grokking-algorithms) 
 - [X] [Codecademy: Big O](https://www.codecademy.com/courses/big-o/0/1 )
 - [ ] [Khan Academy: Data Structures](https://www.khanacademy.org/computing/computer-science/algorithms)
 - [ ] [Udacity: Intro to Algorithms](https://www.udacity.com/course/intro-to-algorithms--cs215)
 - [ ] [Udacity: Programming Languages](https://www.udacity.com/course/programming-languages--cs262)
+
      	
 # Programming language theory and formal methods
 ## Python
