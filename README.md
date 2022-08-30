@@ -254,7 +254,12 @@
 - [ ] [Doubly linked list: Doubly Linked List (Python Code with Example)](https://favtutor.com/blogs/doubly-linked-list-python)
 - [ ] [Doubly linked list: How to create a doubly linked list in Python](https://www.educative.io/answers/how-to-create-a-doubly-linked-list-in-python)
 - [ ] [Doubly linked list: Doubly Linked List | Set 1 (Introduction and Insertion)](https://www.geeksforgeeks.org/doubly-linked-list/)
-
+- [ ] [Binary tree: Python - Binary Tree](https://www.tutorialspoint.com/python_data_structure/python_binary_tree.htm#:~:text=Inserting%20into%20a%20Tree,used%20to%20print%20the%20tree.)
+- [ ] [Binary tree: Implement Binary Tree in Python](https://iq.opengenus.org/implement-binary-tree-in-python/)
+- [ ] [Hash table: Hash Table](https://www.programiz.com/dsa/hash-table)
+- [ ] [Unidirected graph: geek](https://www.geeksforgeeks.org/building-an-undirected-graph-and-finding-shortest-path-using-dictionaries-in-python/)
+- [  ] [Unidirected graph: Implementing Undirected Graphs in Python](https://pythonandr.com/2016/07/28/implementing-undirected-graphs-in-python/)
+- [ ] [Hash tree: HW2 Implement HashTree and FP-Tree by Python](http://www.wiki.yelbee.top/2020/05/06/Data%20Mining/HW2%20Implement%20HashTree%20and%20FP-Tree%20by%20Python/)
 - [X] [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges)
 - [X] [Article: Asymptotic Analysis Explained with Pokémon: A Deep Dive into Complexity Analysis](https://www.freecodecamp.org/news/asymptotic-analysis-explained-with-pokemon-a-deep-dive-into-complexity-analysis-8bf4396804e0/)
 - [X] [Book: Grokking Algorithms](https://www.manning.com/books/grokking-algorithms) 
