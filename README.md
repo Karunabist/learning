@@ -1208,7 +1208,9 @@ Regression Loss Functions, Binary Classification Loss Functions, Multi-Class Cla
 - [ ] [computer-vision-in-action ](https://github.com/Charmve/computer-vision-in-action)
 	
 
-## Software engineer
+# Software engineer
+
+
 ### Web Framework
 ### Backend
 - [X] [Django: Documentaion](https://docs.djangoproject.com/en/4.1/)
