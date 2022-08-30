@@ -1051,7 +1051,7 @@ Regression Loss Functions, Binary Classification Loss Functions, Multi-Class Cla
 * [dirty_cat](https://github.com/dirty-cat/dirty_cat) - facilitates machine-learning on dirty, non-curated categories. It provides transformers and encoders robust to morphological variants, such as typos.
 * [Upgini](https://github.com/upgini/river): Free automated data & feature enrichment library for machine learning - automatically searches through thousands of ready-to-use features from public and community shared data sources and enriches your training dataset with only the accuracy improving features.    
 
-## Be familar with scary usages of AI
+### Be familar with scary usages of AI
 
 - [X] [Awful AI](https://github.com/daviddao/awful-ai)
 
