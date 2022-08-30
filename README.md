@@ -409,7 +409,6 @@ Forward Pass and Backward Pass
 - [X] [machine-learning-roadmap](https://github.com/mrdbourke/machine-learning-roadmap)
 - [X] [aman.ai](https://aman.ai/")
 - [X] [vinija.ai](https://vinija.ai/")
-- [X] [Andrage Karpathy](https://www.youtube.com/watch?v=VMj-3S1tku0)
 - [X] [Stanford CS229: Machine Learning Full Course taught by Andrew Ng | Autumn 2018](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 - [X] [The hundred-page machine learning book - Burkov, Andriy](https://b-ok.asia/book/3710356/c8880d)
 - [ ] [Pattern Recognition and Machine Learning - Christopher M. Bishop 2007](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
@@ -433,9 +432,21 @@ Forward Pass and Backward Pass
 
 ### Be familar with loss functions
 
-- [ ] []()
+Regression Loss Functions, Binary Classification Loss Functions, Multi-Class Classification Loss Functions
+
 	
-### Be familar with optimization algorithms
+- [ ] [Common Loss functions in machine learning](https://towardsdatascience.com/common-loss-functions-in-machine-learning-46af0ffc4d23)
+- [ ] [A Detailed Guide to 7 Loss Functions for Machine Learning Algorithms with Python Code](https://www.analyticsvidhya.com/blog/2019/08/detailed-guide-7-loss-functions-machine-learning-python-code/)
+- [ ] [How to Choose Loss Functions When Training Deep Learning Neural Networks](https://machinelearningmastery.com/how-to-choose-loss-functions-when-training-deep-learning-neural-networks/)
+	
+### Be familar with back propagation, objective function, optimization
+
+- [X] [Andrage Karpathy](https://www.youtube.com/watch?v=VMj-3S1tku0)
+- [ ] [Edureka](https://www.edureka.co/blog/backpropagation/)
+- [ ] [How to Code a Neural Network with Backpropagation In Python (from scratch)](https://machinelearningmastery.com/implement-backpropagation-algorithm-scratch-python/)
+- [ ] [Backpropagation](https://en.wikipedia.org/wiki/Backpropagation)
+- [ ] [How to Choose an Optimization Algorithm](https://machinelearningmastery.com/tour-of-optimization-algorithms/)
+- [ ] [A Survey of Optimization Methods from a Machine Learning Perspective](https://arxiv.org/pdf/1906.06821.pdf)
 
 ### Be familar with hypothesis testing
 
