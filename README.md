@@ -1230,46 +1230,40 @@ Regression Loss Functions, Binary Classification Loss Functions, Multi-Class Cla
 ## Software
 
 ### Desktop
-
 - [X] [Tkinter: Graphical User Interfaces with Tk](https://docs.python.org/3/library/tk.html)
 - [X] [Tkinter: TkDocs](https://tkdocs.com/tutorial/index.html)
 - [X] [Tkinter: Python interface to Tcl/Tk](https://python.readthedocs.io/en/stable/library/tkinter.html)
 	
 ### Smartphone
-
 #### Android
-	
 - [ ] [Android Studio : Tutorial](https://www.javatpoint.com/android-tutorial)
 - [ ] [Android Studio : Android Tutorial](https://www.tutorialspoint.com/android/index.htm)
-
-	
 #### ios
-
 - [ ] [Swift: documentation](https://www.swift.org/documentation/)
-	
-
 #### Android and ios
-	
 - [ ] [React Native: Documentation](https://reactnative.dev/docs/getting-started)
-
 ### Tablet
-
 - [ ] [Flutter: documentation](https://docs.flutter.dev/)
-	
-### Web application
-	
+
+### Web application	
 #### Front-End
 - [X] [Figma: Documentatio](https://www.figma.com/best-practices/guide-to-developer-handoff/components-styles-and-documentation/)
 - [X] [Tailwind](https://tailwindcss.com/)
 - [X] [Reactjs: Documentation](https://reactjs.org/docs/getting-started.html)
 - [X] [Bootstrap: Documentation](https://getbootstrap.com/docs/4.1/getting-started/introduction/)
-	
 #### Web framework
 - [X] [Django: Documentaion](https://docs.djangoproject.com/en/4.1/)
 - [X] [Django : awesome-django](https://github.com/wsvincent/awesome-django)
-- [X] [Nodejs: Documentation]()
+- [X] [Nodejs: Documentation](https://nodejs.org/en/docs/)
+- [X] [Wordpress: Documentation](https://developer.wordpress.org/)
+#### SEO
+- [ ] [SEO: What Is SEO / Search Engine Optimization?](https://searchengineland.com/guide/what-is-seo)
+- [ ] [SEO: Search engine optimization](https://en.wikipedia.org/wiki/Search_engine_optimization)
 
-
+### Plugin
+- [ ] [Google chrome extension: documentation](https://developer.chrome.com/docs/extensions/mv3/getstarted/)
+- [ ] [Mozilla extension: Documentation](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Your_first_WebExtension)
+	
 ### operating System
 	
 ### Device Drivers
@@ -1278,6 +1272,20 @@ Regression Loss Functions, Binary Classification Loss Functions, Multi-Class Cla
 	
 ### Malicious software
 	
+### Embedded Software
+	
+### Cars
+
+### Robots
+- [X] [ROS: Documentation](https://docs.ros.org/)
+
+### Microcode
+
+
+	
+## Quality Assurance
+
+## Devops
 
 </details>
 
