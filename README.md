@@ -1261,10 +1261,13 @@ Regression Loss Functions, Binary Classification Loss Functions, Multi-Class Cla
 #### Front-End
 - [X] [Figma: Documentatio](https://www.figma.com/best-practices/guide-to-developer-handoff/components-styles-and-documentation/)
 - [X] [Tailwind](https://tailwindcss.com/)
+- [X] [Reactjs: Documentation](https://reactjs.org/docs/getting-started.html)
+- [X] [Bootstrap: Documentation](https://getbootstrap.com/docs/4.1/getting-started/introduction/)
 	
-### Backend
+#### Web framework
 - [X] [Django: Documentaion](https://docs.djangoproject.com/en/4.1/)
 - [X] [Django : awesome-django](https://github.com/wsvincent/awesome-django)
+- [X] [Nodejs: Documentation]()
 
 
 ### operating System
