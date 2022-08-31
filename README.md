@@ -157,8 +157,20 @@
 - [ ] [Writing an argument essay: How to Write a Standout Argumentative Essay](https://www.grammarly.com/blog/argumentative-essay/)
 - [ ] [Writing a longer essay or Thesis,dissertation,research paper: My note](https://docs.google.com/document/d/1qSC3_GwYq83grW2HNlvnCV_Stb2a0qRarwqbPN5VAn4/edit?usp=sharing)
 - [ ] [Writing a longer essay or Thesis,dissertation,research paper: What is the difference between an essay, a dissertation and a thesis?](https://www.linkedin.com/pulse/what-difference-between-essay-dissertation-thesis-tom-alter/)
+- [ ] [Oral presentations: My note](https://docs.google.com/document/d/1OrSbN3ft2w_DKpRreAikkPJ08cxA0k6ZsutyOL7f46A/edit?usp=sharing)
+- [ ] [Oral presentations: How to write a good oral presentation on a point of view](https://www.insightpublications.com.au/how-to-write-a-good-oral-presentation-on-a-point-of-view/)
+- [ ] [Oral presentations: Ten Simple Rules for Making Good Oral Presentations](https://www.unl.edu/gradstudies/connections/ten-simple-rules-making-good-oral-presentations)
+- [ ] [Writting summary: How to Write a Summary | Guide & Examples](https://www.scribbr.com/working-with-sources/how-to-summarize/)
+- [ ] [Reporting on Data: What are Data Reports](https://segment.com/blog/data-reports/)
+- [ ] [Reporting on Data: Data Reporting: How to Create a High-Quality Data Report](https://venngage.com/blog/data-report/)
+- [ ] [Writing a report: How to Write a Report: A Guide](https://www.grammarly.com/blog/how-to-write-a-report/)
+- [ ] [Writing a report: How to Write a Report](https://www.skillsyouneed.com/write/report-writing.html)
+- [ ] [Writing a formal letter: How To Write a Formal Letter](https://www.indeed.com/career-advice/career-development/how-to-write-a-formal-letter)
+- [ ] [Writing a formal letter:Letter Format Example and Writing Tips](https://www.thebalancecareers.com/sample-letter-format-2063479)
+- [ ] [Writing emails: How to Write Formal Emails in English](https://www.wallstreetenglish.com/blog/how-to-write-formal-emails-in-english)
+- [ ] [Writing emails: Writing Effective Emails](https://www.mindtools.com/CommSkll/EmailCommunication.htm)
+- [ ] [Writing a cv or resume: jbhuang](https://twitter.com/jbhuang0604/status/1433651068282540033)
 
-	
 - [X] [My note on writting](https://drive.google.com/drive/folders/1-qPhvWNKctaNBjH9shw-JBEiC76-cGJr?usp=sharing)
 
 	
