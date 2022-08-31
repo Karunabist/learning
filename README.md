@@ -192,7 +192,7 @@
 
 # Have basic business understanding
 - [X] [Book: Delivering Happiness](https://www.amazon.com/Delivering-Happiness-Profits-Passion-Purpose/dp/0446576220)
-- [X] [Book: Good to Great: Why Some Companies Make the Leap...And Others Don't](https://www.amazon.com/Good-Great-Some-Companies-Others-ebook/dp/B0058DRUV6)
+- [X] [Book: Good to Great: Why Some Companies Make the Leap...And Others Don't](https://theyoungtreps.com/wp-content/uploads/2021/02/Collins-2001-Good-to-Great-Why-Some-Companies-Make-the-Leap...and-Others-Dont_.pdf)
 - [X] [Book: Hello, Startup: A Programmer's Guide to Building Products, Technologies, and Teams](https://www.amazon.com/Hello-Startup-Programmers-Building-Technologies/dp/1491909900)
 - [X] [Book: How Google Works](https://www.howgoogleworks.net)
 - [X] [Book: Learn to Earn: A Beginner's Guide to the Basics of Investing and Business](https://www.goodreads.com/book/show/817589.Learn_to_Earn)
@@ -1227,14 +1227,53 @@ Regression Loss Functions, Binary Classification Loss Functions, Multi-Class Cla
 
 # Software engineer
 
+## Software
 
-### Web Framework
+### Desktop
+
+- [X] [Tkinter: Graphical User Interfaces with Tk](https://docs.python.org/3/library/tk.html)
+- [X] [Tkinter: TkDocs](https://tkdocs.com/tutorial/index.html)
+- [X] [Tkinter: Python interface to Tcl/Tk](https://python.readthedocs.io/en/stable/library/tkinter.html)
+	
+### Smartphone
+
+#### Android
+	
+- [ ] [Android Studio : Tutorial](https://www.javatpoint.com/android-tutorial)
+- [ ] [Android Studio : Android Tutorial](https://www.tutorialspoint.com/android/index.htm)
+
+	
+#### ios
+
+- [ ] [Swift: documentation](https://www.swift.org/documentation/)
+	
+
+#### Android and ios
+	
+- [ ] [React Native: Documentation](https://reactnative.dev/docs/getting-started)
+
+### Tablet
+
+- [ ] [Flutter: documentation](https://docs.flutter.dev/)
+	
+### Web application
+	
+#### Front-End
+- [X] [Figma: Documentatio](https://www.figma.com/best-practices/guide-to-developer-handoff/components-styles-and-documentation/)
+- [X] [Tailwind](https://tailwindcss.com/)
+	
 ### Backend
 - [X] [Django: Documentaion](https://docs.djangoproject.com/en/4.1/)
 - [X] [Django : awesome-django](https://github.com/wsvincent/awesome-django)
-### Front-End
-- [X] [Tailwind](https://tailwindcss.com/)
 
+
+### operating System
+	
+### Device Drivers
+
+### Utilities
+	
+### Malicious software
 	
 
 </details>
