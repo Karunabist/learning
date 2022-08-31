@@ -170,7 +170,7 @@
 - [ ] [Writing emails: How to Write Formal Emails in English](https://www.wallstreetenglish.com/blog/how-to-write-formal-emails-in-english)
 - [ ] [Writing emails: Writing Effective Emails](https://www.mindtools.com/CommSkll/EmailCommunication.htm)
 - [ ] [Writing a cv or resume: jbhuang](https://twitter.com/jbhuang0604/status/1433651068282540033)
-
+- [ ] [Writing a covering letter: How to Write a Cover Letter](https://hbr.org/2014/02/how-to-write-a-cover-letter)
 - [X] [My note on writting](https://drive.google.com/drive/folders/1-qPhvWNKctaNBjH9shw-JBEiC76-cGJr?usp=sharing)
 
 	
