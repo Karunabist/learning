@@ -1284,8 +1284,24 @@ Regression Loss Functions, Binary Classification Loss Functions, Multi-Class Cla
 
 	
 ## Quality Assurance
+- [ ] [Pytest: Documentation](https://docs.pytest.org/en/7.1.x/contents.html)
+- [] [Python robot framework: Documentation](https://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html)
+- [ ] [...]()
+	
+
 
 ## Devops
+- [ ] [My note on devops](https://github.com/MadanBaduwal/python-project-structure/blob/main/mlops.md)
+- [ ] [git: Documentation](https://git-scm.com/doc)
+- [ ] [github and github action: Documentation](https://docs.github.com/en)
+- [ ] [gitsome](https://github.com/donnemartin/gitsome)
+- [ ] [Pypi: Documentation](https://py-pkgs.org/08-ci-cd.html)
+- [ ] [Testing: Automation Testing in CI/CD](https://www.browserstack.com/guide/role-of-automation-testing-in-ci-cd)
+- [ ] [Jenkins: Documentation](https://www.jenkins.io/)
+- [ ] [AWS: Documentation](https://docs.aws.amazon.com/)
+- [ ] [awesome-aws](https://github.com/donnemartin/awesome-aws)
+- [ ] [Kubernetes: Documentatio](https://kubernetes.io/docs/home/)
+- [ ] [Datadog](https://docs.datadoghq.com/)
 
 </details>
 
