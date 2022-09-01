@@ -241,7 +241,7 @@
   
 - [X] [mathematics: My implementation from scratch](https://madanbaduwal.github.io/mathematics/)
 
-### Calcalus
+## Change(Calculus)
 
 - [ ] [3Blue1Brown: Essence of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 - [ ] [ Khan Academy: Differential Calculus](https://www.khanacademy.org/mission/differential-calculus)
@@ -271,7 +271,7 @@
 - [ ] [ Udacity: Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)     
 - [ ] [ Udacity: Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)   
 	
-# Combine all above fields
+# Resources for all mathematics branches
 - [ ] [Essentials Mathematics for machine learning](https://www.youtube.com/playlist?list=PLLy_2iUCG87D1CXFxE-SxCFZUiJzQ3IvE)
 - [ ] [Mathematics of Machine Learning](https://www.tivadardanka.com/blog)
 - [ ] [TED](https://www.ted.com/talks/marcus_du_sautoy_symmetry_reality_s_riddle?referrer=playlist-math_talks_to_blow_your_mind&autoplay=true)
