@@ -231,12 +231,31 @@
 - [ ] [Mathematics for Machine Leaning Linear Algebra](https://www.youtube.com/watch?v=T73ldK46JqE&list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3)
 - [ ] [ 3Blue1Brown: Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - [ ] [ Article: Introduction to Linear Algebra for Applied Machine Learning with Python](https://pabloinsente.github.io/intro-linear-algebra)
-- [ ] [ Article: Probability Distributions](https://www.simonwardjones.co.uk/posts/probability_distributions/)
 - [ ] [ Article: Relearning Matrices as Linear Functions](https://www.dhruvonmath.com/2018/12/31/matrices/)
 - [ ] [ Article: You Could Have Come Up With Eigenvectors - Here's How](https://www.dhruvonmath.com/2019/02/25/eigenvectors/)
 - [ ] [ Article: PageRank - How Eigenvectors Power the Algorithm Behind Google Search](https://www.dhruvonmath.com/2019/03/20/pagerank/)
 - [ ] [ Article: Interactive Visualization of Why Eigenvectors Matter](https://www.dhruvonmath.com/2020/07/26/who-cares-about-eigenvectors/)
-- [ ] [  Article: Math You Need to Succeed In ML Interviews](https://towardsdatascience.com/math-you-need-to-succeed-in-ml-interviews-9e717d61f296)
+- [ ] [ Khan Academy: Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
+- [ ] [ Udacity: Eigenvectors and Eigenvalues](https://www.udacity.com/course/eigenvectors-and-eigenvalues--ud104)
+- [ ] [ Udacity: Linear Algebra Refresher](https://www.udacity.com/course/linear-algebra-refresher-course--ud953)     
+  
+- [X] [mathematics: My implementation from scratch](https://madanbaduwal.github.io/mathematics/)
+
+### Calcalus
+
+- [ ] [3Blue1Brown: Essence of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+- [ ] [ Khan Academy: Differential Calculus](https://www.khanacademy.org/mission/differential-calculus)
+- [ ] [ Khan Academy: Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus)
+	
+# Applied Mathematics
+
+### Statistics and other decision sciences(probability and statistics)
+- [ ] [ StatQuest: Statistics Fundamentals](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
+- [ ] [ Article: Entropy, Cross Entropy, and KL Divergence](https://towardsdatascience.com/entropy-cross-entropy-and-kl-divergence-17138ffab87b)
+- [ ] [ Article: Interview Guide to Probability Distributions](https://medium.com/acing-ai/interview-guide-to-probability-distributions-a6dfb08c3766)
+- [ ] [ Article: Entropy of a probability distribution — in layman’s terms](https://ajitrajasekharan.medium.com/entropy-of-a-probability-distribution-explained-in-laymans-terms-8a4139b329bc)
+- [ ] [ Article: KL Divergence — in layman’s terms](https://ajitrajasekharan.medium.com/what-is-kl-divergence-d1fb7921ee5b)
+- [ ] [ Article: Probability Distributions](https://www.simonwardjones.co.uk/posts/probability_distributions/)
 - [ ] [ Datacamp: Introduction to Statistics](https://www.datacamp.com/courses/introduction-to-statistics)
 - [ ] [ Datacamp: Introduction to Statistics in Python](https://www.datacamp.com/courses/introduction-to-statistics-in-python)
 - [ ] [ Datacamp: Foundations of Probability in Python](https://www.datacamp.com/courses/foundations-of-probability-in-python)
@@ -248,34 +267,16 @@
 - [ ] [ Computational Linear Algebra for Coders](https://github.com/fastai/numerical-linear-algebra)
 - [ ] [ Khan Academy: Precalculus](https://www.khanacademy.org/math/precalculus)
 - [ ] [ Khan Academy: Probability](https://www.khanacademy.org/mission/probability)
-- [ ] [ Khan Academy: Differential Calculus](https://www.khanacademy.org/mission/differential-calculus)
-- [ ] [ Khan Academy: Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus)
-- [ ] [ Khan Academy: Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
-- [ ] [ Udacity: Eigenvectors and Eigenvalues](https://www.udacity.com/course/eigenvectors-and-eigenvalues--ud104)
-- [ ] [ Udacity: Linear Algebra Refresher](https://www.udacity.com/course/linear-algebra-refresher-course--ud953)     
 - [ ] [ Udacity: Statistics](https://www.udacity.com/course/statistics--st095)    
 - [ ] [ Udacity: Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)     
-- [ ] [ Udacity: Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)     
-- [X] [mathematics: My implementation from scratch](https://madanbaduwal.github.io/mathematics/)
-
-### Calcalus
-
-- [ ] [3Blue1Brown: Essence of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
-
-# Applied Mathematics
-
-### Statistics and other decision sciences(probability and statistics)
-- [ ] [ StatQuest: Statistics Fundamentals](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
-- [ ] [ Article: Entropy, Cross Entropy, and KL Divergence](https://towardsdatascience.com/entropy-cross-entropy-and-kl-divergence-17138ffab87b)
-- [ ] [ Article: Interview Guide to Probability Distributions](https://medium.com/acing-ai/interview-guide-to-probability-distributions-a6dfb08c3766)
-- [ ] [ Article: Entropy of a probability distribution — in layman’s terms](https://ajitrajasekharan.medium.com/entropy-of-a-probability-distribution-explained-in-laymans-terms-8a4139b329bc)
-- [ ] [ Article: KL Divergence — in layman’s terms](https://ajitrajasekharan.medium.com/what-is-kl-divergence-d1fb7921ee5b)
-
+- [ ] [ Udacity: Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)   
+	
 # Combine all above fields
 - [ ] [Essentials Mathematics for machine learning](https://www.youtube.com/playlist?list=PLLy_2iUCG87D1CXFxE-SxCFZUiJzQ3IvE)
 - [ ] [Mathematics of Machine Learning](https://www.tivadardanka.com/blog)
 - [ ] [TED](https://www.ted.com/talks/marcus_du_sautoy_symmetry_reality_s_riddle?referrer=playlist-math_talks_to_blow_your_mind&autoplay=true)
-
+- [ ] [  Article: Math You Need to Succeed In ML Interviews](https://towardsdatascience.com/math-you-need-to-succeed-in-ml-interviews-9e717d61f296)
+	
 </details>
 
 <details>
