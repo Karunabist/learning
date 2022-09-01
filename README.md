@@ -227,25 +227,16 @@
 - [X] [Gilbart Strang Video Series Spring 2005](https://www.youtube.com/watch?v=hNDFwVVKVk0&list=PLEAYkSg4uSQ1-bul680xs3oaCwI90yZHb)
 - [ ] [Introduction to Linear Algebra, Fifth Edition (2016)- Gilbert Strang](https://math.mit.edu/~gs/linearalgebra/)
 - [ ] [Linear Algebra and Its Applications - Gilbert Strang 1995](https://mobt3ath.com/uplode/books/book-34702.pdf)
-- [ ] [ StatQuest: Statistics Fundamentals](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
-- [ ] [Essentials Mathematics for machine learning](https://www.youtube.com/results?search_query=mathematics+for+machine+learning+)
+- [ ] [ Book: Basics of Linear Algebra for Machine Learning](https://machinelearningmastery.com/linear_algebra_for_machine_learning/)
 - [ ] [Mathematics for Machine Leaning Linear Algebra](https://www.youtube.com/watch?v=T73ldK46JqE&list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3)
-- [ ] [Mathematics of Machine Learning](https://www.tivadardanka.com/blog)
-- [ ] [TED](https://www.ted.com/talks/marcus_du_sautoy_symmetry_reality_s_riddle?referrer=playlist-math_talks_to_blow_your_mind&autoplay=true)
-- [ ] [3Blue1Brown: Essence of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 - [ ] [ 3Blue1Brown: Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
-- [ ] [ Article: Entropy, Cross Entropy, and KL Divergence](https://towardsdatascience.com/entropy-cross-entropy-and-kl-divergence-17138ffab87b)
-- [ ] [ Article: Interview Guide to Probability Distributions](https://medium.com/acing-ai/interview-guide-to-probability-distributions-a6dfb08c3766)
 - [ ] [ Article: Introduction to Linear Algebra for Applied Machine Learning with Python](https://pabloinsente.github.io/intro-linear-algebra)
-- [ ] [ Article: Entropy of a probability distribution — in layman’s terms](https://ajitrajasekharan.medium.com/entropy-of-a-probability-distribution-explained-in-laymans-terms-8a4139b329bc)
-- [ ] [ Article: KL Divergence — in layman’s terms](https://ajitrajasekharan.medium.com/what-is-kl-divergence-d1fb7921ee5b)
 - [ ] [ Article: Probability Distributions](https://www.simonwardjones.co.uk/posts/probability_distributions/)
 - [ ] [ Article: Relearning Matrices as Linear Functions](https://www.dhruvonmath.com/2018/12/31/matrices/)
 - [ ] [ Article: You Could Have Come Up With Eigenvectors - Here's How](https://www.dhruvonmath.com/2019/02/25/eigenvectors/)
 - [ ] [ Article: PageRank - How Eigenvectors Power the Algorithm Behind Google Search](https://www.dhruvonmath.com/2019/03/20/pagerank/)
 - [ ] [ Article: Interactive Visualization of Why Eigenvectors Matter](https://www.dhruvonmath.com/2020/07/26/who-cares-about-eigenvectors/)
 - [ ] [  Article: Math You Need to Succeed In ML Interviews](https://towardsdatascience.com/math-you-need-to-succeed-in-ml-interviews-9e717d61f296)
-- [ ] [ Book: Basics of Linear Algebra for Machine Learning](https://machinelearningmastery.com/linear_algebra_for_machine_learning/)
 - [ ] [ Datacamp: Introduction to Statistics](https://www.datacamp.com/courses/introduction-to-statistics)
 - [ ] [ Datacamp: Introduction to Statistics in Python](https://www.datacamp.com/courses/introduction-to-statistics-in-python)
 - [ ] [ Datacamp: Foundations of Probability in Python](https://www.datacamp.com/courses/foundations-of-probability-in-python)
@@ -266,6 +257,25 @@
 - [ ] [ Udacity: Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)     
 - [ ] [ Udacity: Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)     
 - [X] [mathematics: My implementation from scratch](https://madanbaduwal.github.io/mathematics/)
+
+### Calcalus
+
+- [ ] [3Blue1Brown: Essence of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+
+# Applied Mathematics
+
+### Statistics and other decision sciences(probability and statistics)
+- [ ] [ StatQuest: Statistics Fundamentals](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
+- [ ] [ Article: Entropy, Cross Entropy, and KL Divergence](https://towardsdatascience.com/entropy-cross-entropy-and-kl-divergence-17138ffab87b)
+- [ ] [ Article: Interview Guide to Probability Distributions](https://medium.com/acing-ai/interview-guide-to-probability-distributions-a6dfb08c3766)
+- [ ] [ Article: Entropy of a probability distribution — in layman’s terms](https://ajitrajasekharan.medium.com/entropy-of-a-probability-distribution-explained-in-laymans-terms-8a4139b329bc)
+- [ ] [ Article: KL Divergence — in layman’s terms](https://ajitrajasekharan.medium.com/what-is-kl-divergence-d1fb7921ee5b)
+
+# Combine all above fields
+- [ ] [Essentials Mathematics for machine learning](https://www.youtube.com/playlist?list=PLLy_2iUCG87D1CXFxE-SxCFZUiJzQ3IvE)
+- [ ] [Mathematics of Machine Learning](https://www.tivadardanka.com/blog)
+- [ ] [TED](https://www.ted.com/talks/marcus_du_sautoy_symmetry_reality_s_riddle?referrer=playlist-math_talks_to_blow_your_mind&autoplay=true)
+
 </details>
 
 <details>
