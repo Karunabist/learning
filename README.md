@@ -191,14 +191,14 @@
 
 
 # Have basic business understanding
-- [X] [Book: Delivering Happiness]([https://www.amazon.com/Delivering-Happiness-Profits-Passion-Purpose/dp/0446576220](https://www2.mvcc.edu/shn/pdf/presentations/2019-11-las-vegas/delivering-happiness.pdf))
+- [X] [Book: Delivering Happiness](https://www2.mvcc.edu/shn/pdf/presentations/2019-11-las-vegas/delivering-happiness.pdf)
 - [X] [Book: Good to Great: Why Some Companies Make the Leap...And Others Don't](https://theyoungtreps.com/wp-content/uploads/2021/02/Collins-2001-Good-to-Great-Why-Some-Companies-Make-the-Leap...and-Others-Dont_.pdf)
 - [X] [Book: Hello, Startup: A Programmer's Guide to Building Products, Technologies, and Teams](https://www.hello-startup.net/#)
 - [X] [Book: How Google Works](https://docs.google.com/document/d/1nj-M-caLlOXbkwZW9FIz7guOr-jr2YX5Jn3c4o_y-eM/preview)
 - [X] [Book: Learn to Earn: A Beginner's Guide to the Basics of Investing and Business](https://www.blackriverpublicschool.org/userfiles/53/Classes/1461/learn%20to%20earn%20by%20peter%20lynch,%20john%20rothchild%20(1).pdf?id=2549)
 - [X] [Book: Rework](https://s3.amazonaws.com/37assets/svn/Rework-by-Jason-Fried-and-David-Heinemeier-Hansson-Excerpts.pdf)
-- [X] [Book: The Airbnb Story](https://www.amazon.com/Airbnb-Story-Ordinary-Disrupted-Controversy/dp/0544952669)
-- [X] [Book: The Personal MBA](https://www.amazon.com/Personal-MBA-Master-Art-Business/dp/1591845572)
+- [X] [Book: The Airbnb Story](https://public.summaries.com/files/1-page-summary/the-airbnb-story.pdf)
+- [X] [Book: The Personal MBA](https://d-pdf.com/book/4267/read)
 - [X] [Facebook: Digital marketing: get started](https://learn.fb.com/skillset/marketing-started)
 - [X] [Facebook: Digital marketing: go further](https://learn.fb.com/skillset/marketing-further)
 - [X] [Google Analytics for Beginners](https://analytics.google.com/analytics/academy/course/6)
