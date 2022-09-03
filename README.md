@@ -405,7 +405,8 @@ CRUD operation
 
 ## Machine Learning
 Notes:
-Forward Pass and Backward Pass
+* Forward Pass and Backward Pass
+* Objective function(equation), calculate derivative of objective function with respect to weight and bias then update them
 	
 ### Be write basic machine learning algorithms from scratch
 
@@ -413,6 +414,11 @@ Forward Pass and Backward Pass
 - [X] [Linear Regression from scratch(Gradient Prespective): Geeksforgeeks](https://www.geeksforgeeks.org/linear-regression-implementation-from-scratch-using-python/#:~:text=Linear%20Regression%20is%20a%20supervised,the%20given%20input%20value%20x.)
 - [X] [Linear Regression from scratch(Variance and Covariance prespective): Machine Learning Mastery](https://machinelearningmastery.com/implement-simple-linear-regression-scratch-python/)
 - [X] [Linear Regression from scratch(Variance and Covariance prespective): toward datascience blog](https://medium.com/@lope.ai/linear-regression-from-scratch-in-python-6bdae2ea3610)
+- [X] [Ridge Regression from Scratch using Python](https://www.geeksforgeeks.org/implementation-of-ridge-regression-from-scratch-using-python/)
+- [X] [Lasso Regression From Scratch using Python](https://www.geeksforgeeks.org/implementation-of-lasso-regression-from-scratch-using-python/)
+- [X] [MultiTaskLasso](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.MultiTaskLasso.html#sklearn.linear_model.MultiTaskLasso)
+- [X] [Elastic Net Regression From Scratch(Ridge+Lasso)](https://www.geeksforgeeks.org/implementation-of-elastic-net-regression-from-scratch/)
+- [X] []()
 - [X] [Multivariate Adaptive Regression Splines(MARS)](https://contrib.scikit-learn.org/py-earth/content.html)
 - [X] [Multivariate Adaptive Regression Splines on Python](https://medium.com/@aishwaryapatange/pyearth-multivariate-adaptive-regression-splines-on-python-86e8dd647030)
 - [X] [Multivariate Adaptive Regression Splines](https://towardsdatascience.com/mars-multivariate-adaptive-regression-splines-how-to-improve-on-linear-regression-e1e7a63c5eae)
@@ -426,11 +432,14 @@ Forward Pass and Backward Pass
 - [X] [Logistic Regression(Gradient Prespective): Toward Datascience blog](https://www.analyticsvidhya.com/blog/2022/02/implementing-logistic-regression-from-scratch-using-python/)
 - [X] [Logistic Regression from scratch(Gradient Prespective): IBM blog](https://developer.ibm.com/articles/implementing-logistic-regression-from-scratch-in-python/)
 - [X] [Logistic: Logistic Regression](https://ml-cheatsheet.readthedocs.io/en/latest/logistic_regression.html)
+- [X] [Ridge Classification]()
 - [X] [Support Vector Machine(Gradient Prespective): Toward Datascience Blog](https://towardsdatascience.com/implementing-svm-from-scratch-784e4ad0bc6a)
 - [X] [Support Vector Machine(Gradient Prespective): Toward Datascience Blog](https://towardsdatascience.com/svm-implementation-from-scratch-python-2db2fc52e5c2)
 - [X] [Support Vector Machine(Gradient Prespective): Toward Datascience Blog](https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47)
 - [X] [Support Vector Machine(Gradient Prespective): Machine Learning Mastry](https://machinelearningmastery.com/method-of-lagrange-multipliers-the-theory-behind-support-vector-machines-part-3-implementing-an-svm-from-scratch-in-python/)
-- [X] []()
+- [X] [SVM kerna functions](https://www.geeksforgeeks.org/major-kernel-functions-in-support-vector-machine-svm/)
+- [X] [SVM kerna functions](https://medium.com/geekculture/kernel-methods-in-support-vector-machines-bb9409342c49)
+- [X] [SVM kerna functions](https://dataaspirant.com/svm-kernels/)
 - [X] [Decision tree: How to program a decision tree in Python from 0](https://anderfernandez.com/en/blog/code-decision-tree-python-from-scratch/)
 - [X] [Decision tree: Decision tree from scratch: Machine Learning Mastry](https://machinelearningmastery.com/implement-decision-tree-algorithm-scratch-python/)
 - [X] [Decision tree: All About Decision Tree from Scratch with Python Implementation: Analytics Vidhya](https://www.analyticsvidhya.com/blog/2020/10/all-about-decision-tree-from-scratch-with-python-implementation/)
@@ -489,7 +498,6 @@ Forward Pass and Backward Pass
 - [X] [PCA: PCA (Principal Component Analysis) in Python - ML From Scratch 11](https://www.python-engineer.com/courses/mlfromscratch/11_pca/)
 - [X] [PCA: Principal Component Analysis (PCA) in Python Tutorial](https://www.datacamp.com/tutorial/principal-component-analysis-in-python)
 
-- [X] [Machine Learning: My own implementation](https://github.com/MadanBaduwal/ML-algorithms)
 - [ ] [scikit-learn](https://github.com/scikit-learn/scikit-learn)
 - [ ] [handson-ml](https://github.com/ageron/handson-ml)
 - [ ] [handson-ml2](https://github.com/ageron/handson-ml2)
@@ -533,6 +541,8 @@ Forward Pass and Backward Pass
 - [ ] [ 3Blue1Brown: Neural networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 - [ ] [ Article: A Visual Tour of Backpropagation](https://blog.jinay.dev/posts/backprop/)
 - [ ] [Dataflair](https://data-flair.training/blogs/machine-learning-tutorial/)
+- [ ] [Machine Learning: My own implementation](https://github.com/MadanBaduwal/ML-algorithms)
+
 ### Be familar with deep learning algorithms
 	
 - [ ] [Feed forward neural network: Neural Networks from Scratch in Python](https://towardsdatascience.com/creating-neural-networks-from-scratch-in-python-6f02b5dd911#:~:text=Feedforward%3A%20The%20inputs%20are%20fed,the%20network%20has%20finished%20training.)
