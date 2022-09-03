@@ -409,6 +409,7 @@ Forward Pass and Backward Pass
 	
 ### Be write basic machine learning algorithms from scratch
 
+- [X] [Linear regression: Ordinary Least Squares Regression in Python from Scratch](https://jianghaochu.github.io/ordinary-least-squares-regression-in-python-from-scratch.html)
 - [X] [Linear Regression from scratch(Gradient Prespective): Geeksforgeeks](https://www.geeksforgeeks.org/linear-regression-implementation-from-scratch-using-python/#:~:text=Linear%20Regression%20is%20a%20supervised,the%20given%20input%20value%20x.)
 - [X] [Linear Regression from scratch(Variance and Covariance prespective): Machine Learning Mastery](https://machinelearningmastery.com/implement-simple-linear-regression-scratch-python/)
 - [X] [Linear Regression from scratch(Variance and Covariance prespective): toward datascience blog](https://medium.com/@lope.ai/linear-regression-from-scratch-in-python-6bdae2ea3610)
