@@ -430,6 +430,7 @@ Forward Pass and Backward Pass
 - [X] [Support Vector Machine(Gradient Prespective): Toward Datascience Blog](https://towardsdatascience.com/svm-implementation-from-scratch-python-2db2fc52e5c2)
 - [X] [Support Vector Machine(Gradient Prespective): Toward Datascience Blog](https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47)
 - [X] [Support Vector Machine(Gradient Prespective): Machine Learning Mastry](https://machinelearningmastery.com/method-of-lagrange-multipliers-the-theory-behind-support-vector-machines-part-3-implementing-an-svm-from-scratch-in-python/)
+- [X] []()
 - [X] [Decision tree: How to program a decision tree in Python from 0](https://anderfernandez.com/en/blog/code-decision-tree-python-from-scratch/)
 - [X] [Decision tree: Decision tree from scratch: Machine Learning Mastry](https://machinelearningmastery.com/implement-decision-tree-algorithm-scratch-python/)
 - [X] [Decision tree: All About Decision Tree from Scratch with Python Implementation: Analytics Vidhya](https://www.analyticsvidhya.com/blog/2020/10/all-about-decision-tree-from-scratch-with-python-implementation/)
@@ -531,7 +532,7 @@ Forward Pass and Backward Pass
 - [ ] [TED](https://www.ted.com/topics/machine+learning)
 - [ ] [ 3Blue1Brown: Neural networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 - [ ] [ Article: A Visual Tour of Backpropagation](https://blog.jinay.dev/posts/backprop/)
-
+- [ ] [Dataflair](https://data-flair.training/blogs/machine-learning-tutorial/)
 ### Be familar with deep learning algorithms
 	
 - [ ] [Feed forward neural network: Neural Networks from Scratch in Python](https://towardsdatascience.com/creating-neural-networks-from-scratch-in-python-6f02b5dd911#:~:text=Feedforward%3A%20The%20inputs%20are%20fed,the%20network%20has%20finished%20training.)
