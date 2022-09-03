@@ -339,7 +339,10 @@
 ## Python
 - [X] [Python](https://docs.python.org/3/)
 - [X] [Python OOP concept](https://www.geeksforgeeks.org/python-oops-concepts/#:~:text=In%20Python%2C%20object%2Doriented%20Programming,%2C%20polymorphisms%2C%20encapsulation%2C%20etc.)
+- [X] [Context Manager in Python](https://www.geeksforgeeks.org/context-manager-in-python/)
+- [X] [Structural Pattern Matching](https://benhoyt.com/writings/python-pattern-matching/)
 - [X] [Python OOP concept](https://pynative.com/python/object-oriented-programming/)
+- [X] [Support for type hints](https://docs.python.org/3/library/typing.html)
 - [X] [Article: A reverse chronology of some Python features](https://snarky.ca/a-reverse-chronology-of-some-python-features/)
 - [ ] [Article: No Really, Python's Pathlib is Great](https://rednafi.github.io/digressions/python/2020/04/13/python-pathlib.html)
 - [ ] [Article: When to switch to Python 3.9](https://pythonspeed.com/articles/switch-python-3.9/)
