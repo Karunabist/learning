@@ -286,6 +286,7 @@
 	
 # Data Structure and Algorithms
 
+- [X] [Data structure in python](https://www.edureka.co/blog/data-structures-in-python/)
 - [X] [Python array vs list](https://www.geeksforgeeks.org/difference-between-list-and-array-in-python/)
 - [X] [Stack: How To Create a Stack in Python From Scratch](https://python.plainenglish.io/how-to-create-a-stack-in-python-from-scratch-86350d0c15d0)
 - [X] [Queue: Implementing a Queue in Python](https://runestone.academy/ns/books/published/pythonds/BasicDS/ImplementingaQueueinPython.html)
@@ -297,9 +298,9 @@
 - [X] [Doubly linked list: Doubly Linked List | Set 1 (Introduction and Insertion)](https://www.geeksforgeeks.org/doubly-linked-list/)
 - [X] [Binary tree: Python - Binary Tree](https://www.tutorialspoint.com/python_data_structure/python_binary_tree.htm#:~:text=Inserting%20into%20a%20Tree,used%20to%20print%20the%20tree.)
 - [X] [Binary tree: Implement Binary Tree in Python](https://iq.opengenus.org/implement-binary-tree-in-python/)
-- [ ] [Hash table: Hash Table(Bakcground of the python inbuilt dictionary is hash table)](https://www.geeksforgeeks.org/hash-map-in-python/)
-- [ ] [Unidirected graph: geek](https://www.geeksforgeeks.org/building-an-undirected-graph-and-finding-shortest-path-using-dictionaries-in-python/)
-- [ ] [Unidirected graph: Implementing Undirected Graphs in Python](https://pythonandr.com/2016/07/28/implementing-undirected-graphs-in-python/)
+- [X] [Hash table: Hash Table(Bakcground of the python inbuilt dictionary is hash table)](https://www.geeksforgeeks.org/hash-map-in-python/)
+- [X] [Unidirected graph: geek](https://www.geeksforgeeks.org/building-an-undirected-graph-and-finding-shortest-path-using-dictionaries-in-python/)
+- [X] [Unidirected graph: Implementing Undirected Graphs in Python(BFS for a Graph)](https://pythonandr.com/2016/07/28/implementing-undirected-graphs-in-python/)
 - [ ] [Hash tree: HW2 Implement HashTree and FP-Tree by Python](http://www.wiki.yelbee.top/2020/05/06/Data%20Mining/HW2%20Implement%20HashTree%20and%20FP-Tree%20by%20Python/)
 - [ ] [Recursion : Python Recursion](https://www.programiz.com/python-programming/recursion)
 - [ ] [Recursion: Thinking Recursively in Python](https://realpython.com/python-thinking-recursively/)
