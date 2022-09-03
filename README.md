@@ -183,15 +183,12 @@
 - [X] [Magoosh 1000 Word GRE Study List](https://quizlet.com/470527785/magoosh-1000-word-gre-study-list-flash-cards/?x=1jqt)
 - [X] [Vocab-ebook-2.5-2019](https://magoosh.com/gre/files/2019/08/Vocab-ebook-2.5-2019.pdf)
 
-# TOEFL
+# Toefl
 - [X] [The Princeton Review](https://images.static-collegedunia.com/public/college_data/images/entrance/entrance_brochure/1603189704Cracking%20the%20TOEFL%202019%20Edition.pdf)
 - [X] [TST Prep TOEFL](https://www.youtube.com/c/TOEFLSpeakingTeacher1)
 
 # Books
 - [X] [Rich Dad Poor Dad](http://www.lequydonhanoi.edu.vn/upload_images/S%C3%A1ch%20ngo%E1%BA%A1i%20ng%E1%BB%AF/Rich%20Dad%20Poor%20Dad.pdf)
-
-
-# Have basic business understanding
 - [X] [Book: Delivering Happiness](https://www2.mvcc.edu/shn/pdf/presentations/2019-11-las-vegas/delivering-happiness.pdf)
 - [X] [Book: Good to Great: Why Some Companies Make the Leap...And Others Don't](https://theyoungtreps.com/wp-content/uploads/2021/02/Collins-2001-Good-to-Great-Why-Some-Companies-Make-the-Leap...and-Others-Dont_.pdf)
 - [X] [Book: Hello, Startup: A Programmer's Guide to Building Products, Technologies, and Teams](https://www.hello-startup.net/#)
