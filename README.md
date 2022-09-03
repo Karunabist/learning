@@ -545,30 +545,31 @@ Notes:
 
 ### Be familar with deep learning algorithms
 	
-- [ ] [Feed forward neural network: Neural Networks from Scratch in Python](https://towardsdatascience.com/creating-neural-networks-from-scratch-in-python-6f02b5dd911#:~:text=Feedforward%3A%20The%20inputs%20are%20fed,the%20network%20has%20finished%20training.)
-- [ ] [Feed forward neural network: Building a Feedforward Neural Network from Scratch in Python](https://medium.com/hackernoon/building-a-feedforward-neural-network-from-scratch-in-python-d3526457156b)
-- [ ] [Feed forward neural network: How to Code a Neural Network with Backpropagation In Python (from scratch)](https://machinelearningmastery.com/implement-backpropagation-algorithm-scratch-python/)
-- [ ] [Feed forward neural network: Neural Network Code in Python 3 from Scratch](https://pythonalgos.com/create-a-neural-network-from-scratch-in-python-3/)
-- [ ] [Feed forward neural network: packet](https://subscription.packtpub.com/book/data/9781789346640/1/ch01lvl1sec05/feed-forward-propagation-from-scratch-in-python)
+- [X] [Feed forward neural network: Neural Networks from Scratch in Python](https://towardsdatascience.com/creating-neural-networks-from-scratch-in-python-6f02b5dd911#:~:text=Feedforward%3A%20The%20inputs%20are%20fed,the%20network%20has%20finished%20training.)
+- [X] [Feed forward neural network: Building a Feedforward Neural Network from Scratch in Python](https://medium.com/hackernoon/building-a-feedforward-neural-network-from-scratch-in-python-d3526457156b)
+- [X] [Feed forward neural network: How to Code a Neural Network with Backpropagation In Python (from scratch)](https://machinelearningmastery.com/implement-backpropagation-algorithm-scratch-python/)
+- [X] [Feed forward neural network: Neural Network Code in Python 3 from Scratch](https://pythonalgos.com/create-a-neural-network-from-scratch-in-python-3/)
+- [X] [Feed forward neural network: packet](https://subscription.packtpub.com/book/data/9781789346640/1/ch01lvl1sec05/feed-forward-propagation-from-scratch-in-python)
+- [X] [CNN: CNN from scratch(numpy)](https://www.kaggle.com/code/milan400/cnn-from-scratch-numpy/notebook)
+- [X] [CNN: How to Develop a CNN From Scratch for CIFAR-10 Photo Classification](https://machinelearningmastery.com/how-to-develop-a-cnn-from-scratch-for-cifar-10-photo-classification/)
+- [X] [CNN: Building Convolutional Neural Network using NumPy from Scratch](https://towardsdatascience.com/building-convolutional-neural-network-using-numpy-from-scratch-b30aac50e50a)
+- [X] [CNN: Github ](https://github.com/AlessandroSaviolo/CNN-from-Scratch)
+- [X] [CNN: CNN-from-Scratch](https://github.com/zishansami102/CNN-from-Scratch)
+- [X] [CNN: Building Convolutional Neural Network using NumPy from Scratch](https://www.kdnuggets.com/2018/04/building-convolutional-neural-network-numpy-scratch.html)
+- [X] [CNN: Convolutional Neural Networks From Scratch on Python](https://q-viper.github.io/2020/06/05/convolutional-neural-networks-from-scratch-on-python/)
 
-- [ ] [CNN: CNN from scratch(numpy)](https://www.kaggle.com/code/milan400/cnn-from-scratch-numpy/notebook)
-- [ ] [CNN: How to Develop a CNN From Scratch for CIFAR-10 Photo Classification](https://machinelearningmastery.com/how-to-develop-a-cnn-from-scratch-for-cifar-10-photo-classification/)
-- [ ] [CNN: Building Convolutional Neural Network using NumPy from Scratch](https://towardsdatascience.com/building-convolutional-neural-network-using-numpy-from-scratch-b30aac50e50a)
-- [ ] [CNN: Github ](https://github.com/AlessandroSaviolo/CNN-from-Scratch)
-- [ ] [CNN: CNN-from-Scratch](https://github.com/zishansami102/CNN-from-Scratch)
-- [ ] [CNN: Building Convolutional Neural Network using NumPy from Scratch](https://www.kdnuggets.com/2018/04/building-convolutional-neural-network-numpy-scratch.html)
-- [ ] [CNN: Convolutional Neural Networks From Scratch on Python](https://q-viper.github.io/2020/06/05/convolutional-neural-networks-from-scratch-on-python/)
-
-- [ ] [Transformer: Transformers from Scratch in PyTorch](https://medium.com/the-dl/transformers-from-scratch-in-pytorch-8777e346ca51)
-- [ ] [Transformer from scratch using pytorch](https://www.kaggle.com/code/arunmohan003/transformer-from-scratch-using-pytorch/notebook)
-- [ ] [Transformer: TRANSFORMERS FROM SCRATCH](https://peterbloem.nl/blog/transformers)
-- [ ] [Transformer: Transformers in Pytorch from scratch for NLP Beginners](https://www.hyugen.com/article/transformers-in-pytorch-from-scratch-for-nlp-beginners-113cb366a5)
-- [ ] [Transformer: Transformers from Scratch](https://e2eml.school/transformers.html)
-- [ ] [Transformer: Pytorch Transformers from Scratch (Attention is all you need)](https://morioh.com/p/9cab1b4a01f8)
-- [ ] [Transformer: Transformer model for language understanding](https://www.tensorflow.org/text/tutorials/transformer)
-
-- [ ] [AutoEncoder: github ](https://github.com/eriklindernoren/ML-From-Scratch/blob/master/mlfromscratch/unsupervised_learning/autoencoder.py)
-- [ ] [GAN: Building a basic GAN from scratch](https://www.kaggle.com/code/balaka18/building-a-basic-gan-from-scratch/notebook)
+- [X] [Transformer: Transformers from Scratch in PyTorch](https://medium.com/the-dl/transformers-from-scratch-in-pytorch-8777e346ca51)
+- [X] [Transformer from scratch using pytorch](https://www.kaggle.com/code/arunmohan003/transformer-from-scratch-using-pytorch/notebook)
+- [X] [Transformer: TRANSFORMERS FROM SCRATCH](https://peterbloem.nl/blog/transformers)
+- [X] [Transformer: Transformers in Pytorch from scratch for NLP Beginners](https://www.hyugen.com/article/transformers-in-pytorch-from-scratch-for-nlp-beginners-113cb366a5)
+- [X] [Transformer: Transformers from Scratch](https://e2eml.school/transformers.html)
+- [X] [Transformer: Pytorch Transformers from Scratch (Attention is all you need)](https://morioh.com/p/9cab1b4a01f8)
+- [X] [Transformer: Transformer model for language understanding](https://www.tensorflow.org/text/tutorials/transformer)
+- [X] [GPT from Scratch](https://jaketae.github.io/study/gpt/)
+- [X] [minGPT](https://github.com/karpathy/minGPT)
+- [X] [BERT](https://neptune.ai/blog/how-to-code-bert-using-pytorch-tutorial)
+- [X] [AutoEncoder: github ](https://github.com/eriklindernoren/ML-From-Scratch/blob/master/mlfromscratch/unsupervised_learning/autoencoder.py)
+- [X] [GAN: Building a basic GAN from scratch](https://www.kaggle.com/code/balaka18/building-a-basic-gan-from-scratch/notebook)
 	
 ### Be familar with loss functions
 
@@ -1323,7 +1324,7 @@ Regression Loss Functions, Binary Classification Loss Functions, Multi-Class Cla
 	
 ## Quality Assurance
 - [ ] [Pytest: Documentation](https://docs.pytest.org/en/7.1.x/contents.html)
-- [] [Python robot framework: Documentation](https://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html)
+- [ ] [Python robot framework: Documentation](https://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html)
 - [ ] [...]()
 	
 
