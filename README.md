@@ -49,6 +49,7 @@
 		  <li><a href="https://github.com/lucidrains/vit-pytorch">vit-pytorch</a></li>
 		  <li><a href="https://github.com/EthicalML/awesome-production-machine-learning">awesome-production-machine-learning</a></li>
 		  <li> <a href="https://github.com/mihail911/nlp-library">nlp-library</a></li>
+		  <li> <a href = "https://github.com/datascienceid/machine-learning-resources">machine-learning-resources</a></li>
 		  </td>
 	  </ul>
   </tr>
@@ -298,9 +299,9 @@
 - [X] [Singly linked list: Implementing a Singly Linked List in Python](https://www.studytonight.com/post/implementing-singly-linked-list-in-python)
 - [X] [Doubly linked list: How to create a doubly linked list in Python](https://www.educative.io/answers/how-to-create-a-doubly-linked-list-in-python)
 - [X] [Doubly linked list: Doubly Linked List | Set 1 (Introduction and Insertion)](https://www.geeksforgeeks.org/doubly-linked-list/)
-- [ ] [Binary tree: Python - Binary Tree](https://www.tutorialspoint.com/python_data_structure/python_binary_tree.htm#:~:text=Inserting%20into%20a%20Tree,used%20to%20print%20the%20tree.)
-- [ ] [Binary tree: Implement Binary Tree in Python](https://iq.opengenus.org/implement-binary-tree-in-python/)
-- [ ] [Hash table: Hash Table](https://www.programiz.com/dsa/hash-table)
+- [X] [Binary tree: Python - Binary Tree](https://www.tutorialspoint.com/python_data_structure/python_binary_tree.htm#:~:text=Inserting%20into%20a%20Tree,used%20to%20print%20the%20tree.)
+- [X] [Binary tree: Implement Binary Tree in Python](https://iq.opengenus.org/implement-binary-tree-in-python/)
+- [ ] [Hash table: Hash Table(Bakcground of the python inbuilt dictionary is hash table)](https://www.geeksforgeeks.org/hash-map-in-python/)
 - [ ] [Unidirected graph: geek](https://www.geeksforgeeks.org/building-an-undirected-graph-and-finding-shortest-path-using-dictionaries-in-python/)
 - [ ] [Unidirected graph: Implementing Undirected Graphs in Python](https://pythonandr.com/2016/07/28/implementing-undirected-graphs-in-python/)
 - [ ] [Hash tree: HW2 Implement HashTree and FP-Tree by Python](http://www.wiki.yelbee.top/2020/05/06/Data%20Mining/HW2%20Implement%20HashTree%20and%20FP-Tree%20by%20Python/)
