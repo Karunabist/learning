@@ -268,7 +268,7 @@ Dialects,accents, and varieties
 - [X] [The White Tiger](https://drive.google.com/file/d/1Wp_MoQFxWnX1RBVT0ewYM4S2xQHAIwoB/view?usp=sharing)
 - [X] [The Fault In Our Stars](https://drive.google.com/file/d/16aNwf8HdJOUOW2Cj7JdXakmD1eDQT2Mx/view?usp=sharing)
 - [X] [Rich Dad Poor Dad](http://www.lequydonhanoi.edu.vn/upload_images/S%C3%A1ch%20ngo%E1%BA%A1i%20ng%E1%BB%AF/Rich%20Dad%20Poor%20Dad.pdf)
-- [X] [Book: Delivering Happiness](https://www2.mvcc.edu/shn/pdf/presentations/2019-11-las-vegas/delivering-happiness.pdf)
+- [X] [Book: Delivering Happiness](https://pdfhost.io/v/kscaS7~k1_deliveringhappiness_compress)
 - [X] [Book: Good to Great: Why Some Companies Make the Leap...And Others Don't](https://theyoungtreps.com/wp-content/uploads/2021/02/Collins-2001-Good-to-Great-Why-Some-Companies-Make-the-Leap...and-Others-Dont_.pdf)
 - [X] [Book: Hello, Startup: A Programmer's Guide to Building Products, Technologies, and Teams](https://www.hello-startup.net/#)
 - [X] [Book: How Google Works](https://docs.google.com/document/d/1nj-M-caLlOXbkwZW9FIz7guOr-jr2YX5Jn3c4o_y-eM/preview)
