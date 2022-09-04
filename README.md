@@ -278,6 +278,8 @@ Dialects,accents, and varieties
 # Podcasts
 - [X] [A Way with Words](https://www.waywordradio.org/category/episodes/)
 - [X] [Lex Fridman ](https://www.youtube.com/c/lexfridman)
+- [X] [Rich Roll ](https://www.youtube.com/c/Richroll)
+- [ ] [Learn English Podcast: Listen to episodes](https://www.youtube.com/watch?v=zV5HPJN48qc&list=PLZOJurmtexYqc6KY_Db4-fV7F06af1FkW)	
 	
 # Youtube Channels
 - [X] [English with Lucy](https://www.youtube.com/c/EnglishwithLucy)
@@ -287,8 +289,27 @@ Dialects,accents, and varieties
 - [X] [Janhavi Panwar](https://www.youtube.com/c/WonderGirlJanhavi)
 - [X] [Ocean English Academy](https://www.youtube.com/c/OceanEnglishAcademy)
 - [X] [Tejasvi Rajput](https://www.youtube.com/channel/UCupK5547qIX4jE58OxLJl9g)
-- [X] []()
+- [X] [To Fluency](https://www.youtube.com/c/Tofluencyenglish/about)
 - [X] [Antonio Parlati (Learn English)](https://www.youtube.com/channel/UC257b6MFXKs7JrxZGHOPH1w)
+- [X] [POC English ](https://www.youtube.com/c/POCEnglish)
+- [X] [Zen English ](https://www.youtube.com/c/sleeplearning)	
+- [X] [Teacher Luke - Duolingo English Test ](https://www.youtube.com/c/EnglishwithLuke)	
+- [X] [Learn English with EnglishClass101.com ](https://www.youtube.com/c/EnglishClass101/featured)
+- [X] [Learn English Online](https://www.youtube.com/user/DCWas)
+- [X] [Learn English American ](https://www.youtube.com/c/LearnEnglishAmerican)	
+- [X] [CaseyNeistat ](https://www.youtube.com/user/caseyneistat)
+- [X] [ElleOfTheMills](https://www.youtube.com/user/ElleOfTheMills)
+- [X] [Geography Now ](https://www.youtube.com/user/GeographyNow)
+- [X] [Vsauce](https://www.youtube.com/user/Vsauce)
+- [X] [Vitamin Stree](https://www.youtube.com/channel/UCEycinkCV4n08YxpFiaLKtA)
+- [X] [Lilly Singh ](https://www.youtube.com/user/IISuperwomanII)
+- [X] [Worth It](https://www.youtube.com/watch?v=lI4TS7RLbSA&list=PL5vtqDuUM1DmXwYYAQcyUwtcalp_SesZD&index=2)
+- [X] [Film Companion ](https://www.youtube.com/user/TheFIlmCompanion)
+- [X] [LastWeekTonight ](https://www.youtube.com/user/LastWeekTonight)
+- [X] [Hasan Minhaj ](https://www.youtube.com/c/hasanminhaj/videos)
+- [X] [Pick Up Limes ](https://www.youtube.com/channel/UCq2E1mIwUKMWzCA4liA_XGQ)
+- [X] [Garden Up](https://www.youtube.com/channel/UC0nChSOqQbA6tAi8_K7pD_A)
+- [X] [English Fluency Journey ](https://www.youtube.com/c/EnglishFluencyJourney)	
 	
 # Other References
 - [X] [Wikipedia](https://en.wikipedia.org/wiki/English_language)
