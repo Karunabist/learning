@@ -224,8 +224,7 @@ Dialects,accents, and varieties
 - [X] [Magoosh GRE Vocab eBook](https://drive.google.com/file/d/14600MtsbILtFg7hxZ7LlWnag3ZwA371m/view?usp=sharing)
 - [X] [Princeton](https://drive.google.com/file/d/1QuNgrtfQfCKZQoNrFfoR7O-RTUGQk_IE/view?usp=sharing)
 - [X] [The Tested Tutor](https://www.youtube.com/c/TheTestedTutor)
-- [X] [ETS GRE](https://www.youtube.com/channel/UCia8sCkZeAteKBHL5-hNRzA)	
-# Toefl
+- [X] [ETS GRE](https://www.youtube.com/channel/UCia8sCkZeAteKBHL5-hNRzA)
 - [X] [The Princeton Review](https://images.static-collegedunia.com/public/college_data/images/entrance/entrance_brochure/1603189704Cracking%20the%20TOEFL%202019%20Edition.pdf)
 - [X] [Princeton](https://drive.google.com/file/d/1Wv4DieR3PAiM2n9VFIi8byONW_QnKFnQ/view?usp=sharing)
 - [X] [The Vocabulary Builder Workbook 1400 Must Know Words](https://drive.google.com/file/d/11M9kBDzgFASQ0iw9SLI5UvmU6QFsQBz1/view?usp=sharing)
@@ -233,6 +232,25 @@ Dialects,accents, and varieties
 - [X] [Vocab 2](https://drive.google.com/file/d/1mTggcyZ46mog9yGLdycsFDgfTMrL4eRv/view?usp=sharing)
 - [X] [Vocab 3](https://drive.google.com/file/d/1GKt-XB4aDh_AgxQnX1zBr3fvOyDu5h38/view?usp=sharing)
 - [X] [Vocab 1](https://drive.google.com/file/d/1TptBUqAXo7cgmVILdFry3wuSWmZ5GIIa/view?usp=sharing)
+
+- [X] [Book: Official](https://drive.google.com/file/d/1asalqPm-6kWHJ8jId90EDKFWH8FKZjas/view?usp=sharing)
+- [X] [AWA: Official](https://drive.google.com/file/d/1HQaOz9rgnfs-SPQWlAEF50NP-ID6Sm-3/view?usp=sharing)
+- [X] [Issu: My Note](https://docs.google.com/document/d/1P3ouiicR3gg0Eb2Vw3p1v6hjPjGHbhGN7kGu47eZVWs/edit?usp=sharing)
+- [X] [Argument: My Note](https://docs.google.com/document/d/19OooY4S5pzYJKGSdvpg1InPr3W9lqqcEwIx3DlDJo0w/edit?usp=sharing)
+- [X] [Verbal Resoning: Official Book](https://drive.google.com/file/d/1mskv8MoJE7GQ-TxMV-k3lEBn6UFa3qqB/view?usp=sharing)
+- [X] [Quantative Reasoning: Official Book](https://drive.google.com/file/d/1rser7Y1UJj9gNYbYIr0dfVCkOUTM84xC/view?usp=sharing)
+- [X] [Gre Prep By Magoosh](https://drive.google.com/file/d/1Slb5Dbf6lvu35mAFjMhN9l7fMj9T6ZWN/view?usp=sharing)
+- [X] [Magoosh's Complete Guide To GRE](https://drive.google.com/file/d/1UgptzvX5PlLYhgDiHA3kF3IrvsVZDLRT/view?usp=sharing)	
+- [X] [Magoosh's Complete Guide To GRE Math Fomulas](https://drive.google.com/file/d/1Fw-iGSV4lbTpdLDx2YpUwmkRuSFv42Rp/view?usp=sharing)
+- [X] [Magoosh Complete Guide to GRE](https://drive.google.com/file/d/12sxfM6Q1ybbhHSlT08vRniALSit39K7D/view?usp=sharing)
+	
+# Toefl
+- [X] [Question Formate: My Note](https://docs.google.com/document/d/1YH0P1HGFBJvurpF8ruMtzuXLafALgkf0llR8uU6RrHo/edit?usp=sharing)
+- [X] [Tips And Trick: My Note](https://docs.google.com/document/d/1lNYms0IYkSVXok66-XGsCb3dlxRJC7MyrAwV_5Ue5uY/edit?usp=sharing)
+- [X] [Reading: Official Pdf](https://drive.google.com/file/d/1gVAFIsp19Sl6e0aoLJEkgLQyVvtL5ipQ/view?usp=sharing)
+- [X] [Speaking: Official Pdf](https://drive.google.com/file/d/1oLDkMg5oDetMevcPXEuvtUKLO3xjCyN4/view?usp=sharing)
+- [X] [Writting: Official Pdf](https://drive.google.com/file/d/1zOsIRdTIx5Smf8_mvNaGYAqAd7ViJtSE/view?usp=sharing)
+- [X] [Listening: Official Pdf](https://drive.google.com/drive/folders/1rb2WFBLKsln4UiNmEnx-8hm3JQ9KopQ_?usp=sharing)
 - [X] [TST Prep TOEFL](https://www.youtube.com/c/TOEFLSpeakingTeacher1)
 - [X] [Greg Mat](https://www.youtube.com/channel/UCktwzce9ncy_K78l1KBZkYQ)
 	
