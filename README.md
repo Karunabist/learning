@@ -19,7 +19,11 @@
 		  <li>Computer science(Array)</li>
 	  </ul> </td>
 	  
-  <td width="40%"><img class="zoom" src="https://www.bloo.vision/cms/wp-content/uploads/2020/02/vision-system_eye-and-brain-uai-1440x1164.png" alt="Italian Trulli"> 
+  <td width="40%">
+  <li><a href = "https://colab.research.google.com/drive/1FcZQ7RijE5ovxH2pd25bpHVVG4q7fp_9?usp=sharing">Universal Rule</a></li>
+  <li><a href = "https://docs.google.com/drawings/d/1uBr-Ib-BPVB_FrUmj-Xo5aCxKKKGzBqAs4P-jNDb8j4/edit?usp=sharing">Aim</a></li>
+  
+  <img class="zoom" src="https://www.bloo.vision/cms/wp-content/uploads/2020/02/vision-system_eye-and-brain-uai-1440x1164.png" alt="Italian Trulli"> 
 	  <ul>
 		  <li><a href="https://en.wikipedia.org/wiki/T-shaped_skills">T-shape Skills</a> </li>
 	          <li><a href="http://www.effectiveengineer.com/blog/master-adjacent-disciplines">Adjacet Learning</a></li> 
