@@ -155,6 +155,17 @@
 - [X] [Flowers: Flower Names: Great List of Flowers and Types of Flowers (with Images)](https://7esl.com/flowers-vocabulary/)
 - [X] [Flowers Name: List of a Flowers Name in English](https://englishtivi.com/flowers-name-in-english/)
 - [X] [Shapes: Different Shape Names (with Useful List, Types)](https://7esl.com/shapes-vocabulary/)
+- [X] [My 100 Words Collection 1](https://docs.google.com/document/d/1UyHgi3WR1dvETRFSsRRoa3DRRUWe2WKpG5l_KkO5FTs/edit?usp=sharing)
+- [X] [My 100 Words Collection 2](https://docs.google.com/document/d/1QPYOCIapWYXXG5A914OjgVNNFWenXR7vko43vBAN22M/edit?usp=sharing)
+- [X] [My 100 Words Collection 3](https://docs.google.com/document/d/1XvOHCTN3LP4nP3rfJ7rygCv4KOndSO-kMnysiqgO6qA/edit?usp=sharing)
+- [X] [My 100 Words Collection 4](https://docs.google.com/document/d/16H-edT_DD0rD-NhWFpidlHHXOnc1D-UwUfVUhL7HR4M/edit?usp=sharing)
+- [X] [My 100 Words Collection 5](https://docs.google.com/document/d/1yBIIMLTbzc0kn-JMh0S1JACO7w6JqJBWXeNJg5crxO0/edit?usp=sharing)
+- [X] [My 100 Words Collection 6](https://docs.google.com/document/d/1cZqSewko87AlrPgLlzvUi6DLNieLCSAVNwoh50pMKdc/edit?usp=sharing)
+- [X] [My 100 Words Collection 7](https://docs.google.com/document/d/1ibUgnrI7T3WbJpu-9cPCyMKu_Mvojps88UvNMVHHIH8/edit?usp=sharing)
+- [X] [My 100 Words Collection 8](https://docs.google.com/document/d/1F1mUcD2XqZk1K7RxN8bVa8AOmf300BcIj0UczHM2gts/edit?usp=sharing)
+- [X] [My 100 Words Collection 9](https://docs.google.com/document/d/1EaTXT80t04mmqDs5mfSwnY6z58855xlVZ_QbDai3UzI/edit?usp=sharing)
+- [X] [My 100 Words Collection 10](https://docs.google.com/document/d/1J3tS6F3m-PpkkyexIhE7KOQ45XWUnXsFT0w9BEX5JXY/edit?usp=sharing)
+- [X] [My 100 Words Collection 11](https://docs.google.com/document/d/1VfP6DD4i6p63NnooUL9kzqV_YGXW_JCRHTvcE9BGsDU/edit?usp=sharing)
 	
 ## Writting
 - [X] [ Using vocabulary to improve your writing: My note](https://docs.google.com/document/d/1uvjGYMR9Uy9qrG-THfgxlvAXGJ-OC9C0LdwPDhUeztw/edit?usp=sharing)
@@ -180,6 +191,8 @@
 - [X] [Reporting on Data: Data Reporting: How to Create a High-Quality Data Report](https://venngage.com/blog/data-report/)
 - [X] [Writing a report: How to Write a Report: A Guide](https://www.grammarly.com/blog/how-to-write-a-report/)
 - [X] [Writing a report: How to Write a Report](https://www.skillsyouneed.com/write/report-writing.html)
+- [X] [Writing a review of a book or film/movie]()
+- [X] [Discussing pictures and cartoons]()
 - [X] [Writing a formal letter: How To Write a Formal Letter](https://www.indeed.com/career-advice/career-development/how-to-write-a-formal-letter)
 - [X] [Writing a formal letter:Letter Format Example and Writing Tips](https://www.thebalancecareers.com/sample-letter-format-2063479)
 - [X] [Writing emails: How to Write Formal Emails in English](https://www.wallstreetenglish.com/blog/how-to-write-formal-emails-in-english)
@@ -198,10 +211,18 @@
 - [X] [Magoosh 1000 Word GRE Study List](https://quizlet.com/470527785/magoosh-1000-word-gre-study-list-flash-cards/?x=1jqt)
 - [X] [100 most frequent words in GRE](https://drive.google.com/file/d/1ov1wW-QyE4UpvAvpQiDfZp9pk-B2YdYi/view?usp=sharing)
 - [X] [Vocab-ebook-2.5-2019](https://magoosh.com/gre/files/2019/08/Vocab-ebook-2.5-2019.pdf)
+- [X] [Magoosh GRE Vocab eBook](https://drive.google.com/file/d/14600MtsbILtFg7hxZ7LlWnag3ZwA371m/view?usp=sharing)
+- [X] [Princeton](https://drive.google.com/file/d/1QuNgrtfQfCKZQoNrFfoR7O-RTUGQk_IE/view?usp=sharing)
 - [X] [The Tested Tutor](https://www.youtube.com/c/TheTestedTutor)
 - [X] [ETS GRE](https://www.youtube.com/channel/UCia8sCkZeAteKBHL5-hNRzA)	
 # Toefl
 - [X] [The Princeton Review](https://images.static-collegedunia.com/public/college_data/images/entrance/entrance_brochure/1603189704Cracking%20the%20TOEFL%202019%20Edition.pdf)
+- [X] [Princeton](https://drive.google.com/file/d/1Wv4DieR3PAiM2n9VFIi8byONW_QnKFnQ/view?usp=sharing)
+- [X] [The Vocabulary Builder Workbook 1400 Must Know Words](https://drive.google.com/file/d/11M9kBDzgFASQ0iw9SLI5UvmU6QFsQBz1/view?usp=sharing)
+- [X] [Vocab](https://drive.google.com/file/d/1kFaUF74hATRoUl0Wmd2rvxdXVa9_5TB4/view?usp=sharing)
+- [X] [Vocab 2](https://drive.google.com/file/d/1mTggcyZ46mog9yGLdycsFDgfTMrL4eRv/view?usp=sharing)
+- [X] [Vocab 3](https://drive.google.com/file/d/1GKt-XB4aDh_AgxQnX1zBr3fvOyDu5h38/view?usp=sharing)
+- [X] [Vocab 1](https://drive.google.com/file/d/1TptBUqAXo7cgmVILdFry3wuSWmZ5GIIa/view?usp=sharing)
 - [X] [TST Prep TOEFL](https://www.youtube.com/c/TOEFLSpeakingTeacher1)
 - [X] [Greg Mat](https://www.youtube.com/channel/UCktwzce9ncy_K78l1KBZkYQ)
 	
@@ -643,7 +664,7 @@ Notes:
 - [X] [BERT](https://neptune.ai/blog/how-to-code-bert-using-pytorch-tutorial)
 - [X] [AutoEncoder: github ](https://github.com/eriklindernoren/ML-From-Scratch/blob/master/mlfromscratch/unsupervised_learning/autoencoder.py)
 - [X] [GAN: Building a basic GAN from scratch](https://www.kaggle.com/code/balaka18/building-a-basic-gan-from-scratch/notebook)
-	
+- [X] [Diffusion Models](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/)
 ### Be familar with loss functions
 
 Regression Loss Functions, Binary Classification Loss Functions, Multi-Class Classification Loss Functions
@@ -1336,7 +1357,12 @@ Regression Loss Functions, Binary Classification Loss Functions, Multi-Class Cla
 - [ ] [Exadel CompreFace ](https://github.com/exadel-inc/CompreFace)
 - [ ] [computer-vision-in-action ](https://github.com/Charmve/computer-vision-in-action)
 	
+# Databases and data mining and data science
 
+## Database
+- [X] [MYSQL](https://dev.mysql.com/doc/)
+- [X] [MongoDB](https://www.mongodb.com/docs/)
+	
 # Software engineer
 
 ## Software
@@ -1360,14 +1386,26 @@ Regression Loss Functions, Binary Classification Loss Functions, Multi-Class Cla
 ### Web application	
 #### Front-End
 - [X] [Figma: Documentatio](https://www.figma.com/best-practices/guide-to-developer-handoff/components-styles-and-documentation/)
+- [X] [HTML](https://html.com/document/)
+- [X] [HTML: Mozilla documentation](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [X] [CSS](https://devdocs.io/css/)
+- [X] [CSS: Mozilla documentation](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [X] [JavaScript: Mozilla Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [X] [JavaScript: devdocs](https://devdocs.io/javascript/)
+- [X] [Bootstrap: Documentation](https://getbootstrap.com/docs/4.1/getting-started/introduction/)
+- [ ] [TypeScript](https://www.typescriptlang.org/docs/handbook/intro.html)
 - [X] [Tailwind](https://tailwindcss.com/)
 - [X] [Reactjs: Documentation](https://reactjs.org/docs/getting-started.html)
-- [X] [Bootstrap: Documentation](https://getbootstrap.com/docs/4.1/getting-started/introduction/)
+- [X] [Nextjs](https://nextjs.org/docs)
 #### Web framework
-- [X] [Django: Documentaion](https://docs.djangoproject.com/en/4.1/)
-- [X] [Django : awesome-django](https://github.com/wsvincent/awesome-django)
+- [ ] [Spring](https://docs.spring.io/spring-framework/docs/current/reference/html/)
+- [ ] [Laravel](https://laravel.com/docs/9.x/installation)
+- [ ] [ASP.NET](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-6.0)
 - [X] [Nodejs: Documentation](https://nodejs.org/en/docs/)
 - [X] [Wordpress: Documentation](https://developer.wordpress.org/)
+- [X] [Django: Documentaion](https://docs.djangoproject.com/en/4.1/)
+- [X] [Django : awesome-django](https://github.com/wsvincent/awesome-django)
+
 #### SEO
 - [ ] [SEO: What Is SEO / Search Engine Optimization?](https://searchengineland.com/guide/what-is-seo)
 - [ ] [SEO: Search engine optimization](https://en.wikipedia.org/wiki/Search_engine_optimization)
@@ -1415,6 +1453,9 @@ Regression Loss Functions, Binary Classification Loss Functions, Multi-Class Cla
 - [ ] [Kubernetes: Documentatio](https://kubernetes.io/docs/home/)
 - [ ] [Datadog](https://docs.datadoghq.com/)
 
+# API
+- [X] [REST API]()
+- [X] [GraphQL]()
 </details>
 
 <details>
