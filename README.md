@@ -256,6 +256,15 @@ Dialects,accents, and varieties
 - [X] [Greg Mat](https://www.youtube.com/channel/UCktwzce9ncy_K78l1KBZkYQ)
 	
 # Books
+- [X] [Elon Musk](https://drive.google.com/file/d/1C8ODShsViYqTUGmbeW2y3aLg3Lbr_1fj/view?usp=sharing)
+- [X] [Born A Crime](https://drive.google.com/file/d/1_BmJeqonDQChIF2BoxqKh0jq-nSU25eS/view?usp=sharing)
+- [X] [Tinkle Double Digest](https://drive.google.com/file/d/1XoO5s4MJlG4zt3QJGKk2ovLoRIiWL-sx/view?usp=sharing)
+- [X] [A Text Book Of Professional Communication Skills and Esp for Engineers and Professional](https://drive.google.com/file/d/1oQBkfYVxkM7QQGdJmG2MfeyXHOonWtzb/view?usp=sharing)
+- [X] [The Hidden Staircase](https://drive.google.com/file/d/1GpwUz1G-X7j0eqh8rhT3hFFT6cX_lbUg/view?usp=sharing)
+- [X] [A Thousand Splindid Sun](https://drive.google.com/file/d/1_xZ4RY7lv3DIL6n2ApVfCOMF9sxkWVGa/view?usp=sharing)
+- [X] [The Alchemist](https://drive.google.com/file/d/1TPkJbmB4jC9c7aE7JLMNRFTadCJgpsA0/view?usp=sharing)
+- [X] [The White Tiger](https://drive.google.com/file/d/1Wp_MoQFxWnX1RBVT0ewYM4S2xQHAIwoB/view?usp=sharing)
+- [X] [The Fault In Our Stars](https://drive.google.com/file/d/16aNwf8HdJOUOW2Cj7JdXakmD1eDQT2Mx/view?usp=sharing)
 - [X] [Rich Dad Poor Dad](http://www.lequydonhanoi.edu.vn/upload_images/S%C3%A1ch%20ngo%E1%BA%A1i%20ng%E1%BB%AF/Rich%20Dad%20Poor%20Dad.pdf)
 - [X] [Book: Delivering Happiness](https://www2.mvcc.edu/shn/pdf/presentations/2019-11-las-vegas/delivering-happiness.pdf)
 - [X] [Book: Good to Great: Why Some Companies Make the Leap...And Others Don't](https://theyoungtreps.com/wp-content/uploads/2021/02/Collins-2001-Good-to-Great-Why-Some-Companies-Make-the-Leap...and-Others-Dont_.pdf)
