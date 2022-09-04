@@ -200,8 +200,18 @@
 - [X] [Writing a cv or resume: jbhuang](https://twitter.com/jbhuang0604/status/1433651068282540033)
 - [X] [Writing a covering letter: How to Write a Cover Letter](https://hbr.org/2014/02/how-to-write-a-cover-letter)
 - [X] [Must note on writting](https://docs.google.com/document/d/12KnCKMpAhNEdvVgQfxOk2QdyQoP7OObhCxm58pndfA4/edit?usp=sharing)
-
 	
+## Accents
+	
+Dialects,accents, and varieties
+
+- [X] [MY Note On Accents](https://docs.google.com/document/d/1LjwrWfjlYrassIYIzi7m99E7G5D379dT-_MAq8EDR2w/edit?usp=sharing)
+- [X] [Difference Between Dialects,Accents, and Varieties](https://colab.research.google.com/drive/13KOzW0zNsPHdYzsnOtf2qekRHmW-zKxW?usp=sharing)
+- [X] [Britain and Ireland: Wikipedia](https://en.wikipedia.org/wiki/English_language#Britain_and_Ireland)
+- [X] [North America: Wikipedia](https://en.wikipedia.org/wiki/English_language#North_America)
+- [X] [Australia and New Zealand: Wikipedia](https://en.wikipedia.org/wiki/English_language#Australia_and_New_Zealand)
+- [X] [Southeast Asia](https://en.wikipedia.org/wiki/English_language#Southeast_Asia)
+- [X] [Africa, the Caribbean, and South Asia](https://en.wikipedia.org/wiki/English_language#Africa,_the_Caribbean,_and_South_Asia)
 # Gre
 - [X] [magoosh-gre-1000-words_oct01](https://s3.amazonaws.com/magoosh.resources/magoosh-gre-1000-words_oct01.pdf)
 - [X] [PDF of Greg Mat's Words Groups 1-27 with pictures!! (Thanks Liju and Khalil)](https://drive.google.com/file/d/1Ux9VWn5-nJJqmw4_I1UkwUybY8eDQnBv/view)
