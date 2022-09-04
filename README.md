@@ -199,7 +199,7 @@
 - [X] [Writing emails: Writing Effective Emails](https://www.mindtools.com/CommSkll/EmailCommunication.htm)
 - [X] [Writing a cv or resume: jbhuang](https://twitter.com/jbhuang0604/status/1433651068282540033)
 - [X] [Writing a covering letter: How to Write a Cover Letter](https://hbr.org/2014/02/how-to-write-a-cover-letter)
-- [X] [My note on writting](https://drive.google.com/drive/folders/1-qPhvWNKctaNBjH9shw-JBEiC76-cGJr?usp=sharing)
+- [X] [Must note on writting](https://docs.google.com/document/d/12KnCKMpAhNEdvVgQfxOk2QdyQoP7OObhCxm58pndfA4/edit?usp=sharing)
 
 	
 # Gre
