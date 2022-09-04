@@ -402,6 +402,7 @@ Dialects,accents, and varieties
 - [X] [MathTheBeautiful](https://www.youtube.com/c/MathTheBeautiful)
 - [X] [patrickJMT ](https://www.youtube.com/c/patrickjmt/featured)
 - [X] [Numberphile ](https://www.youtube.com/c/numberphile)
+- [X] [The Math Sorcerer ](https://www.youtube.com/c/TheMathSorcerer)
 # Other Resources
 - [ ] [Wikipedia]()
 - [ ] [Essentials Mathematics for machine learning](https://www.youtube.com/playlist?list=PLLy_2iUCG87D1CXFxE-SxCFZUiJzQ3IvE)
