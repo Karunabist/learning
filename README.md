@@ -5,7 +5,7 @@
 	  <td width="20%">
 	<ul>
 		  Life long learning with there basic unit.
-		  <li>Language(English)(letter)</li>            
+		<li><a href= "https://docs.google.com/document/d/1snROtUFb4DGpGE0kVZr6nFM1GUnRuaXFwLWCYvFM3ME/edit?usp=sharing">Language(English)(letter)</a></li>            
 		  <li>Mathematics(number)</li>
 		  <li>Physics(atom)</li>
 		  <li>Chemistry(ion)</li>
@@ -54,6 +54,7 @@
 		  <li><a href="https://github.com/EthicalML/awesome-production-machine-learning">awesome-production-machine-learning</a></li>
 		  <li> <a href="https://github.com/mihail911/nlp-library">nlp-library</a></li>
 		  <li> <a href = "https://github.com/datascienceid/machine-learning-resources">machine-learning-resources</a></li>
+		  <li> <a href = "https://github.com/yvoronoy/awesome-english">awesome-english</a></li>
 		  </td>
 	  </ul>
   </tr>
@@ -76,20 +77,22 @@
 * Accent
 	
 # Daily news and blogs	
-- [X] [Word of the day](https://www.merriam-webster.com/word-of-the-day)
+- [X] [Vocabulary: Word of the day](https://www.vocabulary.com/dictionary/)
+- [X] [LDOCE5: Word of the day](https://www.ldoceonline.com/)
 - [X] [Collins Word of the Day](https://www.collinsdictionary.com/word-of-the-day)
+- [X] [Word of the day](https://www.merriam-webster.com/word-of-the-day)
 - [X] [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB/sections/CAQiQ0NCQVNMQW9JTDIwdk1EZGpNWFlTQW1WdUdnSlZVeUlOQ0FRYUNRb0hMMjB2TUcxcmVpb0pFZ2N2YlM4d2JXdDZLQUEqKggAKiYICiIgQ0JBU0Vnb0lMMjB2TURkak1YWVNBbVZ1R2dKVlV5Z0FQAVAB?hl=en-US&gl=US&ceid=US%3Aen/)
 
 	
 # English Basic
 ## Phonology/ IPA
 - [X] [My note on phonology](https://colab.research.google.com/drive/1p8--pbceik_zlp_Mwc8bJpx_dNzNTxUD?usp=sharing)
+- [X] [Antimoon](https://www.antimoon.com/how/pronunc-ascii.htm)
 - [X] [The 44* Phonemes](https://www.boardman.k12.oh.us/userfiles/363/Phonological%20Awareness/44Phonemes.pdf)
 - [X] [American English Phonetic Symbols](https://koreatesol.org/sites/default/files/EClinic-%20Phonetic%20Symbols.pdf)	
 - [X] [Learn to Pronounce Sounds in American English](https://pronuncian.com/sounds)
 - [X] [Pronunciation Guide (American English Dictionary](https://www.oxfordlearnersdictionaries.com/about/pronunciation_american_english)
 - [X] [International Phonetic Alphabet for American English - IPA Chart](https://easypronunciation.com/en/american-english-pronunciation-ipa-chart)
-
 - [X] [Oxford Online English](https://www.youtube.com/watch?v=WU7p-RptAfI)
 - [X] [Rachel's English](https://www.youtube.com/watch?v=c97xwLdSsXU)
 - [X] [Pronunciation Pro](https://www.youtube.com/c/pronunciationpro)
@@ -98,9 +101,15 @@
 
 ## Grammer
 - [X] [My note on grammer](https://colab.research.google.com/drive/1_z4bJJy3MWq0GHh9mK3DyuiKjgA14E71?usp=sharing)
+- [X] [The Best Grammer Workbook Ever](https://drive.google.com/file/d/1xhuoBYELrKJoL2lwUae8F4SZk__sNNBm/view?usp=sharing)
+- [X] [English Grammer Advance](https://drive.google.com/file/d/1J9zzxQ9UWDCUWI8FsDubK9-OFb2yk0Gg/view?usp=sharing)
+- [X] [Understanding and using english grammer](https://drive.google.com/file/d/1-I-tbbHMpLUE0LF-ZWSAQQS_gDGf1RWq/view?usp=sharing)
+- [X] [My short Note In Grammer](https://docs.google.com/document/d/1nBQGIo7d-VtG2N9Rqkz0SRacxUbEhykwBFO0wr1w_CA/edit?usp=sharing)
 - [X] [ENGLISH GRAMMAR IN USE Raymond Murphy](https://corsidilaurea.uniroma1.it/sites/default/files/english_grammar_in_use_intermediate_2019_5th-ed.pdf)
+- [X] [Oxford Guide To English Grammer](https://drive.google.com/file/d/1QKSarSdgzo4as74bWFqM2MGzmIOjsNP7/view?usp=sharing)
+- [X] [High school English Grammer and Composition](https://drive.google.com/file/d/1efOJ71n7D8q1Lfq96JivO7Q-5RKuA5pL/view?usp=sharing)
+- [X] [Correct Your English Error](https://drive.google.com/file/d/13UFCuW-7-Q4GGnJ92wm3DuxQzuswAqZZ/view?usp=sharing)
 - [X] [AccurateEnglish](https://www.youtube.com/c/AccurateEnglish)
-- [X] [Janhavi Panwar](https://www.youtube.com/c/WonderGirlJanhavi)
 - [X] [English with Alex · engVid English Classes](https://www.youtube.com/c/engvidAlex)
 - [X] [Elements of Style by William Strunk, Jr. and E.B. White](https://daoyuan14.github.io/elos.pdf)
 - [X] [Oxford Modern English Grammar by Bas Aarts](https://xn--webducation-dbb.com/wp-content/uploads/2018/12/Bas-Aarts-Oxford-Modern-English-Grammar-Oxford-University-Press-2011.pdf)
@@ -186,11 +195,13 @@
 - [X] [Sachin Pulli 600 gre vocab](https://drive.google.com/file/d/15uTpXC17WeGGjsS18OLY8nuMm3dA1B0G/view?usp=sharing)
 - [X] [Magoosh 1000 Word GRE Study List](https://quizlet.com/470527785/magoosh-1000-word-gre-study-list-flash-cards/?x=1jqt)
 - [X] [Vocab-ebook-2.5-2019](https://magoosh.com/gre/files/2019/08/Vocab-ebook-2.5-2019.pdf)
-
+- [X] [The Tested Tutor](https://www.youtube.com/c/TheTestedTutor)
+- [X] [ETS GRE](https://www.youtube.com/channel/UCia8sCkZeAteKBHL5-hNRzA)	
 # Toefl
 - [X] [The Princeton Review](https://images.static-collegedunia.com/public/college_data/images/entrance/entrance_brochure/1603189704Cracking%20the%20TOEFL%202019%20Edition.pdf)
 - [X] [TST Prep TOEFL](https://www.youtube.com/c/TOEFLSpeakingTeacher1)
-
+- [X] [Greg Mat](https://www.youtube.com/channel/UCktwzce9ncy_K78l1KBZkYQ)
+	
 # Books
 - [X] [Rich Dad Poor Dad](http://www.lequydonhanoi.edu.vn/upload_images/S%C3%A1ch%20ngo%E1%BA%A1i%20ng%E1%BB%AF/Rich%20Dad%20Poor%20Dad.pdf)
 - [X] [Book: Delivering Happiness](https://www2.mvcc.edu/shn/pdf/presentations/2019-11-las-vegas/delivering-happiness.pdf)
@@ -211,6 +222,23 @@
 - [X] [Udacity: App Marketing](https://www.udacity.com/course/app-marketing--ud719)
 - [X] [Udacity: How to Build a Startup](https://www.udacity.com/course/how-to-build-a-startup--ep245)
 
+# Podcasts
+- [X] [A Way with Words](https://www.waywordradio.org/category/episodes/)
+- [X] [Lex Fridman ](https://www.youtube.com/c/lexfridman)
+	
+# Youtube Channels
+- [X] [English with Lucy](https://www.youtube.com/c/EnglishwithLucy)
+- [X] [linguamarina](https://www.youtube.com/c/linguamarina)
+- [X] [mmmEnglish ](https://www.youtube.com/c/mmmEnglish_Emma)
+- [X] [The Urban Fight ](https://www.youtube.com/c/TheUrbanFight)
+- [X] [Janhavi Panwar](https://www.youtube.com/c/WonderGirlJanhavi)
+- [X] [Ocean English Academy](https://www.youtube.com/c/OceanEnglishAcademy)
+- [X] [Tejasvi Rajput](https://www.youtube.com/channel/UCupK5547qIX4jE58OxLJl9g)
+- [X] []()
+- [X] [Antonio Parlati (Learn English)](https://www.youtube.com/channel/UC257b6MFXKs7JrxZGHOPH1w)
+	
+# Other References
+- [X] [Wikipedia](https://en.wikipedia.org/wiki/English_language)
 </details>
 
 <details>
@@ -270,13 +298,22 @@
 - [ ] [ Udacity: Statistics](https://www.udacity.com/course/statistics--st095)    
 - [ ] [ Udacity: Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)     
 - [ ] [ Udacity: Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)   
-	
-# Resources for all mathematics branches
+
+# Youtube Channels
+- [X] [Matthew Weathers](https://www.youtube.com/c/MDWeathers)	
+- [X] [MathTheBeautiful](https://www.youtube.com/c/MathTheBeautiful)
+- [X] [patrickJMT ](https://www.youtube.com/c/patrickjmt/featured)
+- [X] [Numberphile ](https://www.youtube.com/c/numberphile)
+# Other Resources
+- [ ] [Wikipedia]()
 - [ ] [Essentials Mathematics for machine learning](https://www.youtube.com/playlist?list=PLLy_2iUCG87D1CXFxE-SxCFZUiJzQ3IvE)
 - [ ] [Mathematics of Machine Learning](https://www.tivadardanka.com/blog)
 - [ ] [TED](https://www.ted.com/talks/marcus_du_sautoy_symmetry_reality_s_riddle?referrer=playlist-math_talks_to_blow_your_mind&autoplay=true)
 - [ ] [  Article: Math You Need to Succeed In ML Interviews](https://towardsdatascience.com/math-you-need-to-succeed-in-ml-interviews-9e717d61f296)
-	
+- [ ] [Brandon Foltz ](https://www.youtube.com/c/BrandonFoltz/videos)
+
+
+
 </details>
 
 <details>
@@ -546,7 +583,36 @@ Notes:
 - [ ] [ Article: A Visual Tour of Backpropagation](https://blog.jinay.dev/posts/backprop/)
 - [ ] [Dataflair](https://data-flair.training/blogs/machine-learning-tutorial/)
 - [ ] [Machine Learning: My own implementation](https://github.com/MadanBaduwal/ML-algorithms)
-
+- [ ] [Artificial Intelligence - All in One](https://www.youtube.com/c/ArtificialIntelligenceAllinOne/videos)
+- [ ] [Arxiv Insights](https://www.youtube.com/c/ArxivInsights/videos)
+- [ ] [Yannic Kilcher](https://www.youtube.com/c/YannicKilcher)
+- [ ] [CodeEmporium](https://www.youtube.com/c/CodeEmporium)
+- [ ] [Chai Time Data Science](https://www.youtube.com/c/ChaiTimeDataScience/videos)
+- [ ] [365 Data Science ](https://www.youtube.com/c/365DataScience)
+- [ ] [Abhishek Thakur](https://www.youtube.com/c/AbhishekThakurAbhi)
+- [ ] [Lander Analytics](https://www.youtube.com/channel/UC2-hKemnrmVCH_29duyJ26A/videos)	
+- [ ] [Data Science Jay](https://www.youtube.com/c/DataScienceJay)
+- [ ] [Julia Silge](https://www.youtube.com/c/JuliaSilge)
+- [ ] [David Robinson](https://www.youtube.com/user/safe4democracy/videos)	
+- [ ] [Data Professor ](https://www.youtube.com/c/DataProfessor)
+- [ ] [Ken Jee ](https://www.youtube.com/c/KenJee1)
+- [ ] [iNeuron Intelligence](https://www.youtube.com/c/iNeuroniNtelligence)	
+- [ ] [AIEngineering](https://www.youtube.com/c/AIEngineeringLife)
+- [ ] [Greate Learning](https://www.youtube.com/c/GreatLearningOfficial/videos)
+- [ ] [Keith Galli ](https://www.youtube.com/c/KGMIT)
+- [ ] [CS Dojo ](https://www.youtube.com/c/CSDojo)
+- [ ] [Data School](https://www.youtube.com/c/dataschool)	
+- [ ] [Tech With Tim ](https://www.youtube.com/c/TechWithTim)
+- [ ] [DeepLearningAI](https://www.youtube.com/c/Deeplearningai)
+- [ ] [Corey Schafer ](https://www.youtube.com/c/Coreyms)	
+- [ ] [Alexander Amini](https://www.youtube.com/user/Zan560)
+- [ ] [DeepMind](https://www.youtube.com/c/DeepMind)
+- [ ] [Serrano.Academy](https://www.youtube.com/c/LuisSerrano)
+- [ ] [Welch Labs](https://www.youtube.com/c/WelchLabsVideo)	
+- [ ] [Simplilearn ](https://www.youtube.com/c/SimplilearnOfficial)
+- [ ] [sentdex ](https://www.youtube.com/c/sentdex)
+- [ ] [Siraj Raval ](https://www.youtube.com/c/SirajRaval)
+	
 ### Be familar with deep learning algorithms
 	
 - [X] [Feed forward neural network: Neural Networks from Scratch in Python](https://towardsdatascience.com/creating-neural-networks-from-scratch-in-python-6f02b5dd911#:~:text=Feedforward%3A%20The%20inputs%20are%20fed,the%20network%20has%20finished%20training.)
