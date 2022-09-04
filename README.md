@@ -466,6 +466,10 @@ CRUD operation
 - [ ] [A* Search: medium](https://towardsdatascience.com/a-star-a-search-algorithm-eb495fb156bb)
 - [ ] [A* Search: Easy A* (star) Pathfinding](https://medium.com/@nicholas.w.swift/easy-a-star-pathfinding-7e6689c7f7b2)
 - [ ] [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges)
+
+    **Arrays and Strings**
+    - [ ] Determine if a string contains unique characters: [Challenge](https://nbviewer.org/github/donnemartin/interactive-coding-challenges/blob/master/arrays_strings/unique_chars/unique_chars_challenge.ipynb)| [Solution](https://nbviewer.org/github/donnemartin/interactive-coding-challenges/blob/master/arrays_strings/unique_chars/unique_chars_solution.ipynb)
+
 - [ ] [Article: Asymptotic Analysis Explained with Pokémon: A Deep Dive into Complexity Analysis](https://www.freecodecamp.org/news/asymptotic-analysis-explained-with-pokemon-a-deep-dive-into-complexity-analysis-8bf4396804e0/)
 - [ ] [Book: Grokking Algorithms](https://www.manning.com/books/grokking-algorithms) 
 - [ ] [Codecademy: Big O](https://www.codecademy.com/courses/big-o/0/1 )
