@@ -18,7 +18,8 @@
 		  <li>Companies(motivations)</li>
 		  <li>Computer science(Array)</li>
 		Download Book From Here:<a href="https://libgen.is/">libgen.is</a></br>
-		Download Paid Research Papers From Here: <a href="https://sci-hub.se/">sci-hub.se</a>
+		  Download Paid Research Papers From Here: <a href="https://sci-hub.se/">sci-hub.se</a></br>
+	Free Pdf hosting: <a href="https://pdfhost.io/">pdfhost.io</a>
 	  </ul> </td>
 	  
   <td width="40%">
