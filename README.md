@@ -1492,10 +1492,18 @@ Regression Loss Functions, Binary Classification Loss Functions, Multi-Class Cla
 ### Plugin
 - [ ] [Google chrome extension: documentation](https://developer.chrome.com/docs/extensions/mv3/getstarted/)
 - [ ] [Mozilla extension: Documentation](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Your_first_WebExtension)
-	
+
+### Vscode Extension
+- [X] [How to create VS Code Extension](https://code.visualstudio.com/api/get-started/your-first-extension)
+- [X] Some Importatnt Extension
+    - [X] []()
+
 ### operating System
-	
+- [ ] [Ubuntu](https://github.com/ubuntu)
+    - [ ] [Linux Command](https://docs.rockylinux.org/books/admin_guide/03-commands/)
+
 ### Device Drivers
+
 
 ### Utilities
 	
@@ -1522,6 +1530,7 @@ Regression Loss Functions, Binary Classification Loss Functions, Multi-Class Cla
 ## Devops
 - [ ] [My note on devops](https://github.com/MadanBaduwal/python-project-structure/blob/main/mlops.md)
 - [ ] [git: Documentation](https://git-scm.com/doc)
+- [ ] [git: Command]()
 - [ ] [github and github action: Documentation](https://docs.github.com/en)
 - [ ] [gitsome](https://github.com/donnemartin/gitsome)
 - [ ] [Pypi: Documentation](https://py-pkgs.org/08-ci-cd.html)
