@@ -310,6 +310,16 @@ Dialects,accents, and varieties
 - [X] [Pick Up Limes ](https://www.youtube.com/channel/UCq2E1mIwUKMWzCA4liA_XGQ)
 - [X] [Garden Up](https://www.youtube.com/channel/UC0nChSOqQbA6tAi8_K7pD_A)
 - [X] [English Fluency Journey ](https://www.youtube.com/c/EnglishFluencyJourney)	
+- [X] [Gabriel Iglesias ](https://www.youtube.com/c/fluffyguy)
+- [X] [Science Insider ](https://www.youtube.com/c/bi_science)	
+- [X] [BRAINY DOSE ](https://www.youtube.com/c/BrainyDose)
+- [X] [Brew](https://www.youtube.com/c/BrewSolves)
+- [X] [Mama Doctor Jones ](https://www.youtube.com/c/MamaDoctorJones)
+- [X] [Doctor Mike ](https://www.youtube.com/c/DoctorMike)
+- [X] [Dr Dray ](https://www.youtube.com/c/DrDrayzday)
+- [X] [Aleena Rais Live ](https://www.youtube.com/c/AleenaRaisLive)
+- [X] [Learn With Sam And Ash](https://www.youtube.com/c/LearnWithSamAndAsh)
+- [X] [Speak English With Vanessa ](https://www.youtube.com/c/TeacherVanessa)	
 	
 # Other References
 - [X] [Wikipedia](https://en.wikipedia.org/wiki/English_language)
