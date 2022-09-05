@@ -831,7 +831,7 @@ Notes:
 - [X] [GPT from Scratch](https://jaketae.github.io/study/gpt/)
 - [X] [minGPT](https://github.com/karpathy/minGPT)
 - [X] [BERT](https://neptune.ai/blog/how-to-code-bert-using-pytorch-tutorial)
-- [X] [Generative Models]()
+- [X] [Generative Models](https://developers.google.com/machine-learning/gan/generative)
     - [X] [AutoEncoder: github ](https://github.com/eriklindernoren/ML-From-Scratch/blob/master/mlfromscratch/unsupervised_learning/autoencoder.py)
     - [X] [GAN: Building a basic GAN from scratch](https://www.kaggle.com/code/balaka18/building-a-basic-gan-from-scratch/notebook)
     - [X] [DALL-E 2](https://www.assemblyai.com/blog/how-dall-e-2-actually-works/)
