@@ -298,7 +298,6 @@ Dialects,accents, and varieties
 - [X] [mmmEnglish ](https://www.youtube.com/c/mmmEnglish_Emma)
 - [X] [The Urban Fight ](https://www.youtube.com/c/TheUrbanFight)
 - [X] [Janhavi Panwar](https://www.youtube.com/c/WonderGirlJanhavi)
-- [X] [Ocean English Academy](https://www.youtube.com/c/OceanEnglishAcademy)
 - [X] [Tejasvi Rajput](https://www.youtube.com/channel/UCupK5547qIX4jE58OxLJl9g)
 - [X] [To Fluency](https://www.youtube.com/c/Tofluencyenglish/about)
 - [X] [Antonio Parlati (Learn English)](https://www.youtube.com/channel/UC257b6MFXKs7JrxZGHOPH1w)
