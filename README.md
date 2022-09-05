@@ -496,6 +496,7 @@ CRUD operation
 - [X] Algorithms Analysis
 	- [ ] [Introduction To Algorithms Analysis](https://cathyatseneca.gitbooks.io/data-structures-and-algorithms/content/analysis/)
 	- [ ] [Asymptotic Analysis](https://www.programiz.com/dsa/asymptotic-notations)
+	- [ ] [Article: Asymptotic Analysis Explained with Pokémon: A Deep Dive into Complexity Analysis](https://www.freecodecamp.org/news/asymptotic-analysis-explained-with-pokemon-a-deep-dive-into-complexity-analysis-8bf4396804e0/)
 	- [ ] [Algorithms Design Techniques](https://www.geeksforgeeks.org/algorithms-design-techniques/)
 	
 
@@ -505,9 +506,9 @@ CRUD operation
     **Arrays and Strings**
     - [ ] Determine if a string contains unique characters: [Challenge](https://nbviewer.org/github/donnemartin/interactive-coding-challenges/blob/master/arrays_strings/unique_chars/unique_chars_challenge.ipynb)| [Solution](https://nbviewer.org/github/donnemartin/interactive-coding-challenges/blob/master/arrays_strings/unique_chars/unique_chars_solution.ipynb)
 
-- [ ] [Article: Asymptotic Analysis Explained with Pokémon: A Deep Dive into Complexity Analysis](https://www.freecodecamp.org/news/asymptotic-analysis-explained-with-pokemon-a-deep-dive-into-complexity-analysis-8bf4396804e0/)
-- [ ] [Book: Grokking Algorithms](https://www.manning.com/books/grokking-algorithms) 
-- [ ] [Codecademy: Big O](https://www.codecademy.com/courses/big-o/0/1 )
+## Books And Courses
+	
+- [ ] [Book: Grokking Algorithms](https://edu.anarcho-copy.org/Algorithm/grokking-algorithms-illustrated-programmers-curious.pdf) 
 - [ ] [Khan Academy: Data Structures](https://www.khanacademy.org/computing/computer-science/algorithms)
 - [ ] [Udacity: Intro to Algorithms](https://www.udacity.com/course/intro-to-algorithms--cs215)
 - [ ] [Udacity: Programming Languages](https://www.udacity.com/course/programming-languages--cs262)
