@@ -93,7 +93,6 @@
 - [X] [Antimoon](https://www.antimoon.com/how/pronunc-ascii.htm)
 - [X] [The 44* Phonemes](https://www.boardman.k12.oh.us/userfiles/363/Phonological%20Awareness/44Phonemes.pdf)
 - [X] [American English Phonetic Symbols](https://koreatesol.org/sites/default/files/EClinic-%20Phonetic%20Symbols.pdf)	
-- [X] [Learn to Pronounce Sounds in American English](https://pronuncian.com/sounds)
 - [X] [Pronunciation Guide (American English Dictionary](https://www.oxfordlearnersdictionaries.com/about/pronunciation_american_english)
 - [X] [International Phonetic Alphabet for American English - IPA Chart](https://easypronunciation.com/en/american-english-pronunciation-ipa-chart)
 - [X] [Oxford Online English](https://www.youtube.com/watch?v=WU7p-RptAfI)
