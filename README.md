@@ -294,7 +294,6 @@ Dialects,accents, and varieties
 - [ ] [Learn English Podcast: Listen to episodes](https://www.youtube.com/watch?v=zV5HPJN48qc&list=PLZOJurmtexYqc6KY_Db4-fV7F06af1FkW)	
 	
 # Youtube Channels
-- [X] [English with Lucy](https://www.youtube.com/c/EnglishwithLucy)
 - [X] [linguamarina](https://www.youtube.com/c/linguamarina)
 - [X] [mmmEnglish ](https://www.youtube.com/c/mmmEnglish_Emma)
 - [X] [The Urban Fight ](https://www.youtube.com/c/TheUrbanFight)
