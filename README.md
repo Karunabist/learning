@@ -835,6 +835,7 @@ Notes:
     - [X] [AutoEncoder: github ](https://github.com/eriklindernoren/ML-From-Scratch/blob/master/mlfromscratch/unsupervised_learning/autoencoder.py)
     - [X] [GAN: Building a basic GAN from scratch](https://www.kaggle.com/code/balaka18/building-a-basic-gan-from-scratch/notebook)
     - [X] [DALL-E 2](https://www.assemblyai.com/blog/how-dall-e-2-actually-works/)
+    - [X] ERNIE-ViLG : [paper](https://arxiv.org/abs/2112.15283),[Github](https://github.com/PaddlePaddle/PaddleHub/tree/develop/modules/image/text_to_image/ernie_vilg),[Reddit thread](https://www.reddit.com/r/MachineLearning/comments/x4l4af/r_ernievilg_a_stateoftheart_texttoimage_model/), [demo](https://huggingface.co/spaces/PaddlePaddle/ERNIE-ViLG)
     
     **Some demos**
     - [X] [lexica.art](https://lexica.art/)
