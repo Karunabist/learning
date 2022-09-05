@@ -1745,7 +1745,7 @@ Daily paper reading
 1. [arxiv](https://arxiv.org/list/cs.CV/new)
 2. [CVF](https://openaccess.thecvf.com/menu)
 3. [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0,5&q=%22computer+vision%22&scisbd=1)
-
+4. [AK: Twitter](https://twitter.com/_akhaliq)
 
 # Paper Writing
 - [X] [How to write paper my note](https://github.com/MadanBaduwal/journals-and-conferences/blob/main/paper-writting.md)
