@@ -424,44 +424,82 @@ Dialects,accents, and varieties
 # Data Structure and Algorithms
 
 CRUD operation
+
+## Data Structure
+- [X] Data Type
+	- [X] [Data structure in python](https://www.edureka.co/blog/data-structures-in-python/)
+	- [X] [Python array vs list](https://www.geeksforgeeks.org/difference-between-list-and-array-in-python/)
+	- [X] [Stack: How To Create a Stack in Python From Scratch](https://python.plainenglish.io/how-to-create-a-stack-in-python-from-scratch-86350d0c15d0)
+	- [X] [Queue: Implementing a Queue in Python](https://runestone.academy/ns/books/published/pythonds/BasicDS/ImplementingaQueueinPython.html)
+	- [X] [Queue: Queue Data Structure](https://www.programiz.com/dsa/queue)
+- [X] Linear Data Structure
+	- [X] [Singly linked list: Implementing a Singly Linked List in Python](https://www.educative.io/answers/how-to-create-a-linked-list-in-python)
+	- [X] [Singly linked list: Implementing a Singly Linked List in Python](https://towardsdatascience.com/python-linked-lists-c3622205da81)
+	- [X] [Singly linked list: Implementing a Singly Linked List in Python](https://www.studytonight.com/post/implementing-singly-linked-list-in-python)
+	- [X] [Doubly linked list: How to create a doubly linked list in Python](https://www.educative.io/answers/how-to-create-a-doubly-linked-list-in-python)
+	- [X] [Doubly linked list: Doubly Linked List | Set 1 (Introduction and Insertion)](https://www.geeksforgeeks.org/doubly-linked-list/)
+- [X] Tree
+	- [X] [Binary tree: Python - Binary Tree](https://www.tutorialspoint.com/python_data_structure/python_binary_tree.htm#:~:text=Inserting%20into%20a%20Tree,used%20to%20print%20the%20tree.)
+	- [X] [Binary tree: Implement Binary Tree in Python](https://iq.opengenus.org/implement-binary-tree-in-python/)
+- [X] Hash Based Structure
+	- [X] [Hash Table](https://www.guru99.com/hash-table-data-structure.html)
+	- [X] [Hash Table](https://www.programiz.com/dsa/hash-table)
+	- [X] [Hash table: Hash Table(Bakcground of the python inbuilt dictionary is hash table)](https://www.geeksforgeeks.org/hash-map-in-python/)
+- [X] Graph Based Structure
+	- [X] [How to Represent a Graph Data Structure in Python](https://medium.com/geekculture/how-to-represent-a-graph-data-structure-in-python-9f0df57e33a2)
+	- [X] [GRAPH DATA STRUCTURE](https://www.bogotobogo.com/python/python_graph_data_structures.php)
+	- [X] [Unidirected graph: geek](https://www.geeksforgeeks.org/building-an-undirected-graph-and-finding-shortest-path-using-dictionaries-in-python/)
+	- [X] [Unidirected graph: Implementing Undirected Graphs in Python(BFS for a Graph)](https://pythonandr.com/2016/07/28/implementing-undirected-graphs-in-python/)
+- [X] Hybrid
+	- [ ] [Hash tree: HW2 Implement HashTree and FP-Tree by Python](http://www.wiki.yelbee.top/2020/05/06/Data%20Mining/HW2%20Implement%20HashTree%20and%20FP-Tree%20by%20Python/)
+
+## Algorithms
+- [X] Recursion
+	- [X] [Recursion : Python Recursion](https://www.programiz.com/python-programming/recursion)
+	- [X] [Recursion: Thinking Recursively in Python](https://realpython.com/python-thinking-recursively/)
+	- [X] [Recursion vs Iteration](https://www.geeksforgeeks.org/difference-between-recursion-and-iteration/)
+
+- [X] Sorting Algorithms
+	- [ ] [Bubble sort: Bubble Sort Algorithm with Python using List Example](https://www.guru99.com/bubble-sort.html)
+	- [ ] [Bubble sort: Python Program for Bubble Sort](https://www.geeksforgeeks.org/python-program-for-bubble-sort/)
+	- [ ] [Merge Sort: Merge Sort Algorithm](https://www.programiz.com/dsa/merge-sort)
+	- [ ] [Merge Sort: Python Program for Merge Sort](https://www.geeksforgeeks.org/python-program-for-merge-sort/)
+	- [ ] [Merge Sort: Merge Sort](https://www.geeksforgeeks.org/merge-sort/)
+	- [ ] [Merge Sort: Merge sort in Python](https://www.educative.io/answers/merge-sort-in-python)
+	- [ ] [Merge Sort: How To Implement Merge Sort Algorithm In Python](https://towardsdatascience.com/how-to-implement-merge-sort-algorithm-in-python-4662a89ae48c)
+	- [ ] [Insertion sort: Definition of Insertion sort in Python](https://www.educba.com/insertion-sort-in-python/)
+	- [ ] [Sorting algorithms](https://colab.research.google.com/drive/1zkBH0RUAulBup6hz2htJJWosdHZ28Exw#scrollTo=awCZJ7fB6Kik)
+	- [ ] [Sorting algorithms](https://realpython.com/sorting-algorithms-python/)
+
+- [X] Searching Algorithms
+
+	- [ ] [Linear Search](https://www.programiz.com/dsa/linear-search)
+	- [ ] [Binary Search: Python Program for Binary Search (Recursive and Iterative)](https://www.geeksforgeeks.org/python-program-for-binary-search/)
+	- [ ] [Binary Search: How to Do a Binary Search in Python](https://realpython.com/binary-search-python/)
+
+- [X] Uninformed  Search Agent
+	- [ ] [Breadth First Search](https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/tutorial/)
+	- [ ] [Breadth First Search: Breadth First Search in Python (with Code) | BFS Algorithm](https://favtutor.com/blogs/breadth-first-search-python)
+	- [ ] [Depth First Search](https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/tutorial/)
+	- [ ] [Depth First Search: Depth First Search in Python (with Code) | DFS Algorithm](https://favtutor.com/blogs/depth-first-search-python)
+	- [ ] [Depth First Search: Search Algorithm — Depth-first search, with Python](https://towardsdatascience.com/search-algorithm-depth-first-search-with-python-1f10da161980)
+	- [ ] [Uniform-Cost Search (Dijkstra for large Graphs)](https://www.geeksforgeeks.org/uniform-cost-search-dijkstra-for-large-graphs/)
+	- [ ] [Bidirectional Search](https://www.geeksforgeeks.org/bidirectional-search/)
+
+- [X] INFORMED SEARCH
+	- [Heuristics]()
+	- [ ] [greedy best first Algorithm](https://python.algorithmexamples.com/web/graphs/greedy_best_first.html)
+	- [ ] [A* Search: Colab](https://colab.research.google.com/drive/1b1LaCBkAhkfsHzwwiqmYsYNje0wFhWAG?usp=sharing)
+	- [ ] [A* Search: medium](https://towardsdatascience.com/a-star-a-search-algorithm-eb495fb156bb)
+	- [ ] [A* Search: Easy A* (star) Pathfinding](https://medium.com/@nicholas.w.swift/easy-a-star-pathfinding-7e6689c7f7b2)
+
+- [X] Algorithms Analysis
+	- [ ] [Introduction To Algorithms Analysis](https://cathyatseneca.gitbooks.io/data-structures-and-algorithms/content/analysis/)
+	- [ ] [Asymptotic Analysis](https://www.programiz.com/dsa/asymptotic-notations)
+	- [ ] [Algorithms Design Techniques](https://www.geeksforgeeks.org/algorithms-design-techniques/)
 	
-- [X] [Data structure in python](https://www.edureka.co/blog/data-structures-in-python/)
-- [X] [Python array vs list](https://www.geeksforgeeks.org/difference-between-list-and-array-in-python/)
-- [X] [Stack: How To Create a Stack in Python From Scratch](https://python.plainenglish.io/how-to-create-a-stack-in-python-from-scratch-86350d0c15d0)
-- [X] [Queue: Implementing a Queue in Python](https://runestone.academy/ns/books/published/pythonds/BasicDS/ImplementingaQueueinPython.html)
-- [X] [Queue: Queue Data Structure](https://www.programiz.com/dsa/queue)
-- [X] [Singly linked list: Implementing a Singly Linked List in Python](https://www.educative.io/answers/how-to-create-a-linked-list-in-python)
-- [X] [Singly linked list: Implementing a Singly Linked List in Python](https://towardsdatascience.com/python-linked-lists-c3622205da81)
-- [X] [Singly linked list: Implementing a Singly Linked List in Python](https://www.studytonight.com/post/implementing-singly-linked-list-in-python)
-- [X] [Doubly linked list: How to create a doubly linked list in Python](https://www.educative.io/answers/how-to-create-a-doubly-linked-list-in-python)
-- [X] [Doubly linked list: Doubly Linked List | Set 1 (Introduction and Insertion)](https://www.geeksforgeeks.org/doubly-linked-list/)
-- [X] [Binary tree: Python - Binary Tree](https://www.tutorialspoint.com/python_data_structure/python_binary_tree.htm#:~:text=Inserting%20into%20a%20Tree,used%20to%20print%20the%20tree.)
-- [X] [Binary tree: Implement Binary Tree in Python](https://iq.opengenus.org/implement-binary-tree-in-python/)
-- [X] [Hash table: Hash Table(Bakcground of the python inbuilt dictionary is hash table)](https://www.geeksforgeeks.org/hash-map-in-python/)
-- [X] [Unidirected graph: geek](https://www.geeksforgeeks.org/building-an-undirected-graph-and-finding-shortest-path-using-dictionaries-in-python/)
-- [X] [Unidirected graph: Implementing Undirected Graphs in Python(BFS for a Graph)](https://pythonandr.com/2016/07/28/implementing-undirected-graphs-in-python/)
-- [ ] [Hash tree: HW2 Implement HashTree and FP-Tree by Python](http://www.wiki.yelbee.top/2020/05/06/Data%20Mining/HW2%20Implement%20HashTree%20and%20FP-Tree%20by%20Python/)
-- [ ] [Recursion : Python Recursion](https://www.programiz.com/python-programming/recursion)
-- [ ] [Recursion: Thinking Recursively in Python](https://realpython.com/python-thinking-recursively/)
-- [ ] [Bubble sort: Bubble Sort Algorithm with Python using List Example](https://www.guru99.com/bubble-sort.html)
-- [ ] [Bubble sort: Python Program for Bubble Sort](https://www.geeksforgeeks.org/python-program-for-bubble-sort/)
-- [ ] [Merge Sort: Merge Sort Algorithm](https://www.programiz.com/dsa/merge-sort)
-- [ ] [Merge Sort: Python Program for Merge Sort](https://www.geeksforgeeks.org/python-program-for-merge-sort/)
-- [ ] [Merge Sort: Merge Sort](https://www.geeksforgeeks.org/merge-sort/)
-- [ ] [Merge Sort: Merge sort in Python](https://www.educative.io/answers/merge-sort-in-python)
-- [ ] [Merge Sort: How To Implement Merge Sort Algorithm In Python](https://towardsdatascience.com/how-to-implement-merge-sort-algorithm-in-python-4662a89ae48c)
-- [ ] [Insertion sort: Definition of Insertion sort in Python](https://www.educba.com/insertion-sort-in-python/)
-- [ ] [Sorting algorithms](https://colab.research.google.com/drive/1zkBH0RUAulBup6hz2htJJWosdHZ28Exw#scrollTo=awCZJ7fB6Kik)
-- [ ] [Sorting algorithms](https://realpython.com/sorting-algorithms-python/)
-- [ ] [Linear Search](https://www.programiz.com/dsa/linear-search)
-- [ ] [Binary Search: Python Program for Binary Search (Recursive and Iterative)](https://www.geeksforgeeks.org/python-program-for-binary-search/)
-- [ ] [Binary Search: How to Do a Binary Search in Python](https://realpython.com/binary-search-python/)
-- [ ] [Breadth First Search: Breadth First Search in Python (with Code) | BFS Algorithm](https://favtutor.com/blogs/breadth-first-search-python)
-- [ ] [Depth First Search: Depth First Search in Python (with Code) | DFS Algorithm](https://favtutor.com/blogs/depth-first-search-python)
-- [ ] [Depth First Search: Search Algorithm — Depth-first search, with Python](https://towardsdatascience.com/search-algorithm-depth-first-search-with-python-1f10da161980)
-- [ ] [Greedy Best-First Search]()
-- [ ] [A* Search: medium](https://towardsdatascience.com/a-star-a-search-algorithm-eb495fb156bb)
-- [ ] [A* Search: Easy A* (star) Pathfinding](https://medium.com/@nicholas.w.swift/easy-a-star-pathfinding-7e6689c7f7b2)
+
+## Challenges
 - [ ] [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges)
 
     **Arrays and Strings**
@@ -474,6 +512,15 @@ CRUD operation
 - [ ] [Udacity: Intro to Algorithms](https://www.udacity.com/course/intro-to-algorithms--cs215)
 - [ ] [Udacity: Programming Languages](https://www.udacity.com/course/programming-languages--cs262)
 
+## Youtube Channel
+- [X] [Data Structure And Algorithms In Python](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12)
+- [X] [Data Structures and Algorithms in Python](https://www.youtube.com/playlist?list=PLTWyTH8_xEvH28xCcOCtYbn1SjqfHb1WC)
+- [X] [Data Structures | Python](https://www.youtube.com/playlist?list=PLzgPDYo_3xukPJdH6hVQ6Iic7KiJuoA-l)
+
+## References
+- [X] [Data Structure: Wikipedia](https://en.wikipedia.org/wiki/Data_structure)
+- [X] [List of data structures: Wikipedia](https://en.wikipedia.org/wiki/List_of_data_structures)
+- [X] [Algorithm: Wikipedia](https://en.wikipedia.org/wiki/Algorithm)
      	
 # Programming language theory and formal methods
 ## Python
