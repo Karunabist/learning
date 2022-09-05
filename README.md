@@ -528,6 +528,7 @@ CRUD operation
 ## Python
 - [X] [Python Documentation: Officials ](https://docs.python.org/3/)
 - [X] [Python OOP concept](https://www.geeksforgeeks.org/python-oops-concepts/#:~:text=In%20Python%2C%20object%2Doriented%20Programming,%2C%20polymorphisms%2C%20encapsulation%2C%20etc.)
+- [X] [Access Modifiers in Python : Public, Private and Protected](https://www.geeksforgeeks.org/access-modifiers-in-python-public-private-and-protected/)
 - [X] [Context Manager in Python](https://www.geeksforgeeks.org/context-manager-in-python/)
 - [X] [Structural Pattern Matching](https://benhoyt.com/writings/python-pattern-matching/)
 - [X] [Python OOP concept](https://pynative.com/python/object-oriented-programming/)
