@@ -831,9 +831,15 @@ Notes:
 - [X] [GPT from Scratch](https://jaketae.github.io/study/gpt/)
 - [X] [minGPT](https://github.com/karpathy/minGPT)
 - [X] [BERT](https://neptune.ai/blog/how-to-code-bert-using-pytorch-tutorial)
-- [X] [AutoEncoder: github ](https://github.com/eriklindernoren/ML-From-Scratch/blob/master/mlfromscratch/unsupervised_learning/autoencoder.py)
-- [X] [GAN: Building a basic GAN from scratch](https://www.kaggle.com/code/balaka18/building-a-basic-gan-from-scratch/notebook)
-- [X] [Diffusion Models](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/)
+- [X] [Generative Models]()
+    - [X] [AutoEncoder: github ](https://github.com/eriklindernoren/ML-From-Scratch/blob/master/mlfromscratch/unsupervised_learning/autoencoder.py)
+    - [X] [GAN: Building a basic GAN from scratch](https://www.kaggle.com/code/balaka18/building-a-basic-gan-from-scratch/notebook)
+    - [X] [DALL-E 2](https://www.assemblyai.com/blog/how-dall-e-2-actually-works/)
+    
+    **Some demos**
+    - [X] [lexica.art](https://lexica.art/)
+    - [X] [krea.ai](https://www.krea.ai/)
+    - [X] [prompthero.com](https://prompthero.com/)
 ### Be familar with loss functions
 
 Regression Loss Functions, Binary Classification Loss Functions, Multi-Class Classification Loss Functions
