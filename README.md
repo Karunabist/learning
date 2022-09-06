@@ -415,6 +415,14 @@ Dialects,accents, and varieties
 - [ ] [  Article: Math You Need to Succeed In ML Interviews](https://towardsdatascience.com/math-you-need-to-succeed-in-ml-interviews-9e717d61f296)
 - [ ] [Brandon Foltz ](https://www.youtube.com/c/BrandonFoltz/videos)
 
+# Python Programming Library 
+- [X] [SymPy](https://docs.sympy.org/latest/index.html)
+- [X] [Math Module](https://docs.python.org/3/library/math.html)
+- [X] [Scipy](https://docs.scipy.org/doc/scipy/)
+- [X] [Numpy](https://numpy.org/doc/)
+- [X] [Theano](https://theano-pymc.readthedocs.io/en/latest/)
+- [X] [Statsmodel](https://www.statsmodels.org/stable/index.html)
+- [X] []()
 
 
 </details>
