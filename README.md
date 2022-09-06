@@ -665,9 +665,11 @@ Notes:
 ### Be write basic machine learning algorithms from scratch
 
 - [X] [Linear regression: Ordinary Least Squares Regression in Python from Scratch](https://jianghaochu.github.io/ordinary-least-squares-regression-in-python-from-scratch.html)
+- [X] [Article: Linear regression](https://www.jeremyjordan.me/linear-regression/)
 - [X] [Linear Regression from scratch(Gradient Prespective): Geeksforgeeks](https://www.geeksforgeeks.org/linear-regression-implementation-from-scratch-using-python/#:~:text=Linear%20Regression%20is%20a%20supervised,the%20given%20input%20value%20x.)
 - [X] [Linear Regression from scratch(Variance and Covariance prespective): Machine Learning Mastery](https://machinelearningmastery.com/implement-simple-linear-regression-scratch-python/)
 - [X] [Linear Regression from scratch(Variance and Covariance prespective): toward datascience blog](https://medium.com/@lope.ai/linear-regression-from-scratch-in-python-6bdae2ea3610)
+- [X] [Article: Polynomial regression](https://www.jeremyjordan.me/polynomial-regression/)
 - [X] [Ridge Regression from Scratch using Python](https://www.geeksforgeeks.org/implementation-of-ridge-regression-from-scratch-using-python/)
 - [X] [Lasso Regression From Scratch using Python](https://www.geeksforgeeks.org/implementation-of-lasso-regression-from-scratch-using-python/)
 - [X] [MultiTaskLasso](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.MultiTaskLasso.html#sklearn.linear_model.MultiTaskLasso)
@@ -685,11 +687,13 @@ Notes:
 - [X] [Logistic Regression(Gradient Prespective): Toward Datascience blog](https://www.analyticsvidhya.com/blog/2022/02/implementing-logistic-regression-from-scratch-using-python/)
 - [X] [Logistic Regression from scratch(Gradient Prespective): IBM blog](https://developer.ibm.com/articles/implementing-logistic-regression-from-scratch-in-python/)
 - [X] [Logistic: Logistic Regression](https://ml-cheatsheet.readthedocs.io/en/latest/logistic_regression.html)
+- [X] [Article: Logistic regression](https://www.jeremyjordan.me/logistic-regression/)
 - [X] [Ridge Classification]()
 - [X] [Support Vector Machine(Gradient Prespective): Toward Datascience Blog](https://towardsdatascience.com/implementing-svm-from-scratch-784e4ad0bc6a)
 - [X] [Support Vector Machine(Gradient Prespective): Toward Datascience Blog](https://towardsdatascience.com/svm-implementation-from-scratch-python-2db2fc52e5c2)
 - [X] [Support Vector Machine(Gradient Prespective): Toward Datascience Blog](https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47)
 - [X] [Support Vector Machine(Gradient Prespective): Machine Learning Mastry](https://machinelearningmastery.com/method-of-lagrange-multipliers-the-theory-behind-support-vector-machines-part-3-implementing-an-svm-from-scratch-in-python/)
+- [X] [Article: Support Vector Machines](https://www.jeremyjordan.me/support-vector-machines/)
 - [X] [SVM kerna functions](https://www.geeksforgeeks.org/major-kernel-functions-in-support-vector-machine-svm/)
 - [X] [SVM kerna functions](https://medium.com/geekculture/kernel-methods-in-support-vector-machines-bb9409342c49)
 - [X] [SVM kerna functions](https://dataaspirant.com/svm-kernels/)
@@ -697,6 +701,7 @@ Notes:
 - [X] [Decision tree: Decision tree from scratch: Machine Learning Mastry](https://machinelearningmastery.com/implement-decision-tree-algorithm-scratch-python/)
 - [X] [Decision tree: All About Decision Tree from Scratch with Python Implementation: Analytics Vidhya](https://www.analyticsvidhya.com/blog/2020/10/all-about-decision-tree-from-scratch-with-python-implementation/)
 - [X] [Decision tree: Building a Decision Tree from Scratch in Python | Machine Learning from Scratch (Part III): Toward Datascience](https://levelup.gitconnected.com/building-a-decision-tree-from-scratch-in-python-machine-learning-from-scratch-part-ii-6e2e56265b19)
+- [X] [Article: Decision trees](https://www.jeremyjordan.me/decision-trees/)
 - [X] [Conditional tree(Split on the basis of P value)]()
 - [X] [One level decision tree/decision stump(weak learner)]()
 - [X] [C4.5 Decision Tree: A Step By Step C4.5 Decision Tree Example](https://sefiks.com/2018/05/13/a-step-by-step-c4-5-decision-tree-example/)
@@ -708,6 +713,7 @@ Notes:
 - [X] [ID3 decision tree: ID3 Decision Tree Classifier from scratch in Python](https://towardsdatascience.com/id3-decision-tree-classifier-from-scratch-in-python-b38ef145fd90)
 - [X] [ID3 decision tree: Step by Step Decision Tree: ID3 Algorithm From Scratch in Python [No Fancy Library]](https://medium.com/geekculture/step-by-step-decision-tree-id3-algorithm-from-scratch-in-python-no-fancy-library-4822bbfdd88f)
 - [X] [Naive Bayes: ML | Naive Bayes Scratch Implementation using Python: Geeksforgeeks](https://www.geeksforgeeks.org/ml-naive-bayes-scratch-implementation-using-python/)
+- [X] [Article: Naive Bayes classification](https://www.jeremyjordan.me/naive-bayes-classification/)
 - [X] [Naive Bayes: Naive Bayes from scratch python: Machine Learning Mastry](https://machinelearningmastery.com/naive-bayes-classifier-scratch-python/)
 - [X] [Naive Bayes: Implementing Naïve Bayes Classification from Scratch with Python: Medium](https://blog.devgenius.io/implementing-na%C3%AFve-bayes-classification-from-scratch-with-python-badd5a9be9c3)
 - [X] [Naive Bayes: Implementing Naive Bayes Algorithm from Scratch — Python: Medium](https://towardsdatascience.com/implementing-naive-bayes-algorithm-from-scratch-python-c6880cfc9c41)
@@ -724,14 +730,18 @@ Notes:
 - [X] [Random Forest: Building a Random Forest from Scratch & Understanding Real-World Data Products (ML for Programmers – Part 3)](https://www.analyticsvidhya.com/blog/2018/12/building-a-random-forest-from-scratch-understanding-real-world-data-products-ml-for-programmers-part-3/)
 - [X] [Random Forest:Random Forests From Scratch](https://carbonati.github.io/posts/random-forests-from-scratch/)
 - [X] [Random Forest: Build Random Forest from scratch](https://insidelearningmachines.com/build-a-random-forest-in-python/)
+- [X] [Article: Random forests](https://www.jeremyjordan.me/random-forests/)
 - [X] [Boosting: Gradient Boosting in Python from Scratch](https://towardsdatascience.com/gradient-boosting-in-python-from-scratch-788d1cf1ca7)
 - [X] [Boosting: dafriedman97](https://dafriedman97.github.io/mlbook/content/c6/s2/boosting.html)
 - [X] [Boosting: How to Build a Gradient Boosting Machine from Scratch](https://blog.mattbowers.dev/gradient-boosting-machine-from-scratch)
+- [X] [Article: Boosted trees](https://www.jeremyjordan.me/boosted-trees/)
+- [ ] [Datacamp: Extreme Gradient Boosting with XGBoost](https://www.datacamp.com/courses/extreme-gradient-boosting-with-xgboost)
 - [X] [KNN: K-Nearest Neighbors from Scratch with Python](https://www.askpython.com/python/examples/k-nearest-neighbors-from-scratch)
 - [X] [KNN: Create a K-Nearest Neighbors Algorithm from Scratch in Python](https://towardsdatascience.com/create-your-own-k-nearest-neighbors-algorithm-in-python-eb7093fc6339)
 - [X] [KNN: Develop k-Nearest Neighbors in Python From Scratch](https://machinelearningmastery.com/tutorial-to-implement-k-nearest-neighbors-in-python-from-scratch/)
 - [X] [KNN: Implementing K Nearest Neighbors from scratch in Python](https://blog.devgenius.io/implementing-k-nearest-neighbors-from-scratch-in-python-d5eaaf558d49)
 - [X] [KNN: K-Nearest Neighbors (KNN) Algorithm in Python from Scratch](https://www.linkedin.com/pulse/k-nearest-neighbors-knn-algorithm-python-from-scratch-amit-kumar/)
+- [X] [Article: K-nearest neighbors](https://www.jeremyjordan.me/k-nearest-neighbors/)
 - [X] [K-Means Clustering: KMeans Clustering From Scratch](https://www.kaggle.com/code/adinishad/kmeans-clustering-from-scratch)
 - [X] [K-Means Clustering: Create a K-Means Clustering Algorithm from Scratch in Python](https://towardsdatascience.com/create-your-own-k-means-clustering-algorithm-in-python-d7d4c9077670)
 - [X] [K-Means Clustering: K-Means Clustering From Scratch in Python](https://www.askpython.com/python/examples/k-means-clustering-from-scratch)
@@ -751,33 +761,144 @@ Notes:
 - [X] [PCA: PCA (Principal Component Analysis) in Python - ML From Scratch 11](https://www.python-engineer.com/courses/mlfromscratch/11_pca/)
 - [X] [PCA: Principal Component Analysis (PCA) in Python Tutorial](https://www.datacamp.com/tutorial/principal-component-analysis-in-python)
 
-### Be familiar with inner working of models
-- [ ] [Article: Naive Bayes classification](https://www.jeremyjordan.me/naive-bayes-classification/)
-- [ ] [Article: Linear regression](https://www.jeremyjordan.me/linear-regression/)
-- [ ] [Article: Polynomial regression](https://www.jeremyjordan.me/polynomial-regression/)
-- [ ] [Article: Logistic regression](https://www.jeremyjordan.me/logistic-regression/)
-- [X] [Article: Decision trees](https://www.jeremyjordan.me/decision-trees/)
-- [ ] [Article: K-nearest neighbors](https://www.jeremyjordan.me/k-nearest-neighbors/)
-- [X] [Article: Support Vector Machines](https://www.jeremyjordan.me/support-vector-machines/)
-- [ ] [Article: Random forests](https://www.jeremyjordan.me/random-forests/)
-- [ ] [Article: Boosted trees](https://www.jeremyjordan.me/boosted-trees/)
-- [ ] [Article: Hacker's Guide to Fundamental Machine Learning Algorithms with Python](https://www.curiousily.com/posts/hackers-guide-to-fundamental-machine-learning-algorithms/)
-- [ ] [Article: Neural networks: activation functions](https://www.jeremyjordan.me/neural-networks-activation-functions/)
-- [ ] [Article: Neural networks: training with backpropagation](https://www.jeremyjordan.me/neural-networks-training/)
-- [ ] [Article: Neural Network from scratch-part 1](https://theaisummer.com/Neural_Network_from_scratch/)
-- [ ] [Article: Neural Network from scratch-part 2](https://theaisummer.com/Neural_Network_from_scratch_part2/)
-- [ ] [Article: Perceptron to Deep-Neural-Network](https://tsumansapkota.github.io/algorithm/2020/06/06/Perceptron-to-DeepNeuralNets/)
 - [X] [Article: One-vs-Rest strategy for Multi-Class Classification](https://www.geeksforgeeks.org/one-vs-rest-strategy-for-multi-class-classification/)
 - [X] [Article: Multi-class Classification — One-vs-All & One-vs-One](https://radiant-brushlands-42789.herokuapp.com/towardsdatascience.com/multi-class-classification-one-vs-all-one-vs-one-94daed32a87b)
 - [X] [Article: One-vs-Rest and One-vs-One for Multi-Class Classification](https://machinelearningmastery.com/one-vs-rest-and-one-vs-one-for-multi-class-classification/)
-- [ ] [Article: Deep Learning Algorithms - The Complete Guide](https://theaisummer.com/Deep-Learning-Algorithms/)
-- [ ] [Article: Machine Learning Techniques Primer](https://medium.com/acing-ai/machine-learning-techniques-primer-60edd9d14863)
+
+
+
+	
+### Be familar with deep learning algorithms
+
+- [ ] [Article: Neural Network from scratch-part 1](https://theaisummer.com/Neural_Network_from_scratch/)
+- [ ] [Article: Neural Network from scratch-part 2](https://theaisummer.com/Neural_Network_from_scratch_part2/)
+- [ ] [Article: Perceptron to Deep-Neural-Network](https://tsumansapkota.github.io/algorithm/2020/06/06/Perceptron-to-DeepNeuralNets/)
+- [X] [Feed forward neural network: Neural Networks from Scratch in Python](https://towardsdatascience.com/creating-neural-networks-from-scratch-in-python-6f02b5dd911#:~:text=Feedforward%3A%20The%20inputs%20are%20fed,the%20network%20has%20finished%20training.)
+- [X] [Feed forward neural network: Building a Feedforward Neural Network from Scratch in Python](https://medium.com/hackernoon/building-a-feedforward-neural-network-from-scratch-in-python-d3526457156b)
+- [X] [Feed forward neural network: How to Code a Neural Network with Backpropagation In Python (from scratch)](https://machinelearningmastery.com/implement-backpropagation-algorithm-scratch-python/)
+- [X] [Feed forward neural network: Neural Network Code in Python 3 from Scratch](https://pythonalgos.com/create-a-neural-network-from-scratch-in-python-3/)
+- [X] [Feed forward neural network: packet](https://subscription.packtpub.com/book/data/9781789346640/1/ch01lvl1sec05/feed-forward-propagation-from-scratch-in-python)
+- [X] [CNN: CNN from scratch(numpy)](https://www.kaggle.com/code/milan400/cnn-from-scratch-numpy/notebook)
+- [X] [CNN: How to Develop a CNN From Scratch for CIFAR-10 Photo Classification](https://machinelearningmastery.com/how-to-develop-a-cnn-from-scratch-for-cifar-10-photo-classification/)
+- [X] [CNN: Building Convolutional Neural Network using NumPy from Scratch](https://towardsdatascience.com/building-convolutional-neural-network-using-numpy-from-scratch-b30aac50e50a)
+- [X] [CNN: Github ](https://github.com/AlessandroSaviolo/CNN-from-Scratch)
+- [X] [CNN: CNN-from-Scratch](https://github.com/zishansami102/CNN-from-Scratch)
+- [X] [CNN: Building Convolutional Neural Network using NumPy from Scratch](https://www.kdnuggets.com/2018/04/building-convolutional-neural-network-numpy-scratch.html)
+- [X] [CNN: Convolutional Neural Networks From Scratch on Python](https://q-viper.github.io/2020/06/05/convolutional-neural-networks-from-scratch-on-python/)
+
+- [X] [Transformer: Transformers from Scratch in PyTorch](https://medium.com/the-dl/transformers-from-scratch-in-pytorch-8777e346ca51)
+- [X] [Transformer from scratch using pytorch](https://www.kaggle.com/code/arunmohan003/transformer-from-scratch-using-pytorch/notebook)
+- [X] [Transformer: TRANSFORMERS FROM SCRATCH](https://peterbloem.nl/blog/transformers)
+- [X] [Transformer: Transformers in Pytorch from scratch for NLP Beginners](https://www.hyugen.com/article/transformers-in-pytorch-from-scratch-for-nlp-beginners-113cb366a5)
+- [X] [Transformer: Transformers from Scratch](https://e2eml.school/transformers.html)
+- [X] [Transformer: Pytorch Transformers from Scratch (Attention is all you need)](https://morioh.com/p/9cab1b4a01f8)
+- [X] [Transformer: Transformer model for language understanding](https://www.tensorflow.org/text/tutorials/transformer)
+- [X] [GPT from Scratch](https://jaketae.github.io/study/gpt/)
+- [X] [minGPT](https://github.com/karpathy/minGPT)
+- [X] [BERT](https://neptune.ai/blog/how-to-code-bert-using-pytorch-tutorial)
+- [X] [Generative Models](https://developers.google.com/machine-learning/gan/generative)
+    - [X] [AutoEncoder: github ](https://github.com/eriklindernoren/ML-From-Scratch/blob/master/mlfromscratch/unsupervised_learning/autoencoder.py)
+    - [X] [GAN: Building a basic GAN from scratch](https://www.kaggle.com/code/balaka18/building-a-basic-gan-from-scratch/notebook)
+    - [X] [DALL-E 2](https://www.assemblyai.com/blog/how-dall-e-2-actually-works/)
+    - [X] ERNIE-ViLG : [paper](https://arxiv.org/abs/2112.15283),[Github](https://github.com/PaddlePaddle/PaddleHub/tree/develop/modules/image/text_to_image/ernie_vilg),[Reddit thread](https://www.reddit.com/r/MachineLearning/comments/x4l4af/r_ernievilg_a_stateoftheart_texttoimage_model/), [demo](https://huggingface.co/spaces/PaddlePaddle/ERNIE-ViLG),[Colab](https://colab.research.google.com/drive/1z1Sy7HXWPY8R295tNA-UrFYLfnBe0okl#scrollTo=TuAWt2O9J4_s)
+    - [X] Stable Diffusion: [paper](https://arxiv.org/pdf/2112.10752.pdf),[Github](https://github.com/CompVis/stable-diffusion#stable-diffusion-v1), [Hugging Face](https://huggingface.co/blog/stable_diffusion)
+    
+    **Some demos**
+    - [X] [lexica.art](https://lexica.art/)
+    - [X] [krea.ai](https://www.krea.ai/)
+    - [X] [prompthero.com](https://prompthero.com/)
+- [X] Activation Function In Neural Networks
+	- [X] [Article: Neural networks: activation functions](https://www.jeremyjordan.me/neural-networks-activation-functions/)
+
+
+### Be familar with loss functions
+
+Regression Loss Functions, Binary Classification Loss Functions, Multi-Class Classification Loss Functions
+
+	
+- [ ] [Common Loss functions in machine learning](https://towardsdatascience.com/common-loss-functions-in-machine-learning-46af0ffc4d23)
+- [ ] [A Detailed Guide to 7 Loss Functions for Machine Learning Algorithms with Python Code](https://www.analyticsvidhya.com/blog/2019/08/detailed-guide-7-loss-functions-machine-learning-python-code/)
+- [ ] [How to Choose Loss Functions When Training Deep Learning Neural Networks](https://machinelearningmastery.com/how-to-choose-loss-functions-when-training-deep-learning-neural-networks/)
+	
+### Be familar with back propagation, objective function, optimization
+
+- [X] [Andrage Karpathy](https://www.youtube.com/watch?v=VMj-3S1tku0)
+- [ ] [Edureka](https://www.edureka.co/blog/backpropagation/)
+- [ ] [How to Code a Neural Network with Backpropagation In Python (from scratch)](https://machinelearningmastery.com/implement-backpropagation-algorithm-scratch-python/)
+- [ ] [Backpropagation](https://en.wikipedia.org/wiki/Backpropagation)
+- [ ] [How to Choose an Optimization Algorithm](https://machinelearningmastery.com/tour-of-optimization-algorithms/)
+- [ ] [A Survey of Optimization Methods from a Machine Learning Perspective](https://arxiv.org/pdf/1906.06821.pdf)
+- [ ] [Article: Neural networks: training with backpropagation](https://www.jeremyjordan.me/neural-networks-training/)
+
+### Be familar with hypothesis testing
+- [ ] [Hypothesis Testing with Python: Step by step hands-on tutorial with practical examples](https://towardsdatascience.com/hypothesis-testing-with-python-step-by-step-hands-on-tutorial-with-practical-examples-e805975ea96e)
+- [ ] [Hypothesis testing in Machine learning using Python](https://towardsdatascience.com/hypothesis-testing-in-machine-learning-using-python-a0dc89e169ce)
+- [ ] [Statistical Hypothesis Testing with Python Implementation](https://www.section.io/engineering-education/statistical-hypothesis-testing-python-implementation/)
+- [ ] [An Interactive Guide to Hypothesis Testing in Python](https://www.visual-design.net/post/an-interactive-guide-to-hypothesis-testing-in-python)
+
+	
+### Be familar with accuracy matrix
+- [ ] [Evaluating Deep Learning Models: The Confusion Matrix, Accuracy, Precision, and Recall](https://blog.paperspace.com/deep-learning-metrics-precision-recall-accuracy/)
+- [ ] [Everything you Should Know about Confusion Matrix for Machine Learning](https://www.analyticsvidhya.com/blog/2020/04/confusion-matrix-machine-learning/)
+- [ ] [Metrics to Evaluate your Machine Learning Algorithm](https://towardsdatascience.com/metrics-to-evaluate-your-machine-learning-algorithm-f10ba6e38234)
+
+### Machine Learning and Deep learning Books and Cources
+- [ ] [scikit-learn](https://github.com/scikit-learn/scikit-learn)
+- [ ] [handson-ml](https://github.com/ageron/handson-ml)
+- [ ] [handson-ml2](https://github.com/ageron/handson-ml2)
+- [ ] [handson-ml3](https://github.com/ageron/handson-ml3)
+- [ ] [neural-networks-and-deep-learning](https://github.com/mnielsen/neural-networks-and-deep-learning)
+- [ ] [Machine Learning from Scratch](https://dafriedman97.github.io/mlbook/content/introduction.html)
+- [X] [Datacamp: Ensemble Methods in Python](https://www.datacamp.com/courses/ensemble-methods-in-python)
 - [X] [AWS: Understanding Neural Networks](https://www.aws.training/learningobject/video?id=27233)
 - [ ] [Book: Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning)
 - [ ] [Book: Make Your Own Neural Network](https://www.amazon.com/Make-Your-Own-Neural-Network-ebook/dp/B01EER4Z4G)
 - [ ] [Coursera: Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)
-- [ ] [Datacamp: Extreme Gradient Boosting with XGBoost](https://www.datacamp.com/courses/extreme-gradient-boosting-with-xgboost)
-- [X] [Datacamp: Ensemble Methods in Python](https://www.datacamp.com/courses/ensemble-methods-in-python)
+- [ ] [Article: Hacker's Guide to Fundamental Machine Learning Algorithms with Python](https://www.curiousily.com/posts/hackers-guide-to-fundamental-machine-learning-algorithms/)
+- [ ] [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
+- [ ] [Dive into Deep Learning](https://d2l.ai/)
+- [ ] [Introduction to Machine Learning Interviews Book](https://huyenchip.com/ml-interviews-book/)
+- [ ] [Article: Machine Learning Techniques Primer](https://medium.com/acing-ai/machine-learning-techniques-primer-60edd9d14863)
+- [ ] [Machine Learning Systems Design](https://huyenchip.com/machine-learning-systems-design/toc.html)	
+- [ ] [Designing Machine Learning Systems (Chip Huyen 2022)](https://github.com/chiphuyen/dmls-book)
+- [ ] [dlaicourse](https://github.com/lmoroney/dlaicourse)
+- [ ] [Laurence Moroney - The AI Guy.](https://laurencemoroney.com/)
+- [ ] [aima-python](https://github.com/aimacode/aima-python)
+- [ ] [deep-learning-with-python-notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks)
+- [ ] [nn-from-scratch](https://github.com/dennybritz/nn-from-scratch)	
+- [ ] [pytorch-Deep-Learning](https://github.com/Atcold/pytorch-Deep-Learning)
+- [ ] [DEEP LEARNING](https://atcold.github.io/NYU-DLSP21/)
+- [ ] [zero-to-mastery-ml](https://github.com/mrdbourke/zero-to-mastery-ml)
+- [ ] [machine-learning-roadmap](https://github.com/mrdbourke/machine-learning-roadmap)
+- [ ] [aman.ai](https://aman.ai/")
+- [ ] [vinija.ai](https://vinija.ai/")
+- [ ] [Stanford CS229: Machine Learning Full Course taught by Andrew Ng | Autumn 2018](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
+- [ ] [The hundred-page machine learning book - Burkov, Andriy](https://b-ok.asia/book/3710356/c8880d)
+- [ ] [Pattern Recognition and Machine Learning - Christopher M. Bishop 2007](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
+- [ ] [Neural Networks for Pattern Recognition - Christopher M. Bishop 1995](http://people.sabanciuniv.edu/berrin/cs512/lectures/Book-Bishop-Neural%20Networks%20for%20Pattern%20Recognition.pdf)
+- [ ] Probabilistic Graphical Models: Principles and Techniques - Daphne Koller and Nir Friedman 2009
+- [ ] Pattern Classification - Peter E. Hart, David G. Stork, and Richard O. Duda 2000
+- [ ] Machine Learning - Tom M. Mitchell 1997
+- [ ] Gaussian processes for machine learning - Carl Edward Rasmussen and Christopher K. I. Williams 2005
+- [ ] Learning From Data- Yaser S. Abu-Mostafa, Malik Magdon-Ismail and Hsuan-Tien Lin 2012
+- [ ] Neural Networks and Deep Learning - Michael Nielsen 2014
+- [ ] Bayesian Reasoning and Machine Learning - David Barber, Cambridge University Press, 2012
+- [ ] [KD nuggets](https://www.kdnuggets.com/tag/machine-learning)
+- [ ] [Machine Learning from Google Developer](https://developers.google.com/machine-learning/crash-course/ml-intro)
+- [ ] [Distill](https://distill.pub/)
+- [ ] [DeepMind’s Blog](https://course.elementsofai.com/)
+- [ ] [PyImageSearch](https://pyimagesearch.com/blog/)
+- [ ] [O’Reilly](https://www.oreilly.com/radar/topics/ai-ml/)
+- [ ] [TED](https://www.ted.com/topics/machine+learning)
+- [ ] [ 3Blue1Brown: Neural networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+- [ ] [ Article: A Visual Tour of Backpropagation](https://blog.jinay.dev/posts/backprop/)
+- [ ] [Dataflair](https://data-flair.training/blogs/machine-learning-tutorial/)
+- [ ] [Machine Learning: My own implementation](https://github.com/MadanBaduwal/ML-algorithms)
+- [ ] [Article: Deep Learning Algorithms - The Complete Guide](https://theaisummer.com/Deep-Learning-Algorithms/)
+
+
+### Youtube Channels
+
 - [ ] [StatQuest: Machine Learning](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)
 	- [X] [StatQuest: Fitting a line to data, aka least squares, aka linear regression.](https://www.youtube.com/watch?v=PaFPbb66DxQ) `0:09:21`
 	- [X] [StatQuest: Linear Models Pt.1 - Linear Regression](https://www.youtube.com/watch?v=nk2CQITm_eo) `0:27:26`
@@ -843,121 +964,6 @@ Notes:
 - [ ] [Youtube: Applied ML 2020 - 06 - Linear Models for Classification](https://www.youtube.com/watch?v=_dqBhUrq09U) `1:07:50`
 - [X] [Youtube: Applied ML 2020 - 07 - Decision Trees and Random Forests](https://www.youtube.com/watch?v=nomd5ylZ2dw) `1:07:58`
 - [X] [Youtube: Applied ML 2020 - 08 - Gradient Boosting](https://www.youtube.com/watch?v=yrTW5YTmFjw) `1:02:12`
-	
-### Be familar with deep learning algorithms
-	
-- [X] [Feed forward neural network: Neural Networks from Scratch in Python](https://towardsdatascience.com/creating-neural-networks-from-scratch-in-python-6f02b5dd911#:~:text=Feedforward%3A%20The%20inputs%20are%20fed,the%20network%20has%20finished%20training.)
-- [X] [Feed forward neural network: Building a Feedforward Neural Network from Scratch in Python](https://medium.com/hackernoon/building-a-feedforward-neural-network-from-scratch-in-python-d3526457156b)
-- [X] [Feed forward neural network: How to Code a Neural Network with Backpropagation In Python (from scratch)](https://machinelearningmastery.com/implement-backpropagation-algorithm-scratch-python/)
-- [X] [Feed forward neural network: Neural Network Code in Python 3 from Scratch](https://pythonalgos.com/create-a-neural-network-from-scratch-in-python-3/)
-- [X] [Feed forward neural network: packet](https://subscription.packtpub.com/book/data/9781789346640/1/ch01lvl1sec05/feed-forward-propagation-from-scratch-in-python)
-- [X] [CNN: CNN from scratch(numpy)](https://www.kaggle.com/code/milan400/cnn-from-scratch-numpy/notebook)
-- [X] [CNN: How to Develop a CNN From Scratch for CIFAR-10 Photo Classification](https://machinelearningmastery.com/how-to-develop-a-cnn-from-scratch-for-cifar-10-photo-classification/)
-- [X] [CNN: Building Convolutional Neural Network using NumPy from Scratch](https://towardsdatascience.com/building-convolutional-neural-network-using-numpy-from-scratch-b30aac50e50a)
-- [X] [CNN: Github ](https://github.com/AlessandroSaviolo/CNN-from-Scratch)
-- [X] [CNN: CNN-from-Scratch](https://github.com/zishansami102/CNN-from-Scratch)
-- [X] [CNN: Building Convolutional Neural Network using NumPy from Scratch](https://www.kdnuggets.com/2018/04/building-convolutional-neural-network-numpy-scratch.html)
-- [X] [CNN: Convolutional Neural Networks From Scratch on Python](https://q-viper.github.io/2020/06/05/convolutional-neural-networks-from-scratch-on-python/)
-
-- [X] [Transformer: Transformers from Scratch in PyTorch](https://medium.com/the-dl/transformers-from-scratch-in-pytorch-8777e346ca51)
-- [X] [Transformer from scratch using pytorch](https://www.kaggle.com/code/arunmohan003/transformer-from-scratch-using-pytorch/notebook)
-- [X] [Transformer: TRANSFORMERS FROM SCRATCH](https://peterbloem.nl/blog/transformers)
-- [X] [Transformer: Transformers in Pytorch from scratch for NLP Beginners](https://www.hyugen.com/article/transformers-in-pytorch-from-scratch-for-nlp-beginners-113cb366a5)
-- [X] [Transformer: Transformers from Scratch](https://e2eml.school/transformers.html)
-- [X] [Transformer: Pytorch Transformers from Scratch (Attention is all you need)](https://morioh.com/p/9cab1b4a01f8)
-- [X] [Transformer: Transformer model for language understanding](https://www.tensorflow.org/text/tutorials/transformer)
-- [X] [GPT from Scratch](https://jaketae.github.io/study/gpt/)
-- [X] [minGPT](https://github.com/karpathy/minGPT)
-- [X] [BERT](https://neptune.ai/blog/how-to-code-bert-using-pytorch-tutorial)
-- [X] [Generative Models](https://developers.google.com/machine-learning/gan/generative)
-    - [X] [AutoEncoder: github ](https://github.com/eriklindernoren/ML-From-Scratch/blob/master/mlfromscratch/unsupervised_learning/autoencoder.py)
-    - [X] [GAN: Building a basic GAN from scratch](https://www.kaggle.com/code/balaka18/building-a-basic-gan-from-scratch/notebook)
-    - [X] [DALL-E 2](https://www.assemblyai.com/blog/how-dall-e-2-actually-works/)
-    - [X] ERNIE-ViLG : [paper](https://arxiv.org/abs/2112.15283),[Github](https://github.com/PaddlePaddle/PaddleHub/tree/develop/modules/image/text_to_image/ernie_vilg),[Reddit thread](https://www.reddit.com/r/MachineLearning/comments/x4l4af/r_ernievilg_a_stateoftheart_texttoimage_model/), [demo](https://huggingface.co/spaces/PaddlePaddle/ERNIE-ViLG),[Colab](https://colab.research.google.com/drive/1z1Sy7HXWPY8R295tNA-UrFYLfnBe0okl#scrollTo=TuAWt2O9J4_s)
-    - [X] Stable Diffusion: [paper](https://arxiv.org/pdf/2112.10752.pdf),[Github](https://github.com/CompVis/stable-diffusion#stable-diffusion-v1), [Hugging Face](https://huggingface.co/blog/stable_diffusion)
-    
-    **Some demos**
-    - [X] [lexica.art](https://lexica.art/)
-    - [X] [krea.ai](https://www.krea.ai/)
-    - [X] [prompthero.com](https://prompthero.com/)
-	
-### Be familar with loss functions
-
-Regression Loss Functions, Binary Classification Loss Functions, Multi-Class Classification Loss Functions
-
-	
-- [ ] [Common Loss functions in machine learning](https://towardsdatascience.com/common-loss-functions-in-machine-learning-46af0ffc4d23)
-- [ ] [A Detailed Guide to 7 Loss Functions for Machine Learning Algorithms with Python Code](https://www.analyticsvidhya.com/blog/2019/08/detailed-guide-7-loss-functions-machine-learning-python-code/)
-- [ ] [How to Choose Loss Functions When Training Deep Learning Neural Networks](https://machinelearningmastery.com/how-to-choose-loss-functions-when-training-deep-learning-neural-networks/)
-	
-### Be familar with back propagation, objective function, optimization
-
-- [X] [Andrage Karpathy](https://www.youtube.com/watch?v=VMj-3S1tku0)
-- [ ] [Edureka](https://www.edureka.co/blog/backpropagation/)
-- [ ] [How to Code a Neural Network with Backpropagation In Python (from scratch)](https://machinelearningmastery.com/implement-backpropagation-algorithm-scratch-python/)
-- [ ] [Backpropagation](https://en.wikipedia.org/wiki/Backpropagation)
-- [ ] [How to Choose an Optimization Algorithm](https://machinelearningmastery.com/tour-of-optimization-algorithms/)
-- [ ] [A Survey of Optimization Methods from a Machine Learning Perspective](https://arxiv.org/pdf/1906.06821.pdf)
-
-### Be familar with hypothesis testing
-- [ ] [Hypothesis Testing with Python: Step by step hands-on tutorial with practical examples](https://towardsdatascience.com/hypothesis-testing-with-python-step-by-step-hands-on-tutorial-with-practical-examples-e805975ea96e)
-- [ ] [Hypothesis testing in Machine learning using Python](https://towardsdatascience.com/hypothesis-testing-in-machine-learning-using-python-a0dc89e169ce)
-- [ ] [Statistical Hypothesis Testing with Python Implementation](https://www.section.io/engineering-education/statistical-hypothesis-testing-python-implementation/)
-- [ ] [An Interactive Guide to Hypothesis Testing in Python](https://www.visual-design.net/post/an-interactive-guide-to-hypothesis-testing-in-python)
-
-	
-### Be familar with accuracy matrix
-- [ ] [Evaluating Deep Learning Models: The Confusion Matrix, Accuracy, Precision, and Recall](https://blog.paperspace.com/deep-learning-metrics-precision-recall-accuracy/)
-- [ ] [Everything you Should Know about Confusion Matrix for Machine Learning](https://www.analyticsvidhya.com/blog/2020/04/confusion-matrix-machine-learning/)
-- [ ] [Metrics to Evaluate your Machine Learning Algorithm](https://towardsdatascience.com/metrics-to-evaluate-your-machine-learning-algorithm-f10ba6e38234)
-
-### Machine Learning and Deep learning Books and Cources
-- [ ] [scikit-learn](https://github.com/scikit-learn/scikit-learn)
-- [ ] [handson-ml](https://github.com/ageron/handson-ml)
-- [ ] [handson-ml2](https://github.com/ageron/handson-ml2)
-- [ ] [handson-ml3](https://github.com/ageron/handson-ml3)
-- [ ] [neural-networks-and-deep-learning](https://github.com/mnielsen/neural-networks-and-deep-learning)
-- [ ] [Machine Learning from Scratch](https://dafriedman97.github.io/mlbook/content/introduction.html)
-- [ ] [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
-- [ ] [Dive into Deep Learning](https://d2l.ai/)
-- [ ] [Introduction to Machine Learning Interviews Book](https://huyenchip.com/ml-interviews-book/)
-- [ ] [Machine Learning Systems Design](https://huyenchip.com/machine-learning-systems-design/toc.html)	
-- [ ] [Designing Machine Learning Systems (Chip Huyen 2022)](https://github.com/chiphuyen/dmls-book)
-- [ ] [dlaicourse](https://github.com/lmoroney/dlaicourse)
-- [ ] [Laurence Moroney - The AI Guy.](https://laurencemoroney.com/)
-- [ ] [aima-python](https://github.com/aimacode/aima-python)
-- [ ] [deep-learning-with-python-notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks)
-- [ ] [nn-from-scratch](https://github.com/dennybritz/nn-from-scratch)	
-- [ ] [pytorch-Deep-Learning](https://github.com/Atcold/pytorch-Deep-Learning)
-- [ ] [DEEP LEARNING](https://atcold.github.io/NYU-DLSP21/)
-- [ ] [zero-to-mastery-ml](https://github.com/mrdbourke/zero-to-mastery-ml)
-- [ ] [machine-learning-roadmap](https://github.com/mrdbourke/machine-learning-roadmap)
-- [ ] [aman.ai](https://aman.ai/")
-- [ ] [vinija.ai](https://vinija.ai/")
-- [ ] [Stanford CS229: Machine Learning Full Course taught by Andrew Ng | Autumn 2018](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
-- [ ] [The hundred-page machine learning book - Burkov, Andriy](https://b-ok.asia/book/3710356/c8880d)
-- [ ] [Pattern Recognition and Machine Learning - Christopher M. Bishop 2007](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
-- [ ] [Neural Networks for Pattern Recognition - Christopher M. Bishop 1995](http://people.sabanciuniv.edu/berrin/cs512/lectures/Book-Bishop-Neural%20Networks%20for%20Pattern%20Recognition.pdf)
-- [ ] Probabilistic Graphical Models: Principles and Techniques - Daphne Koller and Nir Friedman 2009
-- [ ] Pattern Classification - Peter E. Hart, David G. Stork, and Richard O. Duda 2000
-- [ ] Machine Learning - Tom M. Mitchell 1997
-- [ ] Gaussian processes for machine learning - Carl Edward Rasmussen and Christopher K. I. Williams 2005
-- [ ] Learning From Data- Yaser S. Abu-Mostafa, Malik Magdon-Ismail and Hsuan-Tien Lin 2012
-- [ ] Neural Networks and Deep Learning - Michael Nielsen 2014
-- [ ] Bayesian Reasoning and Machine Learning - David Barber, Cambridge University Press, 2012
-- [ ] [KD nuggets](https://www.kdnuggets.com/tag/machine-learning)
-- [ ] [Machine Learning from Google Developer](https://developers.google.com/machine-learning/crash-course/ml-intro)
-- [ ] [Distill](https://distill.pub/)
-- [ ] [DeepMind’s Blog](https://course.elementsofai.com/)
-- [ ] [PyImageSearch](https://pyimagesearch.com/blog/)
-- [ ] [O’Reilly](https://www.oreilly.com/radar/topics/ai-ml/)
-- [ ] [TED](https://www.ted.com/topics/machine+learning)
-- [ ] [ 3Blue1Brown: Neural networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
-- [ ] [ Article: A Visual Tour of Backpropagation](https://blog.jinay.dev/posts/backprop/)
-- [ ] [Dataflair](https://data-flair.training/blogs/machine-learning-tutorial/)
-- [ ] [Machine Learning: My own implementation](https://github.com/MadanBaduwal/ML-algorithms)
-
-### Youtube Channels
 - [ ] [Artificial Intelligence - All in One](https://www.youtube.com/c/ArtificialIntelligenceAllinOne/videos)
 - [ ] [Arxiv Insights](https://www.youtube.com/c/ArxivInsights/videos)
 - [ ] [Yannic Kilcher](https://www.youtube.com/c/YannicKilcher)
