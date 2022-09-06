@@ -433,13 +433,24 @@ Dialects,accents, and varieties
 CRUD operation
 
 ## Data Structure
-- [X] Data Type
-	- [X] [Data structure in python](https://www.edureka.co/blog/data-structures-in-python/)
+- [X] Data types
+	
+	**Primitive Data Structure**
+	
+	- [X] [Primitive Data Structure In Python](https://www.datacamp.com/tutorial/data-structures-python#primitive-data-structures)
+	- [X] [Primitive Data Structure In python]()
+	
+	**Composite types or non-primitive type and Non-Primitive Data Structure**
+
 	- [X] [Python array vs list](https://www.geeksforgeeks.org/difference-between-list-and-array-in-python/)
 	- [X] [Stack: How To Create a Stack in Python From Scratch](https://python.plainenglish.io/how-to-create-a-stack-in-python-from-scratch-86350d0c15d0)
 	- [X] [Queue: Implementing a Queue in Python](https://runestone.academy/ns/books/published/pythonds/BasicDS/ImplementingaQueueinPython.html)
 	- [X] [Queue: Queue Data Structure](https://www.programiz.com/dsa/queue)
+	
 - [X] Linear Data Structure
+	
+	**Note: Python List Is Massively Use In Linear Data Structure**
+	
 	- [X] [Singly linked list: Implementing a Singly Linked List in Python](https://www.educative.io/answers/how-to-create-a-linked-list-in-python)
 	- [X] [Singly linked list: Implementing a Singly Linked List in Python](https://towardsdatascience.com/python-linked-lists-c3622205da81)
 	- [X] [Singly linked list: Implementing a Singly Linked List in Python](https://www.studytonight.com/post/implementing-singly-linked-list-in-python)
