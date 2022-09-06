@@ -650,8 +650,11 @@ CRUD operation
 - [X] [requests](https://pypi.org/project/requests/): HTTP library for Python   
 - [X] [sqlalchemy](https://www.sqlalchemy.org/): Python SQL toolkit  
 - [X] [tabulapy](https://pypi.org/project/tabula-py/): Python wrapper of tabula-java, which can read table of PDF   
-- [X} [urllib](https://docs.python.org/3/library/urllib.html): Collects several modules for working with URLs  
-
+- [X] [urllib](https://docs.python.org/3/library/urllib.html): Collects several modules for working with URLs  
+#### References
+- [X] [awesome-python](https://github.com/vinta/awesome-python)
+	
+	
 # Artificial intelligence
 
 ## Machine Learning
