@@ -571,6 +571,7 @@ CRUD operation
     - [X] Determine if a string is a permutation of another: [Challenge](https://nbviewer.org/github/donnemartin/interactive-coding-challenges/blob/master/arrays_strings/permutation/permutation_challenge.ipynb)| [Solution](https://nbviewer.org/github/donnemartin/interactive-coding-challenges/blob/master/arrays_strings/permutation/permutation_solution.ipynb)
 	- [X] Determine if a string is a rotation of another: [Challenge](https://nbviewer.org/github/donnemartin/interactive-coding-challenges/blob/master/arrays_strings/rotation/rotation_challenge.ipynb)| [Solution](https://nbviewer.org/github/donnemartin/interactive-coding-challenges/blob/master/arrays_strings/rotation/rotation_solution.ipynb)
 	- [X] Compress a string	: [Challenge](https://nbviewer.org/github/donnemartin/interactive-coding-challenges/blob/master/arrays_strings/compress/compress_challenge.ipynb)| [Solution](https://nbviewer.org/github/donnemartin/interactive-coding-challenges/blob/master/arrays_strings/compress/compress_solution.ipynb)
+	- [X] Reverse characters in a string: [Challenge](https://nbviewer.org/github/donnemartin/interactive-coding-challenges/blob/master/arrays_strings/reverse_string/reverse_string_challenge.ipynb)| [Solution](https://nbviewer.org/github/donnemartin/interactive-coding-challenges/blob/master/arrays_strings/reverse_string/reverse_string_solution.ipynb)
 	
 
 
