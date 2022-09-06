@@ -633,7 +633,7 @@ CRUD operation
 - [X] [jupyterlab](https://pypi.org/project/jupyterlab/): An extensible environment for interactive and reproducible computing, based on the Jupyter Notebook and Architecture  
 - [X] [memory-profiler](https://pypi.org/project/memory-profiler/): A module for monitoring memory usage of a python program  
 - [X] [mongoengine](https://pypi.org/project/mongoengine/): MongoEngine is a Python Object-Document Mapper for working with MongoDB.  
-- [X} [more_itertools](https://pypi.org/project/more-itertools/): More routines for operating on iterables, beyond itertools  
+- [X] [more_itertools](https://pypi.org/project/more-itertools/): More routines for operating on iterables, beyond itertools  
 - [X] [multiprocessing-logging](https://pypi.org/project/multiprocessing-logging/): Logger for multiprocessing applications  
 - [X] [xlrd](https://pypi.org/project/xlrd/): Extract data from Excel spreadsheets  
 - [X] [yaml](https://pyyaml.org/wiki/PyYAMLDocumentation): YAML parser and emitter for Python  	
@@ -672,7 +672,6 @@ Notes:
 - [X] [Lasso Regression From Scratch using Python](https://www.geeksforgeeks.org/implementation-of-lasso-regression-from-scratch-using-python/)
 - [X] [MultiTaskLasso](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.MultiTaskLasso.html#sklearn.linear_model.MultiTaskLasso)
 - [X] [Elastic Net Regression From Scratch(Ridge+Lasso)](https://www.geeksforgeeks.org/implementation-of-elastic-net-regression-from-scratch/)
-- [X] []()
 - [X] [Multivariate Adaptive Regression Splines(MARS)](https://contrib.scikit-learn.org/py-earth/content.html)
 - [X] [Multivariate Adaptive Regression Splines on Python](https://medium.com/@aishwaryapatange/pyearth-multivariate-adaptive-regression-splines-on-python-86e8dd647030)
 - [X] [Multivariate Adaptive Regression Splines](https://towardsdatascience.com/mars-multivariate-adaptive-regression-splines-how-to-improve-on-linear-regression-e1e7a63c5eae)
@@ -752,79 +751,6 @@ Notes:
 - [X] [PCA: PCA (Principal Component Analysis) in Python - ML From Scratch 11](https://www.python-engineer.com/courses/mlfromscratch/11_pca/)
 - [X] [PCA: Principal Component Analysis (PCA) in Python Tutorial](https://www.datacamp.com/tutorial/principal-component-analysis-in-python)
 
-- [ ] [scikit-learn](https://github.com/scikit-learn/scikit-learn)
-- [ ] [handson-ml](https://github.com/ageron/handson-ml)
-- [ ] [handson-ml2](https://github.com/ageron/handson-ml2)
-- [ ] [handson-ml3](https://github.com/ageron/handson-ml3)
-- [ ] [neural-networks-and-deep-learning](https://github.com/mnielsen/neural-networks-and-deep-learning)
-- [ ] [Machine Learning from Scratch](https://dafriedman97.github.io/mlbook/content/introduction.html)
-- [ ] [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
-- [ ] [Dive into Deep Learning](https://d2l.ai/)
-- [ ] [Introduction to Machine Learning Interviews Book](https://huyenchip.com/ml-interviews-book/)
-- [ ] [Machine Learning Systems Design](https://huyenchip.com/machine-learning-systems-design/toc.html)	
-- [ ] [Designing Machine Learning Systems (Chip Huyen 2022)](https://github.com/chiphuyen/dmls-book)
-- [ ] [dlaicourse](https://github.com/lmoroney/dlaicourse)
-- [ ] [Laurence Moroney - The AI Guy.](https://laurencemoroney.com/)
-- [ ] [aima-python](https://github.com/aimacode/aima-python)
-- [ ] [deep-learning-with-python-notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks)
-- [ ] [nn-from-scratch](https://github.com/dennybritz/nn-from-scratch)	
-- [ ] [pytorch-Deep-Learning](https://github.com/Atcold/pytorch-Deep-Learning)
-- [ ] [DEEP LEARNING](https://atcold.github.io/NYU-DLSP21/)
-- [ ] [zero-to-mastery-ml](https://github.com/mrdbourke/zero-to-mastery-ml)
-- [ ] [machine-learning-roadmap](https://github.com/mrdbourke/machine-learning-roadmap)
-- [ ] [aman.ai](https://aman.ai/")
-- [ ] [vinija.ai](https://vinija.ai/")
-- [ ] [Stanford CS229: Machine Learning Full Course taught by Andrew Ng | Autumn 2018](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
-- [ ] [The hundred-page machine learning book - Burkov, Andriy](https://b-ok.asia/book/3710356/c8880d)
-- [ ] [Pattern Recognition and Machine Learning - Christopher M. Bishop 2007](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
-- [ ] [Neural Networks for Pattern Recognition - Christopher M. Bishop 1995](http://people.sabanciuniv.edu/berrin/cs512/lectures/Book-Bishop-Neural%20Networks%20for%20Pattern%20Recognition.pdf)
-- [ ] Probabilistic Graphical Models: Principles and Techniques - Daphne Koller and Nir Friedman 2009
-- [ ] Pattern Classification - Peter E. Hart, David G. Stork, and Richard O. Duda 2000
-- [ ] Machine Learning - Tom M. Mitchell 1997
-- [ ] Gaussian processes for machine learning - Carl Edward Rasmussen and Christopher K. I. Williams 2005
-- [ ] Learning From Data- Yaser S. Abu-Mostafa, Malik Magdon-Ismail and Hsuan-Tien Lin 2012
-- [ ] Neural Networks and Deep Learning - Michael Nielsen 2014
-- [ ] Bayesian Reasoning and Machine Learning - David Barber, Cambridge University Press, 2012
-- [ ] [KD nuggets](https://www.kdnuggets.com/tag/machine-learning)
-- [ ] [Machine Learning from Google Developer](https://developers.google.com/machine-learning/crash-course/ml-intro)
-- [ ] [Distill](https://distill.pub/)
-- [ ] [DeepMind’s Blog](https://course.elementsofai.com/)
-- [ ] [PyImageSearch](https://pyimagesearch.com/blog/)
-- [ ] [O’Reilly](https://www.oreilly.com/radar/topics/ai-ml/)
-- [ ] [TED](https://www.ted.com/topics/machine+learning)
-- [ ] [ 3Blue1Brown: Neural networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
-- [ ] [ Article: A Visual Tour of Backpropagation](https://blog.jinay.dev/posts/backprop/)
-- [ ] [Dataflair](https://data-flair.training/blogs/machine-learning-tutorial/)
-- [ ] [Machine Learning: My own implementation](https://github.com/MadanBaduwal/ML-algorithms)
-- [ ] [Artificial Intelligence - All in One](https://www.youtube.com/c/ArtificialIntelligenceAllinOne/videos)
-- [ ] [Arxiv Insights](https://www.youtube.com/c/ArxivInsights/videos)
-- [ ] [Yannic Kilcher](https://www.youtube.com/c/YannicKilcher)
-- [ ] [CodeEmporium](https://www.youtube.com/c/CodeEmporium)
-- [ ] [Chai Time Data Science](https://www.youtube.com/c/ChaiTimeDataScience/videos)
-- [ ] [365 Data Science ](https://www.youtube.com/c/365DataScience)
-- [ ] [Abhishek Thakur](https://www.youtube.com/c/AbhishekThakurAbhi)
-- [ ] [Lander Analytics](https://www.youtube.com/channel/UC2-hKemnrmVCH_29duyJ26A/videos)	
-- [ ] [Data Science Jay](https://www.youtube.com/c/DataScienceJay)
-- [ ] [Julia Silge](https://www.youtube.com/c/JuliaSilge)
-- [ ] [David Robinson](https://www.youtube.com/user/safe4democracy/videos)	
-- [ ] [Data Professor ](https://www.youtube.com/c/DataProfessor)
-- [ ] [Ken Jee ](https://www.youtube.com/c/KenJee1)
-- [ ] [iNeuron Intelligence](https://www.youtube.com/c/iNeuroniNtelligence)	
-- [ ] [AIEngineering](https://www.youtube.com/c/AIEngineeringLife)
-- [ ] [Greate Learning](https://www.youtube.com/c/GreatLearningOfficial/videos)
-- [ ] [Keith Galli ](https://www.youtube.com/c/KGMIT)
-- [ ] [CS Dojo ](https://www.youtube.com/c/CSDojo)
-- [ ] [Data School](https://www.youtube.com/c/dataschool)	
-- [ ] [Tech With Tim ](https://www.youtube.com/c/TechWithTim)
-- [ ] [DeepLearningAI](https://www.youtube.com/c/Deeplearningai)
-- [ ] [Corey Schafer ](https://www.youtube.com/c/Coreyms)	
-- [ ] [Alexander Amini](https://www.youtube.com/user/Zan560)
-- [ ] [DeepMind](https://www.youtube.com/c/DeepMind)
-- [ ] [Serrano.Academy](https://www.youtube.com/c/LuisSerrano)
-- [ ] [Welch Labs](https://www.youtube.com/c/WelchLabsVideo)	
-- [ ] [Simplilearn ](https://www.youtube.com/c/SimplilearnOfficial)
-- [ ] [sentdex ](https://www.youtube.com/c/sentdex)
-- [ ] [Siraj Raval ](https://www.youtube.com/c/SirajRaval)
 	
 ### Be familar with deep learning algorithms
 	
@@ -891,6 +817,83 @@ Regression Loss Functions, Binary Classification Loss Functions, Multi-Class Cla
 - [ ] [Evaluating Deep Learning Models: The Confusion Matrix, Accuracy, Precision, and Recall](https://blog.paperspace.com/deep-learning-metrics-precision-recall-accuracy/)
 - [ ] [Everything you Should Know about Confusion Matrix for Machine Learning](https://www.analyticsvidhya.com/blog/2020/04/confusion-matrix-machine-learning/)
 - [ ] [Metrics to Evaluate your Machine Learning Algorithm](https://towardsdatascience.com/metrics-to-evaluate-your-machine-learning-algorithm-f10ba6e38234)
+
+### Machine Learning and Deep learning Books and Cources
+- [ ] [scikit-learn](https://github.com/scikit-learn/scikit-learn)
+- [ ] [handson-ml](https://github.com/ageron/handson-ml)
+- [ ] [handson-ml2](https://github.com/ageron/handson-ml2)
+- [ ] [handson-ml3](https://github.com/ageron/handson-ml3)
+- [ ] [neural-networks-and-deep-learning](https://github.com/mnielsen/neural-networks-and-deep-learning)
+- [ ] [Machine Learning from Scratch](https://dafriedman97.github.io/mlbook/content/introduction.html)
+- [ ] [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
+- [ ] [Dive into Deep Learning](https://d2l.ai/)
+- [ ] [Introduction to Machine Learning Interviews Book](https://huyenchip.com/ml-interviews-book/)
+- [ ] [Machine Learning Systems Design](https://huyenchip.com/machine-learning-systems-design/toc.html)	
+- [ ] [Designing Machine Learning Systems (Chip Huyen 2022)](https://github.com/chiphuyen/dmls-book)
+- [ ] [dlaicourse](https://github.com/lmoroney/dlaicourse)
+- [ ] [Laurence Moroney - The AI Guy.](https://laurencemoroney.com/)
+- [ ] [aima-python](https://github.com/aimacode/aima-python)
+- [ ] [deep-learning-with-python-notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks)
+- [ ] [nn-from-scratch](https://github.com/dennybritz/nn-from-scratch)	
+- [ ] [pytorch-Deep-Learning](https://github.com/Atcold/pytorch-Deep-Learning)
+- [ ] [DEEP LEARNING](https://atcold.github.io/NYU-DLSP21/)
+- [ ] [zero-to-mastery-ml](https://github.com/mrdbourke/zero-to-mastery-ml)
+- [ ] [machine-learning-roadmap](https://github.com/mrdbourke/machine-learning-roadmap)
+- [ ] [aman.ai](https://aman.ai/")
+- [ ] [vinija.ai](https://vinija.ai/")
+- [ ] [Stanford CS229: Machine Learning Full Course taught by Andrew Ng | Autumn 2018](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
+- [ ] [The hundred-page machine learning book - Burkov, Andriy](https://b-ok.asia/book/3710356/c8880d)
+- [ ] [Pattern Recognition and Machine Learning - Christopher M. Bishop 2007](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
+- [ ] [Neural Networks for Pattern Recognition - Christopher M. Bishop 1995](http://people.sabanciuniv.edu/berrin/cs512/lectures/Book-Bishop-Neural%20Networks%20for%20Pattern%20Recognition.pdf)
+- [ ] Probabilistic Graphical Models: Principles and Techniques - Daphne Koller and Nir Friedman 2009
+- [ ] Pattern Classification - Peter E. Hart, David G. Stork, and Richard O. Duda 2000
+- [ ] Machine Learning - Tom M. Mitchell 1997
+- [ ] Gaussian processes for machine learning - Carl Edward Rasmussen and Christopher K. I. Williams 2005
+- [ ] Learning From Data- Yaser S. Abu-Mostafa, Malik Magdon-Ismail and Hsuan-Tien Lin 2012
+- [ ] Neural Networks and Deep Learning - Michael Nielsen 2014
+- [ ] Bayesian Reasoning and Machine Learning - David Barber, Cambridge University Press, 2012
+- [ ] [KD nuggets](https://www.kdnuggets.com/tag/machine-learning)
+- [ ] [Machine Learning from Google Developer](https://developers.google.com/machine-learning/crash-course/ml-intro)
+- [ ] [Distill](https://distill.pub/)
+- [ ] [DeepMind’s Blog](https://course.elementsofai.com/)
+- [ ] [PyImageSearch](https://pyimagesearch.com/blog/)
+- [ ] [O’Reilly](https://www.oreilly.com/radar/topics/ai-ml/)
+- [ ] [TED](https://www.ted.com/topics/machine+learning)
+- [ ] [ 3Blue1Brown: Neural networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+- [ ] [ Article: A Visual Tour of Backpropagation](https://blog.jinay.dev/posts/backprop/)
+- [ ] [Dataflair](https://data-flair.training/blogs/machine-learning-tutorial/)
+- [ ] [Machine Learning: My own implementation](https://github.com/MadanBaduwal/ML-algorithms)
+
+### Youtube Channels
+- [ ] [Artificial Intelligence - All in One](https://www.youtube.com/c/ArtificialIntelligenceAllinOne/videos)
+- [ ] [Arxiv Insights](https://www.youtube.com/c/ArxivInsights/videos)
+- [ ] [Yannic Kilcher](https://www.youtube.com/c/YannicKilcher)
+- [ ] [CodeEmporium](https://www.youtube.com/c/CodeEmporium)
+- [ ] [Chai Time Data Science](https://www.youtube.com/c/ChaiTimeDataScience/videos)
+- [ ] [365 Data Science ](https://www.youtube.com/c/365DataScience)
+- [ ] [Abhishek Thakur](https://www.youtube.com/c/AbhishekThakurAbhi)
+- [ ] [Lander Analytics](https://www.youtube.com/channel/UC2-hKemnrmVCH_29duyJ26A/videos)	
+- [ ] [Data Science Jay](https://www.youtube.com/c/DataScienceJay)
+- [ ] [Julia Silge](https://www.youtube.com/c/JuliaSilge)
+- [ ] [David Robinson](https://www.youtube.com/user/safe4democracy/videos)	
+- [ ] [Data Professor ](https://www.youtube.com/c/DataProfessor)
+- [ ] [Ken Jee ](https://www.youtube.com/c/KenJee1)
+- [ ] [iNeuron Intelligence](https://www.youtube.com/c/iNeuroniNtelligence)	
+- [ ] [AIEngineering](https://www.youtube.com/c/AIEngineeringLife)
+- [ ] [Greate Learning](https://www.youtube.com/c/GreatLearningOfficial/videos)
+- [ ] [Keith Galli ](https://www.youtube.com/c/KGMIT)
+- [ ] [CS Dojo ](https://www.youtube.com/c/CSDojo)
+- [ ] [Data School](https://www.youtube.com/c/dataschool)	
+- [ ] [Tech With Tim ](https://www.youtube.com/c/TechWithTim)
+- [ ] [DeepLearningAI](https://www.youtube.com/c/Deeplearningai)
+- [ ] [Corey Schafer ](https://www.youtube.com/c/Coreyms)	
+- [ ] [Alexander Amini](https://www.youtube.com/user/Zan560)
+- [ ] [DeepMind](https://www.youtube.com/c/DeepMind)
+- [ ] [Serrano.Academy](https://www.youtube.com/c/LuisSerrano)
+- [ ] [Welch Labs](https://www.youtube.com/c/WelchLabsVideo)	
+- [ ] [Simplilearn ](https://www.youtube.com/c/SimplilearnOfficial)
+- [ ] [sentdex ](https://www.youtube.com/c/sentdex)
+- [ ] [Siraj Raval ](https://www.youtube.com/c/SirajRaval)
 
 ### Be familar with hardware devices
 - [ ] [Coral TPU](https://coral.ai/docs/)
