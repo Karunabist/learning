@@ -30,7 +30,8 @@
 	  <ul>
 		  <li><a href="https://en.wikipedia.org/wiki/T-shaped_skills">T-shape Skills</a> </li>
 	          <li><a href="http://www.effectiveengineer.com/blog/master-adjacent-disciplines">Adjacet Learning</a></li> 
-		  <li><a href="https://jamesclear.com/continuous-improvement">Everyday Learning</a></li>
+		  <li><a href="https://jamesclear.com/continuous-improvement">Everyday Learning</a></li></br>
+		  Power of Revision
 	  </ul>
 </td>
   <td width="40%">
