@@ -624,13 +624,16 @@ CRUD operation
 - [X] [Iterators](https://www.geeksforgeeks.org/iterators-in-python/)
 
 
-
+Complete here
 
 - [X] [Python generator](https://www.geeksforgeeks.org/generators-in-python/)
 - [X] [Context Manager in Python](https://www.geeksforgeeks.org/context-manager-in-python/)
 - [X] [Shallow copy and deep copy](https://www.geeksforgeeks.org/copy-python-deep-copy-shallow-copy/)
 - [X] [Paramaters vs Arguments](https://www.baeldung.com/cs/argument-vs-parameter)
 - [X] [Python Decorator](https://www.programiz.com/python-programming/decorator)
+
+
+
 - [X] [Python documentation: Geeksforgeeks](https://www.geeksforgeeks.org/python-programming-language/?ref=shm)
 - [X] [Article: When to switch to Python 3.9](https://pythonspeed.com/articles/switch-python-3.9/)
 - [X] [Article: I wish I knew these things when I learned Python](http://bugra.github.io/posts/2015/1/3/i-wish-i-knew-these-things-when-i-learned-python/)
