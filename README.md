@@ -1652,8 +1652,9 @@ Regression Loss Functions, Binary Classification Loss Functions, Multi-Class Cla
 	
 ### Smartphone
 #### Android
-- [ ] [Android Studio : Tutorial](https://www.javatpoint.com/android-tutorial)
-- [ ] [Android Studio : Android Tutorial](https://www.tutorialspoint.com/android/index.htm)
+- [X] [Android Studio : Tutorial](https://www.javatpoint.com/android-tutorial)
+- [X] [Android Studio : Android Tutorial](https://www.tutorialspoint.com/android/index.htm)
+- [X] [Unity](https://docs.unity3d.com/Manual/index.html)
 #### ios
 - [ ] [Swift: documentation](https://www.swift.org/documentation/)
 #### Android and ios
