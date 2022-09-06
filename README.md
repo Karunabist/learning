@@ -602,11 +602,18 @@ CRUD operation
 - [X] [Keyword-Only Arguments(*...)](https://betterprogramming.pub/how-to-create-a-keyword-only-function-in-python-fd3826d6df31)
 - [X] [Arbitrary positional arguments(*args)](https://www.w3schools.com/python/gloss_python_function_arbitrary_arguments.asp)
 - [X] [Arbitrary keyword arguments(**args)](https://www.w3schools.com/python/gloss_python_function_arbitrary_keyword_arguments.asp)
+- [X] [Lambda Function: Best UseCase](https://www.machinelearningplus.com/python/lambda-function/)
+- [X] [Documentation String: ](https://www.programiz.com/python-programming/docstrings)
+- [X] [Function Annotations: Support for type hints](https://docs.python.org/3/library/typing.html)
+- [X] [List Comprehension: Best Usecase](https://mathspp.com/blog/pydonts/list-comprehensions-101)
+
+
+
 - [X] [Python OOP concept](https://www.geeksforgeeks.org/python-oops-concepts/#:~:text=In%20Python%2C%20object%2Doriented%20Programming,%2C%20polymorphisms%2C%20encapsulation%2C%20etc.)
 - [X] [Access Modifiers in Python : Public, Private and Protected](https://www.geeksforgeeks.org/access-modifiers-in-python-public-private-and-protected/)
 - [X] [Context Manager in Python](https://www.geeksforgeeks.org/context-manager-in-python/)
 - [X] [Python OOP concept](https://pynative.com/python/object-oriented-programming/)
-- [X] [Support for type hints](https://docs.python.org/3/library/typing.html)
+
 - [X] [Article: A deep dive on Python type hints](http://veekaybee.github.io/2019/07/08/python-type-hints/)
 - [X] [Shallow copy and deep copy](https://www.geeksforgeeks.org/copy-python-deep-copy-shallow-copy/)
 - [X] [Paramaters vs Arguments](https://www.baeldung.com/cs/argument-vs-parameter)
