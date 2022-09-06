@@ -661,6 +661,7 @@ CRUD operation
 - [X] [urllib](https://docs.python.org/3/library/urllib.html): Collects several modules for working with URLs  
 	
 ### References
+- [X] [Wikipedia: Python (programming language)](https://en.wikipedia.org/wiki/Python_(programming_language))
 - [X] [awesome-python:Python Library](https://github.com/vinta/awesome-python)
 
 	
