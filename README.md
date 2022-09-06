@@ -6,7 +6,7 @@
 	<ul>
 		  Life long learning with there basic unit.
 		<li><a href= "https://docs.google.com/document/d/1snROtUFb4DGpGE0kVZr6nFM1GUnRuaXFwLWCYvFM3ME/edit?usp=sharing">Language(English)(letter)</a></li>            
-		  <li>Mathematics(number)</li>
+		  <li><a href="https://colab.research.google.com/drive/15uiUNCEPbh1VhH-wfvJctbm8902po2zq?usp=sharing">Mathematics(number)</a></li>
 		  <li>Physics(atom)</li>
 		  <li>Chemistry(ion)</li>
 		  <li>Biology(cell)</li> 
