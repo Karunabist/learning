@@ -566,18 +566,16 @@ CRUD operation
 - [X] [Article: When to switch to Python 3.9](https://pythonspeed.com/articles/switch-python-3.9/)
 - [X] [Article: I wish I knew these things when I learned Python](http://bugra.github.io/posts/2015/1/3/i-wish-i-knew-these-things-when-i-learned-python/)
 - [X] [Python Collections Module](https://www.geeksforgeeks.org/python-collections-module/)
-- [ ] [Article: No Really, Python's Pathlib is Great](https://rednafi.github.io/digressions/python/2020/04/13/python-pathlib.html)
-- [ ] [Article: Python Concurrency: The Tricky Bits](https://python.hamel.dev/concurrency/)
+- [X] [Pathlib: No Really, Python's Pathlib is Great](https://rednafi.github.io/digressions/python/2020/04/13/python-pathlib.html)
+- [X] [Article: Python Concurrency: The Tricky Bits](https://python.hamel.dev/concurrency/)
+- [X] [Article: Speeding Up Python with Concurrency, Parallelism, and asyncio](https://testdriven.io/blog/concurrency-parallelism-asyncio/)
+
 - [ ] [Article: The Complete Python Development Guide](https://testdriven.io/guides/complete-python/)
-- [ ] [Article: Speeding Up Python with Concurrency, Parallelism, and asyncio](https://testdriven.io/blog/concurrency-parallelism-asyncio/)
+
 - [ ] [Article: Speed Up Your Python Program With Concurrency](https://testdriven.io/blog/concurrency-parallelism-asyncio/)
 - [ ] [Article: A Python prompt into a running process: debugging with Manhole](https://pythonspeed.com/articles/live-debugging-python/)
 - [ ] [Regex For Noobs (like me!) - An Illustrated Guide](https://www.janmeppe.com/blog/regex-for-noobs/)
-- [ ] [Article: A reverse chronology of some Python features](https://snarky.ca/a-reverse-chronology-of-some-python-features/)
-- [ ] [Book: A Byte of Python](https://python.swaroopch.com)
-- [ ] [Book: Learn Python The Hard way](https://learnpythonthehardway.org)
-- [ ] [Book: Python 201](https://leanpub.com/python201)
-- [ ] [Book: The Python 3 Standard Library By Example](https://doughellmann.com/blog/the-python-3-standard-library-by-example)
+
 - [ ] [Book: Writing Idiomatic Python 3](https://www.amazon.com/Writing-Idiomatic-Python-Jeff-Knupp-ebook/dp/B00B5VXMRG)
 - [ ] [Calmcode: ray](https://calmcode.io/ray/introduction.html)
 - [ ] [Codecademy: Learn Python](https://www.codecademy.com/learn/learn-python)
@@ -596,12 +594,7 @@ CRUD operation
 - [ ] [edX: Programming with Python for Data Science](https://www.edx.org/course/programming-python-data-science-microsoft-dat210x-5)
 - [ ] [Google's Python Class](https://developers.google.com/edu/python/)
 - [ ] [Treehouse: Python Basics](https://teamtreehouse.com/library/python-basics)
-- [ ] [TheNewBoston: Python Programming Tutorials](https://www.youtube.com/watch?v=4Mf0h3HphEA&list=PLEA1FEF17E1E5C0DA)
-- [ ] [Youtube: Python 3 Programming Tutorial - Regular Expressions / Regex with re](https://www.youtube.com/watch?v=sZyAn2TW7GY)
-- [ ] [Youtube: Python Tutorial: re Module - How to Write and Match Regular Expressions (Regex)](https://www.youtube.com/watch?v=K8L6KVGG-7o)
-- [ ] [Youtube: Python Concurrency and Multithreading](https://advanced-python.namespace.im/python-concurrency-and-multithreading/)
-- [ ] [Youtube: Aaron Richter- Parallel Processing in Python| PyData Global 2020](https://www.youtube.com/watch?v=eJyjB3cNIB0&feature=youtu.be)
-- [ ] [Youtube: The Clean Architecture in Python](https://www.youtube.com/watch?v=DJtef410XaM)
+
 - [ ] [My note on code convention](https://github.com/MadanBaduwal/python-project-structure/blob/main/code-convention.md)
 - [ ] [My note in MLOPS](https://github.com/MadanBaduwal/python-project-structure/blob/main/mlops.md)
 - [ ] [My note on issues face on python project](https://github.com/MadanBaduwal/python-project-structure/blob/main/error-and-issues.md)
@@ -609,6 +602,21 @@ CRUD operation
 - [ ] [pytudes](https://github.com/norvig/pytudes)	
 - [ ] [IPython: Productive Interactive Computing](https://github.com/ipython/ipython)
 - [ ] [python3_with_pleasure](https://github.com/arogozhnikov/python3_with_pleasure)
+
+### Books And Courses
+- [ ] [Article: A reverse chronology of some Python features](https://snarky.ca/a-reverse-chronology-of-some-python-features/)
+- [ ] [Book: A Byte of Python](https://python.swaroopch.com)
+- [ ] [Book: Learn Python The Hard way](https://learnpythonthehardway.org)
+- [ ] [Book: Python 201](https://leanpub.com/python201)
+- [ ] [Book: The Python 3 Standard Library By Example](https://doughellmann.com/blog/the-python-3-standard-library-by-example)
+
+### Youtube Channel
+- [ ] [TheNewBoston: Python Programming Tutorials](https://www.youtube.com/watch?v=4Mf0h3HphEA&list=PLEA1FEF17E1E5C0DA)
+- [ ] [Youtube: Python 3 Programming Tutorial - Regular Expressions / Regex with re](https://www.youtube.com/watch?v=sZyAn2TW7GY)
+- [ ] [Youtube: Python Tutorial: re Module - How to Write and Match Regular Expressions (Regex)](https://www.youtube.com/watch?v=K8L6KVGG-7o)
+- [ ] [Youtube: Python Concurrency and Multithreading](https://advanced-python.namespace.im/python-concurrency-and-multithreading/)
+- [ ] [Youtube: Aaron Richter- Parallel Processing in Python| PyData Global 2020](https://www.youtube.com/watch?v=eJyjB3cNIB0&feature=youtu.be)
+- [ ] [Youtube: The Clean Architecture in Python](https://www.youtube.com/watch?v=DJtef410XaM)
 
 ### Important Python Library
 - [X] Profiling Tools
@@ -651,9 +659,10 @@ CRUD operation
 - [X] [sqlalchemy](https://www.sqlalchemy.org/): Python SQL toolkit  
 - [X] [tabulapy](https://pypi.org/project/tabula-py/): Python wrapper of tabula-java, which can read table of PDF   
 - [X] [urllib](https://docs.python.org/3/library/urllib.html): Collects several modules for working with URLs  
-#### References
-- [X] [awesome-python](https://github.com/vinta/awesome-python)
 	
+### References
+- [X] [awesome-python:Python Library](https://github.com/vinta/awesome-python)
+
 	
 # Artificial intelligence
 
