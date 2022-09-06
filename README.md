@@ -607,6 +607,8 @@ CRUD operation
 - [X] [Function Annotations: Support for type hints](https://docs.python.org/3/library/typing.html)
 - [X] [Function Annotations: A deep dive on Python type hints](http://veekaybee.github.io/2019/07/08/python-type-hints/)
 - [X] [List Comprehension: Best Usecase](https://mathspp.com/blog/pydonts/list-comprehensions-101)
+- [X] [List Comprehensions in Python](https://www.w3schools.com/python/python_lists_comprehension.asp)
+- [X] [Nested List Comprehensions in Python](https://www.geeksforgeeks.org/nested-list-comprehensions-in-python/)
 - [X] [Reading and Writing Files: Effectively](https://www.pythontutorial.net/python-basics/python-read-text-file/)
 - [X] [Raising Exceptions](https://www.pythontutorial.net/python-oop/python-raise-exception/)
 - [X] [User-defined Exceptions](https://www.programiz.com/python-programming/user-defined-exception)
@@ -619,16 +621,15 @@ CRUD operation
 	- [X] [Polymorphism](https://www.programiz.com/python-programming/polymorphism)
 	- [X] [Encapsulation](https://www.geeksforgeeks.org/encapsulation-in-python/)
 	- [X] [Abstraction](https://www.geeksforgeeks.org/abstract-classes-in-python/)
-    
+- [X] [Iterators](https://www.geeksforgeeks.org/iterators-in-python/)
 
-- [X] [Context Manager in Python](https://www.geeksforgeeks.org/context-manager-in-python/)
-- [X] [Python OOP concept](https://pynative.com/python/object-oriented-programming/)
-- [X] [Shallow copy and deep copy](https://www.geeksforgeeks.org/copy-python-deep-copy-shallow-copy/)
-- [X] [Paramaters vs Arguments](https://www.baeldung.com/cs/argument-vs-parameter)
-- [X] [List Comprehensions in Python](https://www.w3schools.com/python/python_lists_comprehension.asp)
-- [X] [Nested List Comprehensions in Python](https://www.geeksforgeeks.org/nested-list-comprehensions-in-python/)
+
+
 
 - [X] [Python generator](https://www.geeksforgeeks.org/generators-in-python/)
+- [X] [Context Manager in Python](https://www.geeksforgeeks.org/context-manager-in-python/)
+- [X] [Shallow copy and deep copy](https://www.geeksforgeeks.org/copy-python-deep-copy-shallow-copy/)
+- [X] [Paramaters vs Arguments](https://www.baeldung.com/cs/argument-vs-parameter)
 - [X] [Python Decorator](https://www.programiz.com/python-programming/decorator)
 - [X] [Python documentation: Geeksforgeeks](https://www.geeksforgeeks.org/python-programming-language/?ref=shm)
 - [X] [Article: When to switch to Python 3.9](https://pythonspeed.com/articles/switch-python-3.9/)
