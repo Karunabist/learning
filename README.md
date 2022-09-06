@@ -543,6 +543,7 @@ CRUD operation
 - [X] [Raising Exceptions](https://www.pythontutorial.net/python-oop/python-raise-exception/)
 - [X] [User-defined Exceptions in python](https://www.programiz.com/python-programming/user-defined-exception)
 - [X] [Python generator](https://www.geeksforgeeks.org/generators-in-python/)
+- [X] [Python Decorator](https://www.programiz.com/python-programming/decorator)
 - [X] [Python documentation: Geeksforgeeks](https://www.geeksforgeeks.org/python-programming-language/?ref=shm)
 - [X] [Article: When to switch to Python 3.9](https://pythonspeed.com/articles/switch-python-3.9/)
 - [X] [Article: I wish I knew these things when I learned Python](http://bugra.github.io/posts/2015/1/3/i-wish-i-knew-these-things-when-i-learned-python/)
