@@ -16,7 +16,7 @@
 		  <li>Managment,accounting,Education,
 			  General Knowledge ...etc</li>
 		  <li>Companies(motivations)</li>
-		  <li>Computer science(Array)</li>
+		  <li><a href="https://colab.research.google.com/drive/1eqOUu2cIzTNweQB_dr3NyiQhirm3ol_0?usp=sharing">Computer science(Array)</a></li>
 		Download Book From Here:<a href="https://libgen.is/">libgen.is</a></br>
 		  Download Paid Research Papers From Here: <a href="https://sci-hub.se/">sci-hub.se</a></br>
 	Free Pdf hosting: <a href="https://pdfhost.io/">pdfhost.io</a>
