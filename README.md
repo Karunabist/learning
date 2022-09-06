@@ -1663,7 +1663,9 @@ Regression Loss Functions, Binary Classification Loss Functions, Multi-Class Cla
 
 ### Web application	
 #### Front-End
-- [X] [Figma: Documentatio](https://www.figma.com/best-practices/guide-to-developer-handoff/components-styles-and-documentation/)
+- [X] UX Design
+- [X] UI Design
+	- [X] [Figma: Documentatio](https://www.figma.com/best-practices/guide-to-developer-handoff/components-styles-and-documentation/)
 - [X] [HTML](https://html.com/document/)
 - [X] [HTML: Mozilla documentation](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [X] [CSS](https://devdocs.io/css/)
