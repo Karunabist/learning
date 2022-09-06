@@ -1106,10 +1106,6 @@ Regression Loss Functions, Binary Classification Loss Functions, Multi-Class Cla
 - [ ] [Youtube: SE4AI: Security](https://www.youtube.com/watch?v=5ZdrNYvTmq8) `1:18:24`
 - [ ] [Youtube: SE4AI: Safety](https://www.youtube.com/watch?v=xRlFDXV3-8E) `1:17:37`
 
-### Be able to import data from multiple sources
-- [X] [Docs: Beautiful Soup Documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
-- [X] [Datacamp: Importing Data in Python (Part 2)](https://www.datacamp.com/courses/importing-data-in-python-part-2)
-- [ ] [Datacamp: Web Scraping in Python](https://www.datacamp.com/courses/web-scraping-with-python)
 
 ### Be able to setup data annotation efficiently
 - [X] [Article: Create A Synthetic Image Dataset — The “What”, The “Why” and The “How”](https://towardsdatascience.com/create-a-synthetic-image-dataset-the-what-the-why-and-the-how-f820e6b6f718)
