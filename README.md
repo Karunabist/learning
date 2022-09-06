@@ -407,13 +407,9 @@ Dialects,accents, and varieties
 - [X] [patrickJMT ](https://www.youtube.com/c/patrickjmt/featured)
 - [X] [Numberphile ](https://www.youtube.com/c/numberphile)
 - [X] [The Math Sorcerer ](https://www.youtube.com/c/TheMathSorcerer)
-# Other Resources
-- [ ] [Wikipedia]()
-- [ ] [Essentials Mathematics for machine learning](https://www.youtube.com/playlist?list=PLLy_2iUCG87D1CXFxE-SxCFZUiJzQ3IvE)
-- [ ] [Mathematics of Machine Learning](https://www.tivadardanka.com/blog)
-- [ ] [TED](https://www.ted.com/talks/marcus_du_sautoy_symmetry_reality_s_riddle?referrer=playlist-math_talks_to_blow_your_mind&autoplay=true)
-- [ ] [  Article: Math You Need to Succeed In ML Interviews](https://towardsdatascience.com/math-you-need-to-succeed-in-ml-interviews-9e717d61f296)
-- [ ] [Brandon Foltz ](https://www.youtube.com/c/BrandonFoltz/videos)
+
+# Mathematical Symbols
+- [X] [Ma]()
 
 # Python Programming Library 
 - [X] [SymPy](https://docs.sympy.org/latest/index.html)
@@ -423,6 +419,15 @@ Dialects,accents, and varieties
 - [X] [Theano](https://theano-pymc.readthedocs.io/en/latest/)
 - [X] [Statsmodel](https://www.statsmodels.org/stable/index.html)
 - [X] []()
+
+# Other Resources
+- [ ] [Mathematical: Wikipedia](https://en.wikipedia.org/wiki/Mathematics)
+- [ ] [Mathematical Symbols: Wikipedia](https://en.wikipedia.org/wiki/Glossary_of_mathematical_symbols)
+- [ ] [Essentials Mathematics for machine learning](https://www.youtube.com/playlist?list=PLLy_2iUCG87D1CXFxE-SxCFZUiJzQ3IvE)
+- [ ] [Mathematics of Machine Learning](https://www.tivadardanka.com/blog)
+- [ ] [TED](https://www.ted.com/talks/marcus_du_sautoy_symmetry_reality_s_riddle?referrer=playlist-math_talks_to_blow_your_mind&autoplay=true)
+- [ ] [  Article: Math You Need to Succeed In ML Interviews](https://towardsdatascience.com/math-you-need-to-succeed-in-ml-interviews-9e717d61f296)
+- [ ] [Brandon Foltz ](https://www.youtube.com/c/BrandonFoltz/videos)
 
 
 </details>
