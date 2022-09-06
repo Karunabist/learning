@@ -605,22 +605,29 @@ CRUD operation
 - [X] [Lambda Function: Best UseCase](https://www.machinelearningplus.com/python/lambda-function/)
 - [X] [Documentation String: ](https://www.programiz.com/python-programming/docstrings)
 - [X] [Function Annotations: Support for type hints](https://docs.python.org/3/library/typing.html)
+- [X] [Function Annotations: A deep dive on Python type hints](http://veekaybee.github.io/2019/07/08/python-type-hints/)
 - [X] [List Comprehension: Best Usecase](https://mathspp.com/blog/pydonts/list-comprehensions-101)
-
+- [X] [Reading and Writing Files: Effectively](https://www.pythontutorial.net/python-basics/python-read-text-file/)
+- [X] [Raising Exceptions](https://www.pythontutorial.net/python-oop/python-raise-exception/)
+- [X] [User-defined Exceptions](https://www.programiz.com/python-programming/user-defined-exception)
+- [X] [Python Scopes and NamespacesAccess : Modifiers in Python : Public, Private and Protected](https://www.geeksforgeeks.org/access-modifiers-in-python-public-private-and-protected/)
 
 
 - [X] [Python OOP concept](https://www.geeksforgeeks.org/python-oops-concepts/#:~:text=In%20Python%2C%20object%2Doriented%20Programming,%2C%20polymorphisms%2C%20encapsulation%2C%20etc.)
-- [X] [Access Modifiers in Python : Public, Private and Protected](https://www.geeksforgeeks.org/access-modifiers-in-python-public-private-and-protected/)
+	- [X] [Inheritance: Geeksforgeeks](https://www.geeksforgeeks.org/inheritance-in-python/)
+	- [X] [Inheritance: Pynative](https://pynative.com/python-inheritance/)
+	- [X] [Polymorphism](https://www.programiz.com/python-programming/polymorphism)
+	- [X] [Encapsulation](https://www.geeksforgeeks.org/encapsulation-in-python/)
+	- [X] [Abstraction](https://www.geeksforgeeks.org/abstract-classes-in-python/)
+    
+
 - [X] [Context Manager in Python](https://www.geeksforgeeks.org/context-manager-in-python/)
 - [X] [Python OOP concept](https://pynative.com/python/object-oriented-programming/)
-
-- [X] [Article: A deep dive on Python type hints](http://veekaybee.github.io/2019/07/08/python-type-hints/)
 - [X] [Shallow copy and deep copy](https://www.geeksforgeeks.org/copy-python-deep-copy-shallow-copy/)
 - [X] [Paramaters vs Arguments](https://www.baeldung.com/cs/argument-vs-parameter)
 - [X] [List Comprehensions in Python](https://www.w3schools.com/python/python_lists_comprehension.asp)
 - [X] [Nested List Comprehensions in Python](https://www.geeksforgeeks.org/nested-list-comprehensions-in-python/)
-- [X] [Raising Exceptions](https://www.pythontutorial.net/python-oop/python-raise-exception/)
-- [X] [User-defined Exceptions in python](https://www.programiz.com/python-programming/user-defined-exception)
+
 - [X] [Python generator](https://www.geeksforgeeks.org/generators-in-python/)
 - [X] [Python Decorator](https://www.programiz.com/python-programming/decorator)
 - [X] [Python documentation: Geeksforgeeks](https://www.geeksforgeeks.org/python-programming-language/?ref=shm)
