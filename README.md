@@ -342,7 +342,20 @@ Dialects,accents, and varieties
 * Pure Mathematics: Quantity(Arthmatic), Structure(Algebra),Space(Geometry), Change(Calculus)
 * Applied Mathematics: Statistics and other decision sciences(probability and statistics), Computational mathematics
 
+# Foundations and philosophy
+
+## Mathematical logics(^(and), v (or), ¬ (not), → (implies),)
+
+## Set theory({a,b,c..})
+
+## Category theory(f:x→y,f:y→z,g o f:x→z , functors(functions) map between categories )
+
+## Theory of Computation(finite stste of automata, infinite state of automata))
+
+
 # Pure Mathematics
+
+## Quantity(Arthmatic)
 	
 ## Structure(Algebra)
 ### Linear Algebra
@@ -370,6 +383,8 @@ Dialects,accents, and varieties
 - [ ] [ Udacity: Linear Algebra Refresher](https://www.udacity.com/course/linear-algebra-refresher-course--ud953)     
   
 - [X] [mathematics: My implementation from scratch](https://madanbaduwal.github.io/mathematics/)
+
+## Space(Geometry)
 
 ## Change(Calculus)
 
