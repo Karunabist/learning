@@ -1624,7 +1624,23 @@ Regression Loss Functions, Binary Classification Loss Functions, Multi-Class Cla
 - [X] [Cassendra](https://cassandra.apache.org/_/index.html)
 - [X] [ElasticSearch](https://www.elastic.co/)
 - [X] [Neo4j](https://neo4j.com/)
-	
+
+
+# Computer network(ip & port)
+
+- [X] [Layers of OSI Model](https://en.wikipedia.org/wiki/OSI_model#Layer_7:_Application_layer)
+
+	- [X] [Application Layer](https://www.geeksforgeeks.org/application-layer-in-osi-model/)
+	- [X] [Presentation Layer](https://www.geeksforgeeks.org/presentation-layer-in-osi-model/)
+	- [X] [Session Layer](https://www.geeksforgeeks.org/session-layer-in-osi-model/)
+	- [X] [Transport Layer](https://osi-model.com/transport-layer/)
+	- [X] [Network Layer](https://www.studytonight.com/computer-networks/osi-model-network-layer)
+	- [X] [Data Link Layer](https://www.tutorialspoint.com/data_communication_computer_network/data_link_layer_introduction.htm)
+	- [X] [Physical Layer](https://www.tutorialspoint.com/data_communication_computer_network/data_link_layer_introduction.htm)
+
+## Other References
+- [X] [Computer Network: Wikipedia](https://en.wikipedia.org/wiki/Computer_network)
+
 # Software engineer
 
 ## Software
