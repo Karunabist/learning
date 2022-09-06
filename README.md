@@ -345,8 +345,23 @@ Dialects,accents, and varieties
 # Foundations and philosophy
 
 ## Mathematical logics(^(and), v (or), ¬ (not), → (implies),)
+- [X] [Mathematical Logic Part One: Stanford](https://web.stanford.edu/class/archive/cs/cs103/cs103.1132/lectures/09/Small09.pdf)
+- [X] [Mathematical Logic Part Two: Stanford](https://web.stanford.edu/class/archive/cs/cs103/cs103.1126/lectures/09/Slides09.pdf)
+- [X] [Mathematical Logic Part Two: Stanford](https://web.stanford.edu/class/archive/cs/cs103/cs103.1134/lectures/09/Small09.pdf)
+- [X] [Mathematical Logic Part Three: Stanford](https://web.stanford.edu/class/archive/cs/cs103/cs103.1156/lectures/07/Small07.pdf)
+- [X] [Mathematical Logic: illinois](https://faculty.math.illinois.edu/~vddries/main2.pdf)
+
 
 ## Set theory({a,b,c..})
+
+- [X] [Basic Set Theory: Stanford](https://plato.stanford.edu/entries/set-theory/basic-set-theory.html)
+- [X] [Set Theory: Stanford](https://plato.stanford.edu/entries/set-theory/)
+- [X] [The Early Development of Set Theory](https://plato.stanford.edu/entries/settheory-early/)
+- [X] [Zermelo-Fraenkel Set Theory](https://plato.stanford.edu/entries/set-theory/ZF.html)
+- [X] [Alternative Axiomatic Set Theories](https://plato.stanford.edu/entries/settheory-alternative/)
+- [X] [Set Theory: Constructive and Intuitionistic ZF](https://plato.stanford.edu/entries/set-theory-constructive/)
+- [X] [Non-wellfounded Set Theory](https://plato.stanford.edu/entries/nonwellfounded-set-theory/)
+
 
 ## Category theory(f:x→y,f:y→z,g o f:x→z , functors(functions) map between categories )
 
