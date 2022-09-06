@@ -409,7 +409,9 @@ Dialects,accents, and varieties
 - [X] [The Math Sorcerer ](https://www.youtube.com/c/TheMathSorcerer)
 
 # Mathematical Symbols
-- [X] [Ma]()
+- [X] [Mathematical Symbols: Article](https://byjus.com/maths/math-symbols/)
+- [X] [Math Symbols List: Article](https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html)
+- [X] [Mathematical Symbols: Article](https://mathvault.ca/hub/higher-math/math-symbols/)
 
 # Python Programming Library 
 - [X] [SymPy](https://docs.sympy.org/latest/index.html)
