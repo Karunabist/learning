@@ -626,7 +626,9 @@ CRUD operation
 
 
 
-
+- [X] [qiyuangong/leetcode](https://github.com/qiyuangong/leetcode)
+- [X] [Leetcode Problems: Solve Problems By Ascending Order Easy,Medium, and Hard](https://leetcode.com/)
+- [X] [Geeksforgeeks](https://www.geeksforgeeks.org/sde-sheet-a-complete-guide-for-sde-preparation/)
 
 
 
@@ -648,6 +650,8 @@ CRUD operation
 - [X] [Data Structures | Python](https://www.youtube.com/playlist?list=PLzgPDYo_3xukPJdH6hVQ6Iic7KiJuoA-l)
 
 ## References
+- [X] [Geeksforgeeks: Data Structure](https://www.geeksforgeeks.org/data-structures/?ref=lbp)
+- [X] [Geeksforgeeks: Algorithms](https://www.geeksforgeeks.org/fundamentals-of-algorithms/?ref=shm)
 - [X] [Data Structure: Wikipedia](https://en.wikipedia.org/wiki/Data_structure)
 - [X] [List of data structures: Wikipedia](https://en.wikipedia.org/wiki/List_of_data_structures)
 - [X] [Algorithm: Wikipedia](https://en.wikipedia.org/wiki/Algorithm)
