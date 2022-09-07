@@ -259,6 +259,10 @@ Dialects,accents, and varieties
 - [X] [Greg Mat](https://www.youtube.com/channel/UCktwzce9ncy_K78l1KBZkYQ)
 	
 # Books
+
+- [X] [The Psycology Of Money](https://www.planetayurveda.com/traditional-books/the-psychology-of-money-by-morgan-housel.pdf)
+- [X] [Atomic Habit](https://www.opportunitiesforyouth.org/wp-content/uploads/2021/04/Atomic_Habits_by_James_Clear-1.pdf)
+- [X] [The Subtle Art Of Not Giving A F*ck](https://www.docdroid.net/KyoHFx5/the-subtle-art-of-not-giving-a-fuck-pdf#page=5)
 - [X] [Elon Musk](https://drive.google.com/file/d/1C8ODShsViYqTUGmbeW2y3aLg3Lbr_1fj/view?usp=sharing)
 - [X] [Born A Crime](https://drive.google.com/file/d/1_BmJeqonDQChIF2BoxqKh0jq-nSU25eS/view?usp=sharing)
 - [X] [Tinkle Double Digest](https://drive.google.com/file/d/1XoO5s4MJlG4zt3QJGKk2ovLoRIiWL-sx/view?usp=sharing)
@@ -383,7 +387,27 @@ Dialects,accents, and varieties
 # Pure Mathematics
 
 ## Quantity(Arthmatic)
-	
+### Numbers 
+#### Real Numbers
+- [X] [Real Numbers](https://drive.google.com/file/d/1CVgUrJt-Zd1Sa-rx7Pc28OkBsKiVmuUz/view?usp=sharing)
+- [X] [Real Numbers](https://drive.google.com/file/d/1CNd-18RCq8kusu4mSj4D8MNZljp9K1_o/view?usp=sharing)
+- [X] [Real Numbers](https://drive.google.com/file/d/1CXjEOnLY8lI3Cst5O7eFAOF485-kPyMY/view?usp=sharing)
+- [X] [Real NUmbers](https://drive.google.com/file/d/1CTDyu6bOcqIJIaFxtNIPTR4Kse_B8qz_/view?usp=sharing)
+
+
+##### Rational Numbers
+- [X] Intigers
+    - [X] [Whole]()
+	    - [X] [Natural Numbers]()
+		- [X] [0]()
+	- [X] [Negative]()
+- [X] Fraction
+    - [X] [Proper]()
+	- [X] [Improper]()
+##### Irrational Number
+#### Complex NUmbers
+
+
 ## Structure(Algebra)
 ### Linear Algebra
 
