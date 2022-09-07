@@ -366,8 +366,19 @@ Dialects,accents, and varieties
 
 ## Category theory(f:x→y,f:y→z,g o f:x→z , functors(functions) map between categories )
 
-## Theory of Computation(finite stste of automata, infinite state of automata))
+- [X] [Categories](https://plato.stanford.edu/entries/categories/)
+- [X] [Category Theory: Stanford](https://plato.stanford.edu/entries/category-theory/)
+- [X] [An Introduction to Category Theory: Stanford](http://web.stanford.edu/~truax/notes/Category_Theory.pdf)
+- [X] [Programmatic Reading Guide](https://plato.stanford.edu/entries/category-theory/bib.html)
+- [X] [Structuralism in the Philosophy of Mathematics](https://plato.stanford.edu/entries/structuralism-mathematics/)
+	
 
+## Theory of Computation(finite stste of automata, infinite state of automata))
+- [X] [Automata Theory: Stanford Course](https://online.stanford.edu/courses/soe-ycsautomata-automata-theory)
+- [X] [THEORY OF COMPUTATION: MIT](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/)
+- [X] [The Computational Theory of Mind: Stanford](https://plato.stanford.edu/entries/computational-mind/)
+- [X] [Introduction to Automata and Complexity Theory](http://infolab.stanford.edu/~ullman/ialc/spr10/spr10.html#LECTURE%20NOTES)
+- [X] [THEORY OF COMPUTATION LECTURE NOTES](https://www.vssut.ac.in/lecture_notes/lecture1428551440.pdf)
 
 # Pure Mathematics
 
