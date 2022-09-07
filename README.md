@@ -675,7 +675,9 @@ Complete here
 - [X] [Shallow copy and deep copy](https://www.geeksforgeeks.org/copy-python-deep-copy-shallow-copy/)
 - [X] [Paramaters vs Arguments](https://www.baeldung.com/cs/argument-vs-parameter)
 - [X] [Python Decorator](https://www.programiz.com/python-programming/decorator)
-
+- [X] [Python Operators](https://www.w3schools.com/python/python_operators.asp)
+    - [X] [/ vs //(17/2=8.5,17//2=8)](https://www.w3schools.com/python/python_operators.asp)
+	- [X] [^(XOR)](https://www.w3schools.com/python/python_operators.asp)
 
 
 - [X] [Python documentation: Geeksforgeeks](https://www.geeksforgeeks.org/python-programming-language/?ref=shm)
