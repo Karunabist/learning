@@ -538,10 +538,9 @@ CRUD operation
 - [X] Linear Data Structure
 	
 	**Note: Python List Is Massively Use In Linear Data Structure**
-	
+	- [X] [Singly linked list: Implementing a Singly Linked List in Python](https://www.studytonight.com/post/implementing-singly-linked-list-in-python)
 	- [X] [Singly linked list: Implementing a Singly Linked List in Python](https://www.educative.io/answers/how-to-create-a-linked-list-in-python)
 	- [X] [Singly linked list: Implementing a Singly Linked List in Python](https://towardsdatascience.com/python-linked-lists-c3622205da81)
-	- [X] [Singly linked list: Implementing a Singly Linked List in Python](https://www.studytonight.com/post/implementing-singly-linked-list-in-python)
 	- [X] [Doubly linked list: How to create a doubly linked list in Python](https://www.educative.io/answers/how-to-create-a-doubly-linked-list-in-python)
 	- [X] [Doubly linked list: Doubly Linked List | Set 1 (Introduction and Insertion)](https://www.geeksforgeeks.org/doubly-linked-list/)
 - [X] Tree
