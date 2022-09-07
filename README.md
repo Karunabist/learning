@@ -1683,7 +1683,9 @@ Regression Loss Functions, Binary Classification Loss Functions, Multi-Class Cla
 - [ ] [IoT Owl ](https://github.com/Ret2Me/IoT-Owl)
 - [ ] [Exadel CompreFace ](https://github.com/exadel-inc/CompreFace)
 - [ ] [computer-vision-in-action ](https://github.com/Charmve/computer-vision-in-action)
-	
+- [X] [Midjourney: Text-to-Image](https://www.midjourney.com/home/) > Expanding the imaginative powers of the human species
+
+
 # Databases and data mining and data science
 
 ## Database
