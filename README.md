@@ -547,6 +547,7 @@ CRUD operation
 	- [X] [Binary tree: Python - Binary Tree](https://www.tutorialspoint.com/python_data_structure/python_binary_tree.htm#:~:text=Inserting%20into%20a%20Tree,used%20to%20print%20the%20tree.)
 	- [X] [Binary tree: Implement Binary Tree in Python](https://iq.opengenus.org/implement-binary-tree-in-python/)
 - [X] Hash Based Structure
+    - [X] [Hash Table](https://nbviewer.org/github/donnemartin/interactive-coding-challenges/blob/master/arrays_strings/hash_map/hash_map_solution.ipynb)
 	- [X] [Hash Table](https://www.guru99.com/hash-table-data-structure.html)
 	- [X] [Hash Table](https://www.programiz.com/dsa/hash-table)
 	- [X] [Hash table: Hash Table(Bakcground of the python inbuilt dictionary is hash table)](https://www.geeksforgeeks.org/hash-map-in-python/)
@@ -624,6 +625,9 @@ CRUD operation
 
 	- [X] Find two indices that sum to a specific value: [Challenge](https://nbviewer.org/github/donnemartin/interactive-coding-challenges/blob/master/arrays_strings/two_sum/two_sum_challenge.ipynb)| [Solution](https://nbviewer.org/github/donnemartin/interactive-coding-challenges/blob/master/arrays_strings/two_sum/two_sum_solution.ipynb)
 
+	- [X] Implement a hash table: [Challenge](https://nbviewer.org/github/donnemartin/interactive-coding-challenges/blob/master/arrays_strings/hash_map/hash_map_challenge.ipynb)| [Solution](https://nbviewer.org/github/donnemartin/interactive-coding-challenges/blob/master/arrays_strings/hash_map/hash_map_solution.ipynb)
+
+    
 
 
 - [X] [qiyuangong/leetcode](https://github.com/qiyuangong/leetcode)
@@ -685,6 +689,8 @@ CRUD operation
 	- [X] [Encapsulation](https://www.geeksforgeeks.org/encapsulation-in-python/)
 	- [X] [Abstraction](https://www.geeksforgeeks.org/abstract-classes-in-python/)
 - [X] [Iterators](https://www.geeksforgeeks.org/iterators-in-python/)
+- [X] [_ : 5 Different Meanings of Underscore in Python](https://towardsdatascience.com/5-different-meanings-of-underscore-in-python-3fafa6cd0379#:~:text=Single%20standalone%20underscore%20_%20is%20a,used%20as%20a%20variable%20name.&text=According%20to%20Python%20doc%2C%20the,Here%20is%20an%20example.)
+- [X] [_ : https://www.geeksforgeeks.org/underscore-_-python/](https://www.geeksforgeeks.org/underscore-_-python/)
 
 
 Complete here
