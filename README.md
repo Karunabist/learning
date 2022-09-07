@@ -609,6 +609,11 @@ CRUD operation
 - [ ] [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges)
 
     **Arrays and Strings**
+		Note:
+
+	* raise TypeError or Value error if wrong input is given
+	* Use dictionary and list most
+	
     - [X] Determine if a string contains unique characters: [Challenge](https://nbviewer.org/github/donnemartin/interactive-coding-challenges/blob/master/arrays_strings/unique_chars/unique_chars_challenge.ipynb)| [Solution](https://nbviewer.org/github/donnemartin/interactive-coding-challenges/blob/master/arrays_strings/unique_chars/unique_chars_solution.ipynb)
     - [X] Determine if a string is a permutation of another: [Challenge](https://nbviewer.org/github/donnemartin/interactive-coding-challenges/blob/master/arrays_strings/permutation/permutation_challenge.ipynb)| [Solution](https://nbviewer.org/github/donnemartin/interactive-coding-challenges/blob/master/arrays_strings/permutation/permutation_solution.ipynb)
 	- [X] Determine if a string is a rotation of another: [Challenge](https://nbviewer.org/github/donnemartin/interactive-coding-challenges/blob/master/arrays_strings/rotation/rotation_challenge.ipynb)| [Solution](https://nbviewer.org/github/donnemartin/interactive-coding-challenges/blob/master/arrays_strings/rotation/rotation_solution.ipynb)
@@ -616,6 +621,16 @@ CRUD operation
 	- [X] Reverse characters in a string: [Challenge](https://nbviewer.org/github/donnemartin/interactive-coding-challenges/blob/master/arrays_strings/reverse_string/reverse_string_challenge.ipynb)| [Solution](https://nbviewer.org/github/donnemartin/interactive-coding-challenges/blob/master/arrays_strings/reverse_string/reverse_string_solution.ipynb)
 
 	- [X] Given two strings, find the single different char: [Challenge](https://nbviewer.org/github/donnemartin/interactive-coding-challenges/blob/master/arrays_strings/reverse_string/reverse_string_challenge.ipynb)| [Solution](https://nbviewer.org/github/donnemartin/interactive-coding-challenges/blob/master/arrays_strings/reverse_string/reverse_string_solution.ipynb)
+
+	- [X] Find two indices that sum to a specific value: [Challenge](https://nbviewer.org/github/donnemartin/interactive-coding-challenges/blob/master/arrays_strings/reverse_string/reverse_string_challenge.ipynb)| [Solution](https://nbviewer.org/github/donnemartin/interactive-coding-challenges/blob/master/arrays_strings/reverse_string/reverse_string_solution.ipynb)
+
+
+
+
+
+
+
+	
 	
 	
 
