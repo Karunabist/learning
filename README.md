@@ -668,7 +668,10 @@ CRUD operation
 ## Challenges
 - [ ] Coding Challenges
 
+    **Data Structure**
+
     **Arrays and Strings**
+	
 		Note:
 
 	* raise TypeError or Value error if wrong input is given
