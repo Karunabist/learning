@@ -672,7 +672,7 @@ CRUD operation
 
     **Arrays and Strings**
 	
-		Note:
+	Note:
 
 	* raise TypeError or Value error if wrong input is given
 	* Use dictionary and list most
