@@ -666,7 +666,7 @@ CRUD operation
 	
 
 ## Challenges
-- [ ] [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges)
+- [ ] Coding Challenges
 
     **Arrays and Strings**
 		Note:
@@ -700,7 +700,7 @@ CRUD operation
 
     
 
-
+- [X] [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges)
 - [X] [qiyuangong/leetcode](https://github.com/qiyuangong/leetcode)
 - [X] [Leetcode Problems: Solve Problems By Ascending Order Easy,Medium, and Hard](https://leetcode.com/)
 - [X] [Geeksforgeeks](https://www.geeksforgeeks.org/sde-sheet-a-complete-guide-for-sde-preparation/)
