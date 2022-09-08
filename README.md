@@ -411,8 +411,18 @@ Dialects,accents, and varieties
 ##### Irrational Number
 #### Complex NUmbers
 
-
 ## Structure(Algebra)
+
+### Combinatorics(permutation,combination, graph...)
+
+### Number theory(odd,even,prime,.....)
+
+### Group theory(subset, group...)
+
+### Graph theory(G=(V,E) , V:nodes, E:Edges)
+
+### Order theory(a ≤ c )
+
 ### Linear Algebra
 
 - [X] [MIT,Gilbart Strang resource index](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/resource-index/)
