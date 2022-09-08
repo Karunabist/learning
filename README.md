@@ -456,7 +456,7 @@ Dialects,accents, and varieties
 	
 # Applied Mathematics
 
-### Statistics and other decision sciences(probability and statistics)
+## Statistics and other decision sciences(probability and statistics)
 - [ ] [ StatQuest: Statistics Fundamentals](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
 - [ ] [ Article: Entropy, Cross Entropy, and KL Divergence](https://towardsdatascience.com/entropy-cross-entropy-and-kl-divergence-17138ffab87b)
 - [ ] [ Article: Interview Guide to Probability Distributions](https://medium.com/acing-ai/interview-guide-to-probability-distributions-a6dfb08c3766)
@@ -476,7 +476,34 @@ Dialects,accents, and varieties
 - [ ] [ Khan Academy: Probability](https://www.khanacademy.org/mission/probability)
 - [ ] [ Udacity: Statistics](https://www.udacity.com/course/statistics--st095)    
 - [ ] [ Udacity: Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)     
-- [ ] [ Udacity: Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)   
+- [ ] [ Udacity: Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201) 
+
+## Statistics
+###  Descriptive statistics
+#### Univariate analysis
+#### Bivariate and multivariate analysis
+
+### Inferential statistics
+#### Frequentist inference 
+#### Bayesian inference(MAP)
+#### Likelihood-based inference
+#### AIC-based inference
+#### Other paradigms for inference
+
+
+### Exploratory data analysis
+
+
+## Probability
+
+
+## Computational mathematics
+
+## Books
+
+- [X] [An Introduction to Probability with de Finetti’s Approach and to Bayesian Statistics](http://ndl.ethernet.edu.et/bitstream/123456789/29038/1/Francesca%20Biagini_2016.pdf)
+- [X] [Bayesian Network](https://bayanbox.ir/view/2696034682419953093/Timo-Koski-John-Noble-Bayesian-Networks-An-Int.pdf)
+- [X] [PROBABILITY and STATISTICS](http://users.encs.concordia.ca/~doedel/courses/comp-233/slides.pdf)
 
 # Youtube Channels
 - [X] [Matthew Weathers](https://www.youtube.com/c/MDWeathers)	
