@@ -733,6 +733,7 @@ CRUD operation
 ## References
 - [X] [Geeksforgeeks: Data Structure](https://www.geeksforgeeks.org/data-structures/?ref=lbp)
 - [X] [Geeksforgeeks: Algorithms](https://www.geeksforgeeks.org/fundamentals-of-algorithms/?ref=shm)
+- [X] [Data Structure and Algorithms: cathyatseneca](https://cathyatseneca.gitbooks.io/data-structures-and-algorithms/content/)
 - [X] [Data Structure: Wikipedia](https://en.wikipedia.org/wiki/Data_structure)
 - [X] [List of data structures: Wikipedia](https://en.wikipedia.org/wiki/List_of_data_structures)
 - [X] [Algorithm: Wikipedia](https://en.wikipedia.org/wiki/Algorithm)
