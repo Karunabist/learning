@@ -423,7 +423,19 @@ Dialects,accents, and varieties
 
 ### Order theory(a ≤ c )
 
-### Linear Algebra
+### Algebra
+#### Abstract algebra,
+#### Algebraic combinatorics
+#### Algebraic geometry
+#### Algebraic number theory,
+#### Boolean algebra,
+#### Commutative algebra
+#### Computer algebra
+#### Elementary algebra
+#### Homological algebra
+#### Relational algebra:
+#### Universal algebra
+#### Linear Algebra
 
 - [X] [MIT,Gilbart Strang resource index](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/resource-index/)
 	- [X] [The Geometry of Linear Equations](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/ax-b-and-the-four-subspaces/the-geometry-of-linear-equations/): [Lecture Video](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/resources/the-geometry-of-linear-equations-1/)|[Lecture Summary](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/resources/mit18_06scf11_ses1-1sum/)|[Problems](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/resources/mit18_06scf11_ses1-1prob/)|[Solution](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/resources/mit18_06scf11_ses1-1sol/)|[Solution Video](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/resources/geometry-of-linear-algebra-1/)
@@ -457,6 +469,12 @@ Dialects,accents, and varieties
 - [X] [mathematics: My implementation from scratch](https://madanbaduwal.github.io/mathematics/)
 
 ## Space(Geometry)
+### Geometry
+### Trignometry
+### Differential geometry
+### Topology
+### Fractal geometry
+### Measure theory
 
 ## Change(Calculus)
 
