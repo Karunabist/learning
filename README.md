@@ -1022,13 +1022,6 @@ Notes:
     - [X] [DALL-E 2](https://www.assemblyai.com/blog/how-dall-e-2-actually-works/)
     - [X] ERNIE-ViLG : [paper](https://arxiv.org/abs/2112.15283),[Github](https://github.com/PaddlePaddle/PaddleHub/tree/develop/modules/image/text_to_image/ernie_vilg),[Reddit thread](https://www.reddit.com/r/MachineLearning/comments/x4l4af/r_ernievilg_a_stateoftheart_texttoimage_model/), [demo](https://huggingface.co/spaces/PaddlePaddle/ERNIE-ViLG),[Colab](https://colab.research.google.com/drive/1z1Sy7HXWPY8R295tNA-UrFYLfnBe0okl#scrollTo=TuAWt2O9J4_s)
     - [X] Stable Diffusion: [paper](https://arxiv.org/pdf/2112.10752.pdf),[Github](https://github.com/CompVis/stable-diffusion#stable-diffusion-v1), [Hugging Face](https://huggingface.co/blog/stable_diffusion)
-    
-    **Some demos**
-    - [X] [lexica.art](https://lexica.art/)
-    - [X] [krea.ai](https://www.krea.ai/)
-    - [X] [prompthero.com](https://prompthero.com/)
-- [X] Activation Function In Neural Networks
-	- [X] [Article: Neural networks: activation functions](https://www.jeremyjordan.me/neural-networks-activation-functions/)
 
 
 ### Be familar with loss functions
