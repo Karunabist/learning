@@ -756,10 +756,6 @@ CRUD operation
 - [X] [Iterators](https://www.geeksforgeeks.org/iterators-in-python/)
 - [X] [_ : 5 Different Meanings of Underscore in Python](https://towardsdatascience.com/5-different-meanings-of-underscore-in-python-3fafa6cd0379#:~:text=Single%20standalone%20underscore%20_%20is%20a,used%20as%20a%20variable%20name.&text=According%20to%20Python%20doc%2C%20the,Here%20is%20an%20example.)
 - [X] [_ : Underscore (_) in Python](https://www.geeksforgeeks.org/underscore-_-python/)
-
-
-Complete here
-
 - [X] [Python generator](https://www.geeksforgeeks.org/generators-in-python/)
 - [X] [Context Manager in Python](https://www.geeksforgeeks.org/context-manager-in-python/)
 - [X] [Shallow copy and deep copy](https://www.geeksforgeeks.org/copy-python-deep-copy-shallow-copy/)
@@ -769,6 +765,7 @@ Complete here
     - [X] [/ vs //(17/2=8.5,17//2=8)](https://www.w3schools.com/python/python_operators.asp)
 	- [X] [^(XOR)](https://www.w3schools.com/python/python_operators.asp)
 
+Complete here
 
 - [X] [Python documentation: Geeksforgeeks](https://www.geeksforgeeks.org/python-programming-language/?ref=shm)
 - [X] [Article: When to switch to Python 3.9](https://pythonspeed.com/articles/switch-python-3.9/)
