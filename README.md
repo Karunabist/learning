@@ -659,6 +659,11 @@ CRUD operation
 	- [ ] [A* Search: Easy A* (star) Pathfinding](https://medium.com/@nicholas.w.swift/easy-a-star-pathfinding-7e6689c7f7b2)
 
 - [X] Algorithms Analysis
+    - [X] [Big-O: Geeksforgeeks](https://www.geeksforgeeks.org/analysis-algorithms-big-o-analysis/)
+	- [X] [Little-o: Geeksforgeeks](https://www.geeksforgeeks.org/analysis-of-algorithems-little-o-and-little-omega-notations/?ref=gcse)
+	- [X] [Big- Omega](https://www.geeksforgeeks.org/analysis-of-algorithms-big-%CF%89-big-omega-notation/?ref=gcse)
+	- [X] [Algorithms Analysis: Geeksforgeeks](https://www.geeksforgeeks.org/analysis-of-algorithms-set-1-asymptotic-analysis/?ref=ghm)
+	- [X] [Big Theta: Geeksforgeeks](https://www.geeksforgeeks.org/analysis-of-algorithms-big-%CE%B8-big-theta-notation/?ref=gcse)
 	- [ ] [Introduction To Algorithms Analysis](https://cathyatseneca.gitbooks.io/data-structures-and-algorithms/content/analysis/)
 	- [ ] [Asymptotic Analysis](https://www.programiz.com/dsa/asymptotic-notations)
 	- [ ] [Article: Asymptotic Analysis Explained with Pokémon: A Deep Dive into Complexity Analysis](https://www.freecodecamp.org/news/asymptotic-analysis-explained-with-pokemon-a-deep-dive-into-complexity-analysis-8bf4396804e0/)
