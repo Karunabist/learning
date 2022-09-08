@@ -692,6 +692,12 @@ CRUD operation
 
 	- [X] Find the first non-repeated character in a string: | [Solution](https://www.w3resource.com/python-exercises/string/python-data-type-string-exercise-51.php)
 
+	- [X] Remove specified characters in a string: | [Solution](https://www.digitalocean.com/community/tutorials/python-remove-character-from-string)
+
+	- [X] Reverse words in a string: | [Solution](https://www.geeksforgeeks.org/reverse-words-given-string-python/)
+
+	- [X] Convert a string to an integer: | [Solution](https://www.geeksforgeeks.org/convert-string-to-integer-in-python/)
+
     
 
 
