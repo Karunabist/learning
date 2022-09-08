@@ -687,8 +687,6 @@ CRUD operation
 	- [X] Implement a hash table: [Challenge](https://nbviewer.org/github/donnemartin/interactive-coding-challenges/blob/master/arrays_strings/hash_map/hash_map_challenge.ipynb)| [Solution](https://nbviewer.org/github/donnemartin/interactive-coding-challenges/blob/master/arrays_strings/hash_map/hash_map_solution.ipynb)
 
 	- [X] Implement fizz buzz: [Challenge](https://nbviewer.org/github/donnemartin/interactive-coding-challenges/blob/master/arrays_strings/fizz_buzz/fizz_buzz_challenge.ipynb)| [Solution](https://nbviewer.org/github/donnemartin/interactive-coding-challenges/blob/master/arrays_strings/fizz_buzz/fizz_buzz_solution.ipynb)
-	
-	- [X] Implement fizz buzz: [Challenge](https://nbviewer.org/github/donnemartin/interactive-coding-challenges/blob/master/arrays_strings/fizz_buzz/fizz_buzz_challenge.ipynb)| [Solution](https://nbviewer.org/github/donnemartin/interactive-coding-challenges/blob/master/arrays_strings/fizz_buzz/fizz_buzz_solution.ipynb)
 
 	- [X] Find the first non-repeated character in a string: | [Solution](https://www.w3resource.com/python-exercises/string/python-data-type-string-exercise-51.php)
 
