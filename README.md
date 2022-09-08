@@ -981,7 +981,8 @@ Regression Loss Functions, Binary Classification Loss Functions, Multi-Class Cla
 	
 ### Be familar with back propagation, objective function, optimization
 
-- [X] [Andrage Karpathy](https://www.youtube.com/watch?v=VMj-3S1tku0)
+- [X] [Andrej Karpathy](https://www.youtube.com/watch?v=VMj-3S1tku0)
+- [X] [The spelled-out intro to language modeling: building makemore: Andrej Karpathy](https://www.youtube.com/watch?v=PaCmpygFfXo)
 - [ ] [Edureka](https://www.edureka.co/blog/backpropagation/)
 - [ ] [How to Code a Neural Network with Backpropagation In Python (from scratch)](https://machinelearningmastery.com/implement-backpropagation-algorithm-scratch-python/)
 - [ ] [Backpropagation](https://en.wikipedia.org/wiki/Backpropagation)
