@@ -729,6 +729,9 @@ Note:
 
     - [X] [Array](https://www.geeksforgeeks.org/array-data-structure/?ref=ghm)
 	- [X] [Python array vs list](https://www.geeksforgeeks.org/difference-between-list-and-array-in-python/)
+	- [X] [Matrix](https://www.geeksforgeeks.org/matrix/?ref=ghm)
+	- [X] [Matrix: programiz](https://www.programiz.com/python-programming/matrix)
+	- [X] [Python Matrix: guru99](https://www.guru99.com/python-matrix.html)
 	- [X] [Stack](https://www.geeksforgeeks.org/stack-data-structure/?ref=ghm)
 	- [X] [Stack: How To Create a Stack in Python From Scratch](https://python.plainenglish.io/how-to-create-a-stack-in-python-from-scratch-86350d0c15d0)
 	- [X] [Queue](https://www.geeksforgeeks.org/queue-data-structure/?ref=ghm)
@@ -775,7 +778,14 @@ Note:
 	- [X] [Heap Data Structure: Tutorialpoint](https://www.tutorialspoint.com/data_structures_algorithms/heap_data_structure.htm)
 	- [X] [Introduction to Heap in Data Structures](https://www.enjoyalgorithms.com/blog/introduction-to-heap-data-structure)
 	
+- [X] Trie
 
+    - [X] [Trie | (Insert and Search)](https://www.geeksforgeeks.org/trie-insert-and-search/)
+	- [X] [Trie](https://nbviewer.org/github/donnemartin/interactive-coding-challenges/blob/master/graphs_trees/trie/trie_solution.ipynb)
+    - [X] [Implementing Trie in Python](https://albertauyeung.github.io/2020/06/15/python-trie.html/)
+
+- [X] [Advanced Data Structures](https://www.geeksforgeeks.org/advanced-data-structures/?ref=ghm)
+	
 
 - [X] Hybrid
 	- [ ] [Hash tree: HW2 Implement HashTree and FP-Tree by Python](http://www.wiki.yelbee.top/2020/05/06/Data%20Mining/HW2%20Implement%20HashTree%20and%20FP-Tree%20by%20Python/)
