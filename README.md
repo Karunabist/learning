@@ -532,11 +532,37 @@ Dialects,accents, and varieties
 
 ## Space(Geometry)
 ### Geometry
+- [X] [High school geometry: Khan Academy](https://www.khanacademy.org/math/geometry)
+- [X] [Geometry (all content): Khan Academy](https://www.khanacademy.org/math/geometry-home)
+- [X] [Geometry](https://byjus.com/maths/geometry/)
+- [X] [Geometry](https://en.wikipedia.org/wiki/Geometry)
+
 ### Trignometry
+- [X] [Trigonometry: Khan Academy](https://www.khanacademy.org/math/trigonometry)
+- [X] [Introduction to Trigonometry](https://www.mathsisfun.com/algebra/trigonometry.html)
+- [X] [Trignometry](https://byjus.com/maths/trigonometry/)
+- [X] [Trignometry](https://www.cuemath.com/trigonometry/)
+- [X] [Trignometry: Wikipedia](https://en.wikipedia.org/wiki/Trigonometry)
+
 ### Differential geometry
+- [X] [DIFFERENTIAL GEOMETRY: MIT](https://ocw.mit.edu/courses/18-950-differential-geometry-fall-2008/)
+- [X] [INTRODUCTION TO DIFFERENTIAL GEOMETRY](https://people.math.ethz.ch/~salamon/PREPRINTS/diffgeo.pdf)
+- [X] [Differential geometry: Wikipedia](https://en.wikipedia.org/wiki/Differential_geometry#:~:text=Differential%20geometry%20is%20a%20mathematical,linear%20algebra%20and%20multilinear%20algebra.)
+
 ### Topology
+- [X] [Topology](https://www.britannica.com/science/topology)
+- [X] [Topology: Wikipedia](https://en.wikipedia.org/wiki/Topology)
+
 ### Fractal geometry
+- [X] [Fractal Geometry](https://users.math.yale.edu/public_html/People/frame/Fractals/index.html)
+- [X] [Fractals: Useful Beauty](http://www.fractal.org/Bewustzijns-Besturings-Model/Fractals-Useful-Beauty.htm)
+- [X] [A History of Fractal Geometry](https://mathshistory.st-andrews.ac.uk/HistTopics/fractals/)
+- [X] [Fractal: Wikipedia](https://en.wikipedia.org/wiki/Fractal)
+
 ### Measure theory
+- [X] [Measure Theory](https://www.math.ucdavis.edu/~hunter/measure_theory/measure_notes.pdf)
+- [X] [An Introduction to Measure Theory](https://terrytao.files.wordpress.com/2012/12/gsm-126-tao5-measure-book.pdf)
+- [X] [Measure (mathematics): Wikipedia](https://en.wikipedia.org/wiki/Measure_(mathematics))
 
 ## Change(Calculus)
 
