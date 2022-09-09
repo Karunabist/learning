@@ -4,7 +4,7 @@
   <tr>
 	  <td width="20%">
 	<ul>
-		  Life long learning with there basic unit.
+		<p style="color:red">Start from the smallest unit/object of the system.</p>
 		<li><a href= "https://docs.google.com/document/d/1snROtUFb4DGpGE0kVZr6nFM1GUnRuaXFwLWCYvFM3ME/edit?usp=sharing">Language(English)(letter)</a></li>            
 		  <li><a href="https://colab.research.google.com/drive/15uiUNCEPbh1VhH-wfvJctbm8902po2zq?usp=sharing">Mathematics(number)</a></li>
 		  <li>Physics(atom)</li>
@@ -712,6 +712,12 @@ Dialects,accents, and varieties
 CRUD operation
 
 ## Data Structure
+
+Note:
+
+* Designe a smallest element(In term of class) of data structure.
+* Connect/Assign(C), 
+
 - [X] Data types
 	
 	**Primitive Data Structure**
