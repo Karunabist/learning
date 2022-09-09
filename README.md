@@ -715,8 +715,8 @@ CRUD operation
 
 Note:
 
-* Designe a smallest element(In term of class) of data structure.
-* Connect/Assign(C), 
+* **Designe a smallest element(In term of class) of data structure.**
+* **C(Connect/Assign)RUD smallest elemet to the data structure**  
 
 - [X] Data types
 	
