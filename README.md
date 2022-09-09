@@ -727,8 +727,11 @@ Note:
 	
 	**Composite types or non-primitive type and Non-Primitive Data Structure**
 
+    - [X] [Array](https://www.geeksforgeeks.org/array-data-structure/?ref=ghm)
 	- [X] [Python array vs list](https://www.geeksforgeeks.org/difference-between-list-and-array-in-python/)
+	- [X] [Stack](https://www.geeksforgeeks.org/stack-data-structure/?ref=ghm)
 	- [X] [Stack: How To Create a Stack in Python From Scratch](https://python.plainenglish.io/how-to-create-a-stack-in-python-from-scratch-86350d0c15d0)
+	- [X] [Queue](https://www.geeksforgeeks.org/queue-data-structure/?ref=ghm)
 	- [X] [Queue: Implementing a Queue in Python](https://runestone.academy/ns/books/published/pythonds/BasicDS/ImplementingaQueueinPython.html)
 	- [X] [Queue: Queue Data Structure](https://www.programiz.com/dsa/queue)
 	
@@ -742,15 +745,15 @@ Note:
 	- [X] [Doubly Linked List | Set 1 (Introduction and Insertion)](https://www.geeksforgeeks.org/doubly-linked-list/)
 	- [X] [Doubly linked list: How to create a doubly linked list in Python](https://www.educative.io/answers/how-to-create-a-doubly-linked-list-in-python)
 	- [X] [Doubly linked list: Doubly Linked List | Set 1 (Introduction and Insertion)](https://www.geeksforgeeks.org/doubly-linked-list/)
-- [X] [Tree](https://www.geeksforgeeks.org/binary-tree-data-structure/?ref=shm)
+- [X] [Binary Tree](https://www.geeksforgeeks.org/binary-tree-data-structure/?ref=ghm)
 	- [X] [Binary tree: Python - Binary Tree](https://www.tutorialspoint.com/python_data_structure/python_binary_tree.htm#:~:text=Inserting%20into%20a%20Tree,used%20to%20print%20the%20tree.)
 	- [X] [Binary tree: Implement Binary Tree in Python](https://iq.opengenus.org/implement-binary-tree-in-python/)
-- [X] Hash Based Structure
+- [X] [Hash Based Structure](https://www.geeksforgeeks.org/hashing-data-structure/?ref=ghm)
     - [X] [Hash Table](https://nbviewer.org/github/donnemartin/interactive-coding-challenges/blob/master/arrays_strings/hash_map/hash_map_solution.ipynb)
 	- [X] [Hash Table](https://www.guru99.com/hash-table-data-structure.html)
 	- [X] [Hash Table](https://www.programiz.com/dsa/hash-table)
 	- [X] [Hash table: Hash Table(Bakcground of the python inbuilt dictionary is hash table)](https://www.geeksforgeeks.org/hash-map-in-python/)
-- [X] Graph Based Structure
+- [X] [Graph Based Structure](https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/?ref=ghm)
 	- [X] [How to Represent a Graph Data Structure in Python](https://medium.com/geekculture/how-to-represent-a-graph-data-structure-in-python-9f0df57e33a2)
 	- [X] [GRAPH DATA STRUCTURE](https://www.bogotobogo.com/python/python_graph_data_structures.php)
 	- [X] [Unidirected graph: geek](https://www.geeksforgeeks.org/building-an-undirected-graph-and-finding-shortest-path-using-dictionaries-in-python/)
@@ -779,6 +782,7 @@ Note:
 - [X] Searching Algorithms
 
 	- [ ] [Linear Search](https://www.programiz.com/dsa/linear-search)
+	- [ ] [Binary Search](https://www.geeksforgeeks.org/binary-search-tree-data-structure/?ref=ghm)
 	- [ ] [Binary Search: Python Program for Binary Search (Recursive and Iterative)](https://www.geeksforgeeks.org/python-program-for-binary-search/)
 	- [ ] [Binary Search: How to Do a Binary Search in Python](https://realpython.com/binary-search-python/)
 
