@@ -406,14 +406,19 @@ Dialects,accents, and varieties
 		- [X] [0](https://en.wikipedia.org/wiki/0)
 	- [X] [Negative](https://en.wikipedia.org/wiki/Negative_number#:~:text=In%20mathematics%2C%20a%20negative%20number,of%20as%20a%20negative%20asset.)
 - [X] Fraction
-    - [X] [Proper]()
-	- [X] [Improper]()
-##### Irrational Number
-#### Complex NUmbers
+    - [X] [Proper](https://content.nroc.org/DevelopmentalMath/TEXTGROUP-1-8_RESOURCE/U02_L1_T2_text_final.html)
+	- [X] [Improper](https://content.nroc.org/DevelopmentalMath/TEXTGROUP-1-8_RESOURCE/U02_L1_T2_text_final.html)
+##### Irrational Number(Pi)
+- [X] [Irrational Number](https://www.mathsisfun.com/irrational-numbers.html)
+
+#### Complex Numbers
+- [X] [Complex Number](https://byjus.com/maths/complex-numbers/)
 
 ## Structure(Algebra)
 
 ### Combinatorics(permutation,combination, graph...)
+- [X] [Mathigon](https://mathigon.org/world/Combinatorics)
+- [X] [Wikipedia](https://en.wikipedia.org/wiki/Combinatorics)
 
 ### Number theory(odd,even,prime,.....)
 
