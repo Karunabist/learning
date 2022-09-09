@@ -32,8 +32,7 @@
 		  <li><a href="https://en.wikipedia.org/wiki/T-shaped_skills">T-shape Skills</a> </li>
 	          <li><a href="http://www.effectiveengineer.com/blog/master-adjacent-disciplines">Adjacet Learning</a></li> 
 		  <li><a href="https://jamesclear.com/continuous-improvement">Everyday Learning</a></li>
-		  <li><a href="https://www.opportunitiesforyouth.org/wp-content/uploads/2021/04/Atomic_Habits_by_James_Clear-1.pdf">Atomic Habit</a></li>
-		 
+		  <li><a href="https://www.opportunitiesforyouth.org/wp-content/uploads/2021/04/Atomic_Habits_by_James_Clear-1.pdf">Atomic Habit</a></li> 
 	  </ul>
 
 <img class="zoom" src="https://raw.githubusercontent.com/MadanBaduwal/learning/main/Atomic-Habits-Tiny-Changes-Remarkable-Results.png" alt="Italian Trulli"> 
