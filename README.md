@@ -468,13 +468,35 @@ Dialects,accents, and varieties
 
 
 #### Commutative algebra
-
+- [X] [Commutative Algebra](http://alpha.math.uga.edu/~pete/integral2015.pdf)
+- [X] [Commutative algebra: Wikipedia](https://en.wikipedia.org/wiki/Commutative_algebra#:~:text=Commutative%20algebra%20is%20essentially%20the,important%20class%20of%20commutative%20rings.)
 
 
 #### Computer algebra
+- [X] [Computer Algebra](https://cs.uwaterloo.ca/~smwatt/talks/2008-trics-dirty-secret.pdf)
+- [X] [Computer algebra: Wikipedia](https://en.wikipedia.org/wiki/Computer_algebra)
+
 #### Homological algebra
-#### Relational algebra:
+- [X] [homological algebra](https://ncatlab.org/nlab/show/homological+algebra)
+- [X] [Homological algebra: Wikipedia](https://en.wikipedia.org/wiki/Homological_algebra)
+- [X] [HOMOLOGICALALGEBRA](http://www.math.stonybrook.edu/~mmovshev/BOOKS/homologicalalgeb033541mbp.pdf)
+- [X] [AN INTRODUCTION TO HOMOLOGICAL ALGEBRA](https://people.math.rochester.edu/faculty/doug/otherpapers/weibel-hom.pdf)
+#### Relational algebra
+- [X] [Relational Algebra](https://www.tutorialspoint.com/dbms/relational_algebra.htm)
+- [X] [Introduction of Relational Algebra in DBMS](https://www.geeksforgeeks.org/introduction-of-relational-algebra-in-dbms/)
+- [X] [Relational algebra: Wikipedia](https://en.wikipedia.org/wiki/Relational_algebra)
+- [X] [Relational Algebra in DBMS: Operations with Examples](https://www.guru99.com/relational-algebra-dbms.html)
+- [X] [Relational Algebra](https://www.javatpoint.com/dbms-relational-algebra)
+- [X] [Relational Algebra](http://infolab.stanford.edu/~ullman/fcdb/aut07/slides/ra.pdf)
+
+
 #### Universal algebra
+- [X] [A Course in Universal Algebra](https://www.math.uwaterloo.ca/~snburris/htdocs/UALG/univ-algebra.pdf)
+- [X] [universal algebra](https://ncatlab.org/nlab/show/universal+algebra)
+- [X] [Universal algebra: Wikipedia](https://en.wikipedia.org/wiki/Universal_algebra#:~:text=Universal%20algebra%20(sometimes%20called%20general,models%22)%20of%20algebraic%20structures.)
+- [X] [NOTES ON UNIVERSAL ALGEBRA](https://arxiv.org/pdf/math/0111009.pdf)
+
+
 #### Linear Algebra
 
 - [X] [MIT,Gilbart Strang resource index](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/resource-index/)
