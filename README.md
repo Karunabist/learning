@@ -801,6 +801,7 @@ Note:
 
 ## Algorithms
 - [X] Recursion
+    - [X] [Recursion in Python](https://www.geeksforgeeks.org/recursion-in-python/)
 	- [X] [Recursion : Python Recursion](https://www.programiz.com/python-programming/recursion)
 	- [X] [Recursion: Thinking Recursively in Python](https://realpython.com/python-thinking-recursively/)
 	- [X] [Recursion vs Iteration](https://www.geeksforgeeks.org/difference-between-recursion-and-iteration/)
