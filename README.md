@@ -401,10 +401,10 @@ Dialects,accents, and varieties
 
 ##### Rational Numbers
 - [X] Intigers
-    - [X] [Whole]()
-	    - [X] [Natural Numbers]()
-		- [X] [0]()
-	- [X] [Negative]()
+    - [X] [Whole](https://www.cuemath.com/numbers/whole-numbers/)
+	    - [X] [Natural Numbers](https://www.cuemath.com/numbers/natural-numbers/)
+		- [X] [0](https://en.wikipedia.org/wiki/0)
+	- [X] [Negative](https://en.wikipedia.org/wiki/Negative_number#:~:text=In%20mathematics%2C%20a%20negative%20number,of%20as%20a%20negative%20asset.)
 - [X] Fraction
     - [X] [Proper]()
 	- [X] [Improper]()
