@@ -610,10 +610,32 @@ Dialects,accents, and varieties
 
 
 ### Inferential statistics
+- [X] [Inferential Statistics](https://www.scribbr.com/statistics/inferential-statistics/)
+- [X] [Inferential Statistics](https://statisticsbyjim.com/basics/descriptive-inferential-statistics/)
+- [X] [Inferential Statistics](https://corporatefinanceinstitute.com/resources/knowledge/other/inferential-statistics/)
+
 #### Frequentist inference 
+- [X] [Frequentist inference](https://seeing-theory.brown.edu/frequentist-inference/index.html)
+- [X] [Frequentist and Bayesian Inference](https://towardsdatascience.com/frequentist-and-bayesian-inference-83af2595f172)
+- [X] [Frequentist Vs Bayesian approaches in statistics](https://analyticsindiamag.com/a-hands-on-guide-to-frequentist-vs-bayesian-approaches-in-statistics/)
+- [X] [Frequentist inference](https://en.wikipedia.org/wiki/Frequentist_inference)
+
 #### Bayesian inference(MAP)
+- [X] [MLE, MAP and Bayesian Inference](https://towardsdatascience.com/mle-map-and-bayesian-inference-3407b2d6d4d9)
+- [X] [ML, MAP, and Bayesian](https://engineering.purdue.edu/kak/Trinity.pdf)
+- [X] [An Introduction to Bayesian Inference — Defining the MAP Estimate](https://medium.com/mlearning-ai/an-introduction-to-bayesian-inference-part-2-e15df4faa56c)
+- [X] [MLE, MAP, Bayes classification](http://www.cs.cmu.edu/~aarti/Class/10701_Spring14/slides/MLE_MAP_Part1.pdf)
+- [X] [Maximum a posteriori estimation](https://en.wikipedia.org/wiki/Maximum_a_posteriori_estimation)
+
 #### Likelihood-based inference
+- [X] [Likelihood-based inference](https://lbelzile.github.io/math60604a/likelihood.html)
+- [X] [Likelihood Inference](https://www.sas.upenn.edu/~jesusfv/LectureNotes_4_bayesian.pdf)
+- [X] [Likelihood inference](https://utstat.toronto.edu/reid/research/likelihood-final.pdf)
+- [X] [Likelihood principle: Wikipedia](https://en.wikipedia.org/wiki/Likelihood_principle)
+- [X] [Likelihood based inference](https://bookdown.org/ybrandvain/Applied-Biostats/likelihood.html)
+
 #### AIC-based inference
+- [X] [Akaike information criterion: Wikipedia](https://en.wikipedia.org/wiki/Akaike_information_criterion)
 #### Other paradigms for inference
 
 
