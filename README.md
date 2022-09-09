@@ -732,11 +732,14 @@ Note:
 	- [X] [Matrix](https://www.geeksforgeeks.org/matrix/?ref=ghm)
 	- [X] [Matrix: programiz](https://www.programiz.com/python-programming/matrix)
 	- [X] [Python Matrix: guru99](https://www.guru99.com/python-matrix.html)
+	- [X] [Stack](https://nbviewer.org/github/donnemartin/interactive-coding-challenges/blob/master/stacks_queues/stack/stack_solution.ipynb)
 	- [X] [Stack](https://www.geeksforgeeks.org/stack-data-structure/?ref=ghm)
 	- [X] [Stack: How To Create a Stack in Python From Scratch](https://python.plainenglish.io/how-to-create-a-stack-in-python-from-scratch-86350d0c15d0)
+	- [X] [Queue](https://nbviewer.org/github/donnemartin/interactive-coding-challenges/blob/master/stacks_queues/queue_list/queue_list_solution.ipynb)
 	- [X] [Queue](https://www.geeksforgeeks.org/queue-data-structure/?ref=ghm)
 	- [X] [Queue: Implementing a Queue in Python](https://runestone.academy/ns/books/published/pythonds/BasicDS/ImplementingaQueueinPython.html)
 	- [X] [Queue: Queue Data Structure](https://www.programiz.com/dsa/queue)
+	- [X] [Priority Queue](https://nbviewer.org/github/donnemartin/interactive-coding-challenges/blob/master/arrays_strings/priority_queue/priority_queue_solution.ipynb)
 	
 - [X] [Linear Data Structure](https://www.geeksforgeeks.org/data-structures/linked-list/?ref=ghm)
 	
@@ -745,6 +748,7 @@ Note:
 	- [X] [Singly linked list: Implementing a Singly Linked List in Python](https://www.studytonight.com/post/implementing-singly-linked-list-in-python)
 	- [X] [Singly linked list: Implementing a Singly Linked List in Python](https://www.educative.io/answers/how-to-create-a-linked-list-in-python)
 	- [X] [Singly linked list: Implementing a Singly Linked List in Python](https://towardsdatascience.com/python-linked-lists-c3622205da81)
+	- [X] [Link List](https://nbviewer.org/github/donnemartin/interactive-coding-challenges/blob/master/linked_lists/linked_list/linked_list_solution.ipynb)
 	- [X] [Doubly Linked List | Set 1 (Introduction and Insertion)](https://www.geeksforgeeks.org/doubly-linked-list/)
 	- [X] [Doubly linked list: How to create a doubly linked list in Python](https://www.educative.io/answers/how-to-create-a-doubly-linked-list-in-python)
 	- [X] [Doubly linked list: Doubly Linked List | Set 1 (Introduction and Insertion)](https://www.geeksforgeeks.org/doubly-linked-list/)
@@ -756,6 +760,7 @@ Note:
 
 - [X] [Binary Search Tree](https://www.geeksforgeeks.org/binary-search-tree-data-structure/)
     - [X] [Binary Search Tree(BST)](https://www.programiz.com/dsa/binary-search-tree)
+	- [X] [Binary Search Tree](https://nbviewer.org/github/donnemartin/interactive-coding-challenges/blob/master/graphs_trees/bst/bst_solution.ipynb)
 	- [X] [Binary Search Tree](https://blog.boot.dev/computer-science/binary-search-tree-in-python/)
 	- [X] [Python - Search Tree](https://www.tutorialspoint.com/python_data_structure/python_binary_search_tree.htm)
 
@@ -765,11 +770,13 @@ Note:
 	- [X] [Hash Table](https://www.guru99.com/hash-table-data-structure.html)
 	- [X] [Hash Table](https://www.programiz.com/dsa/hash-table)
 	- [X] [Hash table: Hash Table(Bakcground of the python inbuilt dictionary is hash table)](https://www.geeksforgeeks.org/hash-map-in-python/)
+
 - [X] [Graph Based Structure](https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/?ref=ghm)
 	- [X] [How to Represent a Graph Data Structure in Python](https://medium.com/geekculture/how-to-represent-a-graph-data-structure-in-python-9f0df57e33a2)
 	- [X] [GRAPH DATA STRUCTURE](https://www.bogotobogo.com/python/python_graph_data_structures.php)
 	- [X] [Unidirected graph: geek](https://www.geeksforgeeks.org/building-an-undirected-graph-and-finding-shortest-path-using-dictionaries-in-python/)
 	- [X] [Unidirected graph: Implementing Undirected Graphs in Python(BFS for a Graph)](https://pythonandr.com/2016/07/28/implementing-undirected-graphs-in-python/)
+	- [X] [Graph](https://nbviewer.org/github/donnemartin/interactive-coding-challenges/blob/master/graphs_trees/graph/graph_solution.ipynb)
 
 - [X] [Heap Data Structure](https://www.geeksforgeeks.org/heap-data-structure/?ref=ghm)
 
@@ -777,7 +784,9 @@ Note:
     - [X] [Heap Data Structure: Programiz](https://www.programiz.com/dsa/heap-data-structure)
 	- [X] [Heap Data Structure: Tutorialpoint](https://www.tutorialspoint.com/data_structures_algorithms/heap_data_structure.htm)
 	- [X] [Introduction to Heap in Data Structures](https://www.enjoyalgorithms.com/blog/introduction-to-heap-data-structure)
-	
+	- [X] [Min Heap](https://nbviewer.org/github/donnemartin/interactive-coding-challenges/blob/master/graphs_trees/min_heap/min_heap_solution.ipynb)
+
+
 - [X] Trie
 
     - [X] [Trie | (Insert and Search)](https://www.geeksforgeeks.org/trie-insert-and-search/)
