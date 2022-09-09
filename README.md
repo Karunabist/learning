@@ -431,19 +431,30 @@ Dialects,accents, and varieties
 
 ### Graph theory(G=(V,E) , V:nodes, E:Edges)
 - [X] [Graph Theory](https://www.maths.ed.ac.uk/~v1ranick/papers/wilsongraph.pdf)
-- [X] []()
+- [X] [Graph Theory: Wikipedia](https://en.wikipedia.org/wiki/Graph_theory)
 
 ### Order theory(a ≤ c )
+- [X] [Order Theory](http://www.columbia.edu/~md3405/DT_Order_15.pdf)
+- [X] [Order Theory: Wikipedia](https://academickids.com/encyclopedia/index.php/Order_theory)
 
 ### Algebra
+
+#### Elementary algebra
+- [X] [Elementary algebra](https://www.britannica.com/science/elementary-algebra)
+- [X] [Elementary algebra: Wikipedia](https://en.wikipedia.org/wiki/Elementary_algebra)
+
 #### Abstract algebra,
+- [X] [Introduction to Abstract Algebra (Math 113)](https://math.berkeley.edu/~apaulin/AbstractAlgebra.pdf)
+- [X] [Abstract algebra: Wikipedia](https://en.wikipedia.org/wiki/Abstract_algebra)
 #### Algebraic combinatorics
+- [X] [ALGEBRAIC COMBINATORICS: MIT](https://ocw.mit.edu/courses/18-212-algebraic-combinatorics-spring-2019/)
+- [X] [Algebraic combinatorics: Wikipedia](https://en.wikipedia.org/wiki/Algebraic_combinatorics#:~:text=Algebraic%20combinatorics%20is%20an%20area,techniques%20to%20problems%20in%20algebra.)
+
 #### Algebraic geometry
 #### Algebraic number theory,
 #### Boolean algebra,
 #### Commutative algebra
 #### Computer algebra
-#### Elementary algebra
 #### Homological algebra
 #### Relational algebra:
 #### Universal algebra
