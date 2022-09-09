@@ -572,6 +572,14 @@ Dialects,accents, and varieties
 	
 # Applied Mathematics
 
+## Probability
+- [X] [Probability](https://byjus.com/maths/probability/)
+- [X] [Probability: the basics](https://www.khanacademy.org/math/statistics-probability/probability-library/basic-theoretical-probability/a/probability-the-basics)
+- [X] [Probability](https://www.mathsisfun.com/data/probability.html)
+- [X] [Probability](https://www.cuemath.com/data/probability/)
+- [X] [Probability](https://seeing-theory.brown.edu/basic-probability/index.html)
+- [X] [Probability: Wikipedia](https://en.wikipedia.org/wiki/Probability#:~:text=Probability%20is%20the%20branch%20of,event%20and%201%20indicates%20certainty.)
+
 ## Statistics and other decision sciences(probability and statistics)
 - [ ] [ StatQuest: Statistics Fundamentals](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
 - [ ] [ Article: Entropy, Cross Entropy, and KL Divergence](https://towardsdatascience.com/entropy-cross-entropy-and-kl-divergence-17138ffab87b)
@@ -642,7 +650,6 @@ Dialects,accents, and varieties
 ### Exploratory data analysis
 
 
-## Probability
 
 
 ## Computational mathematics
