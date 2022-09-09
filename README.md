@@ -443,7 +443,7 @@ Dialects,accents, and varieties
 - [X] [Elementary algebra](https://www.britannica.com/science/elementary-algebra)
 - [X] [Elementary algebra: Wikipedia](https://en.wikipedia.org/wiki/Elementary_algebra)
 
-#### Abstract algebra,
+#### Abstract algebra
 - [X] [Introduction to Abstract Algebra (Math 113)](https://math.berkeley.edu/~apaulin/AbstractAlgebra.pdf)
 - [X] [Abstract algebra: Wikipedia](https://en.wikipedia.org/wiki/Abstract_algebra)
 #### Algebraic combinatorics
@@ -451,7 +451,14 @@ Dialects,accents, and varieties
 - [X] [Algebraic combinatorics: Wikipedia](https://en.wikipedia.org/wiki/Algebraic_combinatorics#:~:text=Algebraic%20combinatorics%20is%20an%20area,techniques%20to%20problems%20in%20algebra.)
 
 #### Algebraic geometry
-#### Algebraic number theory,
+- [X] [Algebraic Geometry](https://www.jmilne.org/math/CourseNotes/AG.pdf)
+- [X] [Introduction to Algebraic Geometry: Purud University](https://www.math.purdue.edu/~arapura/algeom.html)
+- [X] [Algebraic Geometry](https://www.maths.ox.ac.uk/about-us/departmental-art/theory/algebraic-geometry)
+- [X] [Algebraic Geometry: Wikipedia](https://en.wikipedia.org/wiki/Algebraic_geometry#:~:text=Algebraic%20geometry%20is%20a%20branch,about%20these%20sets%20of%20zeros.)
+
+#### Algebraic number theory
+
+
 #### Boolean algebra,
 #### Commutative algebra
 #### Computer algebra
