@@ -645,9 +645,14 @@ Dialects,accents, and varieties
 #### AIC-based inference
 - [X] [Akaike information criterion: Wikipedia](https://en.wikipedia.org/wiki/Akaike_information_criterion)
 #### Other paradigms for inference
-
+- [X] [Statistical inference](https://www.nhh.no/globalassets/departments/business-and-management-science/research/lillestol/statistical_inference.pdf)
 
 ### Exploratory data analysis
+- [X] [What is Exploratory Data Analysis?](https://towardsdatascience.com/exploratory-data-analysis-8fc1cb20fd15)
+- [X] [Exploratory data analysis: Wikipedia](https://en.wikipedia.org/wiki/Exploratory_data_analysis)
+- [X] [Exploratory Data Analysis: IBM](https://www.ibm.com/cloud/learn/exploratory-data-analysis)
+- [X] [What is Exploratory Data Analysis ?](https://www.geeksforgeeks.org/what-is-exploratory-data-analysis/)
+- [X] [Exploratory Data Analysis](https://r4ds.had.co.nz/exploratory-data-analysis.html)
 
 
 
