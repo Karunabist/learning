@@ -750,6 +750,13 @@ Note:
     - [X] Binary tree: [set1](https://www.geeksforgeeks.org/binary-tree-set-1-introduction/),[set2](https://www.geeksforgeeks.org/binary-tree-set-2-properties/),[set3](https://www.geeksforgeeks.org/binary-tree-set-3-types-of-binary-tree/)
 	- [X] [Binary tree: Python - Binary Tree](https://www.tutorialspoint.com/python_data_structure/python_binary_tree.htm#:~:text=Inserting%20into%20a%20Tree,used%20to%20print%20the%20tree.)
 	- [X] [Binary tree: Implement Binary Tree in Python](https://iq.opengenus.org/implement-binary-tree-in-python/)
+
+- [X] [Binary Search Tree](https://www.geeksforgeeks.org/binary-search-tree-data-structure/)
+    - [X] [Binary Search Tree(BST)](https://www.programiz.com/dsa/binary-search-tree)
+	- [X] [Binary Search Tree](https://blog.boot.dev/computer-science/binary-search-tree-in-python/)
+	- [X] [Python - Search Tree](https://www.tutorialspoint.com/python_data_structure/python_binary_search_tree.htm)
+
+
 - [X] [Hash Based Structure](https://www.geeksforgeeks.org/hashing-data-structure/?ref=ghm)
     - [X] [Hash Table](https://nbviewer.org/github/donnemartin/interactive-coding-challenges/blob/master/arrays_strings/hash_map/hash_map_solution.ipynb)
 	- [X] [Hash Table](https://www.guru99.com/hash-table-data-structure.html)
@@ -827,7 +834,8 @@ Note:
 	
 
 ## Challenges
-- [ ] Coding Challenges
+
+- Use above data structure and algorithms to solve below challenges.
 
     **Data Structure**
 
