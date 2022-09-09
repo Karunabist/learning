@@ -25,6 +25,7 @@
   <td width="40%">
   <li><a href = "https://colab.research.google.com/drive/1FcZQ7RijE5ovxH2pd25bpHVVG4q7fp_9?usp=sharing">Universal Rule</a></li>
   <li><a href = "https://docs.google.com/drawings/d/1uBr-Ib-BPVB_FrUmj-Xo5aCxKKKGzBqAs4P-jNDb8j4/edit?usp=sharing">Aim</a></li>
+   <li>Power of Revision</li>
   
   <img class="zoom" src="https://www.bloo.vision/cms/wp-content/uploads/2020/02/vision-system_eye-and-brain-uai-1440x1164.png" alt="Italian Trulli"> 
 	  <ul>
@@ -32,7 +33,7 @@
 	          <li><a href="http://www.effectiveengineer.com/blog/master-adjacent-disciplines">Adjacet Learning</a></li> 
 		  <li><a href="https://jamesclear.com/continuous-improvement">Everyday Learning</a></li>
 		  <li><a href="https://www.opportunitiesforyouth.org/wp-content/uploads/2021/04/Atomic_Habits_by_James_Clear-1.pdf">Atomic Habit</a></li>
-		  <li>Power of Revision</li>
+		 
 	  </ul>
 
 <img class="zoom" src="https://raw.githubusercontent.com/MadanBaduwal/learning/main/Atomic-Habits-Tiny-Changes-Remarkable-Results.png" alt="Italian Trulli"> 
