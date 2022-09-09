@@ -1254,6 +1254,7 @@ Regression Loss Functions, Binary Classification Loss Functions, Multi-Class Cla
 - [ ] [handson-ml2](https://github.com/ageron/handson-ml2)
 - [ ] [handson-ml3](https://github.com/ageron/handson-ml3)
 - [ ] [neural-networks-and-deep-learning](https://github.com/mnielsen/neural-networks-and-deep-learning)
+- [ ] [nn-zero-to-hero: Andrej Karpathy](https://github.com/karpathy/nn-zero-to-hero)
 - [ ] [Machine Learning from Scratch](https://dafriedman97.github.io/mlbook/content/introduction.html)
 - [X] [Datacamp: Ensemble Methods in Python](https://www.datacamp.com/courses/ensemble-methods-in-python)
 - [X] [AWS: Understanding Neural Networks](https://www.aws.training/learningobject/video?id=27233)
