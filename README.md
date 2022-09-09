@@ -421,10 +421,17 @@ Dialects,accents, and varieties
 - [X] [Wikipedia](https://en.wikipedia.org/wiki/Combinatorics)
 
 ### Number theory(odd,even,prime,.....)
+- [X] [What Is Number THeory](https://www.math.brown.edu/johsilve/frintch1ch6.pdf)
+- [X] [Number theory: Wikipedia](https://en.wikipedia.org/wiki/Number_theory)
+
 
 ### Group theory(subset, group...)
+- [X] [Group Theory](https://www.jmilne.org/math/CourseNotes/GT.pdf)
+- [X] [Group Theory: Wikipedia](https://en.wikipedia.org/wiki/Group_theory)
 
 ### Graph theory(G=(V,E) , V:nodes, E:Edges)
+- [X] [Graph Theory](https://www.maths.ed.ac.uk/~v1ranick/papers/wilsongraph.pdf)
+- [X] []()
 
 ### Order theory(a ≤ c )
 
