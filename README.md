@@ -596,7 +596,13 @@ Dialects,accents, and varieties
 
 ## Statistics
 ###  Descriptive statistics
+- [X] [Descriptive Statistics: Wikipedia](https://en.wikipedia.org/wiki/Descriptive_statistics)
+- [X] [Descriptive Statistics: Simplelearn](https://www.simplilearn.com/what-is-descriptive-statistics-article)
 #### Univariate analysis
+- [X] [Univariate descriptive statistics](https://analyse-it.com/docs/user-guide/distribution/continuous/univariate-descriptive-statistics)
+- [X] [UNIVARIATE DATA ANALYSIS](https://home.csulb.edu/~msaintg/ppa696/696uni.htm)
+- [X] [Univariate Statistics Analysis & Examples](https://study.com/learn/lesson/univariate-statistics-analysis-examples-what-is-univariate-data.html)
+
 #### Bivariate and multivariate analysis
 
 ### Inferential statistics
