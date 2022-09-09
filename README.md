@@ -604,7 +604,9 @@ Dialects,accents, and varieties
 - [X] [Univariate Statistics Analysis & Examples](https://study.com/learn/lesson/univariate-statistics-analysis-examples-what-is-univariate-data.html)
 
 #### Bivariate and multivariate analysis
-- [X] []()
+- [X] [Bivariate Analysis](https://sciencing.com/difference-between-bivariate-multivariate-analyses-8667797.html)
+- [X] [Introduction to Univariate, Bivariate and Multivariate Analysis](https://medium.com/analytics-vidhya/univariate-bivariate-and-multivariate-analysis-8b4fc3d8202c)
+- [X] [Bivariate Analysis](https://www.analyticsvidhya.com/blog/2021/04/exploratory-analysis-using-univariate-bivariate-and-multivariate-analysis-techniques/)
 
 
 ### Inferential statistics
