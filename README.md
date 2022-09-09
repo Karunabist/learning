@@ -726,13 +726,14 @@ CRUD operation
 	- [X] [Queue: Implementing a Queue in Python](https://runestone.academy/ns/books/published/pythonds/BasicDS/ImplementingaQueueinPython.html)
 	- [X] [Queue: Queue Data Structure](https://www.programiz.com/dsa/queue)
 	
-- [X] Linear Data Structure
+- [X] [Linear Data Structure](https://www.geeksforgeeks.org/data-structures/linked-list/?ref=ghm)
 	
 	**Note: Python List Is Massively Use In Linear Data Structure**
 	- [X] Single Link LIst: Geeksforgeeks:[Part1](https://www.geeksforgeeks.org/linked-list-set-1-introduction/), [Part2](https://www.geeksforgeeks.org/linked-list-set-2-inserting-a-node/)
 	- [X] [Singly linked list: Implementing a Singly Linked List in Python](https://www.studytonight.com/post/implementing-singly-linked-list-in-python)
 	- [X] [Singly linked list: Implementing a Singly Linked List in Python](https://www.educative.io/answers/how-to-create-a-linked-list-in-python)
 	- [X] [Singly linked list: Implementing a Singly Linked List in Python](https://towardsdatascience.com/python-linked-lists-c3622205da81)
+	- [X] [Doubly Linked List | Set 1 (Introduction and Insertion)](https://www.geeksforgeeks.org/doubly-linked-list/)
 	- [X] [Doubly linked list: How to create a doubly linked list in Python](https://www.educative.io/answers/how-to-create-a-doubly-linked-list-in-python)
 	- [X] [Doubly linked list: Doubly Linked List | Set 1 (Introduction and Insertion)](https://www.geeksforgeeks.org/doubly-linked-list/)
 - [X] Tree
