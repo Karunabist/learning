@@ -457,10 +457,20 @@ Dialects,accents, and varieties
 - [X] [Algebraic Geometry: Wikipedia](https://en.wikipedia.org/wiki/Algebraic_geometry#:~:text=Algebraic%20geometry%20is%20a%20branch,about%20these%20sets%20of%20zeros.)
 
 #### Algebraic number theory
+- [X] [Algebraic Number Theory](https://www.jmilne.org/math/CourseNotes/ANTc.pdf)
+- [X] [Algebraic Number Theory](http://www.math.toronto.edu/~ila/SwinnertonDyer-A%20Brief%20Guide%20to%20ANT.pdf)
+- [X] [Algebraic number theory: Wikipedia](https://en.wikipedia.org/wiki/Algebraic_number_theory)
+
+#### Boolean algebra
+- [X] [Boolean Algebra](https://byjus.com/maths/boolean-algebra/)
+- [X] [Boolean Algebra: Wikipedia](https://en.wikipedia.org/wiki/Boolean_algebra)
+- [X] [Boolean Algebra: tutorialspoint](https://www.tutorialspoint.com/computer_logical_organization/boolean_algebra.htm)
 
 
-#### Boolean algebra,
 #### Commutative algebra
+
+
+
 #### Computer algebra
 #### Homological algebra
 #### Relational algebra:
