@@ -760,6 +760,16 @@ Note:
 	- [X] [GRAPH DATA STRUCTURE](https://www.bogotobogo.com/python/python_graph_data_structures.php)
 	- [X] [Unidirected graph: geek](https://www.geeksforgeeks.org/building-an-undirected-graph-and-finding-shortest-path-using-dictionaries-in-python/)
 	- [X] [Unidirected graph: Implementing Undirected Graphs in Python(BFS for a Graph)](https://pythonandr.com/2016/07/28/implementing-undirected-graphs-in-python/)
+
+- [X] [Heap Data Structure](https://www.geeksforgeeks.org/heap-data-structure/?ref=ghm)
+
+    - [X] [Using the Heap Data Structure in Python](https://www.section.io/engineering-education/heap-data-structure-python/)
+    - [X] [Heap Data Structure: Programiz](https://www.programiz.com/dsa/heap-data-structure)
+	- [X] [Heap Data Structure: Tutorialpoint](https://www.tutorialspoint.com/data_structures_algorithms/heap_data_structure.htm)
+	- [X] [Introduction to Heap in Data Structures](https://www.enjoyalgorithms.com/blog/introduction-to-heap-data-structure)
+	
+
+
 - [X] Hybrid
 	- [ ] [Hash tree: HW2 Implement HashTree and FP-Tree by Python](http://www.wiki.yelbee.top/2020/05/06/Data%20Mining/HW2%20Implement%20HashTree%20and%20FP-Tree%20by%20Python/)
 
