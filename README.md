@@ -1067,6 +1067,7 @@ Complete here
 - [ ] [pytudes](https://github.com/norvig/pytudes)	
 - [ ] [IPython: Productive Interactive Computing](https://github.com/ipython/ipython)
 - [ ] [python3_with_pleasure](https://github.com/arogozhnikov/python3_with_pleasure)
+- [ ] [Python Itertools](https://www.geeksforgeeks.org/python-itertools/)
 
 #### Books And Courses
 - [ ] [Article: A reverse chronology of some Python features](https://snarky.ca/a-reverse-chronology-of-some-python-features/)
