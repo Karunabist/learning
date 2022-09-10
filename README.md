@@ -979,7 +979,10 @@ Note:
 
 - [X] [Multiple Statements per Line: print(a); print(b); print(c)](https://www.tutorialspoint.com/How-to-provide-multiple-statements-on-a-single-line-in-Python)
 
-
+- [X] [Line Continuation](https://www.geeksforgeeks.org/python-multi-line-statements/)
+    - [X] [Implicit Line Continuation](https://www.pythonmorsels.com/breaking-long-lines-code-python/#:~:text=An%20implicit%20line%20continuation%20happens,%7B%20)%20has%20been%20left%20open.)
+	- [X] [Explicit Line Continuation](https://www.tutorialspoint.com/How-to-wrap-long-lines-in-Python)
+	
 
 Complete here
 
