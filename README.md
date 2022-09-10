@@ -711,7 +711,9 @@ Dialects,accents, and varieties
 </details>
 
 <details>
-<summary>Computer Science  </summary>
+<summary>Computer Science </summary>
+
+# Computer Science 
 
 3 fields:
 
@@ -719,11 +721,11 @@ Dialects,accents, and varieties
 * Computer systems and computational processes: Artificial intelligence, Computer architecture and organization, Concurrent parallel and distributed computing, Computer network(ip & port), Computer security and cryptography, Databases and data mining and data science, Computer graphics and visualization, Image and sound processing
 * Applied  computer science: Computational science finance and engineering, Social computing and human–computer interaction, Software engineer
 	
-# Data Structure and Algorithms
+## Data Structure and Algorithms
 
 CRUD operation
 
-## Data Structure
+### Data Structure
 
 Note:
 
@@ -811,7 +813,7 @@ Note:
 - [X] Hybrid
 	- [ ] [Hash tree: HW2 Implement HashTree and FP-Tree by Python](http://www.wiki.yelbee.top/2020/05/06/Data%20Mining/HW2%20Implement%20HashTree%20and%20FP-Tree%20by%20Python/)
 
-## Algorithms
+### Algorithms
 - [X] Recursion
     - [X] [Recursion in Python](https://www.geeksforgeeks.org/recursion-in-python/)
 	- [X] [Recursion : Python Recursion](https://www.programiz.com/python-programming/recursion)
@@ -865,7 +867,7 @@ Note:
 	- [ ] [Algorithms Design Techniques](https://www.geeksforgeeks.org/algorithms-design-techniques/)
 	
 
-## Challenges
+### Challenges
 
 - Use above data structure and algorithms to solve below challenges.
 
@@ -914,19 +916,19 @@ Note:
 	
 
 
-## Books And Courses
+### Books And Courses
 	
 - [ ] [Book: Grokking Algorithms](https://edu.anarcho-copy.org/Algorithm/grokking-algorithms-illustrated-programmers-curious.pdf) 
 - [ ] [Khan Academy: Data Structures](https://www.khanacademy.org/computing/computer-science/algorithms)
 - [ ] [Udacity: Intro to Algorithms](https://www.udacity.com/course/intro-to-algorithms--cs215)
 - [ ] [Udacity: Programming Languages](https://www.udacity.com/course/programming-languages--cs262)
 
-## Youtube Channel
+### Youtube Channel
 - [X] [Data Structure And Algorithms In Python](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12)
 - [X] [Data Structures and Algorithms in Python](https://www.youtube.com/playlist?list=PLTWyTH8_xEvH28xCcOCtYbn1SjqfHb1WC)
 - [X] [Data Structures | Python](https://www.youtube.com/playlist?list=PLzgPDYo_3xukPJdH6hVQ6Iic7KiJuoA-l)
 
-## References
+### References
 - [X] [Geeksforgeeks: Data Structure](https://www.geeksforgeeks.org/data-structures/?ref=lbp)
 - [X] [Geeksforgeeks: Algorithms](https://www.geeksforgeeks.org/fundamentals-of-algorithms/?ref=shm)
 - [X] [Data Structure and Algorithms: cathyatseneca](https://cathyatseneca.gitbooks.io/data-structures-and-algorithms/content/)
@@ -934,8 +936,8 @@ Note:
 - [X] [List of data structures: Wikipedia](https://en.wikipedia.org/wiki/List_of_data_structures)
 - [X] [Algorithm: Wikipedia](https://en.wikipedia.org/wiki/Algorithm)
      	
-# Programming language theory and formal methods
-## Python
+## Programming language theory and formal methods
+### Python
 - [X] [Python Documentation: Officials ](https://docs.python.org/3/)
 - [X] [match Statements](https://benhoyt.com/writings/python-pattern-matching/)
 - [X] [Defult Argument Value: Mutable Default Arguments: default value is evaluated only once](https://www.codecademy.com/learn/learn-intermediate-python-3/modules/int-python-function-arguments/cheatsheet)
@@ -1018,14 +1020,14 @@ Complete here
 - [ ] [IPython: Productive Interactive Computing](https://github.com/ipython/ipython)
 - [ ] [python3_with_pleasure](https://github.com/arogozhnikov/python3_with_pleasure)
 
-### Books And Courses
+#### Books And Courses
 - [ ] [Article: A reverse chronology of some Python features](https://snarky.ca/a-reverse-chronology-of-some-python-features/)
 - [ ] [Book: A Byte of Python](https://python.swaroopch.com)
 - [ ] [Book: Learn Python The Hard way](https://learnpythonthehardway.org)
 - [ ] [Book: Python 201](https://leanpub.com/python201)
 - [ ] [Book: The Python 3 Standard Library By Example](https://doughellmann.com/blog/the-python-3-standard-library-by-example)
 
-### Youtube Channel
+#### Youtube Channel
 - [ ] [TheNewBoston: Python Programming Tutorials](https://www.youtube.com/watch?v=4Mf0h3HphEA&list=PLEA1FEF17E1E5C0DA)
 - [ ] [Youtube: Python 3 Programming Tutorial - Regular Expressions / Regex with re](https://www.youtube.com/watch?v=sZyAn2TW7GY)
 - [ ] [Youtube: Python Tutorial: re Module - How to Write and Match Regular Expressions (Regex)](https://www.youtube.com/watch?v=K8L6KVGG-7o)
@@ -1033,7 +1035,7 @@ Complete here
 - [ ] [Youtube: Aaron Richter- Parallel Processing in Python| PyData Global 2020](https://www.youtube.com/watch?v=eJyjB3cNIB0&feature=youtu.be)
 - [ ] [Youtube: The Clean Architecture in Python](https://www.youtube.com/watch?v=DJtef410XaM)
 
-### Important Python Library
+#### Important Python Library
 - [X] Profiling Tools
 	- [X] [cProfile](https://docs.python.org/3.2/library/profile.html)
 	- [X] [Profile](https://docs.python.org/3.2/library/profile.html)
@@ -1075,19 +1077,19 @@ Complete here
 - [X] [tabulapy](https://pypi.org/project/tabula-py/): Python wrapper of tabula-java, which can read table of PDF   
 - [X] [urllib](https://docs.python.org/3/library/urllib.html): Collects several modules for working with URLs  
 	
-### References
+#### References
 - [X] [Wikipedia: Python (programming language)](https://en.wikipedia.org/wiki/Python_(programming_language))
 - [X] [awesome-python:Python Library](https://github.com/vinta/awesome-python)
 
 	
-# Artificial intelligence
+## Artificial intelligence
 
-## Machine Learning
+### Machine Learning
 Notes:
 * Forward Pass and Backward Pass
 * Objective function(equation), calculate derivative of objective function with respect to weight and bias then update them
 	
-### Be write basic machine learning algorithms from scratch
+#### Be write basic machine learning algorithms from scratch
 
 - [X] [Linear regression: Ordinary Least Squares Regression in Python from Scratch](https://jianghaochu.github.io/ordinary-least-squares-regression-in-python-from-scratch.html)
 - [X] [Article: Linear regression](https://www.jeremyjordan.me/linear-regression/)
@@ -1193,7 +1195,7 @@ Notes:
 
 
 	
-### Be familar with deep learning algorithms
+#### Be familar with deep learning algorithms
 
 - [X] [Article: Perceptron to Deep-Neural-Network](https://tsumansapkota.github.io/algorithm/2020/06/06/Perceptron-to-DeepNeuralNets/)
 - [X] [Feed forward neural network: Neural Networks from Scratch in Python](https://towardsdatascience.com/creating-neural-networks-from-scratch-in-python-6f02b5dd911#:~:text=Feedforward%3A%20The%20inputs%20are%20fed,the%20network%20has%20finished%20training.)
@@ -1230,7 +1232,7 @@ Notes:
 	- [X] [Article: Neural networks: activation functions](https://www.jeremyjordan.me/neural-networks-activation-functions/)
 
 
-### Be familar with loss functions
+#### Be familar with loss functions
 
 Regression Loss Functions, Binary Classification Loss Functions, Multi-Class Classification Loss Functions
 
@@ -1239,7 +1241,7 @@ Regression Loss Functions, Binary Classification Loss Functions, Multi-Class Cla
 - [ ] [A Detailed Guide to 7 Loss Functions for Machine Learning Algorithms with Python Code](https://www.analyticsvidhya.com/blog/2019/08/detailed-guide-7-loss-functions-machine-learning-python-code/)
 - [ ] [How to Choose Loss Functions When Training Deep Learning Neural Networks](https://machinelearningmastery.com/how-to-choose-loss-functions-when-training-deep-learning-neural-networks/)
 	
-### Be familar with back propagation, objective function, optimization
+#### Be familar with back propagation, objective function, optimization
 
 - [X] [Andrej Karpathy](https://www.youtube.com/watch?v=VMj-3S1tku0)
 - [X] [The spelled-out intro to language modeling: building makemore: Andrej Karpathy](https://www.youtube.com/watch?v=PaCmpygFfXo)
@@ -1250,19 +1252,19 @@ Regression Loss Functions, Binary Classification Loss Functions, Multi-Class Cla
 - [ ] [A Survey of Optimization Methods from a Machine Learning Perspective](https://arxiv.org/pdf/1906.06821.pdf)
 - [ ] [Article: Neural networks: training with backpropagation](https://www.jeremyjordan.me/neural-networks-training/)
 
-### Be familar with hypothesis testing
+#### Be familar with hypothesis testing
 - [ ] [Hypothesis Testing with Python: Step by step hands-on tutorial with practical examples](https://towardsdatascience.com/hypothesis-testing-with-python-step-by-step-hands-on-tutorial-with-practical-examples-e805975ea96e)
 - [ ] [Hypothesis testing in Machine learning using Python](https://towardsdatascience.com/hypothesis-testing-in-machine-learning-using-python-a0dc89e169ce)
 - [ ] [Statistical Hypothesis Testing with Python Implementation](https://www.section.io/engineering-education/statistical-hypothesis-testing-python-implementation/)
 - [ ] [An Interactive Guide to Hypothesis Testing in Python](https://www.visual-design.net/post/an-interactive-guide-to-hypothesis-testing-in-python)
 
 	
-### Be familar with accuracy matrix
+#### Be familar with accuracy matrix
 - [ ] [Evaluating Deep Learning Models: The Confusion Matrix, Accuracy, Precision, and Recall](https://blog.paperspace.com/deep-learning-metrics-precision-recall-accuracy/)
 - [ ] [Everything you Should Know about Confusion Matrix for Machine Learning](https://www.analyticsvidhya.com/blog/2020/04/confusion-matrix-machine-learning/)
 - [ ] [Metrics to Evaluate your Machine Learning Algorithm](https://towardsdatascience.com/metrics-to-evaluate-your-machine-learning-algorithm-f10ba6e38234)
 
-### Machine Learning and Deep learning Books and Cources
+#### Machine Learning and Deep learning Books and Cources
 - [ ] [scikit-learn](https://github.com/scikit-learn/scikit-learn)
 - [ ] [handson-ml](https://github.com/ageron/handson-ml)
 - [ ] [handson-ml2](https://github.com/ageron/handson-ml2)
@@ -1318,7 +1320,7 @@ Regression Loss Functions, Binary Classification Loss Functions, Multi-Class Cla
 - [ ] [Article: Deep Learning Algorithms - The Complete Guide](https://theaisummer.com/Deep-Learning-Algorithms/)
 
 
-### Youtube Channels
+#### Youtube Channels
 
 - [ ] [StatQuest: Machine Learning](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)
 	- [X] [StatQuest: Fitting a line to data, aka least squares, aka linear regression.](https://www.youtube.com/watch?v=PaFPbb66DxQ) `0:09:21`
@@ -1415,11 +1417,11 @@ Regression Loss Functions, Binary Classification Loss Functions, Multi-Class Cla
 - [ ] [sentdex ](https://www.youtube.com/c/sentdex)
 - [ ] [Siraj Raval ](https://www.youtube.com/c/SirajRaval)
 
-### Be familar with hardware devices
+#### Be familar with hardware devices
 - [ ] [Coral TPU](https://coral.ai/docs/)
 - [ ] [Jetson nano]()
 
-### Be familiar with how ML is applied at other companies
+#### Be familiar with how ML is applied at other companies
 - [X] [Article: How Facebook uses super-efficient AI models to detect hate speech](https://ai.facebook.com/blog/how-facebook-uses-super-efficient-ai-models-to-detect-hate-speech)
 - [X] [Article: Recent Advances in Google Translate](https://ai.googleblog.com/2020/06/recent-advances-in-google-translate.html)
 - [X] [Article: Cannes: How ML saves us $1.7M a year on document previews](https://dropbox.tech/machine-learning/cannes--how-ml-saves-us--1-7m-a-year-on-document-previews)
@@ -1468,7 +1470,7 @@ Regression Loss Functions, Binary Classification Loss Functions, Multi-Class Cla
 - [X] [Youtube: Brandon Rohrer - Machine Learning in Production for Robots](https://www.youtube.com/watch?v=_Ot35PspXw4) `0:34:31`
 - [X] [Youtube: [CVPR'21 WAD] Keynote - Andrej Karpathy, Tesla](https://youtu.be/g6bOwQdCJrc)
 
-### Be able to frame an ML problem
+#### Be able to frame an ML problem
 - [X] [AWS: Types of Machine Learning Solutions](https://www.aws.training/learningobject/video?id=27224)
 - [X] [Article: Apply Machine Learning to your Business](https://theaisummer.com/Machine-Learning-Business/)
 - [X] [Article: Resilience and Vibrancy: The 2020 Data & AI Landscape](https://mattturck.com/data2020/)
@@ -1507,7 +1509,7 @@ Regression Loss Functions, Binary Classification Loss Functions, Multi-Class Cla
 - [X] [Youtube: Building intuitions before building models](https://youtu.be/xNGI0B_Sn1E?list=LL)
 - [X] [Youtube: Recent Breakthroughs in AI with Andrej Karpathy and Lex Fridman](https://www.youtube.com/watch?v=Xl0xAJJqPfY)
 
-### Be familiar with data ethics
+#### Be familiar with data ethics
 - [X] [Article: How to Detect Bias in AI](https://www.maartengrootendorst.com/blog/bias/)
 - [X] [Netflix: Coded Bias](https://www.netflix.com/np/title/81328723)
 - [X] [Netflix: The Great Hack](https://www.netflix.com/np/title/80117542)
@@ -1528,7 +1530,7 @@ Regression Loss Functions, Binary Classification Loss Functions, Multi-Class Cla
 - [ ] [Youtube: SE4AI: Safety](https://www.youtube.com/watch?v=xRlFDXV3-8E) `1:17:37`
 
 
-### Be able to setup data annotation efficiently
+#### Be able to setup data annotation efficiently
 - [X] [Article: Create A Synthetic Image Dataset — The “What”, The “Why” and The “How”](https://towardsdatascience.com/create-a-synthetic-image-dataset-the-what-the-why-and-the-how-f820e6b6f718)
 - [X] [Article: We need Synthetic Data](https://towardsdatascience.com/we-need-synthetic-data-e6f90a8532a4)
 - [X] [Article: Weak Supervision for Online Discussions](https://trishalaneeraj.github.io/2020-07-05/weak-supervision)
@@ -1550,7 +1552,7 @@ Regression Loss Functions, Binary Classification Loss Functions, Multi-Class Cla
 - [X] [Youtube: SE4AI: Managing and Processing Large Datasets](https://www.youtube.com/watch?v=iPmQ5ezQNPY) `1:21:27`
 
 
-### Be able to manipulate data with Numpy
+#### Be able to manipulate data with Numpy
 - [X] [Article: A Visual Intro to NumPy and Data Representation](https://jalammar.github.io/visual-numpy/)
 - [X] [Article: Good practices with numpy random number generators](https://albertcthomas.github.io/good-practices-random-number-generators/)
 - [ ] [Article: NumPy Illustrated: The Visual Guide to NumPy](https://medium.com/better-programming/numpy-illustrated-the-visual-guide-to-numpy-3b1d4976de1d)
@@ -1558,7 +1560,7 @@ Regression Loss Functions, Binary Classification Loss Functions, Multi-Class Cla
 - [X] [Datacamp: Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 - [X] [Pluralsight: Working with Multidimensional Data Using NumPy](https://www.pluralsight.com/courses/numpy-working-with-multidimensional-data)
 
-### Be able to manipulate data with Pandas
+#### Be able to manipulate data with Pandas
 - [X] [Article: Visualizing Pandas' Pivoting and Reshaping Functions](https://jalammar.github.io/visualizing-pandas-pivoting-and-reshaping/)
 - [X] [Article: A Gentle Visual Intro to Data Analysis in Python Using Pandas](https://jalammar.github.io/gentle-visual-intro-to-data-analysis-python-pandas/)
 - [X] [Article: Comprehensive Guide to Grouping and Aggregating with Pandas](https://pbpython.com/groupby-agg.html)
@@ -1582,7 +1584,7 @@ Regression Loss Functions, Binary Classification Loss Functions, Multi-Class Cla
     - [X] [Modern Pandas (Part 7)](https://tomaugspurger.github.io/modern-7-timeseries.html)
     - [X] [Modern Pandas (Part 8)](https://tomaugspurger.github.io/modern-8-scaling.html)
 
-### Be able to manipulate data in spreadsheets
+#### Be able to manipulate data in spreadsheets
 - [X] [Datacamp: Spreadsheet basics](https://www.datacamp.com/courses/spreadsheet-basics)
 - [ ] [Datacamp: Data Analysis with Spreadsheets](https://www.datacamp.com/courses/data-analysis-with-spreadsheets)
 - [ ] [Datacamp: Intermediate Spreadsheets for Data Science](https://www.datacamp.com/courses/intermediate-spreadsheets-for-data-science)
@@ -1596,7 +1598,7 @@ Regression Loss Functions, Binary Classification Loss Functions, Multi-Class Cla
 
 
 
-### Be able to perform feature selection and engineering
+#### Be able to perform feature selection and engineering
 - [X] [Article: Tips for Advanced Feature Engineering](https://www.maartengrootendorst.com/blog/feature-engineering/)
 - [ ] [Article: Preparing data for a machine learning model](https://www.jeremyjordan.me/preparing-data-for-a-machine-learning-model/)
 - [ ] [Article: Feature selection for a machine learning model](https://www.jeremyjordan.me/feature-selection/)
@@ -1620,7 +1622,7 @@ Regression Loss Functions, Binary Classification Loss Functions, Multi-Class Cla
 - [X] [Youtube: Applied ML 2020 - 04 - Preprocessing](https://www.youtube.com/watch?v=XpOBSaktb6s) `1:07:40`
 - [X] [Youtube: Applied ML 2020 - 11 - Model Inspection and Feature Selection](https://www.youtube.com/watch?v=FDhyS6Xjxa8) `1:15:15`
 
-### Be able to experiment in a notebook
+#### Be able to experiment in a notebook
 - [X] [Article: Securely storing configuration credentials in a Jupyter Notebook](http://veekaybee.github.io/2020/02/25/secrets/)
 - [X] [Article: Automatically Reload Modules with %autoreload](https://switowski.com/blog/ipython-autoreload)
 - [ ] [Calmcode: ipywidgets](https://calmcode.io/ipywidgets/introduction.html)
@@ -1633,7 +1635,7 @@ Regression Loss Functions, Binary Classification Loss Functions, Multi-Class Cla
 - [X] [Youtube: nbdev live coding with Hamel Husain](https://www.youtube.com/watch?v=ZJTop5uqC2U&feature=youtu.be)
 - [X] [Youtube: How to Use JupyterLab](https://www.youtube.com/watch?v=A5YyoCKxEOU&feature=emb_logo)
 
-### Be able to visualize data
+#### Be able to visualize data
 - [X] [Article: Creating a Catchier Word Cloud Presentation](https://towardsdatascience.com/creating-a-catchier-word-cloud-presentation-e17fa2c1ef46)
 - [X] [Article: Effectively Using Matplotlib](https://pbpython.com/effective-matplotlib.html)
 - [ ] [Article: Which color scale to use when visualizing data](https://blog.datawrapper.de/which-color-scale-to-use-in-data-vis/)
@@ -1647,7 +1649,7 @@ Regression Loss Functions, Binary Classification Loss Functions, Multi-Class Cla
 - [ ] [Datacamp: Interactive Data Visualization with Bokeh](https://www.datacamp.com/courses/interactive-data-visualization-with-bokeh)
 - [X] [Youtube: Applied ML 2020 - 02 Visualization and matplotlib](https://www.youtube.com/watch?v=OW3oco7nlV4) `1:07:30`
 
-### Be able to do literature review using research papers
+#### Be able to do literature review using research papers
 - [X] [Paper: A Neural Probabilistic Language Model](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)
 - [ ] [Paper: Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/pdf/1301.3781.pdf)
 - [X] [Paper: Sequence to Sequence Learning with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
@@ -1711,7 +1713,7 @@ Regression Loss Functions, Binary Classification Loss Functions, Multi-Class Cla
 
 
 
-### Be able to version control data
+#### Be able to version control data
 - [ ] [Youtube: DVC Basics](https://www.youtube.com/playlist?list=PL7WG7YrwYcnDb0qdPl9-KEStsL-3oaEjg)
 	- [X] [Versioning Data with DVC (Hands-On Tutorial!)](https://www.youtube.com/watch?v=kLKBcPonMYw) `0:13:04`
 	- [X] [Sharing Data and Models with DVC (Hands-On Data Science Tutorial!)](https://www.youtube.com/watch?v=EE7Gk84OZY8) `0:08:53`
@@ -1720,7 +1722,7 @@ Regression Loss Functions, Binary Classification Loss Functions, Multi-Class Cla
 - [X] [Zoom: Data versioning with DVC Part 1](https://uniroma1.zoom.us/rec/share/74BYg5pKsplJLy4p-Yvo6g5bFa7eAEATwgqv5jzu6brzNZETWA9nISj_CK8_o192.WDm8fOY7zzd96bLA?startTime=1620383404000)
 - [X] [Zoom: Data versioning with DVC Part 2](https://uniroma1.zoom.us/rec/share/c2HsnkU5-DSdKWatv9AlmEjLM0a_i741VtnAZOx-eea2loTltiFPKBX196UaT8_3.-B4RbvXecplLujXK?startTime=1620803785000)
 
-### Be able to use experiment management tools
+#### Be able to use experiment management tools
 - [X] [Article: Supercharge your Training with Pytorch Lightning + Weights & Biases](https://colab.research.google.com/github/wandb/examples/blob/master/colabs/pytorch-lightning/Supercharge_your_Training_with_Pytorch_Lightning_%2B_Weights_%26_Biases.ipynb)
 - [X] [Article: Storing Metadata from Machine Learning Experiments](https://mlinproduction.com/ml-metadata/)
 - [X] [Youtube: Weights and Biases Tutorial](https://www.youtube.com/playlist?list=PLD80i8An1OEE0xs5BjKpCBdm0aaDI00U9)
@@ -1731,7 +1733,7 @@ Regression Loss Functions, Binary Classification Loss Functions, Multi-Class Cla
 - [ ] [Youtube: Weight & Biases](https://uniroma1.zoom.us/rec/share/W6zWeel0z0w561Rza8iaoP39daROQ7MN144R2VYSksMhSBrh6l1MPrd_jIUFiy4s.fpA9W3TdJdXg_2Hx?startTime=1620976559000)
 - [ ] [Youtube: SE4AI: Versioning, Provenance, and Reproducibility](https://www.youtube.com/watch?v=eGlIW28eRfA) `1:18:29`
 
-### Be able to setup model validation
+#### Be able to setup model validation
 - [ ] [Article: Evaluating a machine learning model](https://www.jeremyjordan.me/evaluating-a-machine-learning-model/)
 - [X] [Article: Validating your Machine Learning Model](https://www.maartengrootendorst.com/blog/validate/)
 - [ ] [Article: Measuring Performance: AUPRC and Average Precision](https://glassboxmedicine.com/2019/03/02/measuring-performance-auprc/)
@@ -1752,10 +1754,8 @@ Regression Loss Functions, Binary Classification Loss Functions, Multi-Class Cla
 - [X] [Youtube: Machine Learning Fundamentals: Bias and Variance](https://www.youtube.com/watch?v=EuBBz3bI-aA) `0:06:36`
 - [X] [Youtube: ROC and AUC, Clearly Explained!](https://www.youtube.com/watch?v=4jRBRDbJemM) `0:16:26`
 
-
-
      
- ### Be familar with machine learning Libraries
+ #### Be familar with machine learning Libraries
 - [X] [Numpy](https://numpy.org/doc/)
 - [X] [Sklearn](https://scikit-learn.org/stable/)
 - [X] [Ptorch](https://pytorch.org/docs/stable/index.html)
@@ -1952,18 +1952,18 @@ Regression Loss Functions, Binary Classification Loss Functions, Multi-Class Cla
 - [tqdm](https://tqdm.github.io/): Displays progress bar for list iterations
 - [xgboost](https://xgboost.readthedocs.io/en/latest/index.html): Distributed gradient boosting library   
 - [xlearn](https://github.com/aksnzhy/xlearn): High performance, easy-to-use, and scalable machine learning package  
-### Be familar with scary usages of AI
+#### Be familar with scary usages of AI
 
 - [X] [Awful AI](https://github.com/daviddao/awful-ai)
 
-### Be familar with MLOPS
+#### Be familar with MLOPS
 * [X] [MadewithML](https://madewithml.com/)
 * [X] [mlops-course](https://github.com/GokuMohandas/mlops-course)
 
 	
-## Computer Vision
+### Computer Vision
 
-### Be familar with computer vision from scratch
+#### Be familar with computer vision from scratch
 	
 - [ ] [pyimagesearch](https://pyimagesearch.com/)
 
@@ -1990,7 +1990,7 @@ Regression Loss Functions, Binary Classification Loss Functions, Multi-Class Cla
 
 	
 
-### Be familar with Computer Vision libraries
+#### Be familar with Computer Vision libraries
 - [X] [Opencv](https://docs.opencv.org/4.x/)
 - [ ] [Scikit-Image](https://github.com/scikit-image/scikit-image)
 - [ ] [Scikit-Opt](https://github.com/guofei9987/scikit-opt)
@@ -2024,9 +2024,9 @@ Regression Loss Functions, Binary Classification Loss Functions, Multi-Class Cla
 - [X] [Midjourney: Text-to-Image](https://www.midjourney.com/home/) > Expanding the imaginative powers of the human species
 
 
-# Databases and data mining and data science
+## Databases and data mining and data science
 
-## Database
+### Database
 - [X] [MYSQL](https://dev.mysql.com/doc/)
 - [X] [MongoDB](https://www.mongodb.com/docs/)
 - [X] [SQLite](https://www.sqlite.org/index.html)
@@ -2038,7 +2038,7 @@ Regression Loss Functions, Binary Classification Loss Functions, Multi-Class Cla
 - [X] [Neo4j](https://neo4j.com/)
 
 
-# Computer network(ip & port)
+## Computer network(ip & port)
 
 - [X] [Layers of OSI Model](https://en.wikipedia.org/wiki/OSI_model#Layer_7:_Application_layer)
 
@@ -2050,14 +2050,14 @@ Regression Loss Functions, Binary Classification Loss Functions, Multi-Class Cla
 	- [X] [Data Link Layer](https://www.tutorialspoint.com/data_communication_computer_network/data_link_layer_introduction.htm)
 	- [X] [Physical Layer](https://www.tutorialspoint.com/data_communication_computer_network/data_link_layer_introduction.htm)
 
-## Other References
+### Other References
 - [X] [Computer Network: Wikipedia](https://en.wikipedia.org/wiki/Computer_network)
 
-# Software engineer
+## Software engineer
 
-## Software
+### Software
 
-### Desktop
+#### Desktop
 - [X] [Tkinter: Graphical User Interfaces with Tk](https://docs.python.org/3/library/tk.html)
 - [X] [Tkinter: TkDocs](https://tkdocs.com/tutorial/index.html)
 - [X] [Tkinter: Python interface to Tcl/Tk](https://python.readthedocs.io/en/stable/library/tkinter.html)
@@ -2065,20 +2065,20 @@ Regression Loss Functions, Binary Classification Loss Functions, Multi-Class Cla
 - [X] [PyQt](https://doc.qt.io/qtforpython/)
 
 	
-### Smartphone
-#### Android
+#### Smartphone
+##### Android
 - [X] [Android Studio : Tutorial](https://www.javatpoint.com/android-tutorial)
 - [X] [Android Studio : Android Tutorial](https://www.tutorialspoint.com/android/index.htm)
 - [X] [Unity](https://docs.unity3d.com/Manual/index.html)
-#### ios
+##### ios
 - [ ] [Swift: documentation](https://www.swift.org/documentation/)
-#### Android and ios
+##### Android and ios
 - [ ] [React Native: Documentation](https://reactnative.dev/docs/getting-started)
-### Tablet
+#### Tablet
 - [ ] [Flutter: documentation](https://docs.flutter.dev/)
 
-### Web application	
-#### Front-End
+#### Web application	
+##### Front-End
 - [X] UX Design
 - [X] UI Design
 	- [X] [Figma: Documentatio](https://www.figma.com/best-practices/guide-to-developer-handoff/components-styles-and-documentation/)
@@ -2094,7 +2094,7 @@ Regression Loss Functions, Binary Classification Loss Functions, Multi-Class Cla
 - [X] [Reactjs: Documentation](https://reactjs.org/docs/getting-started.html)
 - [X] [Nextjs](https://nextjs.org/docs)
 	
-#### Web framework
+##### Web framework
 - [ ] [Spring](https://docs.spring.io/spring-framework/docs/current/reference/html/)
 - [ ] [Laravel](https://laravel.com/docs/9.x/installation)
 - [ ] [ASP.NET](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-6.0)
@@ -2104,15 +2104,15 @@ Regression Loss Functions, Binary Classification Loss Functions, Multi-Class Cla
 - [X] [Django : awesome-django](https://github.com/wsvincent/awesome-django)
 - [X] [Flask: Documentation](https://flask.palletsprojects.com/en/2.2.x/)
 
-#### SEO
+##### SEO
 - [ ] [SEO: What Is SEO / Search Engine Optimization?](https://searchengineland.com/guide/what-is-seo)
 - [ ] [SEO: Search engine optimization](https://en.wikipedia.org/wiki/Search_engine_optimization)
 
-### Plugin
+#### Plugin
 - [ ] [Google chrome extension: documentation](https://developer.chrome.com/docs/extensions/mv3/getstarted/)
 - [ ] [Mozilla extension: Documentation](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Your_first_WebExtension)
 
-### Vscode Extension
+#### Vscode Extension
 - [X] [How to create VS Code Extension](https://code.visualstudio.com/api/get-started/your-first-extension)
 - [X] Some Importatnt Extension
     - [X] [anaconda-extension-pack](https://marketplace.visualstudio.com/items?itemName=ms-python.anaconda-extension-pack): Set of extensions that enhance the experience of Anaconda customers using Visual Studio Code
@@ -2160,29 +2160,29 @@ Regression Loss Functions, Binary Classification Loss Functions, Multi-Class Cla
 	- [vscodeintellicode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode): AI-assisted development features for Python, TypeScript/JavaScript and Java developers in Visual Studio Code, with insights based on understanding your code context combined with machine learning.
 
 
-### operating System
+#### operating System
 - [ ] [Ubuntu](https://github.com/ubuntu)
     - [ ] [Linux Command](https://docs.rockylinux.org/books/admin_guide/03-commands/)
 
-### Device Drivers
+#### Device Drivers
 
 
-### Utilities
+#### Utilities
 	
-### Malicious software
+#### Malicious software
 	
-### Embedded Software
+#### Embedded Software
 	
-### Cars
+#### Cars
 
-### Robots
+#### Robots
 - [X] [ROS: Documentation](https://docs.ros.org/)
 
-### Microcode
+#### Microcode
 
 
 	
-## Quality Assurance
+### Quality Assurance
 - [ ] [Pytest: Documentation](https://docs.pytest.org/en/7.1.x/contents.html)
 - [ ] [Python robot framework: Documentation](https://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html)
 - [ ] [Mock](https://docs.python.org/3/library/unittest.mock.html)
@@ -2191,7 +2191,7 @@ Regression Loss Functions, Binary Classification Loss Functions, Multi-Class Cla
 	
 
 
-## Devops
+### Devops
 - [ ] [My note on devops](https://github.com/MadanBaduwal/python-project-structure/blob/main/mlops.md)
 - [ ] [git: Documentation](https://git-scm.com/doc)
 - [ ] [git: Command]()
@@ -2208,19 +2208,23 @@ Regression Loss Functions, Binary Classification Loss Functions, Multi-Class Cla
 - [ ] [Kubernetes: Documentatio](https://kubernetes.io/docs/home/)
 - [ ] [Datadog](https://docs.datadoghq.com/)
 
-# API
+## API
 - [X] [REST API]()
 - [X] [GraphQL]()
 </details>
 
+
+
 <details>
 <summary>PHD career</summary>
 
-# Vision Problems
+# PHD career
+
+## Vision Problems
 - [X] [vision problems my note](https://www.computervisiondatasets.ml/)
 - [X] [Wikipedia](https://en.wikipedia.org/wiki/Computer_vision#Typical_tasks)
 	
-# Vision Datasets
+## Vision Datasets
 - [X] [vision datasets my note](https://www.computervisiondatasets.ml/)
 - [X] [kaggle](https://www.kaggle.com/datasets?search=image)
 - [X] [paperswithcode](https://paperswithcode.com/datasets)
@@ -2235,18 +2239,18 @@ Regression Loss Functions, Binary Classification Loss Functions, Multi-Class Cla
 - [X] [visualdata](https://visualdata.io/discovery)
 - [X] [tensorflow](https://www.tensorflow.org/datasets/catalog/overview)
 	
-# Peoples
+## Peoples
 - [X] [People working in Artificial Intelligance](https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:artificial_intelligence)
 - [X] [People working in Machine Learning](https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:machine_learning)
 - [X] [people working in computer vision my note](https://madanbaduwal.github.io/people-in-computer-vision/) and [scholar](https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:computer_vision)
 
-# Write cold email
+## Write cold email
 - [X] [My note on cold-email](https://github.com/MadanBaduwal/journals-and-conferences/blob/main/cold-email.md)
 - [X] [University of California Berkely](https://research.berkeley.edu/how-cold-email-professor)
 - [X] [University of California Santa Cruz](https://ugr.ue.ucsc.edu/email)	
 - [X] [getting-a-gig](https://github.com/cassidoo/getting-a-gig)
 
-# Paper Reading
+## Paper Reading
 - [X] [How to read paper my note](https://github.com/MadanBaduwal/phd-career/blob/main/paper-reading.md)
 - [X] [How to read paper my note](https://github.com/MadanBaduwal/phd-career/blob/main/paper-reading.md)
 - [X] [How to Read a Paper stanford](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
@@ -2260,7 +2264,7 @@ Daily paper reading
 3. [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0,5&q=%22computer+vision%22&scisbd=1)
 4. [AK: Twitter](https://twitter.com/_akhaliq)
 
-# Paper Writing
+## Paper Writing
 - [X] [How to write paper my note](https://github.com/MadanBaduwal/journals-and-conferences/blob/main/paper-writting.md)
 - [X] [Uiversity of Wisconsin Madison](https://writing.wisc.edu/handbook/assignments/planresearchpaper/)
 - [X] [Purdue University](https://owl.purdue.edu/owl/general_writing/common_writing_assignments/research_papers/index.html)
@@ -2273,7 +2277,7 @@ Daily paper reading
 - [X] [How to write a good related work section?](related-work.md)
 - [X] [How to prepare journal response letter?](https://twitter.com/jbhuang0604/status/1387148974377865219)
 
-# Presentation
+## Presentation
 - [X] [How to start a presentation?](https://twitter.com/jbhuang0604/status/1548882661581754370)
 - [X] [How to end a presentation?](https://twitter.com/jbhuang0604/status/1549959041908150275)
 - [X] [How to handle questions in a presentation?](https://twitter.com/jbhuang0604/status/1553583984948531205)
@@ -2281,14 +2285,14 @@ Daily paper reading
 - [X] [How to prepare your presentation slides?](https://twitter.com/jbhuang0604/status/1397058827405742085)
 - [X] [How to organize your talk?](https://twitter.com/jbhuang0604/status/1509033327981965313)
 
-# Journals and Conferences
+## Journals and Conferences
 - [X] [List from Google Scholar](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_computervisionpatternrecognition)
 - [X] [List from SJR](https://www.scimagojr.com/journalrank.php?category=1707)
 - [X] [List from Resurchify](https://www.resurchify.com/impact/category/Computer-Vision-and-Pattern-Recognition)
 - [X] [List from Research](https://research.com/conference-rankings/computer-science/computer-vision)
 
 
-# Research
+## Research
 - [X] [How to make steady research progress?](steady-progress.md)
 - [X] [How to share progress with your mentors/collaborators?](https://twitter.com/jbhuang0604/status/1453378296608137229)
 - [X] [How to work with my mentors effectively?](working-with-mentor.md)
@@ -2298,7 +2302,7 @@ Daily paper reading
 - [X] [How to work with your advisor?](https://twitter.com/jbhuang0604/status/1546361365778022400)
 - [X] [How to work with your senior advisor?](https://twitter.com/jbhuang0604/status/1563740402657775618)
 
-# Career
+## Career
 - [X] [How to prepare your Curriculum Vitae?](https://twitter.com/jbhuang0604/status/1433651068282540033)
 - [X] [How to find a research internship?](https://twitter.com/jbhuang0604/status/1438337355031719941)
 - [X] [How to intern?](https://twitter.com/jbhuang0604/status/1505734716657438724)
@@ -2309,18 +2313,18 @@ Daily paper reading
 - [X] [How to survive the first year of PhD?](https://twitter.com/jbhuang0604/status/1523505108318924802)
 - [X] [How to get a tenure-track faculty job?](https://twitter.com/jbhuang0604/status/1533302893364789257)
 
-# Productivity
+## Productivity
 - [X] [How to manage your time?](https://twitter.com/jbhuang0604/status/1430003911037947904)
 - [X] [How to be productive?](https://twitter.com/jbhuang0604/status/1430003911037947904)
 
-# Networking
+## Networking
 - [X] [How to network in a in-person conference?](https://twitter.com/jbhuang0604/status/1517352789780934656)
 - [X] [How to network in a virtual conference?](https://twitter.com/jbhuang0604/status/1446692346800873477)
 - [X] [How to write good cold emails?](cold-emails.md)
 - [X] [How do I get professors to answer my emails?](https://twitter.com/jbhuang0604/status/1441548826645602309)
 
 
-# Communication
+## Communication
 - [X] [How to disseminate your research?](https://twitter.com/jbhuang0604/status/1379448897823776769)
 - [X] [How to ask research questions?](https://twitter.com/jbhuang0604/status/1472808608874352641)
 - [X] [How to make a research poster?](https://twitter.com/jbhuang0604/status/1438948793718804486)
@@ -2328,7 +2332,7 @@ Daily paper reading
 - [X] [How to communicate clearly?](https://twitter.com/jbhuang0604/status/1520615196498214913)
 - [X] [How to set up a good calendar invite?](https://twitter.com/jbhuang0604/status/1528566229505650691)
 
-# Financial
+## Financial
 - [X] [How to save for retirement as a graduate student (in the US)?](https://twitter.com/jbhuang0604/status/1510479669962940416)
 
 </details>
