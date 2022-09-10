@@ -2057,6 +2057,9 @@ Regression Loss Functions, Binary Classification Loss Functions, Multi-Class Cla
 - [X] [Tkinter: Graphical User Interfaces with Tk](https://docs.python.org/3/library/tk.html)
 - [X] [Tkinter: TkDocs](https://tkdocs.com/tutorial/index.html)
 - [X] [Tkinter: Python interface to Tcl/Tk](https://python.readthedocs.io/en/stable/library/tkinter.html)
+- [X] [Kivy](https://kivy.org/doc/stable/)
+- [X] [PyQt](https://doc.qt.io/qtforpython/)
+
 	
 ### Smartphone
 #### Android
