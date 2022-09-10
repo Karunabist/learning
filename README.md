@@ -75,7 +75,9 @@
 	
 <details>
 <summary>Language(English)</summary>
-	
+
+# Language(English)
+
 5 things : 
 	
 * phonology 
@@ -84,7 +86,7 @@
 * writing
 * Accent
 	
-# Daily news and blogs	
+## Daily news and blogs	
 - [X] [Vocabulary: Word of the day](https://www.vocabulary.com/dictionary/)
 - [X] [LDOCE5: Word of the day](https://www.ldoceonline.com/)
 - [X] [Collins Word of the Day](https://www.collinsdictionary.com/word-of-the-day)
@@ -92,8 +94,8 @@
 - [X] [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB/sections/CAQiQ0NCQVNMQW9JTDIwdk1EZGpNWFlTQW1WdUdnSlZVeUlOQ0FRYUNRb0hMMjB2TUcxcmVpb0pFZ2N2YlM4d2JXdDZLQUEqKggAKiYICiIgQ0JBU0Vnb0lMMjB2TURkak1YWVNBbVZ1R2dKVlV5Z0FQAVAB?hl=en-US&gl=US&ceid=US%3Aen/)
 
 	
-# English Basic
-## Phonology/ IPA
+## English Basic
+### Phonology/ IPA
 - [X] [My note on phonology](https://colab.research.google.com/drive/1p8--pbceik_zlp_Mwc8bJpx_dNzNTxUD?usp=sharing)
 - [X] [Antimoon](https://www.antimoon.com/how/pronunc-ascii.htm)
 - [X] [The 44* Phonemes](https://www.boardman.k12.oh.us/userfiles/363/Phonological%20Awareness/44Phonemes.pdf)
@@ -106,7 +108,7 @@
 - [X] [Accent's Way English with Hadar](https://www.youtube.com/c/accentsway)
 
 
-## Grammer
+### Grammer
 - [X] [My note on grammer](https://colab.research.google.com/drive/1_z4bJJy3MWq0GHh9mK3DyuiKjgA14E71?usp=sharing)
 - [X] [The Best Grammer Workbook Ever](https://drive.google.com/file/d/1xhuoBYELrKJoL2lwUae8F4SZk__sNNBm/view?usp=sharing)
 - [X] [English Grammer Advance](https://drive.google.com/file/d/1J9zzxQ9UWDCUWI8FsDubK9-OFb2yk0Gg/view?usp=sharing)
@@ -129,7 +131,7 @@
 	
 	
 	
-## Vocabulary
+### Vocabulary
 - [X] [oxfordwordlist](https://www.oxfordwordlist.com/pages/report.asp)
 - [X] [oxfordwordlist](http://mooneewestps.vic.edu.au/app/webroot/uploaded_files/media/oxford_plus_list.pdf)
 - [X] [The Oxford 3000™ (American English)](https://www.oxfordlearnersdictionaries.com/external/pdf/wordlists/oxford-3000-5000/American_Oxford_3000.pdf)
@@ -174,7 +176,7 @@
 - [X] [My 100 Words Collection 10](https://docs.google.com/document/d/1J3tS6F3m-PpkkyexIhE7KOQ45XWUnXsFT0w9BEX5JXY/edit?usp=sharing)
 - [X] [My 100 Words Collection 11](https://docs.google.com/document/d/1VfP6DD4i6p63NnooUL9kzqV_YGXW_JCRHTvcE9BGsDU/edit?usp=sharing)
 	
-## Writting
+### Writting
 - [X] [ Using vocabulary to improve your writing: My note](https://docs.google.com/document/d/1uvjGYMR9Uy9qrG-THfgxlvAXGJ-OC9C0LdwPDhUeztw/edit?usp=sharing)
 - [X] [Using vocabulary to improve your writing: 8 Ways to Expand your Writing Vocabulary](https://wordcounter.io/blog/8-ways-to-expand-your-writing-vocabulary)
 - [X] [Using vocabulary to improve your writing:1 Hour to Improve Your English Writing Skills](https://www.youtube.com/watch?v=4V0wKH6hd30)
@@ -208,7 +210,7 @@
 - [X] [Writing a covering letter: How to Write a Cover Letter](https://hbr.org/2014/02/how-to-write-a-cover-letter)
 - [X] [Must note on writting](https://docs.google.com/document/d/12KnCKMpAhNEdvVgQfxOk2QdyQoP7OObhCxm58pndfA4/edit?usp=sharing)
 	
-## Accents
+### Accents
 	
 Dialects,accents, and varieties
 
@@ -219,7 +221,7 @@ Dialects,accents, and varieties
 - [X] [Australia and New Zealand: Wikipedia](https://en.wikipedia.org/wiki/English_language#Australia_and_New_Zealand)
 - [X] [Southeast Asia](https://en.wikipedia.org/wiki/English_language#Southeast_Asia)
 - [X] [Africa, the Caribbean, and South Asia](https://en.wikipedia.org/wiki/English_language#Africa,_the_Caribbean,_and_South_Asia)
-# Gre
+## Gre
 - [X] [magoosh-gre-1000-words_oct01](https://s3.amazonaws.com/magoosh.resources/magoosh-gre-1000-words_oct01.pdf)
 - [X] [PDF of Greg Mat's Words Groups 1-27 with pictures!! (Thanks Liju and Khalil)](https://drive.google.com/file/d/1Ux9VWn5-nJJqmw4_I1UkwUybY8eDQnBv/view)
 - [X] [Sachin Pulli 600 gre vocab](https://drive.google.com/file/d/15uTpXC17WeGGjsS18OLY8nuMm3dA1B0G/view?usp=sharing)
@@ -252,7 +254,7 @@ Dialects,accents, and varieties
 - [X] [5 lb. Book of GRE Practice Problems - Manhattan Prep 2018](https://drive.google.com/file/d/1PGyJ-HsZ1ygF4Qj_bj1aFLuSGeFhMumi/view?usp=sharing)
 	
 	
-# Toefl
+## Toefl
 - [X] [Question Formate: My Note](https://docs.google.com/document/d/1YH0P1HGFBJvurpF8ruMtzuXLafALgkf0llR8uU6RrHo/edit?usp=sharing)
 - [X] [Tips And Trick: My Note](https://docs.google.com/document/d/1lNYms0IYkSVXok66-XGsCb3dlxRJC7MyrAwV_5Ue5uY/edit?usp=sharing)
 - [X] [Reading: Official Pdf](https://drive.google.com/file/d/1gVAFIsp19Sl6e0aoLJEkgLQyVvtL5ipQ/view?usp=sharing)
@@ -262,7 +264,7 @@ Dialects,accents, and varieties
 - [X] [TST Prep TOEFL](https://www.youtube.com/c/TOEFLSpeakingTeacher1)
 - [X] [Greg Mat](https://www.youtube.com/channel/UCktwzce9ncy_K78l1KBZkYQ)
 	
-# Books
+## Books
 
 - [X] [Atomic Habit](https://www.opportunitiesforyouth.org/wp-content/uploads/2021/04/Atomic_Habits_by_James_Clear-1.pdf)(Ongoing: Page 81)
 - [X] [The Psycology Of Money](https://www.planetayurveda.com/traditional-books/the-psychology-of-money-by-morgan-housel.pdf)
@@ -295,13 +297,13 @@ Dialects,accents, and varieties
 - [X] [Udacity: App Marketing](https://www.udacity.com/course/app-marketing--ud719)
 - [X] [Udacity: How to Build a Startup](https://www.udacity.com/course/how-to-build-a-startup--ep245)
 
-# Podcasts
+## Podcasts
 - [X] [A Way with Words](https://www.waywordradio.org/category/episodes/)
 - [X] [Lex Fridman ](https://www.youtube.com/c/lexfridman)
 - [X] [Rich Roll ](https://www.youtube.com/c/Richroll)
 - [ ] [Learn English Podcast: Listen to episodes](https://www.youtube.com/watch?v=zV5HPJN48qc&list=PLZOJurmtexYqc6KY_Db4-fV7F06af1FkW)	
 	
-# Youtube Channels
+## Youtube Channels
 - [X] [linguamarina](https://www.youtube.com/c/linguamarina)
 - [X] [mmmEnglish ](https://www.youtube.com/c/mmmEnglish_Emma)
 - [X] [The Urban Fight ](https://www.youtube.com/c/TheUrbanFight)
@@ -339,7 +341,7 @@ Dialects,accents, and varieties
 - [X] [Learn With Sam And Ash](https://www.youtube.com/c/LearnWithSamAndAsh)
 - [X] [Speak English With Vanessa ](https://www.youtube.com/c/TeacherVanessa)	
 	
-# Other References
+## Other References
 - [X] [Wikipedia](https://en.wikipedia.org/wiki/English_language)
 </details>
 
@@ -1961,7 +1963,6 @@ Regression Loss Functions, Binary Classification Loss Functions, Multi-Class Cla
 ### Be familar with computer vision from scratch
 	
 - [ ] [pyimagesearch](https://pyimagesearch.com/)
-	
 
 - [ ] [Computer Vision: Theory and Application - Rick Szeliski 2010](http://szeliski.org/Book/)(Ongoing)
 - [ ] Computer Vision: Models, Learning, and Inference - Simon J. D. Prince 2012
