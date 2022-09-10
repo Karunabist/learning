@@ -991,8 +991,6 @@ Note:
 - [X] [Packing and Unpacking Arguments in Python: *(for list/tuple) and **(for key-value/dictionary)](https://www.geeksforgeeks.org/packing-and-unpacking-arguments-in-python/)
 - [X] [Other Data Type To Dictionary Type Conversion: (("key",value))/(["key",value]) > {"Key": Value}](https://www.geeksforgeeks.org/type-conversion-in-python/)
 - [X] [Byte Objects vs String in Python](https://www.geeksforgeeks.org/byte-objects-vs-string-python/)
-
-
 - [X] [Line Continuation](https://www.geeksforgeeks.org/python-multi-line-statements/)
     - [X] [Implicit Line Continuation](https://www.geeksforgeeks.org/python-multi-line-statements/)
 	- [X] [Explicit Line Continuation](https://www.tutorialspoint.com/How-to-wrap-long-lines-in-Python)
@@ -1013,6 +1011,10 @@ Note:
 - [ ] [Article: Speed Up Your Python Program With Concurrency](https://testdriven.io/blog/concurrency-parallelism-asyncio/)
 - [X] [Cython](https://cython.org/#documentation)
 - [X] [Python Design Pattern]()
+- [X] [Any All in Python](https://www.geeksforgeeks.org/any-all-in-python/)
+- [X] [Inplace vs Standard Operators in Python](https://www.geeksforgeeks.org/inplace-vs-standard-operators-python/)
+    - [X] [Operator Functions in Python](https://www.geeksforgeeks.org/operator-functions-in-python-set-1/)
+	- [X] [Inplace Operators in Python](https://www.geeksforgeeks.org/inplace-operators-python-set-1iadd-isub-iconcat/)
 
 
 Complete here
