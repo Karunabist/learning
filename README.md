@@ -943,6 +943,8 @@ Note:
 ### Python
 - [X] [Python Documentation: Officials ](https://docs.python.org/3/)
 - [X] [Context Manager and With Keyword in Python](https://www.geeksforgeeks.org/context-manager-in-python/)
+- [X] [Python Metaclass](https://www.pythontutorial.net/python-oop/python-metaclass/)
+- [X] [Python Metaclass](https://www.geeksforgeeks.org/metaprogramming-metaclasses-python/)
 - [X] [match Statements](https://benhoyt.com/writings/python-pattern-matching/)
 - [X] [Defult Argument Value: Mutable Default Arguments: default value is evaluated only once](https://www.codecademy.com/learn/learn-intermediate-python-3/modules/int-python-function-arguments/cheatsheet)
 - [X] [Positional-Only Parameters(../)](https://realpython.com/lessons/positional-only-arguments/)
