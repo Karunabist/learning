@@ -988,8 +988,19 @@ Note:
     - [X] [Implicit Line Continuation](https://www.pythonmorsels.com/breaking-long-lines-code-python/#:~:text=An%20implicit%20line%20continuation%20happens,%7B%20)%20has%20been%20left%20open.)
 	- [X] [Explicit Line Continuation](https://www.tutorialspoint.com/How-to-wrap-long-lines-in-Python)
 - [X] [Reserv Keywords]()
+    ```
+	import keyword  
+    print( keyword.kwlist ) 
+	```
     - [X] [Async]()
- 
+	- [X] [Await]()
+ - [X] [Ternary Operator in Python](https://www.geeksforgeeks.org/ternary-operator-in-python/)
+- [X] [Article: Python Concurrency: The Tricky Bits](https://python.hamel.dev/concurrency/)
+- [ ] [Article: Speed Up Your Python Program With Concurrency](https://testdriven.io/blog/concurrency-parallelism-asyncio/)
+- [X] [Cython](https://cython.org/#documentation)
+- [X] [Python Design Pattern]()
+
+
 Complete here
 
 - [X] [Python documentation: Geeksforgeeks](https://www.geeksforgeeks.org/python-programming-language/?ref=shm)
@@ -997,12 +1008,12 @@ Complete here
 - [X] [Article: I wish I knew these things when I learned Python](http://bugra.github.io/posts/2015/1/3/i-wish-i-knew-these-things-when-i-learned-python/)
 - [X] [Python Collections Module](https://www.geeksforgeeks.org/python-collections-module/)
 - [X] [Pathlib: No Really, Python's Pathlib is Great](https://rednafi.github.io/digressions/python/2020/04/13/python-pathlib.html)
-- [X] [Article: Python Concurrency: The Tricky Bits](https://python.hamel.dev/concurrency/)
+
 - [X] [Article: Speeding Up Python with Concurrency, Parallelism, and asyncio](https://testdriven.io/blog/concurrency-parallelism-asyncio/)
 
 - [ ] [Article: The Complete Python Development Guide](https://testdriven.io/guides/complete-python/)
 
-- [ ] [Article: Speed Up Your Python Program With Concurrency](https://testdriven.io/blog/concurrency-parallelism-asyncio/)
+
 - [ ] [Article: A Python prompt into a running process: debugging with Manhole](https://pythonspeed.com/articles/live-debugging-python/)
 - [ ] [Regex For Noobs (like me!) - An Illustrated Guide](https://www.janmeppe.com/blog/regex-for-noobs/)
 
