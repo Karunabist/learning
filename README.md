@@ -347,15 +347,18 @@ Dialects,accents, and varieties
 
 <details>
 <summary>Mathematics</summary>
+
+# Mathematics
+
 3 field: 
 	
 * Foundations and philosophy: Mathematical logics(^(and), v (or), ¬ (not), → (implies),),Set theory({a,b,c..}),Category theory(f:x→y,f:y→z,g o f:x→z , functors(functions) map between categories ), Theory of Computation(finite stste of automata, infinite state of automata)), 
 * Pure Mathematics: Quantity(Arthmatic), Structure(Algebra),Space(Geometry), Change(Calculus)
 * Applied Mathematics: Statistics and other decision sciences(probability and statistics), Computational mathematics
 
-# Foundations and philosophy
+## Foundations and philosophy
 
-## Mathematical logics(^(and), v (or), ¬ (not), → (implies),)
+### Mathematical logics(^(and), v (or), ¬ (not), → (implies),)
 - [X] [Mathematical Logic Part One: Stanford](https://web.stanford.edu/class/archive/cs/cs103/cs103.1132/lectures/09/Small09.pdf)
 - [X] [Mathematical Logic Part Two: Stanford](https://web.stanford.edu/class/archive/cs/cs103/cs103.1126/lectures/09/Slides09.pdf)
 - [X] [Mathematical Logic Part Two: Stanford](https://web.stanford.edu/class/archive/cs/cs103/cs103.1134/lectures/09/Small09.pdf)
@@ -363,7 +366,7 @@ Dialects,accents, and varieties
 - [X] [Mathematical Logic: illinois](https://faculty.math.illinois.edu/~vddries/main2.pdf)
 
 
-## Set theory({a,b,c..})
+### Set theory({a,b,c..})
 
 - [X] [Basic Set Theory: Stanford](https://plato.stanford.edu/entries/set-theory/basic-set-theory.html)
 - [X] [Set Theory: Stanford](https://plato.stanford.edu/entries/set-theory/)
@@ -374,7 +377,7 @@ Dialects,accents, and varieties
 - [X] [Non-wellfounded Set Theory](https://plato.stanford.edu/entries/nonwellfounded-set-theory/)
 
 
-## Category theory(f:x→y,f:y→z,g o f:x→z , functors(functions) map between categories )
+### Category theory(f:x→y,f:y→z,g o f:x→z , functors(functions) map between categories )
 
 - [X] [Categories](https://plato.stanford.edu/entries/categories/)
 - [X] [Category Theory: Stanford](https://plato.stanford.edu/entries/category-theory/)
@@ -383,25 +386,25 @@ Dialects,accents, and varieties
 - [X] [Structuralism in the Philosophy of Mathematics](https://plato.stanford.edu/entries/structuralism-mathematics/)
 	
 
-## Theory of Computation(finite stste of automata, infinite state of automata))
+### Theory of Computation(finite stste of automata, infinite state of automata))
 - [X] [Automata Theory: Stanford Course](https://online.stanford.edu/courses/soe-ycsautomata-automata-theory)
 - [X] [THEORY OF COMPUTATION: MIT](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/)
 - [X] [The Computational Theory of Mind: Stanford](https://plato.stanford.edu/entries/computational-mind/)
 - [X] [Introduction to Automata and Complexity Theory](http://infolab.stanford.edu/~ullman/ialc/spr10/spr10.html#LECTURE%20NOTES)
 - [X] [THEORY OF COMPUTATION LECTURE NOTES](https://www.vssut.ac.in/lecture_notes/lecture1428551440.pdf)
 
-# Pure Mathematics
+## Pure Mathematics
 
-## Quantity(Arthmatic)
-### Numbers 
-#### Real Numbers
+### Quantity(Arthmatic)
+#### Numbers 
+##### Real Numbers
 - [X] [Real Numbers](https://drive.google.com/file/d/1CVgUrJt-Zd1Sa-rx7Pc28OkBsKiVmuUz/view?usp=sharing)
 - [X] [Real Numbers](https://drive.google.com/file/d/1CNd-18RCq8kusu4mSj4D8MNZljp9K1_o/view?usp=sharing)
 - [X] [Real Numbers](https://drive.google.com/file/d/1CXjEOnLY8lI3Cst5O7eFAOF485-kPyMY/view?usp=sharing)
 - [X] [Real NUmbers](https://drive.google.com/file/d/1CTDyu6bOcqIJIaFxtNIPTR4Kse_B8qz_/view?usp=sharing)
 
 
-##### Rational Numbers
+###### Rational Numbers
 - [X] Intigers
     - [X] [Whole](https://www.cuemath.com/numbers/whole-numbers/)
 	    - [X] [Natural Numbers](https://www.cuemath.com/numbers/natural-numbers/)
@@ -410,80 +413,80 @@ Dialects,accents, and varieties
 - [X] Fraction
     - [X] [Proper](https://content.nroc.org/DevelopmentalMath/TEXTGROUP-1-8_RESOURCE/U02_L1_T2_text_final.html)
 	- [X] [Improper](https://content.nroc.org/DevelopmentalMath/TEXTGROUP-1-8_RESOURCE/U02_L1_T2_text_final.html)
-##### Irrational Number(Pi)
+###### Irrational Number(Pi)
 - [X] [Irrational Number](https://www.mathsisfun.com/irrational-numbers.html)
 
-#### Complex Numbers
+##### Complex Numbers
 - [X] [Complex Number](https://byjus.com/maths/complex-numbers/)
 
-## Structure(Algebra)
+### Structure(Algebra)
 
-### Combinatorics(permutation,combination, graph...)
+#### Combinatorics(permutation,combination, graph...)
 - [X] [Mathigon](https://mathigon.org/world/Combinatorics)
 - [X] [Wikipedia](https://en.wikipedia.org/wiki/Combinatorics)
 
-### Number theory(odd,even,prime,.....)
+#### Number theory(odd,even,prime,.....)
 - [X] [What Is Number THeory](https://www.math.brown.edu/johsilve/frintch1ch6.pdf)
 - [X] [Number theory: Wikipedia](https://en.wikipedia.org/wiki/Number_theory)
 
 
-### Group theory(subset, group...)
+#### Group theory(subset, group...)
 - [X] [Group Theory](https://www.jmilne.org/math/CourseNotes/GT.pdf)
 - [X] [Group Theory: Wikipedia](https://en.wikipedia.org/wiki/Group_theory)
 
-### Graph theory(G=(V,E) , V:nodes, E:Edges)
+#### Graph theory(G=(V,E) , V:nodes, E:Edges)
 - [X] [Graph Theory](https://www.maths.ed.ac.uk/~v1ranick/papers/wilsongraph.pdf)
 - [X] [Graph Theory: Wikipedia](https://en.wikipedia.org/wiki/Graph_theory)
 
-### Order theory(a ≤ c )
+#### Order theory(a ≤ c )
 - [X] [Order Theory](http://www.columbia.edu/~md3405/DT_Order_15.pdf)
 - [X] [Order Theory: Wikipedia](https://academickids.com/encyclopedia/index.php/Order_theory)
 
-### Algebra
+#### Algebra
 
-#### Elementary algebra
+##### Elementary algebra
 - [X] [Elementary algebra](https://www.britannica.com/science/elementary-algebra)
 - [X] [Elementary algebra: Wikipedia](https://en.wikipedia.org/wiki/Elementary_algebra)
 
-#### Abstract algebra
+##### Abstract algebra
 - [X] [Introduction to Abstract Algebra (Math 113)](https://math.berkeley.edu/~apaulin/AbstractAlgebra.pdf)
 - [X] [Abstract algebra: Wikipedia](https://en.wikipedia.org/wiki/Abstract_algebra)
-#### Algebraic combinatorics
+##### Algebraic combinatorics
 - [X] [ALGEBRAIC COMBINATORICS: MIT](https://ocw.mit.edu/courses/18-212-algebraic-combinatorics-spring-2019/)
 - [X] [Algebraic combinatorics: Wikipedia](https://en.wikipedia.org/wiki/Algebraic_combinatorics#:~:text=Algebraic%20combinatorics%20is%20an%20area,techniques%20to%20problems%20in%20algebra.)
 
-#### Algebraic geometry
+##### Algebraic geometry
 - [X] [Algebraic Geometry](https://www.jmilne.org/math/CourseNotes/AG.pdf)
 - [X] [Introduction to Algebraic Geometry: Purud University](https://www.math.purdue.edu/~arapura/algeom.html)
 - [X] [Algebraic Geometry](https://www.maths.ox.ac.uk/about-us/departmental-art/theory/algebraic-geometry)
 - [X] [Algebraic Geometry: Wikipedia](https://en.wikipedia.org/wiki/Algebraic_geometry#:~:text=Algebraic%20geometry%20is%20a%20branch,about%20these%20sets%20of%20zeros.)
 
-#### Algebraic number theory
+##### Algebraic number theory
 - [X] [Algebraic Number Theory](https://www.jmilne.org/math/CourseNotes/ANTc.pdf)
 - [X] [Algebraic Number Theory](http://www.math.toronto.edu/~ila/SwinnertonDyer-A%20Brief%20Guide%20to%20ANT.pdf)
 - [X] [Algebraic number theory: Wikipedia](https://en.wikipedia.org/wiki/Algebraic_number_theory)
 
-#### Boolean algebra
+##### Boolean algebra
 - [X] [Boolean Algebra](https://byjus.com/maths/boolean-algebra/)
 - [X] [Boolean Algebra: Wikipedia](https://en.wikipedia.org/wiki/Boolean_algebra)
 - [X] [Boolean Algebra: tutorialspoint](https://www.tutorialspoint.com/computer_logical_organization/boolean_algebra.htm)
 
 
-#### Commutative algebra
+##### Commutative algebra
 - [X] [Commutative Algebra](http://alpha.math.uga.edu/~pete/integral2015.pdf)
 - [X] [Commutative algebra: Wikipedia](https://en.wikipedia.org/wiki/Commutative_algebra#:~:text=Commutative%20algebra%20is%20essentially%20the,important%20class%20of%20commutative%20rings.)
 
 
-#### Computer algebra
+##### Computer algebra
 - [X] [Computer Algebra](https://cs.uwaterloo.ca/~smwatt/talks/2008-trics-dirty-secret.pdf)
 - [X] [Computer algebra: Wikipedia](https://en.wikipedia.org/wiki/Computer_algebra)
 
-#### Homological algebra
+##### Homological algebra
 - [X] [homological algebra](https://ncatlab.org/nlab/show/homological+algebra)
 - [X] [Homological algebra: Wikipedia](https://en.wikipedia.org/wiki/Homological_algebra)
 - [X] [HOMOLOGICALALGEBRA](http://www.math.stonybrook.edu/~mmovshev/BOOKS/homologicalalgeb033541mbp.pdf)
 - [X] [AN INTRODUCTION TO HOMOLOGICAL ALGEBRA](https://people.math.rochester.edu/faculty/doug/otherpapers/weibel-hom.pdf)
-#### Relational algebra
+##### Relational algebra
 - [X] [Relational Algebra](https://www.tutorialspoint.com/dbms/relational_algebra.htm)
 - [X] [Introduction of Relational Algebra in DBMS](https://www.geeksforgeeks.org/introduction-of-relational-algebra-in-dbms/)
 - [X] [Relational algebra: Wikipedia](https://en.wikipedia.org/wiki/Relational_algebra)
@@ -492,14 +495,14 @@ Dialects,accents, and varieties
 - [X] [Relational Algebra](http://infolab.stanford.edu/~ullman/fcdb/aut07/slides/ra.pdf)
 
 
-#### Universal algebra
+##### Universal algebra
 - [X] [A Course in Universal Algebra](https://www.math.uwaterloo.ca/~snburris/htdocs/UALG/univ-algebra.pdf)
 - [X] [universal algebra](https://ncatlab.org/nlab/show/universal+algebra)
 - [X] [Universal algebra: Wikipedia](https://en.wikipedia.org/wiki/Universal_algebra#:~:text=Universal%20algebra%20(sometimes%20called%20general,models%22)%20of%20algebraic%20structures.)
 - [X] [NOTES ON UNIVERSAL ALGEBRA](https://arxiv.org/pdf/math/0111009.pdf)
 
 
-#### Linear Algebra
+##### Linear Algebra
 
 - [X] [MIT,Gilbart Strang resource index](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/resource-index/)
 
@@ -539,49 +542,49 @@ Dialects,accents, and varieties
   
 - [X] [mathematics: My implementation from scratch](https://madanbaduwal.github.io/mathematics/)
 
-## Space(Geometry)
-### Geometry
+### Space(Geometry)
+#### Geometry
 - [X] [High school geometry: Khan Academy](https://www.khanacademy.org/math/geometry)
 - [X] [Geometry (all content): Khan Academy](https://www.khanacademy.org/math/geometry-home)
 - [X] [Geometry](https://byjus.com/maths/geometry/)
 - [X] [Geometry](https://en.wikipedia.org/wiki/Geometry)
 
-### Trignometry
+#### Trignometry
 - [X] [Trigonometry: Khan Academy](https://www.khanacademy.org/math/trigonometry)
 - [X] [Introduction to Trigonometry](https://www.mathsisfun.com/algebra/trigonometry.html)
 - [X] [Trignometry](https://byjus.com/maths/trigonometry/)
 - [X] [Trignometry](https://www.cuemath.com/trigonometry/)
 - [X] [Trignometry: Wikipedia](https://en.wikipedia.org/wiki/Trigonometry)
 
-### Differential geometry
+#### Differential geometry
 - [X] [DIFFERENTIAL GEOMETRY: MIT](https://ocw.mit.edu/courses/18-950-differential-geometry-fall-2008/)
 - [X] [INTRODUCTION TO DIFFERENTIAL GEOMETRY](https://people.math.ethz.ch/~salamon/PREPRINTS/diffgeo.pdf)
 - [X] [Differential geometry: Wikipedia](https://en.wikipedia.org/wiki/Differential_geometry#:~:text=Differential%20geometry%20is%20a%20mathematical,linear%20algebra%20and%20multilinear%20algebra.)
 
-### Topology
+#### Topology
 - [X] [Topology](https://www.britannica.com/science/topology)
 - [X] [Topology: Wikipedia](https://en.wikipedia.org/wiki/Topology)
 
-### Fractal geometry
+#### Fractal geometry
 - [X] [Fractal Geometry](https://users.math.yale.edu/public_html/People/frame/Fractals/index.html)
 - [X] [Fractals: Useful Beauty](http://www.fractal.org/Bewustzijns-Besturings-Model/Fractals-Useful-Beauty.htm)
 - [X] [A History of Fractal Geometry](https://mathshistory.st-andrews.ac.uk/HistTopics/fractals/)
 - [X] [Fractal: Wikipedia](https://en.wikipedia.org/wiki/Fractal)
 
-### Measure theory
+#### Measure theory
 - [X] [Measure Theory](https://www.math.ucdavis.edu/~hunter/measure_theory/measure_notes.pdf)
 - [X] [An Introduction to Measure Theory](https://terrytao.files.wordpress.com/2012/12/gsm-126-tao5-measure-book.pdf)
 - [X] [Measure (mathematics): Wikipedia](https://en.wikipedia.org/wiki/Measure_(mathematics))
 
-## Change(Calculus)
+### Change(Calculus)
 
 - [ ] [3Blue1Brown: Essence of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 - [ ] [ Khan Academy: Differential Calculus](https://www.khanacademy.org/mission/differential-calculus)
 - [ ] [ Khan Academy: Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus)
 	
-# Applied Mathematics
+## Applied Mathematics
 
-## Probability
+### Probability
 - [X] [Probability](https://byjus.com/maths/probability/)
 - [X] [Probability: the basics](https://www.khanacademy.org/math/statistics-probability/probability-library/basic-theoretical-probability/a/probability-the-basics)
 - [X] [Probability](https://www.mathsisfun.com/data/probability.html)
@@ -589,7 +592,7 @@ Dialects,accents, and varieties
 - [X] [Probability](https://seeing-theory.brown.edu/basic-probability/index.html)
 - [X] [Probability: Wikipedia](https://en.wikipedia.org/wiki/Probability#:~:text=Probability%20is%20the%20branch%20of,event%20and%201%20indicates%20certainty.)
 
-## Statistics and other decision sciences(probability and statistics)
+### Statistics and other decision sciences(probability and statistics)
 - [ ] [ StatQuest: Statistics Fundamentals](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
 - [ ] [ Article: Entropy, Cross Entropy, and KL Divergence](https://towardsdatascience.com/entropy-cross-entropy-and-kl-divergence-17138ffab87b)
 - [ ] [ Article: Interview Guide to Probability Distributions](https://medium.com/acing-ai/interview-guide-to-probability-distributions-a6dfb08c3766)
@@ -611,52 +614,52 @@ Dialects,accents, and varieties
 - [ ] [ Udacity: Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)     
 - [ ] [ Udacity: Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201) 
 
-## Statistics
-###  Descriptive statistics
+### Statistics
+####  Descriptive statistics
 - [X] [Descriptive Statistics: Wikipedia](https://en.wikipedia.org/wiki/Descriptive_statistics)
 - [X] [Descriptive Statistics: Simplelearn](https://www.simplilearn.com/what-is-descriptive-statistics-article)
-#### Univariate analysis
+##### Univariate analysis
 - [X] [Univariate descriptive statistics](https://analyse-it.com/docs/user-guide/distribution/continuous/univariate-descriptive-statistics)
 - [X] [UNIVARIATE DATA ANALYSIS](https://home.csulb.edu/~msaintg/ppa696/696uni.htm)
 - [X] [Univariate Statistics Analysis & Examples](https://study.com/learn/lesson/univariate-statistics-analysis-examples-what-is-univariate-data.html)
 
-#### Bivariate and multivariate analysis
+##### Bivariate and multivariate analysis
 - [X] [Bivariate Analysis](https://sciencing.com/difference-between-bivariate-multivariate-analyses-8667797.html)
 - [X] [Introduction to Univariate, Bivariate and Multivariate Analysis](https://medium.com/analytics-vidhya/univariate-bivariate-and-multivariate-analysis-8b4fc3d8202c)
 - [X] [Bivariate Analysis](https://www.analyticsvidhya.com/blog/2021/04/exploratory-analysis-using-univariate-bivariate-and-multivariate-analysis-techniques/)
 
 
-### Inferential statistics
+#### Inferential statistics
 - [X] [Inferential Statistics](https://www.scribbr.com/statistics/inferential-statistics/)
 - [X] [Inferential Statistics](https://statisticsbyjim.com/basics/descriptive-inferential-statistics/)
 - [X] [Inferential Statistics](https://corporatefinanceinstitute.com/resources/knowledge/other/inferential-statistics/)
 
-#### Frequentist inference 
+##### Frequentist inference 
 - [X] [Frequentist inference](https://seeing-theory.brown.edu/frequentist-inference/index.html)
 - [X] [Frequentist and Bayesian Inference](https://towardsdatascience.com/frequentist-and-bayesian-inference-83af2595f172)
 - [X] [Frequentist Vs Bayesian approaches in statistics](https://analyticsindiamag.com/a-hands-on-guide-to-frequentist-vs-bayesian-approaches-in-statistics/)
 - [X] [Frequentist inference](https://en.wikipedia.org/wiki/Frequentist_inference)
 
-#### Bayesian inference(MAP)
+##### Bayesian inference(MAP)
 - [X] [MLE, MAP and Bayesian Inference](https://towardsdatascience.com/mle-map-and-bayesian-inference-3407b2d6d4d9)
 - [X] [ML, MAP, and Bayesian](https://engineering.purdue.edu/kak/Trinity.pdf)
 - [X] [An Introduction to Bayesian Inference — Defining the MAP Estimate](https://medium.com/mlearning-ai/an-introduction-to-bayesian-inference-part-2-e15df4faa56c)
 - [X] [MLE, MAP, Bayes classification](http://www.cs.cmu.edu/~aarti/Class/10701_Spring14/slides/MLE_MAP_Part1.pdf)
 - [X] [Maximum a posteriori estimation](https://en.wikipedia.org/wiki/Maximum_a_posteriori_estimation)
 
-#### Likelihood-based inference
+##### Likelihood-based inference
 - [X] [Likelihood-based inference](https://lbelzile.github.io/math60604a/likelihood.html)
 - [X] [Likelihood Inference](https://www.sas.upenn.edu/~jesusfv/LectureNotes_4_bayesian.pdf)
 - [X] [Likelihood inference](https://utstat.toronto.edu/reid/research/likelihood-final.pdf)
 - [X] [Likelihood principle: Wikipedia](https://en.wikipedia.org/wiki/Likelihood_principle)
 - [X] [Likelihood based inference](https://bookdown.org/ybrandvain/Applied-Biostats/likelihood.html)
 
-#### AIC-based inference
+##### AIC-based inference
 - [X] [Akaike information criterion: Wikipedia](https://en.wikipedia.org/wiki/Akaike_information_criterion)
-#### Other paradigms for inference
+##### Other paradigms for inference
 - [X] [Statistical inference](https://www.nhh.no/globalassets/departments/business-and-management-science/research/lillestol/statistical_inference.pdf)
 
-### Exploratory data analysis
+#### Exploratory data analysis
 - [X] [What is Exploratory Data Analysis?](https://towardsdatascience.com/exploratory-data-analysis-8fc1cb20fd15)
 - [X] [Exploratory data analysis: Wikipedia](https://en.wikipedia.org/wiki/Exploratory_data_analysis)
 - [X] [Exploratory Data Analysis: IBM](https://www.ibm.com/cloud/learn/exploratory-data-analysis)
@@ -666,27 +669,27 @@ Dialects,accents, and varieties
 
 
 
-## Computational mathematics
+### Computational mathematics
 
-## Books
+### Books
 
 - [X] [An Introduction to Probability with de Finetti’s Approach and to Bayesian Statistics](http://ndl.ethernet.edu.et/bitstream/123456789/29038/1/Francesca%20Biagini_2016.pdf)
 - [X] [Bayesian Network](https://bayanbox.ir/view/2696034682419953093/Timo-Koski-John-Noble-Bayesian-Networks-An-Int.pdf)
 - [X] [PROBABILITY and STATISTICS](http://users.encs.concordia.ca/~doedel/courses/comp-233/slides.pdf)
 
-# Youtube Channels
+## Youtube Channels
 - [X] [Matthew Weathers](https://www.youtube.com/c/MDWeathers)	
 - [X] [MathTheBeautiful](https://www.youtube.com/c/MathTheBeautiful)
 - [X] [patrickJMT ](https://www.youtube.com/c/patrickjmt/featured)
 - [X] [Numberphile ](https://www.youtube.com/c/numberphile)
 - [X] [The Math Sorcerer ](https://www.youtube.com/c/TheMathSorcerer)
 
-# Mathematical Symbols
+## Mathematical Symbols
 - [X] [Mathematical Symbols: Article](https://byjus.com/maths/math-symbols/)
 - [X] [Math Symbols List: Article](https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html)
 - [X] [Mathematical Symbols: Article](https://mathvault.ca/hub/higher-math/math-symbols/)
 
-# Python Programming Library 
+## Python Programming Library 
 - [X] [SymPy](https://docs.sympy.org/latest/index.html)
 - [X] [Math Module](https://docs.python.org/3/library/math.html)
 - [X] [Scipy](https://docs.scipy.org/doc/scipy/)
@@ -695,7 +698,7 @@ Dialects,accents, and varieties
 - [X] [Statsmodel](https://www.statsmodels.org/stable/index.html)
 - [X] []()
 
-# Other Resources
+## Other Resources
 - [ ] [Mathematical: Wikipedia](https://en.wikipedia.org/wiki/Mathematics)
 - [ ] [Mathematical Symbols: Wikipedia](https://en.wikipedia.org/wiki/Glossary_of_mathematical_symbols)
 - [ ] [Essentials Mathematics for machine learning](https://www.youtube.com/playlist?list=PLLy_2iUCG87D1CXFxE-SxCFZUiJzQ3IvE)
