@@ -983,6 +983,7 @@ Note:
 	- [X] [^(XOR)](https://www.w3schools.com/python/python_operators.asp)
 
 - [X] [Multiple Statements per Line: print(a); print(b); print(c)](https://www.tutorialspoint.com/How-to-provide-multiple-statements-on-a-single-line-in-Python)
+- [X] [What is the maximum possible value of an integer in Python ?](https://www.geeksforgeeks.org/what-is-the-maximum-possible-value-of-an-integer-in-python/)
 
 - [X] [Line Continuation](https://www.geeksforgeeks.org/python-multi-line-statements/)
     - [X] [Implicit Line Continuation](https://www.geeksforgeeks.org/python-multi-line-statements/)
