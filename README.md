@@ -986,6 +986,7 @@ Note:
 - [X] [What is the maximum possible value of an integer in Python ?: In Python, value of an integer is not restricted by the number of bits and can expand to the limit of the available memory](https://www.geeksforgeeks.org/what-is-the-maximum-possible-value-of-an-integer-in-python/)
 - [X] [Packing and Unpacking Arguments in Python: *(for list/tuple) and **(for key-value/dictionary)](https://www.geeksforgeeks.org/packing-and-unpacking-arguments-in-python/)
 - [X] [Other Data Type To Dictionary Type Conversion: (("key",value))/(["key",value]) > {"Key": Value}](https://www.geeksforgeeks.org/type-conversion-in-python/)
+- [X] [Byte Objects vs String in Python](https://www.geeksforgeeks.org/byte-objects-vs-string-python/)
 
 
 - [X] [Line Continuation](https://www.geeksforgeeks.org/python-multi-line-statements/)
