@@ -977,6 +977,10 @@ Note:
     - [X] [/ vs //(17/2=8.5,17//2=8)](https://www.w3schools.com/python/python_operators.asp)
 	- [X] [^(XOR)](https://www.w3schools.com/python/python_operators.asp)
 
+- [X] [Multiple Statements per Line: print(a); print(b); print(c)](https://www.tutorialspoint.com/How-to-provide-multiple-statements-on-a-single-line-in-Python)
+
+
+
 Complete here
 
 - [X] [Python documentation: Geeksforgeeks](https://www.geeksforgeeks.org/python-programming-language/?ref=shm)
