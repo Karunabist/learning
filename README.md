@@ -957,6 +957,7 @@ Note:
 	- [X] [Polymorphism](https://www.programiz.com/python-programming/polymorphism)
 	- [X] [Encapsulation](https://www.geeksforgeeks.org/encapsulation-in-python/)
 	- [X] [Abstraction](https://www.geeksforgeeks.org/abstract-classes-in-python/)
+- [X] [Python call parent constructor: ParentclassName.__init__()/super.__init__()](https://www.adamsmith.haus/python/answers/how-to-call-a-parent-class-constructor-in-python)
 - [X] [Iterators](https://www.geeksforgeeks.org/iterators-in-python/)
 - [X] [_ : 5 Different Meanings of Underscore in Python](https://towardsdatascience.com/5-different-meanings-of-underscore-in-python-3fafa6cd0379#:~:text=Single%20standalone%20underscore%20_%20is%20a,used%20as%20a%20variable%20name.&text=According%20to%20Python%20doc%2C%20the,Here%20is%20an%20example.)
 - [X] [_ : Underscore (_) in Python](https://www.geeksforgeeks.org/underscore-_-python/)
