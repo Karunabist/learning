@@ -1021,8 +1021,8 @@ Note:
 - [X] [How to Use Built-in Looping Functions in Python](https://www.freecodecamp.org/news/python-looping-functions/)
 - [X] [Precedence and Associativity of Operators in Python](https://www.geeksforgeeks.org/precedence-and-associativity-of-operators-in-python/)
 - [X] [Using Else Conditional Statement With For loop in Python](https://www.geeksforgeeks.org/using-else-conditional-statement-with-for-loop-in-python/)
-
-
+- [X] [Class method vs Static method in Python](https://www.geeksforgeeks.org/class-method-vs-static-method-python/)
+- [X] [Map,Filter and Reduce](https://stackabuse.com/map-filter-and-reduce-in-python-with-examples/)
 
 
 Complete here
