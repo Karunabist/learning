@@ -1023,6 +1023,7 @@ Note:
 - [X] [Using Else Conditional Statement With For loop in Python](https://www.geeksforgeeks.org/using-else-conditional-statement-with-for-loop-in-python/)
 - [X] [Class method vs Static method in Python](https://www.geeksforgeeks.org/class-method-vs-static-method-python/)
 - [X] [Map,Filter and Reduce](https://stackabuse.com/map-filter-and-reduce-in-python-with-examples/)
+- [X] [Precision Handling in Python](https://www.geeksforgeeks.org/precision-handling-python/)
 
 
 Complete here
