@@ -984,6 +984,8 @@ Note:
 	- [X] [^(XOR)](https://www.w3schools.com/python/python_operators.asp)
 	- [X] [Logical Operators vs Bitwise Operators](https://www.geeksforgeeks.org/difference-between-and-and-in-python/#:~:text=and%20is%20a%20Logical%20AND,otherwise%20True%20when%20using%20logically.)
 
+- [X] [Operator Overloading](https://www.geeksforgeeks.org/operator-overloading-in-python/)
+- [X] [A Guide to Python's Magic Methods](https://rszalski.github.io/magicmethods/)
 - [X] [Multiple Statements per Line: print(a); print(b); print(c)](https://www.tutorialspoint.com/How-to-provide-multiple-statements-on-a-single-line-in-Python)
 - [X] [What is the maximum possible value of an integer in Python ?: In Python, value of an integer is not restricted by the number of bits and can expand to the limit of the available memory](https://www.geeksforgeeks.org/what-is-the-maximum-possible-value-of-an-integer-in-python/)
 - [X] [Packing and Unpacking Arguments in Python: *(for list/tuple) and **(for key-value/dictionary)](https://www.geeksforgeeks.org/packing-and-unpacking-arguments-in-python/)
