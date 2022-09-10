@@ -983,6 +983,9 @@ Note:
     - [X] [/ vs //(17/2=8.5,17//2=8)](https://www.w3schools.com/python/python_operators.asp)
 	- [X] [^(XOR)](https://www.w3schools.com/python/python_operators.asp)
 	- [X] [Logical Operators vs Bitwise Operators](https://www.geeksforgeeks.org/difference-between-and-and-in-python/#:~:text=and%20is%20a%20Logical%20AND,otherwise%20True%20when%20using%20logically.)
+	- [X] [Python | a += b is not always a = a + b](https://www.geeksforgeeks.org/python-a-b-is-not-always-a-a-b/)
+	- [X] [Difference between == and is operator in Python](https://www.geeksforgeeks.org/difference-between-and-is-operator-in-python/)
+	
 
 - [X] [Operator Overloading](https://www.geeksforgeeks.org/operator-overloading-in-python/)
 - [X] [A Guide to Python's Magic Methods](https://rszalski.github.io/magicmethods/)
