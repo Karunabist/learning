@@ -978,6 +978,8 @@ Note:
 - [X] [Shallow copy and deep copy](https://www.geeksforgeeks.org/copy-python-deep-copy-shallow-copy/)
 - [X] [Paramaters vs Arguments](https://www.baeldung.com/cs/argument-vs-parameter)
 - [X] [Python Decorator](https://www.programiz.com/python-programming/decorator)
+- [X] [Python Decorator](https://www.geeksforgeeks.org/decorators-in-python/)
+- [X] [Decorators with parameters in Python](https://www.geeksforgeeks.org/decorators-with-parameters-in-python/)
 - [X] [Python Operator](https://www.geeksforgeeks.org/python-operators/)
 - [X] [Python Operators](https://www.w3schools.com/python/python_operators.asp)
     - [X] [/ vs //(17/2=8.5,17//2=8)](https://www.w3schools.com/python/python_operators.asp)
