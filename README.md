@@ -978,9 +978,11 @@ Note:
 - [X] [Shallow copy and deep copy](https://www.geeksforgeeks.org/copy-python-deep-copy-shallow-copy/)
 - [X] [Paramaters vs Arguments](https://www.baeldung.com/cs/argument-vs-parameter)
 - [X] [Python Decorator](https://www.programiz.com/python-programming/decorator)
+- [X] [Python Operator](https://www.geeksforgeeks.org/python-operators/)
 - [X] [Python Operators](https://www.w3schools.com/python/python_operators.asp)
     - [X] [/ vs //(17/2=8.5,17//2=8)](https://www.w3schools.com/python/python_operators.asp)
 	- [X] [^(XOR)](https://www.w3schools.com/python/python_operators.asp)
+	- [X] [Logical Operators vs Bitwise Operators](https://www.geeksforgeeks.org/difference-between-and-and-in-python/#:~:text=and%20is%20a%20Logical%20AND,otherwise%20True%20when%20using%20logically.)
 
 - [X] [Multiple Statements per Line: print(a); print(b); print(c)](https://www.tutorialspoint.com/How-to-provide-multiple-statements-on-a-single-line-in-Python)
 - [X] [What is the maximum possible value of an integer in Python ?: In Python, value of an integer is not restricted by the number of bits and can expand to the limit of the available memory](https://www.geeksforgeeks.org/what-is-the-maximum-possible-value-of-an-integer-in-python/)
