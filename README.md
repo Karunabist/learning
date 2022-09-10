@@ -1765,8 +1765,8 @@ Regression Loss Functions, Binary Classification Loss Functions, Multi-Class Cla
 - [X] [deepctr](https://pypi.org/project/deepctr/): Deep-learning based CTR models  
 - [X] [dlib](https://pypi.org/project/dlib/): A toolkit for making real world machine learning and data analysis applications in C++  
 - [X] [docx2txt](https://pypi.org/project/docx2txt/): A pure python-based utility to extract text and images from docx files
- * [RexMex](https://github.com/AstraZeneca/rexmex) -> A general purpose recommender metrics library for fair evaluation.
- * [ChemicalX](https://github.com/AstraZeneca/chemicalx) -> A PyTorch based deep learning library for drug pair scoring
+ * [X] [RexMex](https://github.com/AstraZeneca/rexmex) -> A general purpose recommender metrics library for fair evaluation.
+ * [X] [ChemicalX](https://github.com/AstraZeneca/chemicalx) -> A PyTorch based deep learning library for drug pair scoring
  * [Microsoft ML for Apache Spark](https://github.com/Azure/mmlspark) -> A distributed machine learning framework Apache Spark
  * [Shapley](https://github.com/benedekrozemberczki/shapley) -> A data-driven framework to quantify the value of classifiers in a machine learning ensemble.
  * [igel](https://github.com/nidhaloff/igel) -> A delightful machine learning tool that allows you to train/fit, test and use models **without writing code**
@@ -1930,20 +1930,20 @@ Regression Loss Functions, Binary Classification Loss Functions, Multi-Class Cla
 - [matplotlib](https://pypi.org/project/matplotlib/): Matplotlib strives to produce publication quality 2D graphics  - [newspaper](https://pypi.org/project/newspaper/): Simplified python article discovery & extraction.  
 - [nlopt](https://pypi.org/project/nlopt/): Library for nonlinear optimization, wrapping many algorithms for global and local, constrained or unconstrained, optimization  
 - [nltk](https://pypi.org/project/nltk/): Natural Language Toolkit  
-- [opencv](https://pypi.org/project/opencv-python/): Wrapper package for OpenCV python bindings.  
+- [X] [opencv](https://pypi.org/project/opencv-python/): Wrapper package for OpenCV python bindings.  
 - [pandarallel](https://pypi.org/project/pandarallel/): An easy to use library to speed up computation (by parallelizing on multi CPUs) with pandas.  
 - [pandas](https://pypi.org/project/pandas/): Powerful data structures for data analysis, time series, and statistics  
 - [pdf2image](https://pypi.org/project/pdf2image/): A wrapper around the pdftoppm and pdftocairo command line tools to convert PDF to a PIL Image list.  
-- [pillow](https://pypi.org/project/Pillow/): Python Imaging Library (Fork) 
+- [X] [pillow](https://pypi.org/project/Pillow/): Python Imaging Library (Fork) 
 - [plotly](https://pypi.org/project/plotly/): An open-source, interactive graphing library for Python  
 - [prophet](https://pypi.org/project/prophet/): Microframework for analyzing financial markets.  
 - [PyMuPDF](https://pymupdf.readthedocs.io/en/latest/): PyMuPDF is a Python binding for MuPDF – a lightweight PDF, XPS, and E-book viewer, renderer, and toolkit, which is maintained and developed by Artifex Software, Inc
 - [scikit-image](https://scikit-image.org/): Collection of algorithms for image processing  
 - [scikit-learn](https://scikit-learn.org/stable/): Tools for data mining and data analysis and machine learning in Python  
 - [scikit-surprise](https://pypi.org/project/scikit-surprise/): Python RecommendatIon System Engine  
-- [scrapy](https://scrapy.org/): Framework for extracting the data you need from websites  
+- [X] [scrapy](https://scrapy.org/): Framework for extracting the data you need from websites  
 - [seaborn](https://seaborn.pydata.org/): Data visualization library based on matplotlib.  
-- [selenium](https://selenium-python.readthedocs.io/): Provides a simple API to write functional/acceptance tests using Selenium WebDriver  
+- [X] [selenium](https://selenium-python.readthedocs.io/): Provides a simple API to write functional/acceptance tests using Selenium WebDriver  
 - [shap](https://github.com/slundberg/shap): Explain the output of any machine learning model  
 - [shutil](https://docs.python.org/3/library/shutil.html): Offers a number of high-level operations on files and collections of files  
 - [spacy](https://spacy.io/): Library for advanced Natural Language Processing in Python 
