@@ -938,7 +938,25 @@ Note:
      	
 ## Programming language theory and formal methods
 
--[General Rule For Any Programming Language](https://github.com/MadanBaduwal/programming/blob/main/General_rule_of_any_programming.ipynb)
+- [General Rule For Any Programming Language](https://github.com/MadanBaduwal/programming/blob/main/General_rule_of_any_programming.ipynb)
+
+- Any Project/Software...Programming
+
+	```
+	├── Package               <- Folder Contain Many programming files(modules)
+		├── Module            <- File (i.e  .h(in c and c++),.py,.js ,.java,php...)
+		├── import from another package and module < -#include ... in c and c++, import in python and java
+		├── Module attribute
+		  ├── Class         
+		  │   ├── Class attribute     
+		  │   ├── Method      
+		 │         ├── Method attribute 
+		├── Function
+			├── Function attribute
+		├── Generator
+			├── Generator attribute
+
+	```
 
 ### Python
 - [X] [Python Documentation: Officials ](https://docs.python.org/3/)
