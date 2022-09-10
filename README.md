@@ -987,6 +987,11 @@ Note:
 - [X] [Line Continuation](https://www.geeksforgeeks.org/python-multi-line-statements/)
     - [X] [Implicit Line Continuation](https://www.pythonmorsels.com/breaking-long-lines-code-python/#:~:text=An%20implicit%20line%20continuation%20happens,%7B%20)%20has%20been%20left%20open.)
 	- [X] [Explicit Line Continuation](https://www.tutorialspoint.com/How-to-wrap-long-lines-in-Python)
+- [X] [Taking multiple inputs from user in Python: input().split(separator, maxsplit)](https://www.geeksforgeeks.org/taking-multiple-inputs-from-user-in-python/)
+- [X] [Python end parameter in print(): Print without a newline](https://www.geeksforgeeks.org/gfact-50-python-end-parameter-in-print/)
+- [X] [Python | sep parameter in print()](https://www.geeksforgeeks.org/python-sep-parameter-print/)
+- [X] [Python | Output Formatting](https://www.geeksforgeeks.org/python-output-formatting/)
+
 - [X] [Reserv Keywords]()
     ```
 	import keyword  
