@@ -1018,6 +1018,8 @@ Note:
 - [X] [Inplace vs Standard Operators in Python](https://www.geeksforgeeks.org/inplace-vs-standard-operators-python/)
     - [X] [Operator Functions in Python](https://www.geeksforgeeks.org/operator-functions-in-python-set-1/)
 	- [X] [Inplace Operators in Python](https://www.geeksforgeeks.org/inplace-operators-python-set-1iadd-isub-iconcat/)
+- [X] [How to Use Built-in Looping Functions in Python](https://www.freecodecamp.org/news/python-looping-functions/)
+
 
 
 Complete here
