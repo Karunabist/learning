@@ -940,24 +940,6 @@ Note:
 
 - [General Rule For Any Programming Language](https://github.com/MadanBaduwal/programming/blob/main/General_rule_of_any_programming.ipynb)
 
-- Any Project/Software...Programming
-
-	```
-	├── Package               <- Folder Contain Many programming files(modules)
-		├── Module            <- File (i.e  .h(in c and c++),.py,.js ,.java,php...)
-		├── import from another package and module < -#include ... in c and c++, import in python and java
-		├── Module attribute
-		  ├── Class         
-		  │   ├── Class attribute     
-		  │   ├── Method      
-		 │         ├── Method attribute 
-		├── Function
-			├── Function attribute
-		├── Generator
-			├── Generator attribute
-
-	```
-
 ### Python
 - [X] [Python Documentation: Officials ](https://docs.python.org/3/)
 - [X] [match Statements](https://benhoyt.com/writings/python-pattern-matching/)
@@ -977,7 +959,6 @@ Note:
 - [X] [Raising Exceptions](https://www.pythontutorial.net/python-oop/python-raise-exception/)
 - [X] [User-defined Exceptions](https://www.programiz.com/python-programming/user-defined-exception)
 - [X] [Python Scopes and NamespacesAccess : Modifiers in Python : Public, Private and Protected](https://www.geeksforgeeks.org/access-modifiers-in-python-public-private-and-protected/)
-
 
 - [X] [Python OOP concept](https://www.geeksforgeeks.org/python-oops-concepts/#:~:text=In%20Python%2C%20object%2Doriented%20Programming,%2C%20polymorphisms%2C%20encapsulation%2C%20etc.)
 	- [X] [Inheritance: Geeksforgeeks](https://www.geeksforgeeks.org/inheritance-in-python/)
