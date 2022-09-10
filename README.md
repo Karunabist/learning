@@ -937,6 +937,9 @@ Note:
 - [X] [Algorithm: Wikipedia](https://en.wikipedia.org/wiki/Algorithm)
      	
 ## Programming language theory and formal methods
+
+-[General Rule For Any Programming Language](https://github.com/MadanBaduwal/programming/blob/main/General_rule_of_any_programming.ipynb)
+
 ### Python
 - [X] [Python Documentation: Officials ](https://docs.python.org/3/)
 - [X] [match Statements](https://benhoyt.com/writings/python-pattern-matching/)
@@ -982,8 +985,8 @@ Note:
 - [X] [Line Continuation](https://www.geeksforgeeks.org/python-multi-line-statements/)
     - [X] [Implicit Line Continuation](https://www.pythonmorsels.com/breaking-long-lines-code-python/#:~:text=An%20implicit%20line%20continuation%20happens,%7B%20)%20has%20been%20left%20open.)
 	- [X] [Explicit Line Continuation](https://www.tutorialspoint.com/How-to-wrap-long-lines-in-Python)
-	
-
+- [X] [Reserv Keywords]()
+ 
 Complete here
 
 - [X] [Python documentation: Geeksforgeeks](https://www.geeksforgeeks.org/python-programming-language/?ref=shm)
