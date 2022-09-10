@@ -1020,8 +1020,6 @@ Note:
 	- [X] [Inplace Operators in Python](https://www.geeksforgeeks.org/inplace-operators-python-set-1iadd-isub-iconcat/)
 - [X] [How to Use Built-in Looping Functions in Python](https://www.freecodecamp.org/news/python-looping-functions/)
 
-
-
 Complete here
 
 - [X] [Python documentation: Geeksforgeeks](https://www.geeksforgeeks.org/python-programming-language/?ref=shm)
