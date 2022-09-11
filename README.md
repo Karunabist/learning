@@ -960,6 +960,8 @@ Note:
 - [X] [Nested List Comprehensions in Python](https://www.geeksforgeeks.org/nested-list-comprehensions-in-python/)
 - [X] [Reading and Writing Files: Effectively](https://www.pythontutorial.net/python-basics/python-read-text-file/)
 - [X] [Raising Exceptions](https://www.pythontutorial.net/python-oop/python-raise-exception/)
+- [X] [Built-in Exceptions](https://docs.python.org/3/library/exceptions.html)
+
 - [X] [User-defined Exceptions](https://www.programiz.com/python-programming/user-defined-exception)
 - [X] [Python Scopes and NamespacesAccess : Modifiers in Python : Public, Private and Protected](https://www.geeksforgeeks.org/access-modifiers-in-python-public-private-and-protected/)
 
@@ -1037,7 +1039,8 @@ Note:
 - [X] [Destructors in Python](https://www.geeksforgeeks.org/destructors-in-python/)
 - [X] [Python Reflection and Introspection](https://betterprogramming.pub/python-reflection-and-introspection-97b348be54d8)
 - [X] [Python Reflection and Introspection](https://dengking.github.io/programming-language/Python/Paradigm/Meta-programming/Reflective/Python-reflection/)
-
+- [X] [Garbage Collection in Python](https://www.geeksforgeeks.org/garbage-collection-python/)
+- [X] [NZEC error in Python](https://www.geeksforgeeks.org/nzec-error-python/)
 
 
 Complete here
