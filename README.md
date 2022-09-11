@@ -505,6 +505,26 @@ Dialects,accents, and varieties
 ##### Linear Algebra
 
 - [X] [Vector spaces](https://en.wikipedia.org/wiki/Vector_space#Examples)
+    - [X] [Vector](https://www.youtube.com/watch?v=S2f4KNnBhks&list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3&index=3)| Calculate a mean,variance... for a vector
+    - [X] [Linear map](https://en.wikipedia.org/wiki/Linear_map)
+	- [X] [Linear Subspaces](https://en.wikipedia.org/wiki/Linear_subspace)
+	- [X] [Linear span](https://en.wikipedia.org/wiki/Linear_span)
+	- [X] [Basis](https://en.wikipedia.org/wiki/Basis_(linear_algebra))
+	- [X] [Operations with Vectors or Properties of vectors](https://en.wikipedia.org/wiki/Linear_algebra#Vector_spaces)
+	- [X] [Operations With Vectors](https://www.youtube.com/watch?v=a64RYUtIAYc&list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3&index=4)
+	- [X] [Module or Magnitude of Vector](https://www.radfordmathematics.com/vectors-matrices/vectors/magnitude-of-a-vector.html)
+	- [X] [Inner or Dot product](https://en.wikipedia.org/wiki/Dot_product)
+	- [X] [Modulus & Inner Product](https://www.youtube.com/watch?v=ciLVJra_jVA&list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3&index=7)
+	- [X] [Cosine Formula for Dot Product](https://proofwiki.org/wiki/Cosine_Formula_for_Dot_Product)
+	- [X] [Cosine and Dot Product](https://www.youtube.com/watch?v=kkus5KHOLZQ&list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3&index=8)
+    - [X] [Vector projection](https://en.wikipedia.org/wiki/Vector_projection)
+	- [X] [Projection](https://www.youtube.com/watch?v=iucKb-VSrRc&list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3&index=9)
+	- [X] [Change of basis](https://en.wikipedia.org/wiki/Change_of_basis)
+	- [X] [Changing Basis](https://www.youtube.com/watch?v=D7QY2kis4bw&list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3&index=10)
+	- [X] [Linear Independence](https://en.wikipedia.org/wiki/Linear_independence)
+	
+
+- [X] [Matrices]()
 
 
 - [X] [MIT,Gilbart Strang resource index](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/resource-index/)
@@ -544,9 +564,9 @@ Dialects,accents, and varieties
 - [ ] [Numerical Linear Algebra 1st Edition by Lloyd N. Trefethen](https://cdn.bc-pf.org/resources/math/algebra/linear_algebra/Trefethen_Bau-Numerical_Linear_Algebra.pdf)
 - [ ] [Linear Algebra and Matrix Analysis for Statistics(Chapman & Hall/CRC Texts in Statistical Science) 1st Edition by Sudipto Banerjee](https://xn--webducation-dbb.com/wp-content/uploads/2018/06/Linear-Algebra-and-Matrix-Analysis-for-Statistics.pdf)
 - [X] [Linear Algebra: Wikipedia](https://en.wikipedia.org/wiki/Linear_algebra)
-
-
 - [ ] [Mathematics For Machine Learning](https://mml-book.github.io/book/mml-book.pdf)
+
+
 - [ ] [Mathematics for Machine Leaning Linear Algebra](https://www.youtube.com/watch?v=T73ldK46JqE&list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3)
 - [ ] [ 3Blue1Brown: Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - [ ] [ Article: Introduction to Linear Algebra for Applied Machine Learning with Python](https://pabloinsente.github.io/intro-linear-algebra)
