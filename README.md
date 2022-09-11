@@ -1057,22 +1057,19 @@ Note:
 - [X] [OS](https://www.geeksforgeeks.org/os-module-python-examples/)
 - [X] [Pathlib: No Really, Python's Pathlib is Great](https://rednafi.github.io/digressions/python/2020/04/13/python-pathlib.html)
 - [X] [Pathlib Vs OS Modules](https://www.section.io/engineering-education/pathlib-vs-os-modules-for-file-and-directory-system-operation/)
-
-
-
-Complete here
-
-
 - [X] [Article: Speeding Up Python with Concurrency, Parallelism, and asyncio](https://testdriven.io/blog/concurrency-parallelism-asyncio/)
 
+#### Article,Books And Courses
+- [ ] [Article: A reverse chronology of some Python features](https://snarky.ca/a-reverse-chronology-of-some-python-features/)
+- [ ] [Book: A Byte of Python](https://python.swaroopch.com)
+- [ ] [Book: Learn Python The Hard way](https://learnpythonthehardway.org)
+- [ ] [Book: Python 201](https://leanpub.com/python201)
+- [ ] [Book: The Python 3 Standard Library By Example](https://doughellmann.com/blog/the-python-3-standard-library-by-example)
+- [X] [Article: When to switch to Python 3.9](https://pythonspeed.com/articles/switch-python-3.9/)
+- [X] [Article: I wish I knew these things when I learned Python](http://bugra.github.io/posts/2015/1/3/i-wish-i-knew-these-things-when-i-learned-python/)
 - [ ] [Article: The Complete Python Development Guide](https://testdriven.io/guides/complete-python/)
-
-
 - [ ] [Article: A Python prompt into a running process: debugging with Manhole](https://pythonspeed.com/articles/live-debugging-python/)
-- [ ] [Regex For Noobs (like me!) - An Illustrated Guide](https://www.janmeppe.com/blog/regex-for-noobs/)
-
-- [ ] [Book: Writing Idiomatic Python 3](https://www.amazon.com/Writing-Idiomatic-Python-Jeff-Knupp-ebook/dp/B00B5VXMRG)
-- [ ] [Calmcode: ray](https://calmcode.io/ray/introduction.html)
+- [ ] [Book: Writing Idiomatic Python 3](http://docplayer.net/119368613-Writing-idiomatic-python-jeff-knupp.html)
 - [ ] [Codecademy: Learn Python](https://www.codecademy.com/learn/learn-python)
 - [ ] [Cognitiveclass.ai: Python for Data Science](https://cognitiveclass.ai/courses/python-for-data-science)
 - [ ] [Datacamp: Python for R Users](https://www.datacamp.com/courses/python-for-r-users)
@@ -1099,14 +1096,7 @@ Complete here
 - [ ] [python3_with_pleasure](https://github.com/arogozhnikov/python3_with_pleasure)
 - [ ] [Python Itertools](https://www.geeksforgeeks.org/python-itertools/)
 
-#### Article,Books And Courses
-- [ ] [Article: A reverse chronology of some Python features](https://snarky.ca/a-reverse-chronology-of-some-python-features/)
-- [ ] [Book: A Byte of Python](https://python.swaroopch.com)
-- [ ] [Book: Learn Python The Hard way](https://learnpythonthehardway.org)
-- [ ] [Book: Python 201](https://leanpub.com/python201)
-- [ ] [Book: The Python 3 Standard Library By Example](https://doughellmann.com/blog/the-python-3-standard-library-by-example)
-- [X] [Article: When to switch to Python 3.9](https://pythonspeed.com/articles/switch-python-3.9/)
-- [X] [Article: I wish I knew these things when I learned Python](http://bugra.github.io/posts/2015/1/3/i-wish-i-knew-these-things-when-i-learned-python/)
+
 
 #### Youtube Channel
 - [ ] [TheNewBoston: Python Programming Tutorials](https://www.youtube.com/watch?v=4Mf0h3HphEA&list=PLEA1FEF17E1E5C0DA)
@@ -1123,6 +1113,7 @@ Complete here
 	- [X] [Pympler](https://pythonhosted.org/Pympler/)
 	- [X] [Objgraph](https://mg.pov.lt/objgraph/)
 	- [X] [pyinstrument](https://github.com/joerick/pyinstrument)
+- [X] [Regex For Noobs (like me!) - An Illustrated Guide](https://www.janmeppe.com/blog/regex-for-noobs/)
 - [X] [argparse](https://docs.python.org/3/library/argparse.html): Write user-friendly command-line interfaces  
 - [X] [beautifulsoup](https://pypi.org/project/beautifulsoup4/): Pull data out of HTML and XML files  
 - [X] [black](https://github.com/psf/black): Opiniated code formatter for python code  
