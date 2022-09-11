@@ -1033,6 +1033,9 @@ Note:
 ## Programming language theory and formal methods
 
 - [General Rule For Any Programming Language](https://github.com/MadanBaduwal/programming/blob/main/General_rule_of_any_programming.ipynb)
+- [X] [CS 179 GPU Programming Caltech](http://courses.cms.caltech.edu/cs179/)
+- [X] [CS 452 Real-Time Programming University of Waterloo](http://mud.cgl.uwaterloo.ca/wmcowan/teaching/cs452/s12/)
+- [X] [ECE 459 Programming for Performance University of Waterloo](https://patricklam.ca/p4p/)
 
 ### Python
 - [X] [Python Documentation: Officials ](https://docs.python.org/3/)
@@ -2123,8 +2126,11 @@ Regression Loss Functions, Binary Classification Loss Functions, Multi-Class Cla
 - [X] [Awful AI](https://github.com/daviddao/awful-ai)
 
 #### Be familar with MLOPS
+
+* [X] [awesome-mlops](https://github.com/visenger/awesome-mlops)
 * [X] [MadewithML](https://madewithml.com/)
 * [X] [mlops-course](https://github.com/GokuMohandas/mlops-course)
+
 
 	
 ### Computer Vision
@@ -2193,6 +2199,7 @@ Regression Loss Functions, Binary Classification Loss Functions, Multi-Class Cla
 ## Databases and data mining and data science
 
 ### Database
+- [X] [CS 186 Introduction to Database Systems UC Berkeley](https://sites.google.com/site/cs186spring2015/)
 - [X] [MYSQL](https://dev.mysql.com/doc/)
 - [X] [MongoDB](https://www.mongodb.com/docs/)
 - [X] [SQLite](https://www.sqlite.org/index.html)
@@ -2202,10 +2209,33 @@ Regression Loss Functions, Binary Classification Loss Functions, Multi-Class Cla
 - [X] [Cassendra](https://cassandra.apache.org/_/index.html)
 - [X] [ElasticSearch](https://www.elastic.co/)
 - [X] [Neo4j](https://neo4j.com/)
+- [ ] [15-721 Database Systems Carnegie-Mellon University](https://15721.courses.cs.cmu.edu/spring2016/)
+- [ ] [15-445/645 Database Systems Carnegie-Mellon University](https://15445.courses.cs.cmu.edu/fall2022/)
 
+## Computer architecture and organization
+- [X] [CS 61C Great Ideas in Computer Architecture (Machine Structures) UC Berkeley](https://www-inst.eecs.berkeley.edu//~cs61c/sp15/)
+- [X] [CS 107 Computer Organization & Systems Stanford University](https://courseware.stanford.edu/pg/courses/lectures/371747)
+- [X] [CS 3410 Computer System Organization and Programming](https://www.cs.cornell.edu/courses/cs3410/2016fa/)
+- [ ] [CSCI 360 Computer Architecture 3 CUNY Hunter College](http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci360/csci360_f14.php)
+- [ ] [15-213 Introduction to Computer Systems (ICS)](http://www.cs.cmu.edu/~213/)
+- [ ] [15-418 Parallel Computer Architecture and Programming](http://15418.courses.cs.cmu.edu/spring2015/)
+- [ ] [18-447 Introduction to Computer Architecture CMU](https://course.ece.cmu.edu/~ece447/s15/doku.php?id=start)
+
+
+## Concurrent parallel and distributed computing
+- [ ] [CS 425 Distributed Systems Univ of Illinois, Urbana-Champaign](https://courses.engr.illinois.edu/cs425/fa2016/index.html)
+- [ ] [CS 5412 Cloud Computing Cornell University](https://www.cs.cornell.edu/courses/cs5412/2014sp/)
+- [ ] [CSCI 493.75 Parallel Computing CUNY Hunter College](http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci493.65/csci493.65_spr14.php)
+- [ ] [PODC Principles of Distributed Computing ETH-Zurich](https://disco.ethz.ch/courses/podc_allstars/)
+- [ ] [SPAC Parallelism and Concurrency Univ of Washington](https://homes.cs.washington.edu/~djg/teachingMaterials/spac/)
+- [ ] [6.824 Distributed Systems MIT](http://css.csail.mit.edu/6.824/2014/index.html)
+- [ ] [CSEP 552 Distributed Systems University of Washington](https://courses.cs.washington.edu/courses/csep552/16wi/)
+- [ ] [15-319/619 Cloud Computing (ICS) Carnegie-Mellon University](http://www.cs.cmu.edu/~msakr/15619-s17/recitations.html)
+- [ ] [15-440 Distributed Systems Carnegie-Mellon University](http://www.cs.cmu.edu/~dga/15-440/F12/index.html)
+- [ ] [15-749 Engineering Distributed Systems Carnegie-Mellon University](https://www.andrew.cmu.edu/course/15-749/)
 
 ## Computer network(ip & port)
-
+- [X] [CS 168 Introduction to the Internet: Architecture and Protocols UC Berkeley](https://inst.eecs.berkeley.edu/~cs168/fa14/)
 - [X] [Layers of OSI Model](https://en.wikipedia.org/wiki/OSI_model#Layer_7:_Application_layer)
 
 	- [X] [Application Layer](https://www.geeksforgeeks.org/application-layer-in-osi-model/)
@@ -2327,9 +2357,22 @@ Regression Loss Functions, Binary Classification Loss Functions, Multi-Class Cla
 
 
 #### operating System
+- [ ] [CS 140 Operating Systems Stanford University](http://web.stanford.edu/~ouster/cgi-bin/cs140-spring14/lectures.php)
+- [ ] [CS 162 Operating Systems and Systems Programming UC Berkeley](https://cs162.org/)
+- [ ] [CS 241 Systems Programming (Spring 2016) Univ of Illinois, Urbana-Champaign](https://courses.engr.illinois.edu/cs241/sp2016/index.html)
+- [ ] [CS 2043 Unix Tools & Scripting Cornell University](https://www.cs.cornell.edu/courses/cs2043/2014sp/)
+- [ ] [CS 4410 Operating Systems Cornell University](https://www.cs.cornell.edu/courses/cs4410/2014fa/)
+- [ ] [CS 4414 Operating Systems University of Virginia](http://rust-class.org/index.html)
+- [ ] [CSCE 3613 Operating Systems University of Arkansas](http://comp.uark.edu/~wingning/csce3613/csce3613.html)
+- [ ] [CSCI-UA.0202: Operating Systems (Undergrad) Operating Systems NYU](https://cs.nyu.edu/~mwalfish/classes/15sp/index.html)
+- [ ] [CSCI 493.66 UNIX System Programming (formerly UNIX Tools) CUNY Hunter College](http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci493.66/csci493.66_spr12.php)
+- [ ] [Hack the Kernel Introduction to Operating Systems SUNY University at Buffalo, NY](https://ops-class.org/)
+- [ ] [6.828 Operating Systems MIT](https://pdos.csail.mit.edu/6.828/2014/)
+
 - [ ] [Ubuntu](https://github.com/ubuntu)
     - [ ] [Linux Command](https://docs.rockylinux.org/books/admin_guide/03-commands/)
 	- [ ] [Command](https://nbviewer.org/github/donnemartin/data-science-ipython-notebooks/blob/master/commands/linux.ipynb)
+
 
 #### Device Drivers
 
@@ -2339,7 +2382,9 @@ Regression Loss Functions, Binary Classification Loss Functions, Multi-Class Cla
 #### Malicious software
 	
 #### Embedded Software
-	
+- [X] [ECGR4101/5101 Embedded Systems using the Renesas RX63N Processor University of North Carolina at Charlotte](https://github.com/prakhar1989/awesome-courses#algorithms)
+
+
 #### Cars
 
 #### Robots
@@ -2362,7 +2407,9 @@ Regression Loss Functions, Binary Classification Loss Functions, Multi-Class Cla
 - [ ] [My note on devops](https://github.com/MadanBaduwal/python-project-structure/blob/main/mlops.md)
 - [ ] [git: Documentation](https://git-scm.com/doc)
 - [ ] [git: Command]()
+- [ ] [gitsome](https://github.com/donnemartin/gitsome)
 - [ ] [github and github action: Documentation](https://docs.github.com/en)
+- [ ] [github](https://github.com/marketplace)
 - [ ] [gitsome](https://github.com/donnemartin/gitsome)
 - [ ] [Pypi: Documentation](https://py-pkgs.org/08-ci-cd.html)
 - [ ] [Testing: Automation Testing in CI/CD](https://www.browserstack.com/guide/role-of-automation-testing-in-ci-cd)
