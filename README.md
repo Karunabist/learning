@@ -952,7 +952,7 @@ Note:
 - [X] [Arbitrary positional arguments(*args)](https://www.w3schools.com/python/gloss_python_function_arbitrary_arguments.asp)
 - [X] [Arbitrary keyword arguments(**args)](https://www.w3schools.com/python/gloss_python_function_arbitrary_keyword_arguments.asp)
 - [X] [Lambda Function: Best UseCase](https://www.machinelearningplus.com/python/lambda-function/)
-- [X] [Documentation String: ](https://www.programiz.com/python-programming/docstrings)
+- [X] [Documentation String: Class and Functio Documentation](https://www.programiz.com/python-programming/docstrings)
 - [X] [Function Annotations: Support for type hints](https://docs.python.org/3/library/typing.html)
 - [X] [Function Annotations: A deep dive on Python type hints](http://veekaybee.github.io/2019/07/08/python-type-hints/)
 - [X] [List Comprehension: Best Usecase](https://mathspp.com/blog/pydonts/list-comprehensions-101)
@@ -1053,15 +1053,15 @@ Note:
 	- [X] [Collections.UserList in Python](https://www.geeksforgeeks.org/collections-userlist-in-python/)
 	- [X] [Collections.UserString in Python](https://www.geeksforgeeks.org/collections-userstring-in-python/)
 
+- [X] [Sys: Variables and functions that interact strongly with the interpreter](https://www.geeksforgeeks.org/python-sys-module/#:~:text=The%20sys%20module%20in%20Python,interact%20strongly%20with%20the%20interpreter.)
+- [X] [OS](https://www.geeksforgeeks.org/os-module-python-examples/)
+- [X] [Pathlib: No Really, Python's Pathlib is Great](https://rednafi.github.io/digressions/python/2020/04/13/python-pathlib.html)
+- [X] [Pathlib Vs OS Modules](https://www.section.io/engineering-education/pathlib-vs-os-modules-for-file-and-directory-system-operation/)
+
 
 
 Complete here
 
-- [X] [Python documentation: Geeksforgeeks](https://www.geeksforgeeks.org/python-programming-language/?ref=shm)
-- [X] [Article: When to switch to Python 3.9](https://pythonspeed.com/articles/switch-python-3.9/)
-- [X] [Article: I wish I knew these things when I learned Python](http://bugra.github.io/posts/2015/1/3/i-wish-i-knew-these-things-when-i-learned-python/)
-
-- [X] [Pathlib: No Really, Python's Pathlib is Great](https://rednafi.github.io/digressions/python/2020/04/13/python-pathlib.html)
 
 - [X] [Article: Speeding Up Python with Concurrency, Parallelism, and asyncio](https://testdriven.io/blog/concurrency-parallelism-asyncio/)
 
@@ -1099,12 +1099,14 @@ Complete here
 - [ ] [python3_with_pleasure](https://github.com/arogozhnikov/python3_with_pleasure)
 - [ ] [Python Itertools](https://www.geeksforgeeks.org/python-itertools/)
 
-#### Books And Courses
+#### Article,Books And Courses
 - [ ] [Article: A reverse chronology of some Python features](https://snarky.ca/a-reverse-chronology-of-some-python-features/)
 - [ ] [Book: A Byte of Python](https://python.swaroopch.com)
 - [ ] [Book: Learn Python The Hard way](https://learnpythonthehardway.org)
 - [ ] [Book: Python 201](https://leanpub.com/python201)
 - [ ] [Book: The Python 3 Standard Library By Example](https://doughellmann.com/blog/the-python-3-standard-library-by-example)
+- [X] [Article: When to switch to Python 3.9](https://pythonspeed.com/articles/switch-python-3.9/)
+- [X] [Article: I wish I knew these things when I learned Python](http://bugra.github.io/posts/2015/1/3/i-wish-i-knew-these-things-when-i-learned-python/)
 
 #### Youtube Channel
 - [ ] [TheNewBoston: Python Programming Tutorials](https://www.youtube.com/watch?v=4Mf0h3HphEA&list=PLEA1FEF17E1E5C0DA)
