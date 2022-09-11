@@ -980,6 +980,8 @@ Note:
 - [X] [Python Decorator](https://www.programiz.com/python-programming/decorator)
 - [X] [Python Decorator](https://www.geeksforgeeks.org/decorators-in-python/)
 - [X] [Decorators with parameters in Python](https://www.geeksforgeeks.org/decorators-with-parameters-in-python/)
+- [X] [Memoization using decorators in Python](https://www.geeksforgeeks.org/memoization-using-decorators-in-python/)
+
 - [X] [Python Operator](https://www.geeksforgeeks.org/python-operators/)
 - [X] [Python Operators](https://www.w3schools.com/python/python_operators.asp)
     - [X] [/ vs //(17/2=8.5,17//2=8)](https://www.w3schools.com/python/python_operators.asp)
@@ -1026,6 +1028,15 @@ Note:
 - [X] [Class method vs Static method in Python](https://www.geeksforgeeks.org/class-method-vs-static-method-python/)
 - [X] [Map,Filter and Reduce](https://stackabuse.com/map-filter-and-reduce-in-python-with-examples/)
 - [X] [Precision Handling in Python](https://www.geeksforgeeks.org/precision-handling-python/)
+- [X] [__name__ (A Special variable) in Python](https://www.geeksforgeeks.org/__name__-a-special-variable-in-python/)
+- [X] [Help function in Python](https://www.geeksforgeeks.org/help-function-in-python/)
+- [X] [Python | __import__() function](https://www.geeksforgeeks.org/python-__import__-function/)
+- [X] [Coroutine in Python](https://www.geeksforgeeks.org/coroutine-in-python/)
+- [X] [Python bit functions on int (bit_length, to_bytes and from_bytes)](https://www.geeksforgeeks.org/python-bit-functions-on-int-bit_length-to_bytes-and-from_bytes/)
+- [X] [Python issubclass()](https://www.geeksforgeeks.org/python-issubclass/#:~:text=Python%20issubclass()%20is%20built,class%20else%20it%20returns%20False%20.&text=Return%20Type%3A%20True%20if%20object,of%20the%20tuple%2C%20otherwise%20False.)
+- [X] [Destructors in Python](https://www.geeksforgeeks.org/destructors-in-python/)
+
+
 
 
 Complete here
