@@ -2377,6 +2377,11 @@ Regression Loss Functions, Binary Classification Loss Functions, Multi-Class Cla
 ## API
 - [X] [REST API]()
 - [X] [GraphQL]()
+## System Design
+
+- [X] [system-design-primer](https://github.com/donnemartin/system-design-primer)
+
+
 </details>
 
 
