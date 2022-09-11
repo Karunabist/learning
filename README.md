@@ -538,12 +538,14 @@ Dialects,accents, and varieties
 
 	- [X] [Exam 1 Review](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/ax-b-and-the-four-subspaces/exam-1-review/): [Lecture Video](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/resources/exam-1-review-1/)|[Lecture Summary](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/resources/mit18_06scf11_ses1-14sum/)|[Solution Video](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/resources/exam-1-problem-solving-1/)
 
-	- [X] [Exam 1](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/ax-b-and-the-four-subspaces/exam-1/): [Exams (PDF)](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/resources/mit18_06scf11_ex1/)|[Solutions (PDF)](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/resources/mit18_06scf11_ex1s/)
+	- [X] [Exam 1](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/ax-b-and-the-four-subspaces/exam-1/): [Exams (PDF)](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/resources/mit18_06scf11_ex1/)|[Solutions (PDF)](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/resources/mit18_06scf11_ex1s/)| Ongoing
+
+- [ ] [ Book: Basics of Linear Algebra for Machine Learning](https://www.booksfree.org/wp-content/uploads/2022/05/Basics-for-Linear-Algebra-for-Machine-Learning-by-Jason-Brownlee-pdf-free-download.pdf)| Ongoing
+- [ ] [Numerical Linear Algebra 1st Edition by Lloyd N. Trefethen](https://cdn.bc-pf.org/resources/math/algebra/linear_algebra/Trefethen_Bau-Numerical_Linear_Algebra.pdf)
+- [ ] [Linear Algebra and Matrix Analysis for Statistics(Chapman & Hall/CRC Texts in Statistical Science) 1st Edition by Sudipto Banerjee](https://xn--webducation-dbb.com/wp-content/uploads/2018/06/Linear-Algebra-and-Matrix-Analysis-for-Statistics.pdf)
+- [X] [Linear Algebra: Wikipedia](https://en.wikipedia.org/wiki/Linear_algebra)
 
 
-
-	
-- [ ] [ Book: Basics of Linear Algebra for Machine Learning](https://www.booksfree.org/wp-content/uploads/2022/05/Basics-for-Linear-Algebra-for-Machine-Learning-by-Jason-Brownlee-pdf-free-download.pdf)
 - [ ] [Mathematics For Machine Learning](https://mml-book.github.io/book/mml-book.pdf)
 - [ ] [Mathematics for Machine Leaning Linear Algebra](https://www.youtube.com/watch?v=T73ldK46JqE&list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3)
 - [ ] [ 3Blue1Brown: Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
@@ -558,7 +560,7 @@ Dialects,accents, and varieties
   
 - [X] [mathematics: My implementation from scratch](https://madanbaduwal.github.io/mathematics/)
 
-- [X] [Linear Algebra: Wikipedia](https://en.wikipedia.org/wiki/Linear_algebra)
+
 
 ### Space(Geometry)
 #### Geometry
