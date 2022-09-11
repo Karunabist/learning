@@ -582,20 +582,26 @@ Dialects,accents, and varieties
 	- [X] [Exam 1](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/ax-b-and-the-four-subspaces/exam-1/): [Exams (PDF)](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/resources/mit18_06scf11_ex1/)|[Solutions (PDF)](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/resources/mit18_06scf11_ex1s/)| Ongoing
 
 
-- [ ] [Numerical Linear Algebra 1st Edition by Lloyd N. Trefethen](https://cdn.bc-pf.org/resources/math/algebra/linear_algebra/Trefethen_Bau-Numerical_Linear_Algebra.pdf)
-- [ ] [Linear Algebra and Matrix Analysis for Statistics(Chapman & Hall/CRC Texts in Statistical Science) 1st Edition by Sudipto Banerjee](https://xn--webducation-dbb.com/wp-content/uploads/2018/06/Linear-Algebra-and-Matrix-Analysis-for-Statistics.pdf)
+- [X] [Numerical Linear Algebra 1st Edition by Lloyd N. Trefethen](https://cdn.bc-pf.org/resources/math/algebra/linear_algebra/Trefethen_Bau-Numerical_Linear_Algebra.pdf)
+- [X] [Linear Algebra and Matrix Analysis for Statistics(Chapman & Hall/CRC Texts in Statistical Science) 1st Edition by Sudipto Banerjee](https://xn--webducation-dbb.com/wp-content/uploads/2018/06/Linear-Algebra-and-Matrix-Analysis-for-Statistics.pdf)
 - [X] [Linear Algebra: Wikipedia](https://en.wikipedia.org/wiki/Linear_algebra)
 - [ ] [Mathematics For Machine Learning](https://mml-book.github.io/book/mml-book.pdf)
 - [ ] [Mathematics for Machine Leaning Linear Algebra](https://www.youtube.com/watch?v=T73ldK46JqE&list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3)
 - [ ] [ 3Blue1Brown: Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+- [ ] [Introduction to Applied Linear Algebra by Boyd and Vandenberghe. 1sr Ed.](https://web.stanford.edu/~boyd/vmls/vmls.pdf)
+- [ ] [Linear Algebra Ch. in Deep Learning by Goodfellow, Bengio, and Courville. 1st Ed.](https://www.deeplearningbook.org/contents/linear_algebra.html)
+- [ ] [Linear Algebra Ch. in Dive into Deep Learning by Zhang, Lipton, Li, And Smola.](https://d2l.ai/chapter_preliminaries/linear-algebra.html)
+- [ ] [Prof. Pavel Grinfeld’s Linear Algebra Lectures at Lemma.](https://www.lem.ma/books/AIApowDnjlDDQrp-uOZVow/landing)
+- [ ] [Salman Khan’s Linear Algebra Lectures at Khan Academy.](https://www.khanacademy.org/math/linear-algebra)
+- [ ] [No bullshit guide to linear algebra 2nd V2.2 ed. Edition by Ivan Savov ](https://minireference.com/static/excerpts/noBSLA_v2_preview.pdf)
 - [ ] [ Article: Introduction to Linear Algebra for Applied Machine Learning with Python](https://pabloinsente.github.io/intro-linear-algebra)
 - [ ] [ Article: Relearning Matrices as Linear Functions](https://www.dhruvonmath.com/2018/12/31/matrices/)
 - [ ] [ Article: You Could Have Come Up With Eigenvectors - Here's How](https://www.dhruvonmath.com/2019/02/25/eigenvectors/)
 - [ ] [ Article: PageRank - How Eigenvectors Power the Algorithm Behind Google Search](https://www.dhruvonmath.com/2019/03/20/pagerank/)
 - [ ] [ Article: Interactive Visualization of Why Eigenvectors Matter](https://www.dhruvonmath.com/2020/07/26/who-cares-about-eigenvectors/)
-- [ ] [ Khan Academy: Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
 - [ ] [ Udacity: Eigenvectors and Eigenvalues](https://www.udacity.com/course/eigenvectors-and-eigenvalues--ud104)
-- [ ] [ Udacity: Linear Algebra Refresher](https://www.udacity.com/course/linear-algebra-refresher-course--ud953)     
+- [ ] [ Udacity: Linear Algebra Refresher](https://www.udacity.com/course/linear-algebra-refresher-course--ud953)  
+
 - [X] [mathematics: My implementation from scratch](https://madanbaduwal.github.io/mathematics/)
 
 
