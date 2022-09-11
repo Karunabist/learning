@@ -62,6 +62,8 @@
 		  <li><a href="https://github.com/EthicalML/awesome-production-machine-learning">awesome-production-machine-learning</a></li>
 		  <li> <a href="https://github.com/mihail911/nlp-library">nlp-library</a></li>
 		  <li> <a href = "https://github.com/datascienceid/machine-learning-resources">machine-learning-resources</a></li>
+		  <li><a href = "https://github.com/vinta/awesome-python">awesome-python</a></li>
+		  <li><a href="https://github.com/sbilly/awesome-security">awesome-security</a></li>
 		  <li> <a href = "https://github.com/yvoronoy/awesome-english">awesome-english</a></li>
 		  </td>
 	  </ul>
@@ -2375,23 +2377,30 @@ Regression Loss Functions, Binary Classification Loss Functions, Multi-Class Cla
 
 
 #### Device Drivers
-
+- [X] [How to Write a Driver with Lantz](https://www.pythonforthelab.com/blog/how-to-write-a-driver-with-lantz/)
 
 #### Utilities
+- [ ] [Utility Software](https://www.geeksforgeeks.org/utility-software/)
+- [ ] [Toppr](https://www.toppr.com/guides/computer-science/computer-fundamentals/software-concepts/utility-software/)
 	
 #### Malicious software
-	
+- [X] [Kali linux](https://www.kali.org/)
+- [X] [awesome-security](https://github.com/sbilly/awesome-security)
+
+
 #### Embedded Software
 - [X] [ECGR4101/5101 Embedded Systems using the Renesas RX63N Processor University of North Carolina at Charlotte](https://github.com/prakhar1989/awesome-courses#algorithms)
 
 
 #### Cars
 
+
+
 #### Robots
 - [X] [ROS: Documentation](https://docs.ros.org/)
 
 #### Microcode
-
+- [ ] [MicroPython](https://micropython.org/)
 
 	
 ### Quality Assurance
