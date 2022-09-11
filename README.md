@@ -1431,7 +1431,7 @@ Regression Loss Functions, Binary Classification Loss Functions, Multi-Class Cla
 - [ ] [Metrics to Evaluate your Machine Learning Algorithm](https://towardsdatascience.com/metrics-to-evaluate-your-machine-learning-algorithm-f10ba6e38234)
 
 #### Machine Learning and Deep learning Books and Cources
-- [ ] [scikit-learn](https://github.com/scikit-learn/scikit-learn)
+- [ ] [scikit-learn: Algorithms Documentation](https://github.com/scikit-learn/scikit-learn)
 - [ ] [handson-ml](https://github.com/ageron/handson-ml)
 - [ ] [handson-ml2](https://github.com/ageron/handson-ml2)
 - [ ] [handson-ml3](https://github.com/ageron/handson-ml3)
@@ -2329,6 +2329,7 @@ Regression Loss Functions, Binary Classification Loss Functions, Multi-Class Cla
 #### operating System
 - [ ] [Ubuntu](https://github.com/ubuntu)
     - [ ] [Linux Command](https://docs.rockylinux.org/books/admin_guide/03-commands/)
+	- [ ] [Command](https://nbviewer.org/github/donnemartin/data-science-ipython-notebooks/blob/master/commands/linux.ipynb)
 
 #### Device Drivers
 
