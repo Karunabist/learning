@@ -642,9 +642,24 @@ Dialects,accents, and varieties
 
 ### Change(Calculus)
 
+- [X] [Limits and infinitesimals](https://en.wikipedia.org/wiki/Calculus#Limits_and_infinitesimals)
+    - [ ]  []()
+
+- [X] [Differential calculus](https://en.wikipedia.org/wiki/Differential_calculus)
+    - [ ] []()
+
+- [X] [Integral calculus](https://en.wikipedia.org/wiki/Integral)
+    - [ ] []()
+
+
 - [ ] [3Blue1Brown: Essence of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
-- [ ] [ Khan Academy: Differential Calculus](https://www.khanacademy.org/mission/differential-calculus)
+- [ ] [ Khan Academy: Differential Calculus](https://www.khanacademy.org/math/differential-calculus)
 - [ ] [ Khan Academy: Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus)
+- [ ] [Calculus: Wikipedia](https://en.wikipedia.org/wiki/Calculus)
+- [ ] [Paul’s Online Math Notes ](https://tutorial.math.lamar.edu/Classes/CalcI/CalcI.aspx)
+- [ ] [MIT](https://ocw.mit.edu/search/?q=single%20variable%20calculus)
+- [ ] [Calculus Help](http://calculus-help.com/tutorials/)
+- [ ] [Sacramento State](https://csus.libguides.com/c.php?g=768134&p=7395082)
 	
 ## Applied Mathematics
 
@@ -763,6 +778,19 @@ Dialects,accents, and varieties
 - [X] []()
 
 ## Other Resources
+
+- [ ] [arXiv.org - Mathematics](https://arxiv.org/archive/math)
+- [ ] [Calculus.org](http://calculus.org/)
+- [ ] [Calculus.org](https://www.khanacademy.org/math/calculus-1)
+- [ ] [Khan Academy - Calculus](https://www.khanacademy.org/math/calculus-1)
+- [ ] [Math.com - Calculus](http://www.math.com/homeworkhelp/Calculus.html)
+- [ ] [Mathway - Calculus](https://www.mathway.com/Calculus)
+- [ ] [NIST Digital Library of Mathematical Functions](https://dlmf.nist.gov/)
+- [ ] [Society for Industrial and Applied Mathematics](https://www.siam.org/)
+- [ ] [WolframAlpha](https://www.wolframalpha.com/)
+- [ ] [Wolfram Functions](https://functions.wolfram.com/)
+- [ ] [Wolfram MathWorld](https://mathworld.wolfram.com/)
+- [ ] [Wyzant - Calculus](https://www.wyzant.com/resources/lessons/math/calculus)
 - [ ] [Mathematical: Wikipedia](https://en.wikipedia.org/wiki/Mathematics)
 - [ ] [Mathematical Symbols: Wikipedia](https://en.wikipedia.org/wiki/Glossary_of_mathematical_symbols)
 - [ ] [Essentials Mathematics for machine learning](https://www.youtube.com/playlist?list=PLLy_2iUCG87D1CXFxE-SxCFZUiJzQ3IvE)
@@ -770,6 +798,8 @@ Dialects,accents, and varieties
 - [ ] [TED](https://www.ted.com/talks/marcus_du_sautoy_symmetry_reality_s_riddle?referrer=playlist-math_talks_to_blow_your_mind&autoplay=true)
 - [ ] [  Article: Math You Need to Succeed In ML Interviews](https://towardsdatascience.com/math-you-need-to-succeed-in-ml-interviews-9e717d61f296)
 - [ ] [Brandon Foltz ](https://www.youtube.com/c/BrandonFoltz/videos)
+- [ ] [nsufl](https://nsufl.libguides.com/cnso-calculus/gettingstarted)
+
 
 
 </details>
