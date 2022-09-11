@@ -504,6 +504,9 @@ Dialects,accents, and varieties
 
 ##### Linear Algebra
 
+- [X] [Vector spaces](https://en.wikipedia.org/wiki/Vector_space#Examples)
+
+
 - [X] [MIT,Gilbart Strang resource index](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/resource-index/)
 
     **Unit I: Ax = b and the Four Subspaces**
@@ -540,7 +543,8 @@ Dialects,accents, and varieties
 
 
 	
-- [ ] [ Book: Basics of Linear Algebra for Machine Learning](https://machinelearningmastery.com/linear_algebra_for_machine_learning/)
+- [ ] [ Book: Basics of Linear Algebra for Machine Learning](https://www.booksfree.org/wp-content/uploads/2022/05/Basics-for-Linear-Algebra-for-Machine-Learning-by-Jason-Brownlee-pdf-free-download.pdf)
+- [ ] [Mathematics For Machine Learning](https://mml-book.github.io/book/mml-book.pdf)
 - [ ] [Mathematics for Machine Leaning Linear Algebra](https://www.youtube.com/watch?v=T73ldK46JqE&list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3)
 - [ ] [ 3Blue1Brown: Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - [ ] [ Article: Introduction to Linear Algebra for Applied Machine Learning with Python](https://pabloinsente.github.io/intro-linear-algebra)
@@ -553,6 +557,8 @@ Dialects,accents, and varieties
 - [ ] [ Udacity: Linear Algebra Refresher](https://www.udacity.com/course/linear-algebra-refresher-course--ud953)     
   
 - [X] [mathematics: My implementation from scratch](https://madanbaduwal.github.io/mathematics/)
+
+- [X] [Linear Algebra: Wikipedia](https://en.wikipedia.org/wiki/Linear_algebra)
 
 ### Space(Geometry)
 #### Geometry
