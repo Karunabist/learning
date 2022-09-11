@@ -533,6 +533,7 @@ Dialects,accents, and varieties
 - [X] [System Of Equation/Solving Equation Problems](https://en.wikipedia.org/wiki/System_of_linear_equations)
 
 - [X] [Matrices Factorization and Decomposition](https://en.wikipedia.org/wiki/Matrix_decomposition#:~:text=In%20the%20mathematical%20discipline%20of,a%20particular%20class%20of%20problems.)
+
     **Decompositions related to solving systems of linear equations**
 	- [X] [LU Decomposition](https://en.wikipedia.org/wiki/LU_decomposition) | For Square Matrices
 	- [X] [QR Decomposition](https://en.wikipedia.org/wiki/QR_decomposition) | For Square Matrices
