@@ -801,7 +801,7 @@ Dialects,accents, and varieties
 - [ ] [  Article: Math You Need to Succeed In ML Interviews](https://towardsdatascience.com/math-you-need-to-succeed-in-ml-interviews-9e717d61f296)
 - [ ] [Brandon Foltz ](https://www.youtube.com/c/BrandonFoltz/videos)
 - [ ] [nsufl](https://nsufl.libguides.com/cnso-calculus/gettingstarted)
-
+</details>
 
 <details>
 <summary>Physics(atom)</summary>
@@ -824,11 +824,9 @@ Dialects,accents, and varieties
 - [ ] [Best Physics Books](https://www.readthistwice.com/lists/best-physics-books)
 
 
-
 </details>
 
 
-</details>
 
 <details>
 <summary>Computer Science </summary>
