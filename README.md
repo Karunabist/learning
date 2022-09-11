@@ -1041,6 +1041,18 @@ Note:
 - [X] [Python Reflection and Introspection](https://dengking.github.io/programming-language/Python/Paradigm/Meta-programming/Reflective/Python-reflection/)
 - [X] [Garbage Collection in Python](https://www.geeksforgeeks.org/garbage-collection-python/)
 - [X] [NZEC error in Python](https://www.geeksforgeeks.org/nzec-error-python/)
+- [X] [Python Collections Module](https://www.geeksforgeeks.org/python-collections-module/)
+    - [X] [Counters in Python | Set 1 (Initialization and Updation)](https://www.geeksforgeeks.org/counters-in-python-set-1/)
+	- [X] [OrderedDict in Python](https://www.geeksforgeeks.org/ordereddict-in-python/)
+	- [X] [Defaultdict in Python](https://www.geeksforgeeks.org/defaultdict-in-python/)
+	- [X] [ChainMap in Python](https://www.geeksforgeeks.org/chainmap-in-python/)
+	- [X] [Namedtuple in Python](https://www.geeksforgeeks.org/namedtuple-in-python/)
+	- [X] [Deque in Python](https://www.geeksforgeeks.org/deque-in-python/)
+	- [X] [Heap queue (or heapq) in Python](https://www.geeksforgeeks.org/heap-queue-or-heapq-in-python/)
+	- [X] [Collections.UserDict in Python](https://www.geeksforgeeks.org/collections-userdict-in-python/)
+	- [X] [Collections.UserList in Python](https://www.geeksforgeeks.org/collections-userlist-in-python/)
+	- [X] [Collections.UserString in Python](https://www.geeksforgeeks.org/collections-userstring-in-python/)
+
 
 
 Complete here
@@ -1048,7 +1060,7 @@ Complete here
 - [X] [Python documentation: Geeksforgeeks](https://www.geeksforgeeks.org/python-programming-language/?ref=shm)
 - [X] [Article: When to switch to Python 3.9](https://pythonspeed.com/articles/switch-python-3.9/)
 - [X] [Article: I wish I knew these things when I learned Python](http://bugra.github.io/posts/2015/1/3/i-wish-i-knew-these-things-when-i-learned-python/)
-- [X] [Python Collections Module](https://www.geeksforgeeks.org/python-collections-module/)
+
 - [X] [Pathlib: No Really, Python's Pathlib is Great](https://rednafi.github.io/digressions/python/2020/04/13/python-pathlib.html)
 
 - [X] [Article: Speeding Up Python with Concurrency, Parallelism, and asyncio](https://testdriven.io/blog/concurrency-parallelism-asyncio/)
