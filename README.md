@@ -803,6 +803,30 @@ Dialects,accents, and varieties
 - [ ] [nsufl](https://nsufl.libguides.com/cnso-calculus/gettingstarted)
 
 
+<details>
+<summary>Physics(atom)</summary>
+
+# Physics(atom)
+3 core theories
+
+* Classic Physics
+* Modern Physics
+* Difference between classical and modern physics
+
+## Classic Physics
+
+## Modern Physics
+
+## Difference between classical and modern physics
+
+## References
+- [ ] [Physics: Wikipedia](https://en.wikipedia.org/wiki/Physics)
+- [ ] [Best Physics Books](https://www.readthistwice.com/lists/best-physics-books)
+
+
+
+</details>
+
 
 </details>
 
