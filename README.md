@@ -2298,32 +2298,32 @@ Regression Loss Functions, Binary Classification Loss Functions, Multi-Class Cla
     - [X] [IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode): Provides AI-assisted development features for Python, TypeScript/JavaScript and Java developers in Visual Studio Code, with insights based on understanding your code context combined with machine learning.
     - [X] [guides](https://marketplace.visualstudio.com/items?itemName=spywhere.guides): Guides is simply an extension that add various indentation guide lines
     - [X] [Kite](https://marketplace.visualstudio.com/items?itemName=kiteco.kite): AI code completions for all languages, intellisense, code snippets, code signatures, and cursor-following documentation for VS Code
-	- [live server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer): Launch a development local Server with live reload feature for static & dynamic pages
-	- [local-history](https://marketplace.visualstudio.com/items?itemName=xyz.local-history): A visual source code plugin for maintaining local history of files.
-	- [mssql](https://github.com/microsoft/vscode-mssql): Visual Studio Code SQL Server extension.
-	- [output-colorizer](https://marketplace.visualstudio.com/items?itemName=IBM.output-colorizer): Syntax highlighting for log files
-	- [path-autocomplete](https://marketplace.visualstudio.com/items?itemName=ionutvmi.path-autocomplete): Provides path completion for visual studio code.
-	- [path-intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense): Visual Studio Code plugin that autocompletes filenames
-	- [pdf](https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf): Display pdf file in VSCode
-	- [prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode): Code formattter for various languages
-	- [Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance): https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance
-	- [python](https://marketplace.visualstudio.com/items?itemName=ms-python.python): Linting, Debugging (multi-threaded, remote), Intellisense, code formatting, refactoring, unit tests, snippets, and more.
-	- [python-extended-snippets](https://marketplace.visualstudio.com/items?itemName=tushortz.python-extended-snippets): Python Extended is a vscode snippet that makes it easy to write codes in python by providing completion options along with all arguments.
-	- [python-extension-pack](https://marketplace.visualstudio.com/items?itemName=donjayamanne.python-extension-pack): All in one package of popular Visual Studio Code extensions for Python
-	- [rainbow-brackets](https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets): Provide rainbow colors for the round brackets, the square brackets and the squiggly brackets.
-	- [remote-ssh](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh): Open any folder on a remote machine using SSH and take advantage of VS Code's full feature set.
-	- [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client): REST Client allows you to send HTTP request and view the response in Visual Studio Code directly
-	- [rewrap](https://marketplace.visualstudio.com/items?itemName=stkb.rewrap): Re-wraps comments and other text to a given line length.
-	- [settings sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync): Sync settings of vscode using github gists
-	- [shell-format](https://marketplace.visualstudio.com/items?itemName=foxundermoon.shell-format): Code support for shellscript、Dockerfile、properties、gitignore、dotenv、hosts、jvmoptions... DocumentFormat
-	- [tabnine-vscode](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode): All-language autocompleter — TabNine uses machine learning to help you write code faster.
-	- [theme-dracula](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula): Dark theme for vscode
-	- [vim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim): Vim bindings support in vscode
-	- [vscode-django](https://marketplace.visualstudio.com/items?itemName=batisteo.vscode-django): Beautiful syntax and scoped snippets for Django
-	- [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons): Change file icons in vscode
-	- [vscode-markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint): Markdown linting and style checking for Visual Studio Code
-	- [vscode-pull-request-github](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github): Review and manage your GitHub pull requests directly in VS Code
-	- [vscodeintellicode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode): AI-assisted development features for Python, TypeScript/JavaScript and Java developers in Visual Studio Code, with insights based on understanding your code context combined with machine learning.
+	- [X] [live server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer): Launch a development local Server with live reload feature for static & dynamic pages
+	- [X] [local-history](https://marketplace.visualstudio.com/items?itemName=xyz.local-history): A visual source code plugin for maintaining local history of files.
+	- [X] [mssql](https://github.com/microsoft/vscode-mssql): Visual Studio Code SQL Server extension.
+	- [X] [output-colorizer](https://marketplace.visualstudio.com/items?itemName=IBM.output-colorizer): Syntax highlighting for log files
+	- [X] [path-autocomplete](https://marketplace.visualstudio.com/items?itemName=ionutvmi.path-autocomplete): Provides path completion for visual studio code.
+	- [X] [path-intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense): Visual Studio Code plugin that autocompletes filenames
+	- [X] [pdf](https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf): Display pdf file in VSCode
+	- [X] [prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode): Code formattter for various languages
+	- [X] [Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance): https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance
+	- [X] [python](https://marketplace.visualstudio.com/items?itemName=ms-python.python): Linting, Debugging (multi-threaded, remote), Intellisense, code formatting, refactoring, unit tests, snippets, and more.
+	- [X] [python-extended-snippets](https://marketplace.visualstudio.com/items?itemName=tushortz.python-extended-snippets): Python Extended is a vscode snippet that makes it easy to write codes in python by providing completion options along with all arguments.
+	- [X] [python-extension-pack](https://marketplace.visualstudio.com/items?itemName=donjayamanne.python-extension-pack): All in one package of popular Visual Studio Code extensions for Python
+	- [X] [rainbow-brackets](https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets): Provide rainbow colors for the round brackets, the square brackets and the squiggly brackets.
+	- [X] [remote-ssh](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh): Open any folder on a remote machine using SSH and take advantage of VS Code's full feature set.
+	- [X] [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client): REST Client allows you to send HTTP request and view the response in Visual Studio Code directly
+	- [X] [rewrap](https://marketplace.visualstudio.com/items?itemName=stkb.rewrap): Re-wraps comments and other text to a given line length.
+	- [X] [settings sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync): Sync settings of vscode using github gists
+	- [X] [shell-format](https://marketplace.visualstudio.com/items?itemName=foxundermoon.shell-format): Code support for shellscript、Dockerfile、properties、gitignore、dotenv、hosts、jvmoptions... DocumentFormat
+	- [X] [tabnine-vscode](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode): All-language autocompleter — TabNine uses machine learning to help you write code faster.
+	- [X] [theme-dracula](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula): Dark theme for vscode
+	- [X] [vim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim): Vim bindings support in vscode
+	- [X] [vscode-django](https://marketplace.visualstudio.com/items?itemName=batisteo.vscode-django): Beautiful syntax and scoped snippets for Django
+	- [X] [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons): Change file icons in vscode
+	- [X] [vscode-markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint): Markdown linting and style checking for Visual Studio Code
+	- [X] [vscode-pull-request-github](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github): Review and manage your GitHub pull requests directly in VS Code
+	- [X] [vscodeintellicode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode): AI-assisted development features for Python, TypeScript/JavaScript and Java developers in Visual Studio Code, with insights based on understanding your code context combined with machine learning.
 
 
 #### operating System
