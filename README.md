@@ -1035,7 +1035,8 @@ Note:
 - [X] [Python bit functions on int (bit_length, to_bytes and from_bytes)](https://www.geeksforgeeks.org/python-bit-functions-on-int-bit_length-to_bytes-and-from_bytes/)
 - [X] [Python issubclass()](https://www.geeksforgeeks.org/python-issubclass/#:~:text=Python%20issubclass()%20is%20built,class%20else%20it%20returns%20False%20.&text=Return%20Type%3A%20True%20if%20object,of%20the%20tuple%2C%20otherwise%20False.)
 - [X] [Destructors in Python](https://www.geeksforgeeks.org/destructors-in-python/)
-
+- [X] [Python Reflection and Introspection](https://betterprogramming.pub/python-reflection-and-introspection-97b348be54d8)
+- [X] [Python Reflection and Introspection](https://dengking.github.io/programming-language/Python/Paradigm/Meta-programming/Reflective/Python-reflection/)
 
 
 
