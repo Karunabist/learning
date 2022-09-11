@@ -132,7 +132,7 @@
 	
 	
 ### Vocabulary
-- [X] [oxfordwordlist](https://www.oxfordwordlist.com/pages/report.asp)
+- [X] [oxfordwordlist](https://www.oxfordwordlist.com/pages/report.asp)(Ongoing: 1317)
 - [X] [oxfordwordlist](http://mooneewestps.vic.edu.au/app/webroot/uploaded_files/media/oxford_plus_list.pdf)
 - [X] [The Oxford 3000™ (American English)](https://www.oxfordlearnersdictionaries.com/external/pdf/wordlists/oxford-3000-5000/American_Oxford_3000.pdf)
 - [X] [The Oxford 5000™ (American English)](https://www.oxfordlearnersdictionaries.com/external/pdf/wordlists/oxford-3000-5000/American_Oxford_5000.pdf)
