@@ -542,7 +542,7 @@ Dialects,accents, and varieties
 	**Decompositions based on eigenvalues and related concepts**
 	- [X] [Eigendecomposition](https://en.wikipedia.org/wiki/Eigendecomposition_of_a_matrix)
 	- [X] [Schur decomposition](https://en.wikipedia.org/wiki/Schur_decomposition) | For Square Matrices
-	- [X]] [Singular value decomposition(SVD)](https://en.wikipedia.org/wiki/Singular_value_decomposition)| For Squre or rectangular matrices
+	- [X] [Singular value decomposition(SVD)](https://en.wikipedia.org/wiki/Singular_value_decomposition)| For Squre or rectangular matrices
 	- [X] [Reduced SVD](https://www.cs.cornell.edu/courses/cs322/2008sp/stuff/TrefethenBau_Lec4_SVD.pdf)| For Squre or rectangular matrices
 
 - [X] [Least Squares Problems](https://en.wikipedia.org/wiki/Least_squares)
