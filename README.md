@@ -17,6 +17,7 @@
 			  General Knowledge ...etc</li>
 		  <li>Companies(motivations)</li>
 		  <li><a href="https://colab.research.google.com/drive/1eqOUu2cIzTNweQB_dr3NyiQhirm3ol_0?usp=sharing">Computer science(Array)</a></li>
+		  <li>PHD career(Single problem)</li>
 		Download Book From Here:<a href="https://libgen.is/">libgen.is</a></br>
 		  Download Paid Research Papers From Here: <a href="https://sci-hub.se/">sci-hub.se</a></br>
 	Free Pdf hosting: <a href="https://pdfhost.io/">pdfhost.io</a>
@@ -2701,9 +2702,9 @@ Regression Loss Functions, Binary Classification Loss Functions, Multi-Class Cla
 
 
 <details>
-<summary>PHD career</summary>
+<summary>PHD career(Single problem)</summary>
 
-# PHD career
+# PHD career(Single problem)
 
 ## Vision Problems
 - [X] [vision problems my note](https://www.computervisiondatasets.ml/)
