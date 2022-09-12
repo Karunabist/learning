@@ -538,9 +538,14 @@ Dialects,accents, and varieties
 
     **Decompositions related to solving systems of linear equations**
 	- [X] [LU Decomposition](https://en.wikipedia.org/wiki/LU_decomposition) | For Square Matrices
+	- [X] [LU Reduction](https://en.wikipedia.org/wiki/LU_reduction)
+	- [X] [Block LU decomposition](https://en.wikipedia.org/wiki/Block_LU_decomposition)
+	- [X] [Rank factorization](https://en.wikipedia.org/wiki/Rank_factorization)
+	- [X] [Cholesky decomposition](https://en.wikipedia.org/wiki/Cholesky_decomposition) | For Square Matrices
+	- [X] []()
 	- [X] [QR Decomposition](https://en.wikipedia.org/wiki/QR_decomposition) | For Square Matrices
 	- [X] [Reduced QR Factorization](http://www.math.iit.edu/~fass/477577_Chapter_4.pdf) | For Square Matrices
-	- [X] [Cholesky decomposition](https://en.wikipedia.org/wiki/Cholesky_decomposition) | For Square Matrices
+
 
 	**Decompositions based on eigenvalues and related concepts**
 	- [X] [Eigendecomposition](https://en.wikipedia.org/wiki/Eigendecomposition_of_a_matrix)
@@ -1146,9 +1151,9 @@ Note:
 - [X] [Leetcode Problems: Solve Problems By Ascending Order Easy,Medium, and Hard](https://leetcode.com/)
 - [X] [Geeksforgeeks](https://www.geeksforgeeks.org/sde-sheet-a-complete-guide-for-sde-preparation/)
 
+- [X] [150 Questions: Data structures](https://media-exp1.licdn.com/dms/document/D561FAQH7Mzn0LKSI4w/feedshare-document-pdf-analyzed/0/1662991633994?e=1663804800&v=beta&t=Ovi9S-eXZ1p9xVQqlHW3ODrlCqCEM4mCW0iBR_K5wSk)
 
-
-	
+- [X] [Top 50 Data Structures Interview Questions & Answers](https://media-exp1.licdn.com/dms/document/D4D1FAQF8IjMM1tXccQ/feedshare-document-pdf-analyzed/0/1662984127775?e=1663804800&v=beta&t=YXvqbxGujscGfVJMYCuwMyIrRN3tfONqkJS8sN9AFNs)
 	
 	
 
@@ -2581,7 +2586,16 @@ Regression Loss Functions, Binary Classification Loss Functions, Multi-Class Cla
 ## System Design
 
 - [X] [system-design-primer](https://github.com/donnemartin/system-design-primer)
-
+- [X] [how-web-works: What happens behind the scenes when we type www.google.com in a browser?](https://github.com/vasanthk/how-web-works)
+- [X] [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+- [X] [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+- [X] [JavaScript30](https://github.com/wesbos/JavaScript30)
+- [X] [developer-handbook](https://github.com/apptension/developer-handbook)
+- [X] [WebFundamentals](https://github.com/google/WebFundamentals)
+- [X] [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+- [X] [realworld](https://github.com/gothinkster/realworld)
+- [X] [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+- [X] [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 
 </details>
 
