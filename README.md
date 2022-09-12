@@ -633,6 +633,17 @@ Dialects,accents, and varieties
 	- [X] [Left and Right Inverses; Pseudoinverse](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/positive-definite-matrices-and-applications/left-and-right-inverses-pseudoinverse/): [Lecture Video](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/resources/lecture-33-left-and-right-inverses-pseudoinverse-1/)|[Lecture Summary](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/resources/mit18_06scf11_ses3-8sum/)|[Problems](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/resources/mit18_06scf11_ses3-8prob/)|[Solution](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/resources/mit18_06scf11_ses3-8sol/)|[Solution Video](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/resources/problem-solving-pseudoinverses-1/)
 
 
+	- [X] [Exam 3 Review](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/positive-definite-matrices-and-applications/exam-3-review/): [Lecture Video](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/resources/exam-3-review-1/)|[Lecture Summary](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/resources/mit18_06scf11_ses3-9sum/)|[Solution Video](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/resources/exam-3-problem-solving-1/)
+
+
+	- [X] [Exam 3](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/positive-definite-matrices-and-applications/exam-3/): [Exams (PDF)](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/resources/mit18_06scf11_ex3/)|[Solutions (PDF)](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/resources/mit18_06scf11_ex3s/)
+
+    **Final Course Review**
+
+	- [X] [Final Course Review](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/resources/final-course-review/): [Lecture Video](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/resources/final-course-review-1/)|[Lecture Summary](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/resources/mit18_06scf11_finalrevsum/)|[Solution](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/resources/final-exam-problem-solving-1/)
+
+	- [X] Final Exam: [Exams (PDF)](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/resources/mit18_06scf11_final_ex/)|[Solutions (PDF)](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/resources/mit18_06scf11_final_exs/)
+
 
 - [X] [Numerical Linear Algebra 1st Edition by Lloyd N. Trefethen](https://cdn.bc-pf.org/resources/math/algebra/linear_algebra/Trefethen_Bau-Numerical_Linear_Algebra.pdf)
 - [X] [Linear Algebra and Matrix Analysis for Statistics(Chapman & Hall/CRC Texts in Statistical Science) 1st Edition by Sudipto Banerjee](https://xn--webducation-dbb.com/wp-content/uploads/2018/06/Linear-Algebra-and-Matrix-Analysis-for-Statistics.pdf)
