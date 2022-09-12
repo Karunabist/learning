@@ -530,7 +530,9 @@ Dialects,accents, and varieties
 	
 
 - [X] [Matrices](https://en.wikipedia.org/wiki/Matrix_(mathematics))
+    - [X] [Rank Of Matrix](https://en.wikipedia.org/wiki/Rank_(linear_algebra))
     - [X] [Projection (linear algebra)](https://en.wikipedia.org/wiki/Projection_(linear_algebra))
+
 
 - [X] [System Of Equation/Solving Equation Problems](https://en.wikipedia.org/wiki/System_of_linear_equations)
 
@@ -542,16 +544,25 @@ Dialects,accents, and varieties
 	- [X] [Block LU decomposition](https://en.wikipedia.org/wiki/Block_LU_decomposition)
 	- [X] [Rank factorization](https://en.wikipedia.org/wiki/Rank_factorization)
 	- [X] [Cholesky decomposition](https://en.wikipedia.org/wiki/Cholesky_decomposition) | For Square Matrices
-	- [X] []()
 	- [X] [QR Decomposition](https://en.wikipedia.org/wiki/QR_decomposition) | For Square Matrices
 	- [X] [Reduced QR Factorization](http://www.math.iit.edu/~fass/477577_Chapter_4.pdf) | For Square Matrices
+	- [X] [RRQR factorization](https://en.wikipedia.org/wiki/RRQR_factorization)
+	- [X] [Interpolative decomposition](https://en.wikipedia.org/wiki/Interpolative_decomposition)
 
 
 	**Decompositions based on eigenvalues and related concepts**
 	- [X] [Eigendecomposition](https://en.wikipedia.org/wiki/Eigendecomposition_of_a_matrix)
+	- [X] [Jordan decomposition](https://en.wikipedia.org/wiki/Jordan_decomposition)
 	- [X] [Schur decomposition](https://en.wikipedia.org/wiki/Schur_decomposition) | For Square Matrices
+	- [X] [Real Schur decomposition](https://en.wikipedia.org/wiki/Matrix_decomposition#Real_Schur_decomposition)
+	- [X] [QZ decomposition](https://en.wikipedia.org/wiki/Matrix_decomposition#QZ_decomposition)
+	- [X] [Takagi's factorization](https://en.wikipedia.org/wiki/Matrix_decomposition#Takagi's_factorization)
 	- [X] [Singular value decomposition(SVD)](https://en.wikipedia.org/wiki/Singular_value_decomposition)| For Squre or rectangular matrices
 	- [X] [Reduced SVD](https://www.cs.cornell.edu/courses/cs322/2008sp/stuff/TrefethenBau_Lec4_SVD.pdf)| For Squre or rectangular matrices
+	- [X] [Scale-invariant decompositions](https://en.wikipedia.org/wiki/Matrix_decomposition#Scale-invariant_decompositions)
+
+    **Other decompositions**
+	
 
 - [X] [Least Squares Problems](https://en.wikipedia.org/wiki/Least_squares)
 
