@@ -348,9 +348,9 @@ Dialects,accents, and varieties
 </details>
 
 <details>
-<summary>Mathematics</summary>
+<summary>Mathematics(number)</summary>
 
-# Mathematics
+# Mathematics(number)
 
 3 field: 
 	
@@ -360,7 +360,11 @@ Dialects,accents, and varieties
 
 ## Foundations and philosophy
 
-### Mathematical logics(^(and), v (or), ¬ (not), → (implies),)
+### Mathematical logics
+
+^(and), v (or), ¬ (not), → (implies),
+
+
 - [X] [Mathematical Logic Part One: Stanford](https://web.stanford.edu/class/archive/cs/cs103/cs103.1132/lectures/09/Small09.pdf)
 - [X] [Mathematical Logic Part Two: Stanford](https://web.stanford.edu/class/archive/cs/cs103/cs103.1126/lectures/09/Slides09.pdf)
 - [X] [Mathematical Logic Part Two: Stanford](https://web.stanford.edu/class/archive/cs/cs103/cs103.1134/lectures/09/Small09.pdf)
