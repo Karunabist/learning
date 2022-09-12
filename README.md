@@ -436,24 +436,40 @@ finite stste of automata, infinite state of automata)...
 
 ### Structure(Algebra)
 
-#### Combinatorics(permutation,combination, graph...)
+#### Combinatorics
+
+permutation,combination, graph...
+
 - [X] [Mathigon](https://mathigon.org/world/Combinatorics)
 - [X] [Wikipedia](https://en.wikipedia.org/wiki/Combinatorics)
 
-#### Number theory(odd,even,prime,.....)
+#### Number theory
+
+odd,even,prime,.....
+
+
 - [X] [What Is Number THeory](https://www.math.brown.edu/johsilve/frintch1ch6.pdf)
 - [X] [Number theory: Wikipedia](https://en.wikipedia.org/wiki/Number_theory)
 
 
-#### Group theory(subset, group...)
+#### Group theory
+
+subset, group...
+
 - [X] [Group Theory](https://www.jmilne.org/math/CourseNotes/GT.pdf)
 - [X] [Group Theory: Wikipedia](https://en.wikipedia.org/wiki/Group_theory)
 
-#### Graph theory(G=(V,E) , V:nodes, E:Edges)
+#### Graph theory
+
+G=(V,E) , V:nodes, E:Edges
+
 - [X] [Graph Theory](https://www.maths.ed.ac.uk/~v1ranick/papers/wilsongraph.pdf)
 - [X] [Graph Theory: Wikipedia](https://en.wikipedia.org/wiki/Graph_theory)
 
-#### Order theory(a ≤ c )
+#### Order theory
+
+a ≤ c 
+
 - [X] [Order Theory](http://www.columbia.edu/~md3405/DT_Order_15.pdf)
 - [X] [Order Theory: Wikipedia](https://academickids.com/encyclopedia/index.php/Order_theory)
 
@@ -977,9 +993,9 @@ finite stste of automata, infinite state of automata)...
 
 
 <details>
-<summary>Computer Science </summary>
+<summary>Computer science(Array)</summary>
 
-# Computer Science 
+# Computer science(Array)
 
 3 fields:
 
