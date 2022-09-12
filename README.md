@@ -404,22 +404,23 @@ Dialects,accents, and varieties
 - [X] [Real Numbers](https://drive.google.com/file/d/1CNd-18RCq8kusu4mSj4D8MNZljp9K1_o/view?usp=sharing)
 - [X] [Real Numbers](https://drive.google.com/file/d/1CXjEOnLY8lI3Cst5O7eFAOF485-kPyMY/view?usp=sharing)
 - [X] [Real NUmbers](https://drive.google.com/file/d/1CTDyu6bOcqIJIaFxtNIPTR4Kse_B8qz_/view?usp=sharing)
+	**Rational Numbers**
+	- [X] Intigers
+		- [X] [Whole](https://www.cuemath.com/numbers/whole-numbers/)
+			- [X] [Natural Numbers](https://www.cuemath.com/numbers/natural-numbers/)
+			- [X] [0](https://en.wikipedia.org/wiki/0)
+		- [X] [Negative](https://en.wikipedia.org/wiki/Negative_number#:~:text=In%20mathematics%2C%20a%20negative%20number,of%20as%20a%20negative%20asset.)
+	- [X] Fraction
+		- [X] [Proper](https://content.nroc.org/DevelopmentalMath/TEXTGROUP-1-8_RESOURCE/U02_L1_T2_text_final.html)
+		- [X] [Improper](https://content.nroc.org/DevelopmentalMath/TEXTGROUP-1-8_RESOURCE/U02_L1_T2_text_final.html)
 
+	**Irrational Number(Pi)**
 
-###### Rational Numbers
-- [X] Intigers
-    - [X] [Whole](https://www.cuemath.com/numbers/whole-numbers/)
-	    - [X] [Natural Numbers](https://www.cuemath.com/numbers/natural-numbers/)
-		- [X] [0](https://en.wikipedia.org/wiki/0)
-	- [X] [Negative](https://en.wikipedia.org/wiki/Negative_number#:~:text=In%20mathematics%2C%20a%20negative%20number,of%20as%20a%20negative%20asset.)
-- [X] Fraction
-    - [X] [Proper](https://content.nroc.org/DevelopmentalMath/TEXTGROUP-1-8_RESOURCE/U02_L1_T2_text_final.html)
-	- [X] [Improper](https://content.nroc.org/DevelopmentalMath/TEXTGROUP-1-8_RESOURCE/U02_L1_T2_text_final.html)
-###### Irrational Number(Pi)
-- [X] [Irrational Number](https://www.mathsisfun.com/irrational-numbers.html)
+	- [X] [Irrational Number](https://www.mathsisfun.com/irrational-numbers.html)
 
 ##### Complex Numbers
 - [X] [Complex Number](https://byjus.com/maths/complex-numbers/)
+
 
 ### Structure(Algebra)
 
