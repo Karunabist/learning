@@ -535,7 +535,7 @@ a ≤ c
 
 ##### Linear Algebra
 
-- [X] [Vector spaces](https://en.wikipedia.org/wiki/Vector_space#Examples)
+- [X] [Vector](https://en.wikipedia.org/wiki/Vector_space#Examples)
     - [X] [Vector](https://www.youtube.com/watch?v=S2f4KNnBhks&list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3&index=3)| Calculate a mean,variance... for a vector
     - [X] [Linear map](https://en.wikipedia.org/wiki/Linear_map)
 	- [X] [Linear Subspaces](https://en.wikipedia.org/wiki/Linear_subspace)
@@ -559,6 +559,24 @@ a ≤ c
 	
 
 - [X] [Matrices](https://en.wikipedia.org/wiki/Matrix_(mathematics))
+    - [X] [Addition](https://en.wikipedia.org/wiki/Matrix_addition),[Scalar Multiplication](https://en.wikipedia.org/wiki/Scalar_multiplication),[Transpose](https://en.wikipedia.org/wiki/Transpose)
+	- [X] [Basic operations Matrices](https://byjus.com/jee/matrix-operations/#:~:text=Addition%2C%20subtraction%20and%20multiplication%20are,rows%20in%20the%20second%20matrix.)
+	- [X] [Basic operations Matrices](https://www.cuemath.com/algebra/matrix-operations/)
+	- [X] [Matrix multiplication](https://en.wikipedia.org/wiki/Matrix_multiplication)
+	- [X] [Trace (linear algebra)](https://en.wikipedia.org/wiki/Trace_(linear_algebra))
+	- [X] [Determinant](https://en.wikipedia.org/wiki/Determinant)
+	- [X] [Eigenvalues and eigenvectors](https://en.wikipedia.org/wiki/Eigenvalues_and_eigenvectors)
+	- [X] [Elementary matrix](https://en.wikipedia.org/wiki/Elementary_matrix)
+	- [X] [Computational aspects: A−1 = adj(A) / det(A)](https://en.wikipedia.org/wiki/Matrix_(mathematics)#Computational_aspects)
+    - [X] [Linear equation and System of linear equations](https://en.wikipedia.org/wiki/Linear_equation)
+	- [X] [Linear equation and System of linear equations](https://en.wikipedia.org/wiki/System_of_linear_equations)
+	- [X] [Diagonal and triangular matrix](https://en.wikipedia.org/wiki/Matrix_(mathematics)#Diagonal_and_triangular_matrix)
+	- [X] [Identity matrix](https://en.wikipedia.org/wiki/Identity_matrix)
+	- [X] [Symmetric or skew-symmetric matrix](https://en.wikipedia.org/wiki/Matrix_(mathematics)#Symmetric_or_skew-symmetric_matrix)
+	- [X] [Invertible matrix and its inverse](https://en.wikipedia.org/wiki/Matrix_(mathematics)#Invertible_matrix_and_its_inverse)
+	- [X] [Definite matrix](https://en.wikipedia.org/wiki/Matrix_(mathematics)#Definite_matrix)
+	- [X] [Orthogonal matrix](https://en.wikipedia.org/wiki/Orthogonal_matrix)
+	- [X] [cofactors]()
     - [X] [Rank Of Matrix](https://en.wikipedia.org/wiki/Rank_(linear_algebra))
     - [X] [Projection (linear algebra)](https://en.wikipedia.org/wiki/Projection_(linear_algebra))
 
@@ -591,6 +609,14 @@ a ≤ c
 	- [X] [Scale-invariant decompositions](https://en.wikipedia.org/wiki/Matrix_decomposition#Scale-invariant_decompositions)
 
     **Other decompositions**
+
+
+	**Gaussian elimination**
+	- [X] [Gaussian elimination](https://en.wikipedia.org/wiki/Gaussian_elimination)
+
+	**Bareiss algorithm**
+	- [X] [Bareiss algorithm](https://en.wikipedia.org/wiki/Bareiss_algorithm)
+
 	
 
 - [X] [Least Squares Problems](https://en.wikipedia.org/wiki/Least_squares)
