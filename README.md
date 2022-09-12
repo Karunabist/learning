@@ -710,7 +710,7 @@ Dialects,accents, and varieties
 	- Note: If No sign +,- then it is from both side
 	- Both side: Analyze from both side and approach near if the limit from both side is nearly same then that is answer. Otherwise unbounded/ doesn't exist
 	- One Side: Analyze from only one side
-	- Try to remove divisible term, which try to generate 0/0
+	- Try to remove divisible term, which try to generate Indeterminate form(0/0)
 
     - [X] [Limit Introduction: Approaching from both side(left or right) but not exact at that point](https://www.khanacademy.org/math/differential-calculus/dc-limits/dc-limits-intro/v/introduction-to-limits-hd)
 	- [X] [Estimating limit values from graphs/function: Both Side](https://www.khanacademy.org/math/differential-calculus/dc-limits/dc-limits-from-graphs/v/limits-from-graphs)
@@ -740,7 +740,13 @@ Dialects,accents, and varieties
 	- [X] [Trig limit using Pythagorean identity](https://www.khanacademy.org/math/differential-calculus/dc-limits/dc-limits-algebraic/v/trig-limit-using-pythagorean-identity)
 	- [X] [Trig limit using Pythagorean identity](https://xaktly.com/MathTrigonometricLimits.html)
 	- [X] [Strategy in finding limits](https://www.khanacademy.org/math/differential-calculus/dc-limits/dc-limit-strategy/v/flow-chart-of-limit-strategies)
+	- [X] [Strategy in finding limits](https://cdn.kastatic.org/ka-perseus-images/a193121287b64721de28fcbfaec9f5919a367dd2.png)
 	- [X] [Strategy in finding limits](https://www.geeksforgeeks.org/strategy-in-finding-limits/)
+	- [X] [Strategy in finding limits](http://www.milefoot.com/math/calculus/limits/LimitStrategies11.htm)
+	- [X] [Squeeze theorem](https://www.khanacademy.org/math/differential-calculus/dc-limits/dc-squeeze-theorem/v/squeeze-sandwich-theorem)
+	- [X] [Squeeze theorem](https://en.wikipedia.org/wiki/Squeeze_theorem)
+
+    Ongoing from khan academy
 
 
 
