@@ -708,7 +708,9 @@ Dialects,accents, and varieties
 - [X] [Limits and infinitesimals](https://en.wikipedia.org/wiki/Calculus#Limits_and_infinitesimals)
 
 	- Note: If No sign +,- then it is from both side
-	- Focus from both side and approach near
+	- Both side: Analyze from both side and approach near if the limit from both side is nearly same then that is answer. Otherwise unbounded/ doesn't exist
+	- One Side: Analyze from only one side
+	- Try to remove divisible term, which try to generate 0/0
 
     - [X] [Limit Introduction: Approaching from both side(left or right) but not exact at that point](https://www.khanacademy.org/math/differential-calculus/dc-limits/dc-limits-intro/v/introduction-to-limits-hd)
 	- [X] [Estimating limit values from graphs/function: Both Side](https://www.khanacademy.org/math/differential-calculus/dc-limits/dc-limits-from-graphs/v/limits-from-graphs)
@@ -730,6 +732,15 @@ Dialects,accents, and varieties
 	- [X] [Limits of trigonometric functions](https://math.libretexts.org/Courses/Mount_Royal_University/MATH_1200%3A_Calculus_for_Scientists_I/1%3A_Limit__and_Continuity_of_Functions/1.7%3A_Limit_of__Trigonometric_functions)
 	- [X] [Limits of piecewise functions](https://www.khanacademy.org/math/differential-calculus/dc-limits/dc-direct-substitution/v/limits-of-piecewise-functions)
 	- [X] [Limits of piecewise functions](https://www.mathwarehouse.com/calculus/limits/limits-with-piecewise-functions.php)
+	- [X] [Limits of piecewise functions: absolute value](https://www.khanacademy.org/math/differential-calculus/dc-limits/dc-direct-substitution/v/limit-at-a-point-of-discontinuity)
+	- [X] [Limits by factoring: Important: First we try to divide divisible term, to remove 0/0 form](https://www.khanacademy.org/math/differential-calculus/dc-limits/dc-limits-algebraic/v/limit-example-1)
+	- [X] [Limits by factoring](https://brilliant.org/wiki/limits-by-factoring/#:~:text=Finding%20a%20limit%20by%20factoring,that%20allows%20for%20direct%20evaluation.)
+	- [X] [Limits by rationalizing:Important: First we try to divide divisible term, to remove 0/0 form](https://www.khanacademy.org/math/differential-calculus/dc-limits/dc-limits-algebraic/v/limits-by-rationalizing)
+	- [X] [Limits by rationalizing](https://www.ck12.org/book/ck-12-precalculus-concepts/section/14.5/)
+	- [X] [Trig limit using Pythagorean identity](https://www.khanacademy.org/math/differential-calculus/dc-limits/dc-limits-algebraic/v/trig-limit-using-pythagorean-identity)
+	- [X] [Trig limit using Pythagorean identity](https://xaktly.com/MathTrigonometricLimits.html)
+	- [X] [Strategy in finding limits](https://www.khanacademy.org/math/differential-calculus/dc-limits/dc-limit-strategy/v/flow-chart-of-limit-strategies)
+	- [X] [Strategy in finding limits](https://www.geeksforgeeks.org/strategy-in-finding-limits/)
 
 
 
