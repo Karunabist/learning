@@ -706,7 +706,27 @@ Dialects,accents, and varieties
 ### Change(Calculus)
 
 - [X] [Limits and infinitesimals](https://en.wikipedia.org/wiki/Calculus#Limits_and_infinitesimals)
-    - [ ]  []()
+
+	- Note: If No sign +,- then it is from both side
+	- Focus from both side and approach near
+
+    - [X] [Limit Introduction: Approaching from both side(left or right) but not exact at that point](https://www.khanacademy.org/math/differential-calculus/dc-limits/dc-limits-intro/v/introduction-to-limits-hd)
+	- [X] [Estimating limit values from graphs/function: Both Side](https://www.khanacademy.org/math/differential-calculus/dc-limits/dc-limits-from-graphs/v/limits-from-graphs)
+    - [X] [Limit of a function: Both Side](https://en.wikipedia.org/wiki/Limit_of_a_function)
+	- [X] [Unbounded limits: A necessary condition for a function to have infinite limit is that it is unbounded.](https://www.khanacademy.org/math/differential-calculus/dc-limits/dc-limits-from-graphs/v/unbounded-limits) 
+	- [X] [Infinitesimal](https://en.wikipedia.org/wiki/Infinitesimal)
+	- [X] [One-sided limits](https://en.wikipedia.org/wiki/One-sided_limit)
+    - [X] [One-side limits](https://tutorial.math.lamar.edu/classes/calci/onesidedlimits.aspx)
+	- [X] [Estimating limits from tables: Think Table in term of graph](https://www.khanacademy.org/math/differential-calculus/dc-limits/dc-limits-from-tables/v/approximating-limit-from-table)
+	- [X] [Estimating limits from tables](https://www.geeksforgeeks.org/estimating-limits-from-tables/)
+	- [X] [Properties of limits](https://www.khanacademy.org/math/differential-calculus/dc-limits/dc-limit-prop/v/limit-properties)
+	- [X] [Properties of limits](https://framinghamk12.instructure.com/courses/5948/pages/properties-of-limits#:~:text=1)%20Sum%20Rule%3A%20The%20limit,the%20sum%20of%20their%20limits.&text=2)%20Difference%20Rule%3A%20The%20limit,the%20difference%20of%20their%20limits.&text=3)%20Product%20Rule%3A%20The%20limit,the%20product%20of%20their%20limits.)
+	- [X] [Properties of limits](https://tutorial.math.lamar.edu/classes/calci/limitsproperties.aspx)
+	- [X] [Properties of limits](https://www.toppr.com/guides/maths/limits-and-derivatives/limits/)
+	- [X] [Limits by direct substitution](https://www.khanacademy.org/math/differential-calculus/dc-limits/dc-direct-substitution/v/limit-by-substitution)
+	- [X] [Limits by direct substitution](https://www.geeksforgeeks.org/limits-by-direct-substitution/#:~:text=Limits%20using%20Direct%20Substitution,the%20function%20at%20x%20%3D%20a.)
+	- [X] [Limits by direct substitution](https://www.nagwa.com/en/explainers/542159481034/)
+
 
 - [X] [Differential calculus](https://en.wikipedia.org/wiki/Differential_calculus)
     - [ ] []()
