@@ -1353,7 +1353,7 @@ Note:
 - [X] [Python | Output Formatting](https://www.geeksforgeeks.org/python-output-formatting/)
 
 - [X] [Reserv Keywords]()
-    ```
+    ```python
 	import keyword  
     print( keyword.kwlist ) 
 	```
