@@ -916,6 +916,19 @@ a ≤ c
 
 ### Computational mathematics
 
+### Computational science
+
+### Numerical methods
+
+### Stochastic 
+
+### Computational complexity
+
+
+### Cryptography 
+
+
+
 ### Books
 
 - [X] [An Introduction to Probability with de Finetti’s Approach and to Bayesian Statistics](http://ndl.ethernet.edu.et/bitstream/123456789/29038/1/Francesca%20Biagini_2016.pdf)
