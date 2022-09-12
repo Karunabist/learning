@@ -720,12 +720,17 @@ Dialects,accents, and varieties
 	- [X] [Estimating limits from tables: Think Table in term of graph](https://www.khanacademy.org/math/differential-calculus/dc-limits/dc-limits-from-tables/v/approximating-limit-from-table)
 	- [X] [Estimating limits from tables](https://www.geeksforgeeks.org/estimating-limits-from-tables/)
 	- [X] [Properties of limits](https://www.khanacademy.org/math/differential-calculus/dc-limits/dc-limit-prop/v/limit-properties)
-	- [X] [Properties of limits](https://framinghamk12.instructure.com/courses/5948/pages/properties-of-limits#:~:text=1)%20Sum%20Rule%3A%20The%20limit,the%20sum%20of%20their%20limits.&text=2)%20Difference%20Rule%3A%20The%20limit,the%20difference%20of%20their%20limits.&text=3)%20Product%20Rule%3A%20The%20limit,the%20product%20of%20their%20limits.)
 	- [X] [Properties of limits](https://tutorial.math.lamar.edu/classes/calci/limitsproperties.aspx)
 	- [X] [Properties of limits](https://www.toppr.com/guides/maths/limits-and-derivatives/limits/)
 	- [X] [Limits by direct substitution](https://www.khanacademy.org/math/differential-calculus/dc-limits/dc-direct-substitution/v/limit-by-substitution)
 	- [X] [Limits by direct substitution](https://www.geeksforgeeks.org/limits-by-direct-substitution/#:~:text=Limits%20using%20Direct%20Substitution,the%20function%20at%20x%20%3D%20a.)
 	- [X] [Limits by direct substitution](https://www.nagwa.com/en/explainers/542159481034/)
+	- [X] [Limits of trigonometric functions](https://www.khanacademy.org/math/differential-calculus/dc-limits/dc-direct-substitution/v/limits-of-trigonometric-functions)
+	- [X] [Limits of trigonometric functions](https://www.khanacademy.org/math/differential-calculus/dc-limits/dc-direct-substitution/v/limits-of-trigonometric-functions)
+	- [X] [Limits of trigonometric functions](https://math.libretexts.org/Courses/Mount_Royal_University/MATH_1200%3A_Calculus_for_Scientists_I/1%3A_Limit__and_Continuity_of_Functions/1.7%3A_Limit_of__Trigonometric_functions)
+	- [X] [Limits of piecewise functions](https://www.khanacademy.org/math/differential-calculus/dc-limits/dc-direct-substitution/v/limits-of-piecewise-functions)
+	- [X] [Limits of piecewise functions](https://www.mathwarehouse.com/calculus/limits/limits-with-piecewise-functions.php)
+
 
 
 - [X] [Differential calculus](https://en.wikipedia.org/wiki/Differential_calculus)
@@ -1260,6 +1265,9 @@ Note:
 - [X] [Pathlib: No Really, Python's Pathlib is Great](https://rednafi.github.io/digressions/python/2020/04/13/python-pathlib.html)
 - [X] [Pathlib Vs OS Modules](https://www.section.io/engineering-education/pathlib-vs-os-modules-for-file-and-directory-system-operation/)
 - [X] [Article: Speeding Up Python with Concurrency, Parallelism, and asyncio](https://testdriven.io/blog/concurrency-parallelism-asyncio/)
+- [X] [High Dimension Array: tensor(row,column,depth)](https://numpy.org/doc/stable/reference/arrays.ndarray.html)
+- [X] [Indexing: tensor[row][column][depth]](https://numpy.org/devdocs/user/basics.indexing.html)
+- [X] [Slicing: tensor[from_row:to_row:step,from_column:to_column:step,from_depth:to_depth:step]](https://www.pythoninformer.com/python-libraries/numpy/index-and-slice/)
 
 #### Article,Books And Courses
 - [ ] [Article: A reverse chronology of some Python features](https://snarky.ca/a-reverse-chronology-of-some-python-features/)
