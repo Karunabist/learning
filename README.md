@@ -769,12 +769,29 @@ Dialects,accents, and varieties
 ## Applied Mathematics
 
 ### Probability
-- [X] [Probability](https://byjus.com/maths/probability/)
+
+- [X] [Independent events](https://en.wikipedia.org/wiki/Independence_(probability_theory))
+- [X] [Mutually exclusive events](https://en.wikipedia.org/wiki/Mutual_exclusivity)
+- [X] [Not mutually exclusive events](https://en.wikipedia.org/wiki/Probability#Not_mutually_exclusive_events)
+- [X] [Conditional probability](https://en.wikipedia.org/wiki/Conditional_probability)
+- [X] [Inverse probability](https://en.wikipedia.org/wiki/Probability#Inverse_probability)
+- [X] [Summary of probabilities](https://en.wikipedia.org/wiki/Probability#Summary_of_probabilities)
+
+
+- [X] [INTRODUCTION TO PROBABILITY: MIT](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/)
+
+     **PART I: THE FUNDAMENTALS**
+	- [X]  []()
+	
+
 - [X] [Probability: the basics](https://www.khanacademy.org/math/statistics-probability/probability-library/basic-theoretical-probability/a/probability-the-basics)
+- [X] [Probability: wikipedia](https://en.wikipedia.org/wiki/Probability)
+- [X] [Probability](https://byjus.com/maths/probability/)
+
 - [X] [Probability](https://www.mathsisfun.com/data/probability.html)
 - [X] [Probability](https://www.cuemath.com/data/probability/)
 - [X] [Probability](https://seeing-theory.brown.edu/basic-probability/index.html)
-- [X] [Probability: Wikipedia](https://en.wikipedia.org/wiki/Probability#:~:text=Probability%20is%20the%20branch%20of,event%20and%201%20indicates%20certainty.)
+
 
 ### Statistics and other decision sciences(probability and statistics)
 - [ ] [ StatQuest: Statistics Fundamentals](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
