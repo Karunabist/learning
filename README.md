@@ -582,6 +582,26 @@ a ≤ c
 
 
 - [X] [System Of Equation/Solving Equation Problems](https://en.wikipedia.org/wiki/System_of_linear_equations)
+    - [X] [Trivial example](https://en.wikipedia.org/wiki/System_of_linear_equations#Trivial_example)
+	- [X] [Simple nontrivial example](https://en.wikipedia.org/wiki/System_of_linear_equations#Simple_nontrivial_example)
+	- [X] [General form](https://en.wikipedia.org/wiki/System_of_linear_equations#General_form)
+	- [X] [Vector equation](https://en.wikipedia.org/wiki/System_of_linear_equations#Vector_equation)
+	- [X] [Matrix equation](https://en.wikipedia.org/wiki/System_of_linear_equations#Matrix_equation)
+	- [X] [Solution set](https://en.wikipedia.org/wiki/System_of_linear_equations#Solution_set)
+	- [X] [Geometric interpretation](https://en.wikipedia.org/wiki/System_of_linear_equations#Geometric_interpretation)
+	- [X] [General behavior](https://en.wikipedia.org/wiki/System_of_linear_equations#General_behavior)
+	- [X] [Properties](https://en.wikipedia.org/wiki/System_of_linear_equations#General_behavior)
+	- [X] [Independence](https://en.wikipedia.org/wiki/System_of_linear_equations#Independence)
+	- [X] [Consistency](https://en.wikipedia.org/wiki/System_of_linear_equations#Consistency)
+	- [X] [Equivalence](https://en.wikipedia.org/wiki/System_of_linear_equations#Equivalence)
+	- [X] [Solving a linear system](https://en.wikipedia.org/wiki/System_of_linear_equations#Solving_a_linear_system)
+	- [X] [Describing the solution](https://en.wikipedia.org/wiki/System_of_linear_equations#Describing_the_solution)
+	- [X] [Elimination of variables](https://en.wikipedia.org/wiki/System_of_linear_equations#Elimination_of_variables)
+	- [X] [Row reduction(Echelon form,Gaussian elimination,Gauss–Jordan elimination)](https://en.wikipedia.org/wiki/System_of_linear_equations#Row_reduction)
+	- [X] [Cramer's rule](https://en.wikipedia.org/wiki/System_of_linear_equations#Cramer's_rule)
+	- [X] [Other methods: Decomposition Below]()
+	- [X] [Homogeneous systems](https://en.wikipedia.org/wiki/System_of_linear_equations#Homogeneous_systems)
+	- [X] [Homogeneous solution set](https://en.wikipedia.org/wiki/System_of_linear_equations#Homogeneous_solution_set)
 
 - [X] [Matrices Factorization and Decomposition](https://en.wikipedia.org/wiki/Matrix_decomposition#:~:text=In%20the%20mathematical%20discipline%20of,a%20particular%20class%20of%20problems.)
 
