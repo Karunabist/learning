@@ -362,7 +362,7 @@ Dialects,accents, and varieties
 
 ### Mathematical logics
 
-^(and), v (or), ¬ (not), → (implies),
+^(and), v (or), ¬ (not), → (implies)...
 
 
 - [X] [Mathematical Logic Part One: Stanford](https://web.stanford.edu/class/archive/cs/cs103/cs103.1132/lectures/09/Small09.pdf)
@@ -372,7 +372,9 @@ Dialects,accents, and varieties
 - [X] [Mathematical Logic: illinois](https://faculty.math.illinois.edu/~vddries/main2.pdf)
 
 
-### Set theory({a,b,c..})
+### Set theory
+
+{a,b,c..}
 
 - [X] [Basic Set Theory: Stanford](https://plato.stanford.edu/entries/set-theory/basic-set-theory.html)
 - [X] [Set Theory: Stanford](https://plato.stanford.edu/entries/set-theory/)
@@ -383,7 +385,9 @@ Dialects,accents, and varieties
 - [X] [Non-wellfounded Set Theory](https://plato.stanford.edu/entries/nonwellfounded-set-theory/)
 
 
-### Category theory(f:x→y,f:y→z,g o f:x→z , functors(functions) map between categories )
+### Category theory
+
+f:x→y,f:y→z,g o f:x→z , functors(functions) map between categories ...
 
 - [X] [Categories](https://plato.stanford.edu/entries/categories/)
 - [X] [Category Theory: Stanford](https://plato.stanford.edu/entries/category-theory/)
@@ -392,7 +396,10 @@ Dialects,accents, and varieties
 - [X] [Structuralism in the Philosophy of Mathematics](https://plato.stanford.edu/entries/structuralism-mathematics/)
 	
 
-### Theory of Computation(finite stste of automata, infinite state of automata))
+### Theory of Computation
+
+finite stste of automata, infinite state of automata)...
+
 - [X] [Automata Theory: Stanford Course](https://online.stanford.edu/courses/soe-ycsautomata-automata-theory)
 - [X] [THEORY OF COMPUTATION: MIT](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/)
 - [X] [The Computational Theory of Mind: Stanford](https://plato.stanford.edu/entries/computational-mind/)
