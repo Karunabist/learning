@@ -792,29 +792,6 @@ Dialects,accents, and varieties
 - [X] [Probability](https://www.cuemath.com/data/probability/)
 - [X] [Probability](https://seeing-theory.brown.edu/basic-probability/index.html)
 
-
-### Statistics and other decision sciences(probability and statistics)
-- [ ] [ StatQuest: Statistics Fundamentals](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
-- [ ] [ Article: Entropy, Cross Entropy, and KL Divergence](https://towardsdatascience.com/entropy-cross-entropy-and-kl-divergence-17138ffab87b)
-- [ ] [ Article: Interview Guide to Probability Distributions](https://medium.com/acing-ai/interview-guide-to-probability-distributions-a6dfb08c3766)
-- [ ] [ Article: Entropy of a probability distribution — in layman’s terms](https://ajitrajasekharan.medium.com/entropy-of-a-probability-distribution-explained-in-laymans-terms-8a4139b329bc)
-- [ ] [ Article: KL Divergence — in layman’s terms](https://ajitrajasekharan.medium.com/what-is-kl-divergence-d1fb7921ee5b)
-- [ ] [ Article: Probability Distributions](https://www.simonwardjones.co.uk/posts/probability_distributions/)
-- [ ] [ Datacamp: Introduction to Statistics](https://www.datacamp.com/courses/introduction-to-statistics)
-- [ ] [ Datacamp: Introduction to Statistics in Python](https://www.datacamp.com/courses/introduction-to-statistics-in-python)
-- [ ] [ Datacamp: Foundations of Probability in Python](https://www.datacamp.com/courses/foundations-of-probability-in-python)
-- [ ] [ Datacamp: Hypothesis Testing in Python](https://app.datacamp.com/learn/courses/hypothesis-testing-in-python)
-- [ ] [ Datacamp: Statistical Thinking in Python (Part 1)](https://app.datacamp.com/learn/courses/statistical-thinking-in-python-part-1)
-- [ ] [ Datacamp: Statistical Thinking in Python (Part 2)](https://app.datacamp.com/learn/courses/statistical-thinking-in-python-part-2)  
-- [ ] [ Datacamp: Experimental Design in Python](https://www.datacamp.com/courses/experimental-design-in-python) 
-- [ ] [ Datacamp: Statistical Simulation in Python](https://www.datacamp.com/courses/statistical-simulation-in-python)
-- [ ] [ Computational Linear Algebra for Coders](https://github.com/fastai/numerical-linear-algebra)
-- [ ] [ Khan Academy: Precalculus](https://www.khanacademy.org/math/precalculus)
-- [ ] [ Khan Academy: Probability](https://www.khanacademy.org/mission/probability)
-- [ ] [ Udacity: Statistics](https://www.udacity.com/course/statistics--st095)    
-- [ ] [ Udacity: Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)     
-- [ ] [ Udacity: Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201) 
-
 ### Statistics
 ####  Descriptive statistics
 - [X] [Descriptive Statistics: Wikipedia](https://en.wikipedia.org/wiki/Descriptive_statistics)
@@ -867,6 +844,28 @@ Dialects,accents, and varieties
 - [X] [What is Exploratory Data Analysis ?](https://www.geeksforgeeks.org/what-is-exploratory-data-analysis/)
 - [X] [Exploratory Data Analysis](https://r4ds.had.co.nz/exploratory-data-analysis.html)
 
+
+### Statistics and other decision sciences(probability and statistics)
+- [ ] [ StatQuest: Statistics Fundamentals](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
+- [ ] [ Article: Entropy, Cross Entropy, and KL Divergence](https://towardsdatascience.com/entropy-cross-entropy-and-kl-divergence-17138ffab87b)
+- [ ] [ Article: Interview Guide to Probability Distributions](https://medium.com/acing-ai/interview-guide-to-probability-distributions-a6dfb08c3766)
+- [ ] [ Article: Entropy of a probability distribution — in layman’s terms](https://ajitrajasekharan.medium.com/entropy-of-a-probability-distribution-explained-in-laymans-terms-8a4139b329bc)
+- [ ] [ Article: KL Divergence — in layman’s terms](https://ajitrajasekharan.medium.com/what-is-kl-divergence-d1fb7921ee5b)
+- [ ] [ Article: Probability Distributions](https://www.simonwardjones.co.uk/posts/probability_distributions/)
+- [ ] [ Datacamp: Introduction to Statistics](https://www.datacamp.com/courses/introduction-to-statistics)
+- [ ] [ Datacamp: Introduction to Statistics in Python](https://www.datacamp.com/courses/introduction-to-statistics-in-python)
+- [ ] [ Datacamp: Foundations of Probability in Python](https://www.datacamp.com/courses/foundations-of-probability-in-python)
+- [ ] [ Datacamp: Hypothesis Testing in Python](https://app.datacamp.com/learn/courses/hypothesis-testing-in-python)
+- [ ] [ Datacamp: Statistical Thinking in Python (Part 1)](https://app.datacamp.com/learn/courses/statistical-thinking-in-python-part-1)
+- [ ] [ Datacamp: Statistical Thinking in Python (Part 2)](https://app.datacamp.com/learn/courses/statistical-thinking-in-python-part-2)  
+- [ ] [ Datacamp: Experimental Design in Python](https://www.datacamp.com/courses/experimental-design-in-python) 
+- [ ] [ Datacamp: Statistical Simulation in Python](https://www.datacamp.com/courses/statistical-simulation-in-python)
+- [ ] [ Computational Linear Algebra for Coders](https://github.com/fastai/numerical-linear-algebra)
+- [ ] [ Khan Academy: Precalculus](https://www.khanacademy.org/math/precalculus)
+- [ ] [ Khan Academy: Probability](https://www.khanacademy.org/mission/probability)
+- [ ] [ Udacity: Statistics](https://www.udacity.com/course/statistics--st095)    
+- [ ] [ Udacity: Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)     
+- [ ] [ Udacity: Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201) 
 
 
 
