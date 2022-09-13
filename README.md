@@ -821,17 +821,26 @@ a ≤ c
 	- One Side: Analyze from only one side
 	- Try to remove divisible term, which try to generate Indeterminate form(0/0)
 
-    - [X] [Limit Introduction: Approaching from both side(left or right) but not exact at that point](https://www.khanacademy.org/math/differential-calculus/dc-limits/dc-limits-intro/v/introduction-to-limits-hd)
-	- [X] [Estimating limit values from graphs/function: Both Side](https://www.khanacademy.org/math/differential-calculus/dc-limits/dc-limits-from-graphs/v/limits-from-graphs)
-    - [X] [Limit of a function: Both Side](https://en.wikipedia.org/wiki/Limit_of_a_function)
-	- [X] [Unbounded limits: A necessary condition for a function to have infinite limit is that it is unbounded.](https://www.khanacademy.org/math/differential-calculus/dc-limits/dc-limits-from-graphs/v/unbounded-limits) 
+    - [X] [Formal definition of limits (epsilon-delta)](https://www.khanacademy.org/math/differential-calculus/dc-limits/dc-epsilon-delta/v/limit-intuition-review)
+	- [X] [Formal definition of limits (epsilon-delta)](https://calcworkshop.com/limits/epsilon-delta-definition/)
+	- [X] [(ε, δ)-definition of limit](https://en.wikipedia.org/wiki/Limit_of_a_function#(%CE%B5,_%CE%B4)-definition_of_limit)
+    - [X] [Limit Introduction](https://www.khanacademy.org/math/differential-calculus/dc-limits/dc-limits-intro/v/introduction-to-limits-hd) : Approaching from both side(left or right) but not exact at that point
+	- [X] [Estimating limit values from graphs/function from both side](https://www.khanacademy.org/math/differential-calculus/dc-limits/dc-limits-from-graphs/v/limits-from-graphs)
+    - [X] [Limit of a function from both side](https://en.wikipedia.org/wiki/Limit_of_a_function)
+	- [X] [Unbounded limits](https://www.khanacademy.org/math/differential-calculus/dc-limits/dc-limits-from-graphs/v/unbounded-limits): A necessary condition for a function to have infinite limit is that it is unbounded.
 	- [X] [Infinitesimal](https://en.wikipedia.org/wiki/Infinitesimal)
 	- [X] [One-sided limits](https://en.wikipedia.org/wiki/One-sided_limit)
     - [X] [One-side limits](https://tutorial.math.lamar.edu/classes/calci/onesidedlimits.aspx)
-	- [X] [Estimating limits from tables: Think Table in term of graph](https://www.khanacademy.org/math/differential-calculus/dc-limits/dc-limits-from-tables/v/approximating-limit-from-table)
+	- [X] [Estimating limits from tables](https://www.khanacademy.org/math/differential-calculus/dc-limits/dc-limits-from-tables/v/approximating-limit-from-table): Relate table with graph/function
 	- [X] [Estimating limits from tables](https://www.geeksforgeeks.org/estimating-limits-from-tables/)
-	- [X] [Formal definition of limits (epsilon-delta)](https://www.khanacademy.org/math/differential-calculus/dc-limits/dc-epsilon-delta/v/limit-intuition-review)
-	- [X] [(ε, δ)-definition of limit](https://en.wikipedia.org/wiki/Limit_of_a_function#(%CE%B5,_%CE%B4)-definition_of_limit)
+	- [X] [Existence and one-sided limits](): If left and right limits exist at p and are equal there, then this can be referred to as the limit of f(x) at p.If the one-sided limits exist at p, but are unequal, then there is no limit at p (i.e., the limit at p does not exist).f either one-sided limit does not exist at p, then the limit at p also does not exist.
+	- [ ] [More general subsets](https://en.wikipedia.org/wiki/Limit_of_a_function#More_general_subsets)
+	- [X] [Deleted versus non-deleted limits](https://en.wikipedia.org/wiki/Limit_of_a_function#Deleted_versus_non-deleted_limits): The definition of limit given here does not depend on how (or whether) f is defined at p refers to this as a deleted limit, because it excludes the value of f at p. The corresponding non-deleted limit does depend on the value of f at p.
+	- [X] [Limits at infinity](https://en.wikipedia.org/wiki/Limit_of_a_function#Limits_at_infinity)
+	- [X] [Limits at infinity](https://www.sfu.ca/math-coursenotes/Math%20157%20Course%20Notes/sec_InfLimits.html)
+	- [X] [Infinite limits](https://en.wikipedia.org/wiki/Limit_of_a_function#Infinite_limits)
+	- [X] [Limits at infinity for rational functions](https://web.ma.utexas.edu/users/m408n/AS/LM2-6-3.html)
+	- [X] [Functions of more than one variable](https://en.wikipedia.org/wiki/Limit_of_a_function#Functions_of_more_than_one_variable)
 	- [X] [Properties of limits](https://www.khanacademy.org/math/differential-calculus/dc-limits/dc-limit-prop/v/limit-properties)
 	- [X] [Properties of limits](https://tutorial.math.lamar.edu/classes/calci/limitsproperties.aspx)
 	- [X] [Properties of limits](https://www.toppr.com/guides/maths/limits-and-derivatives/limits/)
@@ -867,7 +876,7 @@ a ≤ c
 
 - [X] [Differential calculus](https://en.wikipedia.org/wiki/Differential_calculus)
     - [X] [Derivative](https://en.wikipedia.org/wiki/Differential_calculus#Derivative)
-	- [X] []()
+	- [X] [Average vs. instantaneous rate of change]()
 
 - [X] [Integral calculus](https://en.wikipedia.org/wiki/Integral)
     - [ ] []()
