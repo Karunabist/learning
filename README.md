@@ -571,7 +571,6 @@ a ≤ c
 	- [X] [Determinant](https://en.wikipedia.org/wiki/Determinant)
 	- [X] [Invertible matrix](https://en.wikipedia.org/wiki/Invertible_matrix)
 	- [X] [Eigenvalues and eigenvectors](https://en.wikipedia.org/wiki/Eigenvalues_and_eigenvectors)
-	- [X] [Elementary matrix](https://en.wikipedia.org/wiki/Elementary_matrix)
 	- [X] [Computational aspects: A−1 = adj(A) / det(A)](https://en.wikipedia.org/wiki/Matrix_(mathematics)#Computational_aspects)
     - [X] [Linear equation and System of linear equations](https://en.wikipedia.org/wiki/Linear_equation)
 	- [X] [Linear equation and System of linear equations](https://en.wikipedia.org/wiki/System_of_linear_equations)
