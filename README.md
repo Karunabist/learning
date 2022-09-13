@@ -567,7 +567,7 @@ a ≤ c
 	- [X] [Basic operations Matrices](https://byjus.com/jee/matrix-operations/#:~:text=Addition%2C%20subtraction%20and%20multiplication%20are,rows%20in%20the%20second%20matrix.)
 	- [X] [Basic operations Matrices](https://www.cuemath.com/algebra/matrix-operations/)
 	- [X] [Matrix multiplication](https://en.wikipedia.org/wiki/Matrix_multiplication)
-	- [X] [Trace (linear algebra)](https://en.wikipedia.org/wiki/Trace_(linear_algebra))
+	- [X] [Trace (linear algebra)](https://en.wikipedia.org/wiki/Trace_(linear_algebra)): sum of elements on the main diagonal (from the upper left to the lower right) 
 	- [X] [Determinant](https://en.wikipedia.org/wiki/Determinant)
 	- [X] [Eigenvalues and eigenvectors](https://en.wikipedia.org/wiki/Eigenvalues_and_eigenvectors)
 	- [X] [Elementary matrix](https://en.wikipedia.org/wiki/Elementary_matrix)
