@@ -592,6 +592,7 @@ a ≤ c
     - [X] [Rank Of Matrix](https://en.wikipedia.org/wiki/Rank_(linear_algebra))
     - [X] [Projection (linear algebra)](https://en.wikipedia.org/wiki/Projection_(linear_algebra))
 	- [X] [Permutation matrix](https://en.wikipedia.org/wiki/Permutation_matrix): Helps to exchange rows or columns
+	- [X] [Conjugate transpose](https://en.wikipedia.org/wiki/Conjugate_transpose): Transposing A and applying complex conjugate on each entry (a+ib being a-ib, for real numbers a and b).
 
 
 - [X] [System Of Equation/Solving Equation Problems](https://en.wikipedia.org/wiki/System_of_linear_equations)
@@ -625,9 +626,9 @@ a ≤ c
 
 	- [X] [LU Reduction](https://en.wikipedia.org/wiki/LU_reduction):A= LU, For Square Matrices ,LU reduction is a special parallelized version of an LU decomposition algorithm
 	- [X] [Block LU decomposition](https://netlib.org/lapack/lawnspdf/lawn40.pdf):A= LU, For Square Matrices , Nearly same as LU decomposition
-	- [X] [Rank factorization or Rank Decomposition](https://en.wikipedia.org/wiki/Rank_factorization): A = CF, 
-	- [X] [Cholesky decomposition](https://en.wikipedia.org/wiki/Cholesky_decomposition) | For Square Matrices
-	- [X] [QR Decomposition](https://en.wikipedia.org/wiki/QR_decomposition) | For Square Matrices
+	- [X] [Rank factorization or Rank Decomposition](https://en.wikipedia.org/wiki/Rank_factorization): A = CF, Use in SVD
+	- [X] [Cholesky decomposition](https://en.wikipedia.org/wiki/Cholesky_decomposition) | A=LL*, For Square Matrices, Applications: [Linear least squares,Non-linear optimization,Monte Carlo simulation,Kalman filters,Matrix inversion](https://en.wikipedia.org/wiki/Cholesky_decomposition#Applications)
+	- [X] [QR Decomposition or QU Factorization](https://en.wikipedia.org/wiki/QR_decomposition) | For Square Matrices
 	- [X] [Reduced QR Factorization](http://www.math.iit.edu/~fass/477577_Chapter_4.pdf) | For Square Matrices
 	- [X] [RRQR factorization](https://en.wikipedia.org/wiki/RRQR_factorization)
 	- [X] [Interpolative decomposition](https://en.wikipedia.org/wiki/Interpolative_decomposition)
