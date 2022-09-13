@@ -569,6 +569,7 @@ a ≤ c
 	- [X] [Matrix multiplication](https://en.wikipedia.org/wiki/Matrix_multiplication)
 	- [X] [Trace (linear algebra)](https://en.wikipedia.org/wiki/Trace_(linear_algebra)): sum of elements on the main diagonal (from the upper left to the lower right) 
 	- [X] [Determinant](https://en.wikipedia.org/wiki/Determinant)
+	- [X] [Invertible matrix](https://en.wikipedia.org/wiki/Invertible_matrix)
 	- [X] [Eigenvalues and eigenvectors](https://en.wikipedia.org/wiki/Eigenvalues_and_eigenvectors)
 	- [X] [Elementary matrix](https://en.wikipedia.org/wiki/Elementary_matrix)
 	- [X] [Computational aspects: A−1 = adj(A) / det(A)](https://en.wikipedia.org/wiki/Matrix_(mathematics)#Computational_aspects)
