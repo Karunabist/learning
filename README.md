@@ -549,6 +549,7 @@ a ≤ c
 	- [X] [Operations With Vectors](https://www.youtube.com/watch?v=a64RYUtIAYc&list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3&index=4)
 	- [X] [Module or Magnitude of Vector](https://www.radfordmathematics.com/vectors-matrices/vectors/magnitude-of-a-vector.html)
 	- [X] [Inner or Dot product](https://en.wikipedia.org/wiki/Dot_product)
+	- [X] [Cross product](https://en.wikipedia.org/wiki/Cross_product)
 	- [X] [Modulus & Inner Product](https://www.youtube.com/watch?v=ciLVJra_jVA&list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3&index=7)
 	- [X] [Vector Norms](https://www.math.usm.edu/lambers/mat610/sum10/lecture2.pdf)
 	- [X] [Cosine Formula for Dot Product](https://proofwiki.org/wiki/Cosine_Formula_for_Dot_Product)
