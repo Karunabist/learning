@@ -543,7 +543,7 @@ a ≤ c
 	- [X] [Linear Subspaces](https://en.wikipedia.org/wiki/Linear_subspace)
 	- [X] [Linear span](https://en.wikipedia.org/wiki/Linear_span)
 	- [X] [Subspaces vs Span: Span is always subspace](https://web.auburn.edu/holmerr/2660/Textbook/spanandsubspace-print.pdf)
-	- [X] [Space vs Span: Span is the space of two or more vectors, but space can be space of one vector](https://math.stackexchange.com/questions/3786958/what-is-the-difference-between-vector-space-and-vector-span)
+	- [X] [Space vs Span: Span is the space of two or more vectors, but space can be space of one vector| span is like a verb and space is like a noun](https://math.stackexchange.com/questions/3786958/what-is-the-difference-between-vector-space-and-vector-span)
 	- [X] [Basis](https://en.wikipedia.org/wiki/Basis_(linear_algebra))
 	- [X] [Operations with Vectors or Properties of vectors](https://en.wikipedia.org/wiki/Linear_algebra#Vector_spaces)
 	- [X] [Operations With Vectors](https://www.youtube.com/watch?v=a64RYUtIAYc&list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3&index=4)
