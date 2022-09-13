@@ -635,7 +635,7 @@ a ≤ c
 
 
 	**Decompositions based on eigenvalues and related concepts**
-	- [X] [Eigendecomposition](https://en.wikipedia.org/wiki/Eigendecomposition_of_a_matrix): A = Q $ \Lambda {Q}^{-1}$  ,
+	- [X] [Eigendecomposition](https://en.wikipedia.org/wiki/Eigendecomposition_of_a_matrix): A = Q $ \Lambda$ Q-1  ,
 	- [X] [Jordan decomposition](https://en.wikipedia.org/wiki/Jordan_decomposition)
 	- [X] [Schur decomposition](https://en.wikipedia.org/wiki/Schur_decomposition) | For Square Matrices
 	- [X] [Real Schur decomposition](https://en.wikipedia.org/wiki/Matrix_decomposition#Real_Schur_decomposition)
