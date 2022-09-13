@@ -1523,11 +1523,18 @@ Notes:
 - [X] [Linear Regression from scratch(Gradient Prespective): Geeksforgeeks](https://www.geeksforgeeks.org/linear-regression-implementation-from-scratch-using-python/#:~:text=Linear%20Regression%20is%20a%20supervised,the%20given%20input%20value%20x.)
 - [X] [Linear Regression from scratch(Variance and Covariance prespective): Machine Learning Mastery](https://machinelearningmastery.com/implement-simple-linear-regression-scratch-python/)
 - [X] [Linear Regression from scratch(Variance and Covariance prespective): toward datascience blog](https://medium.com/@lope.ai/linear-regression-from-scratch-in-python-6bdae2ea3610)
+- [X] [StatQuest: Fitting a line to data, aka least squares, aka linear regression.](https://www.youtube.com/watch?v=PaFPbb66DxQ) `0:09:21`
+- [X] [StatQuest: Linear Models Pt.1 - Linear Regression](https://www.youtube.com/watch?v=nk2CQITm_eo) `0:27:26`
+- [X] [StatQuest: StatQuest: Linear Models Pt.2 - t-tests and ANOVA](https://www.youtube.com/watch?v=NF5_btOaCig) `0:11:37`
 - [X] [Article: Polynomial regression](https://www.jeremyjordan.me/polynomial-regression/)
 - [X] [Ridge Regression from Scratch using Python](https://www.geeksforgeeks.org/implementation-of-ridge-regression-from-scratch-using-python/)
+- [X] [Regularization Part 1: Ridge (L2) Regression](https://www.youtube.com/watch?v=Q81RR3yKn30) `0:20:26`
 - [X] [Lasso Regression From Scratch using Python](https://www.geeksforgeeks.org/implementation-of-lasso-regression-from-scratch-using-python/)
+- [X] [Regularization Part 2: Lasso (L1) Regression](https://www.youtube.com/watch?v=NGf0voTMlcs) `0:08:19`
+- [X] [Ridge vs Lasso Regression, Visualized!!!](https://www.youtube.com/watch?v=Xm2C_gTAl8c) `0:09:05`
 - [X] [MultiTaskLasso](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.MultiTaskLasso.html#sklearn.linear_model.MultiTaskLasso)
 - [X] [Elastic Net Regression From Scratch(Ridge+Lasso)](https://www.geeksforgeeks.org/implementation-of-elastic-net-regression-from-scratch/)
+- [X] [Regularization Part 3: Elastic Net Regression](https://www.youtube.com/watch?v=1dKRdX9bfIo) `0:05:19`
 - [X] [Multivariate Adaptive Regression Splines(MARS)](https://contrib.scikit-learn.org/py-earth/content.html)
 - [X] [Multivariate Adaptive Regression Splines on Python](https://medium.com/@aishwaryapatange/pyearth-multivariate-adaptive-regression-splines-on-python-86e8dd647030)
 - [X] [Multivariate Adaptive Regression Splines](https://towardsdatascience.com/mars-multivariate-adaptive-regression-splines-how-to-improve-on-linear-regression-e1e7a63c5eae)
@@ -1542,6 +1549,14 @@ Notes:
 - [X] [Logistic Regression from scratch(Gradient Prespective): IBM blog](https://developer.ibm.com/articles/implementing-logistic-regression-from-scratch-in-python/)
 - [X] [Logistic: Logistic Regression](https://ml-cheatsheet.readthedocs.io/en/latest/logistic_regression.html)
 - [X] [Article: Logistic regression](https://www.jeremyjordan.me/logistic-regression/)
+- [X] [StatQuest: Odds and Log(Odds), Clearly Explained!!!](https://www.youtube.com/watch?v=ARfXDSkQf1Y) `0:11:30`
+- [X] [StatQuest: Odds Ratios and Log(Odds Ratios), Clearly Explained!!!](https://www.youtube.com/watch?v=8nm0G-1uJzA) `0:16:20`
+- [X] [StatQuest: Logistic Regression](https://www.youtube.com/watch?v=yIYKR4sgzI8) `0:08:47`
+- [X] [Logistic Regression Details Pt1: Coefficients](https://www.youtube.com/watch?v=vN5cNN2-HWE) `0:19:02`
+- [X] [Logistic Regression Details Pt 2: Maximum Likelihood](https://www.youtube.com/watch?v=BfKanl1aSG0) `0:10:23`
+- [X] [Logistic Regression Details Pt 3: R-squared and p-value](https://www.youtube.com/watch?v=xxFYro8QuXA) `0:15:25`
+- [X] [Saturated Models and Deviance](https://www.youtube.com/watch?v=9T0wlKdew6I) `0:18:39`
+- [X] [Deviance Residuals](https://www.youtube.com/watch?v=JC56jS2gVUE) `0:06:18`
 - [X] [Ridge Classification]()
 - [X] [Support Vector Machine(Gradient Prespective): Toward Datascience Blog](https://towardsdatascience.com/implementing-svm-from-scratch-784e4ad0bc6a)
 - [X] [Support Vector Machine(Gradient Prespective): Toward Datascience Blog](https://towardsdatascience.com/svm-implementation-from-scratch-python-2db2fc52e5c2)
@@ -1551,11 +1566,21 @@ Notes:
 - [X] [SVM kerna functions](https://www.geeksforgeeks.org/major-kernel-functions-in-support-vector-machine-svm/)
 - [X] [SVM kerna functions](https://medium.com/geekculture/kernel-methods-in-support-vector-machines-bb9409342c49)
 - [X] [SVM kerna functions](https://dataaspirant.com/svm-kernels/)
+- [X] [Support Vector Machines, Clearly Explained!!!](https://www.youtube.com/watch?v=efR1C6CvhmE) `0:20:32`
+- [X] [Support Vector Machines Part 2: The Polynomial Kernel](https://www.youtube.com/watch?v=Toet3EiSFcM) `0:07:15`
+- [X] [Support Vector Machines Part 3: The Radial (RBF) Kernel](https://www.youtube.com/watch?v=Qc5IyLW_hns) `0:15:52`
 - [X] [Decision tree: How to program a decision tree in Python from 0](https://anderfernandez.com/en/blog/code-decision-tree-python-from-scratch/)
 - [X] [Decision tree: Decision tree from scratch: Machine Learning Mastry](https://machinelearningmastery.com/implement-decision-tree-algorithm-scratch-python/)
 - [X] [Decision tree: All About Decision Tree from Scratch with Python Implementation: Analytics Vidhya](https://www.analyticsvidhya.com/blog/2020/10/all-about-decision-tree-from-scratch-with-python-implementation/)
 - [X] [Decision tree: Building a Decision Tree from Scratch in Python | Machine Learning from Scratch (Part III): Toward Datascience](https://levelup.gitconnected.com/building-a-decision-tree-from-scratch-in-python-machine-learning-from-scratch-part-ii-6e2e56265b19)
+- [ ] [Decision Trees in Python from Start to Finish](https://www.youtube.com/watch?v=q90UDEgYqeI) `1:06:23`
 - [X] [Article: Decision trees](https://www.jeremyjordan.me/decision-trees/)
+- [X] [StatQuest: Decision Trees](https://www.youtube.com/watch?v=7VeUPuFGJHk) `0:17:22`
+- [X] [StatQuest: Decision Trees, Part 2 - Feature Selection and Missing Data](https://www.youtube.com/watch?v=wpNl-JwwplA) `0:05:16`
+- [X] [Regression Trees, Clearly Explained!!!](https://www.youtube.com/watch?v=g9c66TUylZ4) `0:22:33`
+- [X] [How to Prune Regression Trees, Clearly Explained!!!](https://www.youtube.com/watch?v=D0efHEJsfHo) `0:16:15`
+- [X] [StatQuest: Random Forests Part 1 - Building, Using and Evaluating](https://www.youtube.com/watch?v=J4Wdy0Wc_xQ) `0:09:54`
+- [X] [StatQuest: Random Forests Part 2: Missing data and clustering](https://www.youtube.com/watch?v=sQ870aTKqiM) `0:11:53`
 - [X] [Conditional tree(Split on the basis of P value)]()
 - [X] [One level decision tree/decision stump(weak learner)]()
 - [X] [C4.5 Decision Tree: A Step By Step C4.5 Decision Tree Example](https://sefiks.com/2018/05/13/a-step-by-step-c4-5-decision-tree-example/)
@@ -1572,6 +1597,8 @@ Notes:
 - [X] [Naive Bayes: Implementing Naïve Bayes Classification from Scratch with Python: Medium](https://blog.devgenius.io/implementing-na%C3%AFve-bayes-classification-from-scratch-with-python-badd5a9be9c3)
 - [X] [Naive Bayes: Implementing Naive Bayes Algorithm from Scratch — Python: Medium](https://towardsdatascience.com/implementing-naive-bayes-algorithm-from-scratch-python-c6880cfc9c41)
 - [X] [Naive Bayes: Naïve Bayes Algorithm -Implementation from scratch in Python: Medium](https://medium.com/@rangavamsi5/na%C3%AFve-bayes-algorithm-implementation-from-scratch-in-python-7b2cc39268b9)
+- [X] [Naive Bayes, Clearly Explained!!!](https://www.youtube.com/watch?v=O2L2Uv9pdDA) `0:15:12`
+- [X] [Gaussian Naive Bayes, Clearly Explained!!!](https://www.youtube.com/watch?v=H3EjCKtlVog) `0:09:41`
 - [X] [AODE: Averaged one-dependence estimators]()
 - [X] [Gaussian Naive Bayes](https://hackernoon.com/implementation-of-gaussian-naive-bayes-in-python-from-scratch-c4ea64e3944d)
 - [X] [Multinomial Naive Bayes: Implementing a Multinomial Naive Bayes Classifier from Scratch with Python](https://medium.com/@johnm.kovachi/implementing-a-multinomial-naive-bayes-classifier-from-scratch-with-python-e70de6a3b92e)
@@ -1590,6 +1617,15 @@ Notes:
 - [X] [Boosting: How to Build a Gradient Boosting Machine from Scratch](https://blog.mattbowers.dev/gradient-boosting-machine-from-scratch)
 - [X] [Article: Boosted trees](https://www.jeremyjordan.me/boosted-trees/)
 - [ ] [Datacamp: Extreme Gradient Boosting with XGBoost](https://www.datacamp.com/courses/extreme-gradient-boosting-with-xgboost)
+- [ ] [AdaBoost, Clearly Explained](https://www.youtube.com/watch?v=LsK-xG1cLYA) `0:20:54`
+- [ ] [Gradient Boost Part 1: Regression Main Ideas](https://www.youtube.com/watch?v=3CC4N4z3GJc) `0:15:52`
+- [ ] [Gradient Boost Part 2: Regression Details](https://www.youtube.com/watch?v=2xudPOBz-vs) `0:26:45`
+- [ ] [Gradient Boost Part 3: Classification](https://www.youtube.com/watch?v=jxuNLH5dXCs) `0:17:02`
+- [ ] [Gradient Boost Part 4: Classification Details](https://www.youtube.com/watch?v=StWY5QWMXCw) `0:36:59`
+- [ ] [XGBoost Part 1: Regression](https://www.youtube.com/watch?v=OtD8wVaFm6E) `0:25:46`
+- [ ] [XGBoost Part 2: Classification](https://www.youtube.com/watch?v=8b1JEDvenQU) `0:25:17`
+- [ ] [XGBoost Part 3: Mathematical Details](https://www.youtube.com/watch?v=ZVFeW798-2I) `0:27:24`
+- [ ] [XGBoost Part 4: Crazy Cool Optimizations](https://www.youtube.com/watch?v=oRrKeUCEbq8) `0:24:27`
 - [X] [KNN: K-Nearest Neighbors from Scratch with Python](https://www.askpython.com/python/examples/k-nearest-neighbors-from-scratch)
 - [X] [KNN: Create a K-Nearest Neighbors Algorithm from Scratch in Python](https://towardsdatascience.com/create-your-own-k-nearest-neighbors-algorithm-in-python-eb7093fc6339)
 - [X] [KNN: Develop k-Nearest Neighbors in Python From Scratch](https://machinelearningmastery.com/tutorial-to-implement-k-nearest-neighbors-in-python-from-scratch/)
@@ -1603,6 +1639,9 @@ Notes:
 - [X] [K-Means Clustering: K-Means Clustering Algorithm from Scratch](https://www.machinelearningplus.com/predictive-modeling/k-means-clustering/)
 - [X] [K-median Clustering: Wikipedia](https://en.wikipedia.org/wiki/K-medians_clustering) 
 - [X] [K-median Clustering: Coursera](https://www.coursera.org/lecture/cluster-analysis/3-5-the-k-medians-and-k-modes-clustering-methods-pShI2)
+- [X] [StatQuest: Hierarchical Clustering](https://www.youtube.com/watch?v=7xHsRkOdVwo) `0:11:19`
+- [X] [StatQuest: K-means clustering](https://www.youtube.com/watch?v=4b5d3muPQmA) `0:08:57`
+- [X] [StatQuest: K-nearest neighbors, Clearly Explained](https://www.youtube.com/watch?v=HVXime0nQeI) `0:05:30`
 - [X] [BIRCH: BIRCH Clustering Algorithm Example In Python](https://towardsdatascience.com/machine-learning-birch-clustering-algorithm-clearly-explained-fb9838cbeed9)
 - [X] [BIRCH: Guide To BIRCH Clustering Algorithm(With Python Codes)](https://analyticsindiamag.com/guide-to-birch-clustering-algorithmwith-python-codes/)
 - [X] [Fuzzy C-means: github](https://github.com/TejasV58/Fuzzy-C-means-from-scratch)
@@ -1614,12 +1653,22 @@ Notes:
 - [X] [PCA: PCA Implementation in Python](https://medium.com/geekculture/ca-pca-implementation-in-python-151fe466a4b4)
 - [X] [PCA: PCA (Principal Component Analysis) in Python - ML From Scratch 11](https://www.python-engineer.com/courses/mlfromscratch/11_pca/)
 - [X] [PCA: Principal Component Analysis (PCA) in Python Tutorial](https://www.datacamp.com/tutorial/principal-component-analysis-in-python)
+- [X] [StatQuest: Principal Component Analysis (PCA), Step-by-Step](https://www.youtube.com/watch?v=FgakZw6K1QQ) `0:21:57`
+- [X] [StatQuest: PCA main ideas in only 5 minutes!!!](https://www.youtube.com/watch?v=HMOI_lkzW08) `0:06:04`
+- [X] [StatQuest: PCA - Practical Tips](https://www.youtube.com/watch?v=oRvgq966yZg) `0:08:19`
+- [X] [StatQuest: PCA in Python](https://www.youtube.com/watch?v=Lsue2gEM9D0) `0:11:37`
+- [ ] [Principal Component Analysis (PCA) clearly explained (2015)](https://www.youtube.com/watch?v=_UVHneBUBW0) `0:20:16`
+- [X] [StatQuest: Linear Discriminant Analysis (LDA) clearly explained.](https://www.youtube.com/watch?v=azXCzI57Yfc) `0:15:12`
+- [X] [StatQuest: MDS and PCoA](https://www.youtube.com/watch?v=GEn-_dAyYME) `0:08:18`
+- [X] [StatQuest: t-SNE, Clearly Explained](https://www.youtube.com/watch?v=NEaUSP4YerM) `0:11:47`
+
 
 - [X] [Article: One-vs-Rest strategy for Multi-Class Classification](https://www.geeksforgeeks.org/one-vs-rest-strategy-for-multi-class-classification/)
 - [X] [Article: Multi-class Classification — One-vs-All & One-vs-One](https://radiant-brushlands-42789.herokuapp.com/towardsdatascience.com/multi-class-classification-one-vs-all-one-vs-one-94daed32a87b)
 - [X] [Article: One-vs-Rest and One-vs-One for Multi-Class Classification](https://machinelearningmastery.com/one-vs-rest-and-one-vs-one-for-multi-class-classification/)
 
-
+- [ ] [StatQuest: Fiitting a curve to data, aka lowess, aka loess](https://www.youtube.com/watch?v=Vf7oJ6z2LCc) `0:10:10`
+- [ ] [Statistics Fundamentals: Population Parameters](https://www.youtube.com/watch?v=vikkiwjQqfU) `0:14:31`
 
 	
 #### Be familar with deep learning algorithms
@@ -1678,6 +1727,8 @@ Regression Loss Functions, Binary Classification Loss Functions, Multi-Class Cla
 - [ ] [How to Choose an Optimization Algorithm](https://machinelearningmastery.com/tour-of-optimization-algorithms/)
 - [ ] [A Survey of Optimization Methods from a Machine Learning Perspective](https://arxiv.org/pdf/1906.06821.pdf)
 - [ ] [Article: Neural networks: training with backpropagation](https://www.jeremyjordan.me/neural-networks-training/)
+- [X] [Gradient Descent, Step-by-Step](https://www.youtube.com/watch?v=sDv4f4s2SB8) `0:23:54`
+- [X] [Stochastic Gradient Descent, Clearly Explained!!!](https://www.youtube.com/watch?v=vMh0zPT0tLI) `0:10:53`
 
 #### Be familar with hypothesis testing
 - [ ] [Hypothesis Testing with Python: Step by step hands-on tutorial with practical examples](https://towardsdatascience.com/hypothesis-testing-with-python-step-by-step-hands-on-tutorial-with-practical-examples-e805975ea96e)
@@ -1750,58 +1801,7 @@ Regression Loss Functions, Binary Classification Loss Functions, Multi-Class Cla
 #### Youtube Channels
 
 - [ ] [StatQuest: Machine Learning](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)
-	- [X] [StatQuest: Fitting a line to data, aka least squares, aka linear regression.](https://www.youtube.com/watch?v=PaFPbb66DxQ) `0:09:21`
-	- [X] [StatQuest: Linear Models Pt.1 - Linear Regression](https://www.youtube.com/watch?v=nk2CQITm_eo) `0:27:26`
-	- [X] [StatQuest: StatQuest: Linear Models Pt.2 - t-tests and ANOVA](https://www.youtube.com/watch?v=NF5_btOaCig) `0:11:37`
-	- [X] [StatQuest: Odds and Log(Odds), Clearly Explained!!!](https://www.youtube.com/watch?v=ARfXDSkQf1Y) `0:11:30`
-	- [X] [StatQuest: Odds Ratios and Log(Odds Ratios), Clearly Explained!!!](https://www.youtube.com/watch?v=8nm0G-1uJzA) `0:16:20`
-	- [X] [StatQuest: Logistic Regression](https://www.youtube.com/watch?v=yIYKR4sgzI8) `0:08:47`
-	- [X] [Logistic Regression Details Pt1: Coefficients](https://www.youtube.com/watch?v=vN5cNN2-HWE) `0:19:02`
-	- [X] [Logistic Regression Details Pt 2: Maximum Likelihood](https://www.youtube.com/watch?v=BfKanl1aSG0) `0:10:23`
-	- [X] [Logistic Regression Details Pt 3: R-squared and p-value](https://www.youtube.com/watch?v=xxFYro8QuXA) `0:15:25`
-	- [X] [Saturated Models and Deviance](https://www.youtube.com/watch?v=9T0wlKdew6I) `0:18:39`
-	- [X] [Deviance Residuals](https://www.youtube.com/watch?v=JC56jS2gVUE) `0:06:18`
-	- [X] [Regularization Part 1: Ridge (L2) Regression](https://www.youtube.com/watch?v=Q81RR3yKn30) `0:20:26`
-	- [X] [Regularization Part 2: Lasso (L1) Regression](https://www.youtube.com/watch?v=NGf0voTMlcs) `0:08:19`
-	- [X] [Ridge vs Lasso Regression, Visualized!!!](https://www.youtube.com/watch?v=Xm2C_gTAl8c) `0:09:05`
-	- [X] [Regularization Part 3: Elastic Net Regression](https://www.youtube.com/watch?v=1dKRdX9bfIo) `0:05:19`
-	- [X] [StatQuest: Principal Component Analysis (PCA), Step-by-Step](https://www.youtube.com/watch?v=FgakZw6K1QQ) `0:21:57`
-	- [X] [StatQuest: PCA main ideas in only 5 minutes!!!](https://www.youtube.com/watch?v=HMOI_lkzW08) `0:06:04`
-	- [X] [StatQuest: PCA - Practical Tips](https://www.youtube.com/watch?v=oRvgq966yZg) `0:08:19`
-	- [X] [StatQuest: PCA in Python](https://www.youtube.com/watch?v=Lsue2gEM9D0) `0:11:37`
-	- [X] [StatQuest: Linear Discriminant Analysis (LDA) clearly explained.](https://www.youtube.com/watch?v=azXCzI57Yfc) `0:15:12`
-	- [X] [StatQuest: MDS and PCoA](https://www.youtube.com/watch?v=GEn-_dAyYME) `0:08:18`
-	- [X] [StatQuest: t-SNE, Clearly Explained](https://www.youtube.com/watch?v=NEaUSP4YerM) `0:11:47`
-	- [X] [StatQuest: Hierarchical Clustering](https://www.youtube.com/watch?v=7xHsRkOdVwo) `0:11:19`
-	- [X] [StatQuest: K-means clustering](https://www.youtube.com/watch?v=4b5d3muPQmA) `0:08:57`
-	- [X] [StatQuest: K-nearest neighbors, Clearly Explained](https://www.youtube.com/watch?v=HVXime0nQeI) `0:05:30`
-	- [X] [Naive Bayes, Clearly Explained!!!](https://www.youtube.com/watch?v=O2L2Uv9pdDA) `0:15:12`
-	- [X] [Gaussian Naive Bayes, Clearly Explained!!!](https://www.youtube.com/watch?v=H3EjCKtlVog) `0:09:41`
-	- [X] [StatQuest: Decision Trees](https://www.youtube.com/watch?v=7VeUPuFGJHk) `0:17:22`
-	- [X] [StatQuest: Decision Trees, Part 2 - Feature Selection and Missing Data](https://www.youtube.com/watch?v=wpNl-JwwplA) `0:05:16`
-	- [X] [Regression Trees, Clearly Explained!!!](https://www.youtube.com/watch?v=g9c66TUylZ4) `0:22:33`
-	- [X] [How to Prune Regression Trees, Clearly Explained!!!](https://www.youtube.com/watch?v=D0efHEJsfHo) `0:16:15`
-	- [X] [StatQuest: Random Forests Part 1 - Building, Using and Evaluating](https://www.youtube.com/watch?v=J4Wdy0Wc_xQ) `0:09:54`
-	- [X] [StatQuest: Random Forests Part 2: Missing data and clustering](https://www.youtube.com/watch?v=sQ870aTKqiM) `0:11:53`
-	- [X] [The Chain Rule](https://www.youtube.com/watch?v=wl1myxrtQHQ) `0:18:23`
-	- [X] [Gradient Descent, Step-by-Step](https://www.youtube.com/watch?v=sDv4f4s2SB8) `0:23:54`
-	- [X] [Stochastic Gradient Descent, Clearly Explained!!!](https://www.youtube.com/watch?v=vMh0zPT0tLI) `0:10:53`
-	- [ ] [AdaBoost, Clearly Explained](https://www.youtube.com/watch?v=LsK-xG1cLYA) `0:20:54`
-	- [ ] [Gradient Boost Part 1: Regression Main Ideas](https://www.youtube.com/watch?v=3CC4N4z3GJc) `0:15:52`
-	- [ ] [Gradient Boost Part 2: Regression Details](https://www.youtube.com/watch?v=2xudPOBz-vs) `0:26:45`
-	- [ ] [Gradient Boost Part 3: Classification](https://www.youtube.com/watch?v=jxuNLH5dXCs) `0:17:02`
-	- [ ] [Gradient Boost Part 4: Classification Details](https://www.youtube.com/watch?v=StWY5QWMXCw) `0:36:59`
-	- [X] [Support Vector Machines, Clearly Explained!!!](https://www.youtube.com/watch?v=efR1C6CvhmE) `0:20:32`
-	- [X] [Support Vector Machines Part 2: The Polynomial Kernel](https://www.youtube.com/watch?v=Toet3EiSFcM) `0:07:15`
-	- [X] [Support Vector Machines Part 3: The Radial (RBF) Kernel](https://www.youtube.com/watch?v=Qc5IyLW_hns) `0:15:52`
-	- [ ] [XGBoost Part 1: Regression](https://www.youtube.com/watch?v=OtD8wVaFm6E) `0:25:46`
-	- [ ] [XGBoost Part 2: Classification](https://www.youtube.com/watch?v=8b1JEDvenQU) `0:25:17`
-	- [ ] [XGBoost Part 3: Mathematical Details](https://www.youtube.com/watch?v=ZVFeW798-2I) `0:27:24`
-	- [ ] [XGBoost Part 4: Crazy Cool Optimizations](https://www.youtube.com/watch?v=oRrKeUCEbq8) `0:24:27`
-	- [ ] [StatQuest: Fiitting a curve to data, aka lowess, aka loess](https://www.youtube.com/watch?v=Vf7oJ6z2LCc) `0:10:10`
-	- [ ] [Statistics Fundamentals: Population Parameters](https://www.youtube.com/watch?v=vikkiwjQqfU) `0:14:31`
-	- [ ] [Principal Component Analysis (PCA) clearly explained (2015)](https://www.youtube.com/watch?v=_UVHneBUBW0) `0:20:16`
-	- [ ] [Decision Trees in Python from Start to Finish](https://www.youtube.com/watch?v=q90UDEgYqeI) `1:06:23`
+	
 - [ ] [Udacity: Classification Models](https://www.udacity.com/course/classification-models--ud978)
 - [ ] [Youtube: Neural Networks from Scratch in Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3)
 	- [ ] [Neural Networks from Scratch - P.1 Intro and Neuron Code](https://www.youtube.com/watch?v=Wo5dMEP_BbI) `0:16:59`
