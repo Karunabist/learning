@@ -541,6 +541,8 @@ a ≤ c
     - [X] [Linear map](https://en.wikipedia.org/wiki/Linear_map)
 	- [X] [Linear Map](https://www.math.ucdavis.edu/~anne/WQ2007/mat67-Lh-Linear_Maps.pdf)
 	- [X] [Vector Space](https://en.wikipedia.org/wiki/Vector_space)
+	- [X] [Field](https://en.wikipedia.org/wiki/Field_(mathematics))
+	- [X] [Vector Space vs Field](https://www.math.arizona.edu/~cais/223Page/hout/236w06fields.pdf): Every field is a vector space over itself. In fact, every field is a vector space over any of its subfields.
 	- [X] [Linear Subspaces](https://en.wikipedia.org/wiki/Linear_subspace)
 	- [X] [Null Space or Kernel (linear algebra)](https://en.wikipedia.org/wiki/Kernel_(linear_algebra))
 	- [X] [Row and column spaces](https://en.wikipedia.org/wiki/Row_and_column_spaces)
@@ -605,6 +607,7 @@ a ≤ c
 	- [X] [Independence](https://en.wikipedia.org/wiki/System_of_linear_equations#Independence)
 	- [X] [Consistency](https://en.wikipedia.org/wiki/System_of_linear_equations#Consistency): A linear system is inconsistent if it has no solution, and otherwise it is said to be consistent. 
 	- [X] [Equivalence](https://en.wikipedia.org/wiki/System_of_linear_equations#Equivalence)
+	- [X] [Row Echelon Form](https://en.wikipedia.org/wiki/Row_echelon_form)
 	- [X] [Solving a linear system](https://en.wikipedia.org/wiki/System_of_linear_equations#Solving_a_linear_system)
 	- [X] [Describing the solution](https://en.wikipedia.org/wiki/System_of_linear_equations#Describing_the_solution)
 	- [X] [By graphical Representation]()
