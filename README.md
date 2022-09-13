@@ -536,11 +536,14 @@ a ≤ c
 
 ##### Linear Algebra
 
-- [X] [Vector](https://en.wikipedia.org/wiki/Vector_space#Examples)
+- [X] [Vector And Spaces](https://en.wikipedia.org/wiki/Vector_space#Examples)
     - [X] [Vector](https://www.youtube.com/watch?v=S2f4KNnBhks&list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3&index=3)| Calculate a mean,variance... for a vector
     - [X] [Linear map](https://en.wikipedia.org/wiki/Linear_map)
 	- [X] [Linear Map](https://www.math.ucdavis.edu/~anne/WQ2007/mat67-Lh-Linear_Maps.pdf)
+	- [X] [Vector Space](https://en.wikipedia.org/wiki/Vector_space)
 	- [X] [Linear Subspaces](https://en.wikipedia.org/wiki/Linear_subspace)
+	- [X] [Null Space or Kernel (linear algebra)](https://en.wikipedia.org/wiki/Kernel_(linear_algebra))
+	- [X] [Row and column spaces](https://en.wikipedia.org/wiki/Row_and_column_spaces)
 	- [X] [Linear span](https://en.wikipedia.org/wiki/Linear_span)
 	- [X] [Subspaces vs Span](https://web.auburn.edu/holmerr/2660/Textbook/spanandsubspace-print.pdf): Span is always subspace
 	- [X] [Space vs Span](https://math.stackexchange.com/questions/3786958/what-is-the-difference-between-vector-space-and-vector-span): Span is the space of two or more vectors, but space can be space of one vector| span is like a verb and space is like a noun
@@ -570,6 +573,8 @@ a ≤ c
 	- [X] [Trace (linear algebra)](https://en.wikipedia.org/wiki/Trace_(linear_algebra)): sum of elements on the main diagonal (from the upper left to the lower right) 
 	- [X] [Determinant](https://en.wikipedia.org/wiki/Determinant)
 	- [X] [Invertible matrix](https://en.wikipedia.org/wiki/Invertible_matrix)
+	- [X] [Non-Singular Matrix](https://www.cuemath.com/algebra/non-singular-matrix/):Non Singular matrix is a square matrix whose determinant is a non-zero value.
+	- [X] [Pivot Element](https://en.wikipedia.org/wiki/Pivot_element#:~:text=The%20pivot%20or%20pivot%20element,)%2C%20to%20do%20certain%20calculations.)
 	- [X] [Eigenvalues and eigenvectors](https://en.wikipedia.org/wiki/Eigenvalues_and_eigenvectors)
 	- [X] [Computational aspects: A−1 = adj(A) / det(A)](https://en.wikipedia.org/wiki/Matrix_(mathematics)#Computational_aspects)
     - [X] [Linear equation and System of linear equations](https://en.wikipedia.org/wiki/Linear_equation)
@@ -617,7 +622,7 @@ a ≤ c
 
 	- [X] [LU Reduction](https://en.wikipedia.org/wiki/LU_reduction):A= LU, For Square Matrices ,LU reduction is a special parallelized version of an LU decomposition algorithm
 	- [X] [Block LU decomposition](https://netlib.org/lapack/lawnspdf/lawn40.pdf):A= LU, For Square Matrices , Nearly same as LU decomposition
-	- [X] [Rank factorization or Rank Decomposition](https://en.wikipedia.org/wiki/Rank_factorization): A = CF
+	- [X] [Rank factorization or Rank Decomposition](https://en.wikipedia.org/wiki/Rank_factorization): A = CF, 
 	- [X] [Cholesky decomposition](https://en.wikipedia.org/wiki/Cholesky_decomposition) | For Square Matrices
 	- [X] [QR Decomposition](https://en.wikipedia.org/wiki/QR_decomposition) | For Square Matrices
 	- [X] [Reduced QR Factorization](http://www.math.iit.edu/~fass/477577_Chapter_4.pdf) | For Square Matrices
@@ -746,6 +751,7 @@ a ≤ c
 
 - [X] [Numerical Linear Algebra 1st Edition by Lloyd N. Trefethen](https://cdn.bc-pf.org/resources/math/algebra/linear_algebra/Trefethen_Bau-Numerical_Linear_Algebra.pdf)
 - [X] [Linear Algebra and Matrix Analysis for Statistics(Chapman & Hall/CRC Texts in Statistical Science) 1st Edition by Sudipto Banerjee](https://xn--webducation-dbb.com/wp-content/uploads/2018/06/Linear-Algebra-and-Matrix-Analysis-for-Statistics.pdf)
+- [X] [Matrix Analysis and Linear Algebra By Carl D. Meyer](https://drive.google.com/file/d/1tz8j9jv8YCZ6ODRCXSbvTRE_w90QgsTN/view)
 - [X] [Linear Algebra: Wikipedia](https://en.wikipedia.org/wiki/Linear_algebra)
 - [ ] [Mathematics For Machine Learning](https://mml-book.github.io/book/mml-book.pdf)
 - [ ] [Mathematics for Machine Leaning Linear Algebra](https://www.youtube.com/watch?v=T73ldK46JqE&list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3)
