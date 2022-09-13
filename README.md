@@ -578,9 +578,10 @@ a ≤ c
 	- [X] [Identity matrix](https://en.wikipedia.org/wiki/Identity_matrix)
 	- [X] [Symmetric or skew-symmetric matrix](https://en.wikipedia.org/wiki/Matrix_(mathematics)#Symmetric_or_skew-symmetric_matrix)
 	- [X] [Invertible matrix and its inverse](https://en.wikipedia.org/wiki/Matrix_(mathematics)#Invertible_matrix_and_its_inverse)
-	- [X] [Definite matrix](https://en.wikipedia.org/wiki/Matrix_(mathematics)#Definite_matrix)
-	- [X] [Orthogonal matrix](https://en.wikipedia.org/wiki/Orthogonal_matrix)
-	- [X] [cofactors]()
+	- [X] [Definite matrix](https://en.wikipedia.org/wiki/Matrix_(mathematics)#Definite_matrix): A positive definite matrix is a symmetric matrix where every eigenvalue is positive.
+	- [X] [Orthogonal matrix](https://en.wikipedia.org/wiki/Orthogonal_matrix): AT = A-1
+	- [X] [cofactors](https://nl.wikipedia.org/wiki/Minor_(wiskunde)): Cij = (-1)i+j Mij, where Mij is minor of aij.
+	- [X] [Minor](https://nl.wikipedia.org/wiki/Minor_(wiskunde)): Cij = (-1)i+j Mij, where Mij is minor of aij.
     - [X] [Rank Of Matrix](https://en.wikipedia.org/wiki/Rank_(linear_algebra))
     - [X] [Projection (linear algebra)](https://en.wikipedia.org/wiki/Projection_(linear_algebra))
 
