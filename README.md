@@ -576,7 +576,7 @@ a ≤ c
 	- [X] [Determinant](https://en.wikipedia.org/wiki/Determinant)
 	- [X] [Invertible matrix](https://en.wikipedia.org/wiki/Invertible_matrix)
 	- [X] [Non-Singular Matrix](https://www.cuemath.com/algebra/non-singular-matrix/):Non Singular matrix is a square matrix whose determinant is a non-zero value.
-	- [X] [Pivot Element](https://en.wikipedia.org/wiki/Pivot_element#:~:text=The%20pivot%20or%20pivot%20element,)%2C%20to%20do%20certain%20calculations.)
+	- [X] [Pivot Element](https://en.wikipedia.org/wiki/Pivot_element)
 	- [X] [Eigenvalues and eigenvectors](https://en.wikipedia.org/wiki/Eigenvalues_and_eigenvectors)
 	- [X] [Computational aspects: A−1 = adj(A) / det(A)](https://en.wikipedia.org/wiki/Matrix_(mathematics)#Computational_aspects)
     - [X] [Linear equation and System of linear equations](https://en.wikipedia.org/wiki/Linear_equation)
@@ -628,14 +628,14 @@ a ≤ c
 	- [X] [Block LU decomposition](https://netlib.org/lapack/lawnspdf/lawn40.pdf):A= LU, For Square Matrices , Nearly same as LU decomposition
 	- [X] [Rank factorization or Rank Decomposition](https://en.wikipedia.org/wiki/Rank_factorization): A = CF, Use in SVD
 	- [X] [Cholesky decomposition](https://en.wikipedia.org/wiki/Cholesky_decomposition) | A=LL*, For Square Matrices, Applications: [Linear least squares,Non-linear optimization,Monte Carlo simulation,Kalman filters,Matrix inversion](https://en.wikipedia.org/wiki/Cholesky_decomposition#Applications)
-	- [X] [QR Decomposition or QU Factorization](https://en.wikipedia.org/wiki/QR_decomposition) | For Square Matrices
+	- [X] [QR Decomposition or QU Factorization](https://en.wikipedia.org/wiki/QR_decomposition) | A=QR,For Square Matrices, 
 	- [X] [Reduced QR Factorization](http://www.math.iit.edu/~fass/477577_Chapter_4.pdf) | For Square Matrices
 	- [X] [RRQR factorization](https://en.wikipedia.org/wiki/RRQR_factorization)
 	- [X] [Interpolative decomposition](https://en.wikipedia.org/wiki/Interpolative_decomposition)
 
 
 	**Decompositions based on eigenvalues and related concepts**
-	- [X] [Eigendecomposition](https://en.wikipedia.org/wiki/Eigendecomposition_of_a_matrix)
+	- [X] [Eigendecomposition](https://en.wikipedia.org/wiki/Eigendecomposition_of_a_matrix): A = Q $ \Lambda {Q}^{-1}$  ,
 	- [X] [Jordan decomposition](https://en.wikipedia.org/wiki/Jordan_decomposition)
 	- [X] [Schur decomposition](https://en.wikipedia.org/wiki/Schur_decomposition) | For Square Matrices
 	- [X] [Real Schur decomposition](https://en.wikipedia.org/wiki/Matrix_decomposition#Real_Schur_decomposition)
