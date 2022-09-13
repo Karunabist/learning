@@ -1721,7 +1721,7 @@ Notes:
 
 Regression Loss Functions, Binary Classification Loss Functions, Multi-Class Classification Loss Functions
 
-	
+- [ ] [ ](https://vinija.ai/toolkit/loss/#multiple-negative-ranking-loss)
 - [ ] [Common Loss functions in machine learning](https://towardsdatascience.com/common-loss-functions-in-machine-learning-46af0ffc4d23)
 - [ ] [A Detailed Guide to 7 Loss Functions for Machine Learning Algorithms with Python Code](https://www.analyticsvidhya.com/blog/2019/08/detailed-guide-7-loss-functions-machine-learning-python-code/)
 - [ ] [How to Choose Loss Functions When Training Deep Learning Neural Networks](https://machinelearningmastery.com/how-to-choose-loss-functions-when-training-deep-learning-neural-networks/)
