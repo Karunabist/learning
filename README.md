@@ -797,7 +797,7 @@ a ≤ c
 
 ### Change(Calculus)
 
-- [X] [Limits and infinitesimals](https://en.wikipedia.org/wiki/Calculus#Limits_and_infinitesimals)
+- [X] [Limits and infinitesimals](https://en.wikipedia.org/wiki/Limit_of_a_function)
 
 	- Note: If No sign +,- then it is from both side
 	- Both side: Analyze from both side and approach near if the limit from both side is nearly same then that is answer. Otherwise unbounded/ doesn't exist
@@ -813,6 +813,8 @@ a ≤ c
     - [X] [One-side limits](https://tutorial.math.lamar.edu/classes/calci/onesidedlimits.aspx)
 	- [X] [Estimating limits from tables: Think Table in term of graph](https://www.khanacademy.org/math/differential-calculus/dc-limits/dc-limits-from-tables/v/approximating-limit-from-table)
 	- [X] [Estimating limits from tables](https://www.geeksforgeeks.org/estimating-limits-from-tables/)
+	- [X] [Formal definition of limits (epsilon-delta)](https://www.khanacademy.org/math/differential-calculus/dc-limits/dc-epsilon-delta/v/limit-intuition-review)
+	- [X] [(ε, δ)-definition of limit](https://en.wikipedia.org/wiki/Limit_of_a_function#(%CE%B5,_%CE%B4)-definition_of_limit)
 	- [X] [Properties of limits](https://www.khanacademy.org/math/differential-calculus/dc-limits/dc-limit-prop/v/limit-properties)
 	- [X] [Properties of limits](https://tutorial.math.lamar.edu/classes/calci/limitsproperties.aspx)
 	- [X] [Properties of limits](https://www.toppr.com/guides/maths/limits-and-derivatives/limits/)
@@ -837,13 +839,18 @@ a ≤ c
 	- [X] [Strategy in finding limits](http://www.milefoot.com/math/calculus/limits/LimitStrategies11.htm)
 	- [X] [Squeeze theorem](https://www.khanacademy.org/math/differential-calculus/dc-limits/dc-squeeze-theorem/v/squeeze-sandwich-theorem)
 	- [X] [Squeeze theorem](https://en.wikipedia.org/wiki/Squeeze_theorem)
-
-    Ongoing from khan academy
-
+    - [X] [Types of discontinuities](https://www.khanacademy.org/math/differential-calculus/dc-limits/dc-discontinuities/v/types-of-discontinuities)
+	- [X] [Continuity at a point](https://www.khanacademy.org/math/differential-calculus/dc-limits/dc-point-continuity/v/continuity-at-a-point)
+	- [X] [Continuity over an interval](https://www.khanacademy.org/math/differential-calculus/dc-limits/dc-interval-continuity/v/continuity-over-an-interval)
+	- [X] [Removing discontinuities](https://www.khanacademy.org/math/differential-calculus/dc-limits/dc-removing-discontinuity/v/defining-a-function-at-a-point-to-make-it-continuous)
+	- [X] [Infinite limits](https://www.khanacademy.org/math/differential-calculus/dc-limits/dc-infinite-limits/v/introduction-to-infinite-limits)
+	- [X] [Limits at infinity](https://www.khanacademy.org/math/differential-calculus/dc-limits/dc-limits-at-infinity/v/introduction-to-limits-at-infinity)
+	- [X] [Intermediate value theorem](https://www.khanacademy.org/math/differential-calculus/dc-limits/dc-ivt/v/intermediate-value-theorem)
 
 
 - [X] [Differential calculus](https://en.wikipedia.org/wiki/Differential_calculus)
-    - [ ] []()
+    - [X] [Derivative](https://en.wikipedia.org/wiki/Differential_calculus#Derivative)
+	- [X] []()
 
 - [X] [Integral calculus](https://en.wikipedia.org/wiki/Integral)
     - [ ] []()
