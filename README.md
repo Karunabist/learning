@@ -584,6 +584,7 @@ a ≤ c
 	- [X] [Minor](https://nl.wikipedia.org/wiki/Minor_(wiskunde)): Cij = (-1)i+j Mij, where Mij is minor of aij.
     - [X] [Rank Of Matrix](https://en.wikipedia.org/wiki/Rank_(linear_algebra))
     - [X] [Projection (linear algebra)](https://en.wikipedia.org/wiki/Projection_(linear_algebra))
+	- [X] [Permutation matrix](https://en.wikipedia.org/wiki/Permutation_matrix)
 
 
 - [X] [System Of Equation/Solving Equation Problems](https://en.wikipedia.org/wiki/System_of_linear_equations)
@@ -601,6 +602,7 @@ a ≤ c
 	- [X] [Equivalence](https://en.wikipedia.org/wiki/System_of_linear_equations#Equivalence)
 	- [X] [Solving a linear system](https://en.wikipedia.org/wiki/System_of_linear_equations#Solving_a_linear_system)
 	- [X] [Describing the solution](https://en.wikipedia.org/wiki/System_of_linear_equations#Describing_the_solution)
+	- [X] [By graphical Representation]()
 	- [X] [Elimination of variables](https://en.wikipedia.org/wiki/System_of_linear_equations#Elimination_of_variables)
 	- [X] [Row reduction(Echelon form,Gaussian elimination,Gauss–Jordan elimination)](https://en.wikipedia.org/wiki/System_of_linear_equations#Row_reduction)
 	- [X] [Cramer's rule](https://en.wikipedia.org/wiki/System_of_linear_equations#Cramer's_rule)
