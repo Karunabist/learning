@@ -597,7 +597,7 @@ a ≤ c
 	- [X] [General behavior](https://en.wikipedia.org/wiki/System_of_linear_equations#General_behavior)
 	- [X] [Properties](https://en.wikipedia.org/wiki/System_of_linear_equations#General_behavior)
 	- [X] [Independence](https://en.wikipedia.org/wiki/System_of_linear_equations#Independence)
-	- [X] [Consistency](https://en.wikipedia.org/wiki/System_of_linear_equations#Consistency)
+	- [X] [Consistency](https://en.wikipedia.org/wiki/System_of_linear_equations#Consistency): A linear system is inconsistent if it has no solution, and otherwise it is said to be consistent. 
 	- [X] [Equivalence](https://en.wikipedia.org/wiki/System_of_linear_equations#Equivalence)
 	- [X] [Solving a linear system](https://en.wikipedia.org/wiki/System_of_linear_equations#Solving_a_linear_system)
 	- [X] [Describing the solution](https://en.wikipedia.org/wiki/System_of_linear_equations#Describing_the_solution)
