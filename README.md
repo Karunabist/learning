@@ -613,10 +613,11 @@ a ≤ c
 - [X] [Matrices Factorization and Decomposition](https://en.wikipedia.org/wiki/Matrix_decomposition#:~:text=In%20the%20mathematical%20discipline%20of,a%20particular%20class%20of%20problems.)
 
     **Decompositions related to solving systems of linear equations**
-	- [X] [LU Decomposition](https://en.wikipedia.org/wiki/LU_decomposition) | For Square Matrices
-	- [X] [LU Reduction](https://en.wikipedia.org/wiki/LU_reduction)
-	- [X] [Block LU decomposition](https://en.wikipedia.org/wiki/Block_LU_decomposition)
-	- [X] [Rank factorization](https://en.wikipedia.org/wiki/Rank_factorization)
+	- [X] [LU Decomposition](https://en.wikipedia.org/wiki/LU_decomposition) :  A= LU,For Square Matrices , Applications: [Solving linear equations,Inverting a matrix, Computing the determinant](https://en.wikipedia.org/wiki/LU_decomposition#Applications)
+
+	- [X] [LU Reduction](https://en.wikipedia.org/wiki/LU_reduction):A= LU, For Square Matrices ,LU reduction is a special parallelized version of an LU decomposition algorithm
+	- [X] [Block LU decomposition](https://netlib.org/lapack/lawnspdf/lawn40.pdf):A= LU, For Square Matrices , Nearly same as LU decomposition
+	- [X] [Rank factorization or Rank Decomposition](https://en.wikipedia.org/wiki/Rank_factorization): A = CF
 	- [X] [Cholesky decomposition](https://en.wikipedia.org/wiki/Cholesky_decomposition) | For Square Matrices
 	- [X] [QR Decomposition](https://en.wikipedia.org/wiki/QR_decomposition) | For Square Matrices
 	- [X] [Reduced QR Factorization](http://www.math.iit.edu/~fass/477577_Chapter_4.pdf) | For Square Matrices
