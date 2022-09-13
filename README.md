@@ -584,7 +584,7 @@ a ≤ c
 	- [X] [Minor](https://nl.wikipedia.org/wiki/Minor_(wiskunde)): Cij = (-1)i+j Mij, where Mij is minor of aij.
     - [X] [Rank Of Matrix](https://en.wikipedia.org/wiki/Rank_(linear_algebra))
     - [X] [Projection (linear algebra)](https://en.wikipedia.org/wiki/Projection_(linear_algebra))
-	- [X] [Permutation matrix](https://en.wikipedia.org/wiki/Permutation_matrix)
+	- [X] [Permutation matrix](https://en.wikipedia.org/wiki/Permutation_matrix): Helps to exchange rows or columns
 
 
 - [X] [System Of Equation/Solving Equation Problems](https://en.wikipedia.org/wiki/System_of_linear_equations)
