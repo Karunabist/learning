@@ -873,6 +873,7 @@ a ≤ c
 	- [X] [Limits at infinity](https://www.khanacademy.org/math/differential-calculus/dc-limits/dc-limits-at-infinity/v/introduction-to-limits-at-infinity)
 	- [X] [Intermediate value theorem](https://www.khanacademy.org/math/differential-calculus/dc-limits/dc-ivt/v/intermediate-value-theorem)
 
+    Ongoing from wikipedia
 
 - [X] [Differential calculus](https://en.wikipedia.org/wiki/Differential_calculus)
     - [X] [Derivative](https://en.wikipedia.org/wiki/Differential_calculus#Derivative)
