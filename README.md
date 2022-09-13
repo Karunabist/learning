@@ -557,7 +557,7 @@ a ≤ c
     - [X] [Vector projection](https://en.wikipedia.org/wiki/Vector_projection)
 	- [X] [Projection](https://www.youtube.com/watch?v=iucKb-VSrRc&list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3&index=9)
 	- [X] [Change of basis](https://en.wikipedia.org/wiki/Change_of_basis)
-	- [X] [Changing Basis](https://www.youtube.com/watch?v=D7QY2kis4bw&list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3&index=10)
+	- [X] [Changing Basis](https://www.youtube.com/watch?v=D7QY2kis4bw&list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3&index=10): Projecting into new basis vectors
 	- [X] [Application of Changing Basis](https://www.youtube.com/watch?v=GpFDwzHlrKk&list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3&index=12)
 	- [X] [Linear Independence](https://en.wikipedia.org/wiki/Linear_independence)
 	- [X] [gram-schmidt orthogonalization](https://en.wikipedia.org/wiki/Gram%E2%80%93Schmidt_process)
