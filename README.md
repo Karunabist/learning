@@ -812,7 +812,7 @@ a ≤ c
 - [X] [An Introduction to Measure Theory](https://terrytao.files.wordpress.com/2012/12/gsm-126-tao5-measure-book.pdf)
 - [X] [Measure (mathematics): Wikipedia](https://en.wikipedia.org/wiki/Measure_(mathematics))
 
-### Change(Calculus)
+### Change([Calculus](https://en.wikipedia.org/wiki/Calculus))
 
 - [X] [Limits and infinitesimals](https://en.wikipedia.org/wiki/Limit_of_a_function)
     - Limit :  Limit of function f(x) at x->a, means value of function f(x) when we approaching x to a from both side or one side.
@@ -888,6 +888,8 @@ a ≤ c
   
     - Derivative: Derivative of function f(x) at x=a is define as solpe of tangent for this function at a. i.e from right side: (f(x+h)-f(x))/(x + h - x) or from left side: (f(x-h)-f(x))/(x - h - x). Analysis from both side.
 
+	Univeriate Calculus
+
     - [X] [Average vs. instantaneous rate of change](https://calcworkshop.com/derivatives/average-rate-of-change-calculus/): While both are used to find the slope, the average rate of change calculates the slope of the secant line(f(b)-f(a))/(b-a) using the slope formula from algebra. The instantaneous rate(f(x+h)-f(x))/(x + h - x) (where h is very small change) of change calculates the slope of the tangent line using derivatives.
 	- [X] [Average vs. instantaneous rate of change](https://www.khanacademy.org/math/differential-calculus/dc-diff-intro/dc-diff-calc-intro/v/newton-leibniz-and-usain-bolt)
 	- [X] [Secant](https://en.wikipedia.org/wiki/Tangent)
@@ -960,19 +962,24 @@ a ≤ c
 	- [X] [Implicit function theorem](https://en.wikipedia.org/wiki/Implicit_function_theorem)
 	
 
-- [X] [Integral calculus](https://en.wikipedia.org/wiki/Integral)
+	Multivariable Calculus
+
+- [X] [Integral](https://en.wikipedia.org/wiki/Integral)
     - [ ] []()
 
 
-- [ ] [3Blue1Brown: Essence of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+
 - [ ] [ Khan Academy: Differential Calculus](https://www.khanacademy.org/math/differential-calculus)
 - [ ] [ Khan Academy: Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus)
+- [ ] [Khan Academy: A brief introduction to integral calculus](https://www.khanacademy.org/math/integral-calculus)
 - [ ] [Calculus: Wikipedia](https://en.wikipedia.org/wiki/Calculus)
+- [ ] [3Blue1Brown: Essence of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 - [ ] [Paul’s Online Math Notes ](https://tutorial.math.lamar.edu/Classes/CalcI/CalcI.aspx)
 - [ ] [MIT](https://ocw.mit.edu/search/?q=single%20variable%20calculus)
 - [ ] [Calculus Help](http://calculus-help.com/tutorials/)
 - [ ] [Sacramento State](https://csus.libguides.com/c.php?g=768134&p=7395082)
 	
+
 ## Applied Mathematics
 
 ### Probability
