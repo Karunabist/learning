@@ -881,8 +881,18 @@ a ≤ c
     - [X] [L'Hôpital's rule](https://en.wikipedia.org/wiki/L%27H%C3%B4pital%27s_rule)
 
 - [X] [Differential calculus](https://en.wikipedia.org/wiki/Differential_calculus)
+
+    - [X] [Average vs. instantaneous rate of change](https://calcworkshop.com/derivatives/average-rate-of-change-calculus/): While both are used to find the slope, the average rate of change calculates the slope of the secant line using the slope formula from algebra. The instantaneous rate of change calculates the slope of the tangent line using derivatives.
+	- [X] [Average vs. instantaneous rate of change](https://www.khanacademy.org/math/differential-calculus/dc-diff-intro/dc-diff-calc-intro/v/newton-leibniz-and-usain-bolt)
+	- [X] [Secant](https://en.wikipedia.org/wiki/Tangent)
+	- [X] [Secant Line](https://www.khanacademy.org/math/differential-calculus/dc-diff-intro#dc-secant-lines)
+	- [X] [Tangent](https://en.wikipedia.org/wiki/Tangent)
+	- [X] [Chord](https://en.wikipedia.org/wiki/Tangent)
     - [X] [Derivative](https://en.wikipedia.org/wiki/Differential_calculus#Derivative)
-	- [X] [Average vs. instantaneous rate of change]()
+	- [X] [Derivative definition](https://www.khanacademy.org/math/differential-calculus/dc-diff-intro/dc-derivative-intro/v/calculus-derivatives-1-new-hd-version)
+	- [X] [Derivative notation review](https://en.wikipedia.org/wiki/Notation_for_differentiation)
+	- [X] [Derivative as a limit](https://www.khanacademy.org/math/differential-calculus/dc-diff-intro/dc-derivative-intro/v/formal-and-alternate-form-of-the-derivative-for-ln-x)
+	- [X] [Derivative as a limit](https://www.berkeleycitycollege.edu/wjeh/files/2012/08/calculus_note_intro_derivative.pdf)
 
 - [X] [Integral calculus](https://en.wikipedia.org/wiki/Integral)
     - [ ] []()
