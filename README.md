@@ -815,8 +815,8 @@ a ≤ c
 ### Change(Calculus)
 
 - [X] [Limits and infinitesimals](https://en.wikipedia.org/wiki/Limit_of_a_function)
-
-	- Note: If No sign +,- then it is from both side
+    - Limit :  Limit of function f(x) at x->a, means value of function f(x) when we approaching x to a from both side or one side.
+	- Note: If No sign +,- then we need to do analysis from both side
 	- Both side: Analyze from both side and approach near if the limit from both side is nearly same then that is answer. Otherwise unbounded/ doesn't exist
 	- One Side: Analyze from only one side
 	- Try to remove divisible term, which try to generate Indeterminate form(0/0)
@@ -880,25 +880,45 @@ a ≤ c
 	- [X] [Logarithmic functions](https://www.superprof.co.uk/resources/academic/maths/calculus/limits/limit-of-a-logarithmic-function.html)
     - [X] [L'Hôpital's rule](https://en.wikipedia.org/wiki/L%27H%C3%B4pital%27s_rule)
 
-- [X] [Differential calculus](https://en.wikipedia.org/wiki/Differential_calculus)
 
-    - [X] [Average vs. instantaneous rate of change](https://calcworkshop.com/derivatives/average-rate-of-change-calculus/): While both are used to find the slope, the average rate of change calculates the slope of the secant line using the slope formula from algebra. The instantaneous rate of change calculates the slope of the tangent line using derivatives.
+
+- [X] [Differential calculus](https://en.wikipedia.org/wiki/Differential_calculus)
+  
+    - Derivative: Derivative of function f(x) at x=a is define as solpe of tangent for this function at a. i.e from right side: (f(x+h)-f(x))/(x + h - x) or from left side: (f(x-h)-f(x))/(x - h - x). Analysis from both side.
+
+    - [X] [Average vs. instantaneous rate of change](https://calcworkshop.com/derivatives/average-rate-of-change-calculus/): While both are used to find the slope, the average rate of change calculates the slope of the secant line(f(b)-f(a))/(b-a) using the slope formula from algebra. The instantaneous rate(f(x+h)-f(x))/(x + h - x) (where h is very small change) of change calculates the slope of the tangent line using derivatives.
 	- [X] [Average vs. instantaneous rate of change](https://www.khanacademy.org/math/differential-calculus/dc-diff-intro/dc-diff-calc-intro/v/newton-leibniz-and-usain-bolt)
 	- [X] [Secant](https://en.wikipedia.org/wiki/Tangent)
 	- [X] [Secant Line](https://www.khanacademy.org/math/differential-calculus/dc-diff-intro#dc-secant-lines)
+	- [X] [Slope of secant line: (f(b)-f(a))/(b-a)](https://www.cuemath.com/slope-of-the-secant-line-formula/)
 	- [X] [Tangent](https://en.wikipedia.org/wiki/Tangent)
+	- [x] [Slope of tangent line: (f(x+h)-f(x))/(x + h - x) (where h is very small change)](https://www.cuemath.com/calculus/tangent-line/)
 	- [X] [Chord](https://en.wikipedia.org/wiki/Tangent)
-    - [X] [Derivative](https://en.wikipedia.org/wiki/Differential_calculus#Derivative)
+    - [X] [Derivative](https://en.wikipedia.org/wiki/Differential_calculus#Derivative): The derivative of f(x) at the point x=a is the slope of the tangent to (a,f(a)).
 	- [X] [Derivative definition](https://www.khanacademy.org/math/differential-calculus/dc-diff-intro/dc-derivative-intro/v/calculus-derivatives-1-new-hd-version)
 	- [X] [Derivative notation review](https://en.wikipedia.org/wiki/Notation_for_differentiation)
 	- [X] [Derivative as a limit](https://www.khanacademy.org/math/differential-calculus/dc-diff-intro/dc-derivative-intro/v/formal-and-alternate-form-of-the-derivative-for-ln-x)
 	- [X] [Derivative as a limit](https://www.berkeleycitycollege.edu/wjeh/files/2012/08/calculus_note_intro_derivative.pdf)
 	- [X] [Estimate derivatives from table](https://www.khanacademy.org/math/differential-calculus/dc-diff-intro/dc-estimate-derivatives/v/estimating-derivative-at-a-point)
 	- [X] [Estimate derivatives from table](https://www.shmoop.com/derivatives/estimating-derivatives-table-exercises.html)
-
-
-
+    - [X] [Differentiability and continuity](https://www.khanacademy.org/math/differential-calculus/dc-diff-intro/dc-differentiability/v/differentiability): function whose derivative exists at each point in its domain is known as differentiability. If limit from both side is exist then the function is differentiable. If limit from both is nearly equal then the function is known as continious otherwise discontinious. Before checking differentiability wee need to check continuity. If the function is continious then it is differentiable otherwise not differentiable. 
 	- [X] [Differential equation](https://en.wikipedia.org/wiki/Differential_equation)
+	- [X] [Power rule](https://www.khanacademy.org/math/differential-calculus/dc-diff-intro/dc-power-rule/v/power-rule)
+	- [X] [Power rule](https://en.wikipedia.org/wiki/Power_rule)
+    - [X] [Basic derivative rules](https://www.khanacademy.org/math/differential-calculus/dc-diff-intro/dc-basic-diff-rules/v/derivative-properties-and-polynomial-derivatives)
+	- [X] [Basic derivative rules](https://www.mathsisfun.com/calculus/derivatives-rules.html)
+	- [X] [Basic derivative rules](https://www.math.ucdavis.edu/~kouba/Math17BHWDIRECTORY/Derivatives.pdf)
+	- [X] [Combining the power rule with other derivative rules](https://www.khanacademy.org/math/differential-calculus/dc-diff-intro/dc-combine-power-rule-with-others/v/differentiating-polynomials-example)
+	- [X] [Derivatives of cos(x), sin(x), 𝑒ˣ, and ln(x)](https://www.khanacademy.org/math/differential-calculus/dc-diff-intro/dc-more-diff-rules/v/derivatives-of-sinx-and-cosx)
+	- [X] [Derivatives of tan(x), cot(x), sec(x), and csc(x)](https://www.khanacademy.org/math/differential-calculus/dc-diff-intro/dc-trig-derivatives/v/derivatives-of-tanx-and-cotx)
+	- [X] [Differentiation of trigonometric functions](https://math24.net/derivatives-trigonometric-functions.html)
+	- [X] [Differentiation of exponential functions](https://tutorial.math.lamar.edu/classes/calci/diffexplogfcns.aspx)
+	- [X] [Differentiation of Logarithm Functions](https://math24.net/derivatives-logarithmic-functions.html)
+	- [X] [Product rule](https://www.khanacademy.org/math/differential-calculus/dc-diff-intro/dc-product-rule/v/applying-the-product-rule-for-derivatives)
+	- [X] [Product rule](https://en.wikipedia.org/wiki/Product_rule)
+	- [X] [Quotient rule](https://www.khanacademy.org/math/differential-calculus/dc-diff-intro/dc-quotient-rule/v/quotient-rule)
+	- [X] [Quotient rule](https://en.wikipedia.org/wiki/Quotient_rule)
+
 	- [X] [Mean value theorem](https://en.wikipedia.org/wiki/Differential_calculus#Mean_value_theorem)
 	- [X] [Taylor polynomials and Taylor series](https://en.wikipedia.org/wiki/Taylor_series)
 	- [X] [Implicit function theorem](https://en.wikipedia.org/wiki/Implicit_function_theorem)
