@@ -1149,7 +1149,7 @@ a ≤ c
 - [ ] [nsufl](https://nsufl.libguides.com/cnso-calculus/gettingstarted)
 </details>
 
-<details>
+<!-- <details>
 <summary>Physics(atom)</summary>
 
 # Physics(atom)
@@ -1170,7 +1170,7 @@ a ≤ c
 - [ ] [Best Physics Books](https://www.readthistwice.com/lists/best-physics-books)
 
 
-</details>
+</details> -->
 
 
 
