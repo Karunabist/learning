@@ -559,6 +559,15 @@ a ≤ c
 
 ##### Linear Algebra
 
+- Linear algebra is the branch of mathematics concerning linear equations such as: ${\displaystyle a_{1}x_{1}+\cdots +a_{n}x_{n}=b,}$
+linear maps such as:
+
+${\displaystyle (x_{1},\ldots ,x_{n})\mapsto a_{1}x_{1}+\cdots +a_{n}x_{n},}{\displaystyle (x_{1},\ldots ,x_{n})\mapsto a_{1}x_{1}+\cdots +a_{n}x_{n},}$
+
+and their representations in **vector spaces** and through **matrices**.
+
+
+
 - [X] [Vector And Spaces](https://en.wikipedia.org/wiki/Vector_space#Examples)
     - [X] [Vector](https://www.youtube.com/watch?v=S2f4KNnBhks&list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3&index=3)| Calculate a mean,variance... for a vector
     - [X] [Linear map](https://en.wikipedia.org/wiki/Linear_map)
@@ -988,7 +997,10 @@ a ≤ c
 	Multivariable Calculus
 
 - [X] [Integral](https://en.wikipedia.org/wiki/Integral)
-    - [ ] []()
+    
+	- Integral :  
+
+    - [ ] [Accumulations of change introduction](https://www.khanacademy.org/math/integral-calculus/ic-integration/ic-integral-calc-intro/v/introduction-to-integral-calculus)
 
 
 
