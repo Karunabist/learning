@@ -998,8 +998,10 @@ and their representations in **vector spaces** and through **matrices**.
     
 	- Integral : In 2D: ${\displaystyle \int _{a}^{b}f(x)\,dx.}$ , f(x) is the function with y-axis and dx is in x-axis and multiplication of length and width gives us area from a to b. Similiar in 3D we calculate volume.
 	- In mathematics, an integral assigns numbers to functions in a way that describes displacement, area, volume, and other concepts that arise by combining infinitesimal data.
+	- So we must need to focus on what actually function(f(x)) is and in which function depend(x).
 
-    - [ ] [Accumulations of change introduction](https://www.khanacademy.org/math/integral-calculus/ic-integration/ic-integral-calc-intro/v/introduction-to-integral-calculus)
+    - [X] [Accumulations of change introduction](https://www.khanacademy.org/math/integral-calculus/ic-integration/ic-integral-calc-intro/v/introduction-to-integral-calculus)
+	- [X] []()
 
 
 
