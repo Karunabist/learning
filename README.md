@@ -878,7 +878,7 @@ a ≤ c
 	- [X] [Limits of compositions of functions](https://en.wikipedia.org/wiki/Limit_of_a_function#Limits_of_compositions_of_functions)
 	- [X] [Exponential functions](https://math.libretexts.org/Courses/Mount_Royal_University/MATH_1200%3A_Calculus_for_Scientists_I/1%3A_Limit__and_Continuity_of_Functions/1.9%3A_Limit_of_Exponential_Functions_and_Logarithmic_Functions)
 	- [X] [Logarithmic functions](https://www.superprof.co.uk/resources/academic/maths/calculus/limits/limit-of-a-logarithmic-function.html)
-
+    - [X] [L'Hôpital's rule](https://en.wikipedia.org/wiki/L%27H%C3%B4pital%27s_rule)
     Ongoing from wikipedia
 
 - [X] [Differential calculus](https://en.wikipedia.org/wiki/Differential_calculus)
