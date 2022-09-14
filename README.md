@@ -566,8 +566,6 @@ ${\displaystyle (x_{1},\ldots ,x_{n})\mapsto a_{1}x_{1}+\cdots +a_{n}x_{n},}{\di
 
 and their representations in **vector spaces** and through **matrices**.
 
-
-
 - [X] [Vector And Spaces](https://en.wikipedia.org/wiki/Vector_space#Examples)
     - [X] [Vector](https://www.youtube.com/watch?v=S2f4KNnBhks&list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3&index=3)| Calculate a mean,variance... for a vector
     - [X] [Linear map](https://en.wikipedia.org/wiki/Linear_map)
@@ -918,7 +916,7 @@ and their representations in **vector spaces** and through **matrices**.
 
 - [X] [Differential calculus](https://en.wikipedia.org/wiki/Differential_calculus)
   
-    - Derivative: Derivative of function f(x) at x=a is define as solpe of tangent for this function at a. i.e from right side: (f(x+h)-f(x))/(x + h - x) or from left side: (f(x-h)-f(x))/(x - h - x). Analysis from both side.
+    - Derivative: Derivative of function f(x) at x = a is define as solpe of tangent for this function at a. i.e from right side: (f(x+h)-f(x))/(x + h - x) or from left side: (f(x-h)-f(x))/(x - h - x). Analysis from both side.
 
 	Univeriate Calculus
 
@@ -998,7 +996,8 @@ and their representations in **vector spaces** and through **matrices**.
 
 - [X] [Integral](https://en.wikipedia.org/wiki/Integral)
     
-	- Integral :  
+	- Integral : In 2D: ${\displaystyle \int _{a}^{b}f(x)\,dx.}$ , f(x) is the function with y-axis and dx is in x-axis and multiplication of length and width gives us area from a to b. Similiar in 3D we calculate volume.
+	- In mathematics, an integral assigns numbers to functions in a way that describes displacement, area, volume, and other concepts that arise by combining infinitesimal data.
 
     - [ ] [Accumulations of change introduction](https://www.khanacademy.org/math/integral-calculus/ic-integration/ic-integral-calc-intro/v/introduction-to-integral-calculus)
 
