@@ -366,6 +366,8 @@ Dialects,accents, and varieties
 ^(and), v (or), ¬ (not), → (implies)...
 
 
+
+
 - [X] [Mathematical Logic Part One: Stanford](https://web.stanford.edu/class/archive/cs/cs103/cs103.1132/lectures/09/Small09.pdf)
 - [X] [Mathematical Logic Part Two: Stanford](https://web.stanford.edu/class/archive/cs/cs103/cs103.1126/lectures/09/Slides09.pdf)
 - [X] [Mathematical Logic Part Two: Stanford](https://web.stanford.edu/class/archive/cs/cs103/cs103.1134/lectures/09/Small09.pdf)
@@ -390,12 +392,32 @@ Dialects,accents, and varieties
 
 f:x→y,f:y→z,g o f:x→z , functors(functions) map between categories ...
 
+- A category is formed by two sorts of objects, the objects of the category, and the morphisms, which relate two objects called the source and the target of the morphism.
+
+- It becomes a ground for unification of interdisciplinary mathematical ideas; and the way it achieves this is by taking an abstract vantage point on objects, relationships, states, events, processes, and trajectories of these disciplines.
+
+- [X] [Category (mathematics)](https://en.wikipedia.org/wiki/Category_(mathematics))
+- [X] [Mathematical object](https://en.wikipedia.org/wiki/Mathematical_object)
+- [X] [Morphism](https://en.wikipedia.org/wiki/Morphism)
+- [X] [Functor](https://en.wikipedia.org/wiki/Functor)
+- [X] [natural transformation](https://en.wikipedia.org/wiki/Natural_transformation)
+- [X] [Monoids](https://en.wikipedia.org/wiki/Monoid)
+
+
+#### References
+
+- [X] [Resources for learning practical category theory](https://mathoverflow.net/questions/903/resources-for-learning-practical-category-theory)
+- [X] [category-theory-resources](https://github.com/prathyvsh/category-theory-resources)
+
 - [X] [Categories](https://plato.stanford.edu/entries/categories/)
 - [X] [Category Theory: Stanford](https://plato.stanford.edu/entries/category-theory/)
 - [X] [An Introduction to Category Theory: Stanford](http://web.stanford.edu/~truax/notes/Category_Theory.pdf)
 - [X] [Programmatic Reading Guide](https://plato.stanford.edu/entries/category-theory/bib.html)
 - [X] [Structuralism in the Philosophy of Mathematics](https://plato.stanford.edu/entries/structuralism-mathematics/)
-	
+
+
+
+
 
 ### Theory of Computation
 
@@ -406,6 +428,7 @@ finite stste of automata, infinite state of automata)...
 - [X] [The Computational Theory of Mind: Stanford](https://plato.stanford.edu/entries/computational-mind/)
 - [X] [Introduction to Automata and Complexity Theory](http://infolab.stanford.edu/~ullman/ialc/spr10/spr10.html#LECTURE%20NOTES)
 - [X] [THEORY OF COMPUTATION LECTURE NOTES](https://www.vssut.ac.in/lecture_notes/lecture1428551440.pdf)
+
 
 ## Pure Mathematics
 
@@ -1147,7 +1170,15 @@ a ≤ c
 - [ ] [  Article: Math You Need to Succeed In ML Interviews](https://towardsdatascience.com/math-you-need-to-succeed-in-ml-interviews-9e717d61f296)
 - [ ] [Brandon Foltz ](https://www.youtube.com/c/BrandonFoltz/videos)
 - [ ] [nsufl](https://nsufl.libguides.com/cnso-calculus/gettingstarted)
+
+## Podcast
+- [ ] [Grant Sanderson](https://www.youtube.com/c/GrantSanderson/featured)
+- [ ] []()
+
 </details>
+
+
+
 
 <!-- <details>
 <summary>Physics(atom)</summary>
