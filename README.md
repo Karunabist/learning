@@ -893,6 +893,16 @@ a ≤ c
 	- [X] [Derivative notation review](https://en.wikipedia.org/wiki/Notation_for_differentiation)
 	- [X] [Derivative as a limit](https://www.khanacademy.org/math/differential-calculus/dc-diff-intro/dc-derivative-intro/v/formal-and-alternate-form-of-the-derivative-for-ln-x)
 	- [X] [Derivative as a limit](https://www.berkeleycitycollege.edu/wjeh/files/2012/08/calculus_note_intro_derivative.pdf)
+	- [X] [Estimate derivatives from table](https://www.khanacademy.org/math/differential-calculus/dc-diff-intro/dc-estimate-derivatives/v/estimating-derivative-at-a-point)
+	- [X] [Estimate derivatives from table](https://www.shmoop.com/derivatives/estimating-derivatives-table-exercises.html)
+
+
+
+	- [X] [Differential equation](https://en.wikipedia.org/wiki/Differential_equation)
+	- [X] [Mean value theorem](https://en.wikipedia.org/wiki/Differential_calculus#Mean_value_theorem)
+	- [X] [Taylor polynomials and Taylor series](https://en.wikipedia.org/wiki/Taylor_series)
+	- [X] [Implicit function theorem](https://en.wikipedia.org/wiki/Implicit_function_theorem)
+	
 
 - [X] [Integral calculus](https://en.wikipedia.org/wiki/Integral)
     - [ ] []()
