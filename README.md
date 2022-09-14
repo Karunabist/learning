@@ -840,7 +840,9 @@ a ≤ c
 	- [X] [Limits at infinity](https://www.sfu.ca/math-coursenotes/Math%20157%20Course%20Notes/sec_InfLimits.html)
 	- [X] [Infinite limits](https://en.wikipedia.org/wiki/Limit_of_a_function#Infinite_limits)
 	- [X] [Limits at infinity for rational functions](https://web.ma.utexas.edu/users/m408n/AS/LM2-6-3.html)
+	- [X] [Limits at infinity for rational functions](https://en.wikipedia.org/wiki/Limit_of_a_function#Rational_functions)
 	- [X] [Functions of more than one variable](https://en.wikipedia.org/wiki/Limit_of_a_function#Functions_of_more_than_one_variable)
+	- [X] [Properties of limits](https://en.wikipedia.org/wiki/Limit_of_a_function#Properties)
 	- [X] [Properties of limits](https://www.khanacademy.org/math/differential-calculus/dc-limits/dc-limit-prop/v/limit-properties)
 	- [X] [Properties of limits](https://tutorial.math.lamar.edu/classes/calci/limitsproperties.aspx)
 	- [X] [Properties of limits](https://www.toppr.com/guides/maths/limits-and-derivatives/limits/)
@@ -872,6 +874,10 @@ a ≤ c
 	- [X] [Infinite limits](https://www.khanacademy.org/math/differential-calculus/dc-limits/dc-infinite-limits/v/introduction-to-infinite-limits)
 	- [X] [Limits at infinity](https://www.khanacademy.org/math/differential-calculus/dc-limits/dc-limits-at-infinity/v/introduction-to-limits-at-infinity)
 	- [X] [Intermediate value theorem](https://www.khanacademy.org/math/differential-calculus/dc-limits/dc-ivt/v/intermediate-value-theorem)
+	- [X] [Sequential limits](https://www.math.wsu.edu/faculty/genz/140/lessons/l205.pdf)
+	- [X] [Limits of compositions of functions](https://en.wikipedia.org/wiki/Limit_of_a_function#Limits_of_compositions_of_functions)
+	- [X] [Exponential functions](https://math.libretexts.org/Courses/Mount_Royal_University/MATH_1200%3A_Calculus_for_Scientists_I/1%3A_Limit__and_Continuity_of_Functions/1.9%3A_Limit_of_Exponential_Functions_and_Logarithmic_Functions)
+	- [X] [Logarithmic functions](https://www.superprof.co.uk/resources/academic/maths/calculus/limits/limit-of-a-logarithmic-function.html)
 
     Ongoing from wikipedia
 
