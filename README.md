@@ -1233,15 +1233,46 @@ and their representations in **vector spaces** and through **matrices**.
 
 
 ### Statistics
+
+Statistics (from German: Statistik, orig. "description of a state, a country") is the discipline that concerns the collection, organization, analysis, interpretation, and presentation of data.
+
+
 ####  Descriptive statistics
+
+A descriptive statistic (in the count noun sense) is a summary statistic that quantitatively describes or summarizes features from a collection of information, while descriptive statistics (in the mass noun sense) is the process of using and analysing those statistics.
+
 - [X] [Descriptive Statistics: Wikipedia](https://en.wikipedia.org/wiki/Descriptive_statistics)
 - [X] [Descriptive Statistics: Simplelearn](https://www.simplilearn.com/what-is-descriptive-statistics-article)
 ##### Univariate analysis
+
+- [X] [Mean](https://en.wikipedia.org/wiki/Mean)
+- [X] [Median](https://en.wikipedia.org/wiki/Median)
+- [X] [Mode](https://en.wikipedia.org/wiki/Mode_(statistics))
+- [X] [Range](https://en.wikipedia.org/wiki/Range_(statistics))
+- [X] [Quartile](https://en.wikipedia.org/wiki/Quartile)
+- [X] [Variance](https://en.wikipedia.org/wiki/Variance)
+- [X] [Standard Deviation](https://en.wikipedia.org/wiki/Standard_deviation)
+- [X] [Skwness](https://en.wikipedia.org/wiki/Skewness)
+- [X] [Kurtosis](https://en.wikipedia.org/wiki/Kurtosis)
+- [X] [histograms](https://en.wikipedia.org/wiki/Histogram)
+- [X] [Stem-and-leaf display](https://en.wikipedia.org/wiki/Stem-and-leaf_display)
+
+
+
 - [X] [Univariate descriptive statistics](https://analyse-it.com/docs/user-guide/distribution/continuous/univariate-descriptive-statistics)
 - [X] [UNIVARIATE DATA ANALYSIS](https://home.csulb.edu/~msaintg/ppa696/696uni.htm)
 - [X] [Univariate Statistics Analysis & Examples](https://study.com/learn/lesson/univariate-statistics-analysis-examples-what-is-univariate-data.html)
 
 ##### Bivariate and multivariate analysis
+
+- [X] [Contingency table](https://en.wikipedia.org/wiki/Contingency_table)
+- [X] [Contingency table](https://en.wikipedia.org/wiki/Contingency_table)
+- [X] [Scatter plot](https://en.wikipedia.org/wiki/Scatter_plot)
+- [X] [Dependence/Correlation](https://en.wikipedia.org/wiki/Correlation)
+- [X] [Conditional probability distribution](https://en.wikipedia.org/wiki/Conditional_probability_distribution)
+
+
+
 - [X] [Bivariate Analysis](https://sciencing.com/difference-between-bivariate-multivariate-analyses-8667797.html)
 - [X] [Introduction to Univariate, Bivariate and Multivariate Analysis](https://medium.com/analytics-vidhya/univariate-bivariate-and-multivariate-analysis-8b4fc3d8202c)
 - [X] [Bivariate Analysis](https://www.analyticsvidhya.com/blog/2021/04/exploratory-analysis-using-univariate-bivariate-and-multivariate-analysis-techniques/)
