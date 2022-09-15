@@ -371,6 +371,7 @@ Dialects,accents, and varieties
 - [X] [Formal Logic](https://en.wikipedia.org/wiki/Logic#Premises,_conclusions,_and_truth)
     
 	Fundamental concepts
+
     
 	- [X] [Reason](https://en.wikipedia.org/wiki/Reason)
 	- [X] [Argument](https://en.wikipedia.org/wiki/Argument)
@@ -381,6 +382,9 @@ Dialects,accents, and varieties
 	- [X] [Fallacies](https://en.wikipedia.org/wiki/Logic#Fallacies)
 	- [X] [Definitory and strategic rules](https://en.wikipedia.org/wiki/Logic#Definitory_and_strategic_rules)
 	- [X] [Formal system](https://en.wikipedia.org/wiki/Formal_system)
+
+	[Propositional Logic](https://en.wikipedia.org/wiki/Propositional_calculus)
+
 	- [X] [Sentence]()
 	- [X] [Statement](): Sentence which gives True or False value is known as statement
 	- [X] [Declarative]()
@@ -389,19 +393,21 @@ Dialects,accents, and varieties
 	- [X] [Contrapositive]()
 	- [X] [Logical truth table](https://en.wikipedia.org/wiki/Truth_table)
 
+	[First-Order Logic](https://en.wikipedia.org/wiki/First-order_logic)
+
+
 	
 
 - [X] [Computational logic](https://en.wikipedia.org/wiki/Computational_logic)
 	- Computational logic is the use of logic to perform or reason about computation. It bears a similar relationship to computer science and engineering as mathematical logic bears to mathematics and as philosophical logic bears to philosophy. It is synonymous with "logic in computer science".
-
 
 - [X] [Logic in computer science](https://en.wikipedia.org/wiki/Logic_in_computer_science)
 
     - Logic in computer science covers the overlap between the field of logic and that of computer science.
 
 
-- [X] [Mathematical Logic Part One: Stanford](https://web.stanford.edu/class/archive/cs/cs103/cs103.1132/lectures/09/Small09.pdf)
-- [X] [Mathematical Logic Part Two: Stanford](https://web.stanford.edu/class/archive/cs/cs103/cs103.1126/lectures/09/Slides09.pdf)
+- [X] [Mathematical Logic Part One: Prepositional Logic: Stanford](https://web.stanford.edu/class/archive/cs/cs103/cs103.1132/lectures/09/Small09.pdf)
+- [X] [Mathematical Logic Part Two: First Order Logic: Stanford](https://web.stanford.edu/class/archive/cs/cs103/cs103.1126/lectures/09/Slides09.pdf)
 - [X] [Mathematical Logic Part Two: Stanford](https://web.stanford.edu/class/archive/cs/cs103/cs103.1134/lectures/09/Small09.pdf)
 - [X] [Mathematical Logic Part Three: Stanford](https://web.stanford.edu/class/archive/cs/cs103/cs103.1156/lectures/07/Small07.pdf)
 - [X] [Mathematical Logic: illinois](https://faculty.math.illinois.edu/~vddries/main2.pdf)
