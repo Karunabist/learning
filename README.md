@@ -497,7 +497,14 @@ f:x→y,f:y→z,g o f:x→z , functors(functions) map between categories ...
 
 finite stste of automata, infinite state of automata)...
 
+Branches
 
+- [X] [Automata theory](https://en.wikipedia.org/wiki/Automata_theory)
+    - [] []()
+	- [X] [Formal language](https://en.wikipedia.org/wiki/Formal_language)
+
+- [X] [Computability theory](https://en.wikipedia.org/wiki/Computability_theory)
+- [X] [Computational complexity theory](https://en.wikipedia.org/wiki/Computational_complexity_theory)
 
 
 - [X] [Automata Theory: Stanford Course](https://online.stanford.edu/courses/soe-ycsautomata-automata-theory)
