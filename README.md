@@ -1051,6 +1051,23 @@ and their representations in **vector spaces** and through **matrices**.
 	- [X] [Area: polar regions (two curves)](https://www.khanacademy.org/math/integral-calculus/ic-adv-funcs/ic-polar-two-regions/v/area-defined-by-two-polar-graphs)
 	- [X] [Arc length: polar curves](https://www.khanacademy.org/math/integral-calculus/ic-adv-funcs/dc-polar-arc-length/v/polar-arc-length-formula)
 	- [X] [Calculator-active practice](https://www.khanacademy.org/math/integral-calculus/ic-adv-funcs/ic-polar-calc-active/v/calculator-integral)
+	- [X] [Convergent and divergent infinite series](https://www.khanacademy.org/math/integral-calculus/ic-series/ic-series-intro/v/convergent-and-divergent-sequences)
+	- [X] [Infinite geometric series](https://www.khanacademy.org/math/integral-calculus/ic-series/ic-geometric-series/v/evaluating-infinite-geometric-series)
+	- [X] [nth-term test](https://www.khanacademy.org/math/integral-calculus/ic-series/ic-nth-term-test/v/divergence-test)
+	- [X] [Integral test](https://www.khanacademy.org/math/integral-calculus/ic-series)
+	- [X] [Harmonic series and p-series](https://www.khanacademy.org/math/integral-calculus/ic-series/ic-p-series/v/harmonic-and-p-series)
+	- [X] [Comparison tests](https://www.khanacademy.org/math/integral-calculus/ic-series/ic-comparison-tests/v/comparison-test)
+	- [X] [Alternating series test](https://www.khanacademy.org/math/integral-calculus/ic-series/ic-alternating-series/v/alternating-series-test)
+	- [X] [Ratio test](https://www.khanacademy.org/math/integral-calculus/ic-series/ic-ratio-test/v/ratio-test-convergence)
+	- [X] [Absolute and conditional convergence](https://www.khanacademy.org/math/integral-calculus/ic-series/ic-absolute-conditional/v/conditional-and-absolute-convergence)
+	- [X] [Alternating series error bound](https://www.khanacademy.org/math/integral-calculus/ic-series/ic-alternating-error-bound/v/alternating-series-error-estimation)
+	- [X] [Taylor and Maclaurin polynomials intro](https://www.khanacademy.org/math/integral-calculus/ic-series/ic-taylor-polynomials/v/maclaurin-and-taylor-series-intuition)
+	- [X] [Lagrange error bound](https://www.khanacademy.org/math/integral-calculus/ic-series/ic-lagrange-error-bound/v/error-or-remainder-of-a-taylor-polynomial-approximation)
+	- [X] [Power series intro](https://www.khanacademy.org/math/integral-calculus/ic-series/ic-power-series-intro/v/power-series-radius-interval-convergence)
+	- [X] [Function as a geometric series](https://www.khanacademy.org/math/integral-calculus/ic-series/ic-function-as-geo-series/v/function-as-a-geometric-series)
+	- [X] [Maclaurin series of eˣ, sin(x), and cos(x)](https://www.khanacademy.org/math/integral-calculus/ic-series/ic-maclaurin-series/v/cosine-taylor-series-at-0-maclaurin)
+	- [X] [Representing functions as power series](https://www.khanacademy.org/math/integral-calculus/ic-series/ic-represent-func-as-series/v/integrating-power-series)
+	- [X] [Telescoping series](https://www.khanacademy.org/math/integral-calculus/ic-series/ic-telescoping-series/v/telescoping-series)
 	
 
 
