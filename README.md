@@ -2428,9 +2428,6 @@ Regression Loss Functions, Binary Classification Loss Functions, Multi-Class Cla
 - [X] [tqdm](https://tqdm.github.io/): Displays progress bar for list iterations
 - [X] [xgboost](https://xgboost.readthedocs.io/en/latest/index.html): Distributed gradient boosting library   
 - [X] [xlearn](https://github.com/aksnzhy/xlearn): High performance, easy-to-use, and scalable machine learning package  
-#### Be familar with scary usages of AI
-
-- [X] [Awful AI](https://github.com/daviddao/awful-ai)
 
 #### Be familar with MLOPS
 
