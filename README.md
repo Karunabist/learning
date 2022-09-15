@@ -394,6 +394,16 @@ Dialects,accents, and varieties
 		- [X] [Inverse]()
 		- [X] [Contrapositive]()
 		- [X] [Logical truth table](https://en.wikipedia.org/wiki/Truth_table)
+		- [X] [Negation](https://en.wikipedia.org/wiki/Negation)
+		- [X] [Logical conjunction](https://en.wikipedia.org/wiki/Logical_conjunction)
+		- [X] [Logical disjunction](https://en.wikipedia.org/wiki/Logical_disjunction)
+		- [X] [Implication (logic)](https://simple.wikipedia.org/wiki/Implication_(logic))
+		- [X] [Logical biconditional](https://en.wikipedia.org/wiki/Logical_biconditional)
+		- [X] [Operator precedence for propositional logic](http://logic.stanford.edu/intrologic/glossary/operator_precedence.html#:~:text=The%20following%20table%20gives%20a,precedence%20than%20%E2%87%92%20and%20%E2%87%94.)
+		- [X] [De Morgan's Laws](https://en.wikipedia.org/wiki/De_Morgan%27s_laws)
+		- [X] [Contraposition](https://en.wikipedia.org/wiki/Contraposition)
+		- [X] [Tautologies](https://en.wikipedia.org/wiki/Tautology_(logic))
+		
 
 	- [X] [First-Order Logic](https://en.wikipedia.org/wiki/First-order_logic)
 
