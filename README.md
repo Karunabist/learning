@@ -370,8 +370,7 @@ Dialects,accents, and varieties
 
 - [X] [Formal Logic](https://en.wikipedia.org/wiki/Logic#Premises,_conclusions,_and_truth)
     
-	Fundamental concepts
-
+	[Fundamental concepts](https://en.wikipedia.org/wiki/Logic#Fundamental_concepts)
     
 	- [X] [Reason](https://en.wikipedia.org/wiki/Reason)
 	- [X] [Argument](https://en.wikipedia.org/wiki/Argument)
@@ -397,7 +396,6 @@ Dialects,accents, and varieties
 
 
 	
-
 - [X] [Computational logic](https://en.wikipedia.org/wiki/Computational_logic)
 	- Computational logic is the use of logic to perform or reason about computation. It bears a similar relationship to computer science and engineering as mathematical logic bears to mathematics and as philosophical logic bears to philosophy. It is synonymous with "logic in computer science".
 
@@ -407,8 +405,8 @@ Dialects,accents, and varieties
 
 
 - [X] [Mathematical Logic Part One: Prepositional Logic: Stanford](https://web.stanford.edu/class/archive/cs/cs103/cs103.1132/lectures/09/Small09.pdf)
-- [X] [Mathematical Logic Part Two: First Order Logic: Stanford](https://web.stanford.edu/class/archive/cs/cs103/cs103.1126/lectures/09/Slides09.pdf)
 - [X] [Mathematical Logic Part Two: Stanford](https://web.stanford.edu/class/archive/cs/cs103/cs103.1134/lectures/09/Small09.pdf)
+- [X] [Mathematical Logic Part Two: First Order Logic: Stanford](https://web.stanford.edu/class/archive/cs/cs103/cs103.1126/lectures/09/Slides09.pdf)
 - [X] [Mathematical Logic Part Three: Stanford](https://web.stanford.edu/class/archive/cs/cs103/cs103.1156/lectures/07/Small07.pdf)
 - [X] [Mathematical Logic: illinois](https://faculty.math.illinois.edu/~vddries/main2.pdf)
 
@@ -416,6 +414,17 @@ Dialects,accents, and varieties
 ### Set theory
 
 {a,b,c..}
+
+- Set theory is the branch of mathematical logic that studies sets, which can be informally described as collections of objects. Although objects of any kind can be collected into a set, set theory, as a branch of mathematics, is mostly concerned with those that are relevant to mathematics as a whole.
+
+**Basic concepts and notation**
+- [X] [Set (mathematics)](https://en.wikipedia.org/wiki/Set_(mathematics))
+    - [X] []()
+
+- [X] [Algebra of sets](https://en.wikipedia.org/wiki/Algebra_of_sets)
+    - [X] []()
+
+
 
 - [X] [Basic Set Theory: Stanford](https://plato.stanford.edu/entries/set-theory/basic-set-theory.html)
 - [X] [Set Theory: Stanford](https://plato.stanford.edu/entries/set-theory/)
