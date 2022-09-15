@@ -1209,7 +1209,17 @@ and their representations in **vector spaces** and through **matrices**.
 
 	    Lecture Videos
 
-	    - [] []()
+	    - [X] [S01.0 Mathematical Background Overview](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/mathematical-background-overview/)
+		- [X] [S01.1 Sets](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/sets/)
+		- [X] [S01.2 De Morgan's Laws](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/de-morgans-laws/)
+		- [X] [S01.3 Sequences and their Limits](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/sequences-and-their-limits/)
+		- [X] [S01.4 When Does a Sequence Converge?](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/when-does-a-sequence-converge/)
+		- [X] [S01.5 Infinite Series](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/infinite-series/)
+		- [X] [S01.6 The Geometric Series](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/the-geometric-series/)
+		- [X] [S01.7 About the Order of Summation in Series with Multiple Indices](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/about-the-order-of-summation-in-series-with-multiple-indices/)
+		- [X] [S01.8 Countable and Uncountable Sets](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/countable-and-uncountable-sets/)
+		- [X] [S01.9 Proof that a Set of Real Numbers is Uncountable](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/proof-that-a-set-of-real-numbers-is-uncountable/)
+		- [X] [S01.10 Bonferroni's Inequality](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/bonferronis-inequality/)
 	    
 	
 
