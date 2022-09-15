@@ -427,8 +427,6 @@ Dialects,accents, and varieties
 
 		- Logic in computer science covers the overlap between the field of logic and that of computer science.
 
-- [X] [Mathematical Logic: illinois](https://faculty.math.illinois.edu/~vddries/main2.pdf)
-
 
 ### Set theory
 
