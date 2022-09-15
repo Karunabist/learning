@@ -917,6 +917,8 @@ and their representations in **vector spaces** and through **matrices**.
 - [X] [Differential calculus](https://en.wikipedia.org/wiki/Differential_calculus)
   
     - Derivative: Derivative of function f(x) at x = a is define as solpe of tangent for this function at a. i.e from right side: (f(x+h)-f(x))/(x + h - x) or from left side: (f(x-h)-f(x))/(x - h - x). Analysis from both side.
+    - $\frac{\partial f}{\partial x}$ and $f'(x)$ are representation of derivative. In actual we do  (f(x+h)-f(x))/(x + h -x) while doing derivative in computer science. But this representation help to analyze complex structure.
+
 
 	Univeriate Calculus
 
@@ -998,10 +1000,58 @@ and their representations in **vector spaces** and through **matrices**.
     
 	- Integral : In 2D: ${\displaystyle \int _{a}^{b}f(x)\,dx.}$ , f(x) is the function with y-axis and dx is in x-axis and multiplication of length and width gives us area from a to b. Similiar in 3D we calculate volume.
 	- In mathematics, an integral assigns numbers to functions in a way that describes displacement, area, volume, and other concepts that arise by combining infinitesimal data.
+	- Integration notation ${\displaystyle \int _{a}^{b}f(x)\,dx.}$ is only for solving complex notation. Later inegral can be express in term of summation later to do integration in computer science. 
 	- So we must need to focus on what actually function(f(x)) is and in which function depend(x).
 
     - [X] [Accumulations of change introduction](https://www.khanacademy.org/math/integral-calculus/ic-integration/ic-integral-calc-intro/v/introduction-to-integral-calculus)
-	- [X] []()
+	- [X] [Approximation with Riemann sums](https://www.khanacademy.org/math/integral-calculus/ic-integration/ic-riemann-sums/v/simple-riemann-approximation-using-rectangles)
+	- [X] [Summation notation review](https://www.khanacademy.org/math/integral-calculus/ic-integration/ic-summation-notation/v/sigma-notation-sum)
+	- [X] [Riemann sums in summation notation](https://www.khanacademy.org/math/integral-calculus/ic-integration/ic-riemann-sums-summation-notation/v/generalizing-a-left-riemann-sum-with-equally-spaced-rectangles)
+	- [X] [Defining integrals with Riemann sums](https://www.khanacademy.org/math/integral-calculus/ic-integration/ic-riemann-sums-summation-notation/e/riemann-sums-and-sigma-notation)
+	- [X] [Fundamental theorem of calculus and accumulation functions](https://www.khanacademy.org/math/integral-calculus/ic-integration/ic-ftc-part-1/v/fundamental-theorem-of-calculus)
+	- [X] [Interpreting the behavior of accumulation functions](https://www.khanacademy.org/math/integral-calculus/ic-integration/ic-connect-function-antiderivative/v/interpreting-behavior-of-antiderivative)
+	- [X] [Properties of definite integrals](https://www.khanacademy.org/math/integral-calculus/ic-integration/ic-integral-prop/v/negative-definite-integrals)
+	- [X] [Fundamental theorem of calculus and definite integrals](https://www.khanacademy.org/math/integral-calculus/ic-integration/ic-ftc-part-2/v/connecting-the-first-and-second-fundamental-theorems-of-calculus)
+	- [X] [Reverse power rule](https://www.khanacademy.org/math/integral-calculus/ic-integration/ic-reverse-power-rule/v/indefinite-integrals-of-x-raised-to-a-power)
+	- [X] [Indefinite integrals of common functions](https://www.khanacademy.org/math/integral-calculus/ic-integration/ic-common-indefinite-integrals/v/antiderivative-of-x-1)
+	- [X] [Definite integrals of common functions](https://www.khanacademy.org/math/integral-calculus/ic-integration/ic-common-definite-integrals/v/reverse-power-rule-for-definite-integrals)
+	- [X] [Integrating with u-substitution](https://www.khanacademy.org/math/integral-calculus/ic-integration/ic-u-sub/v/u-substitution)
+	- [X] [Integrating using long division and completing the square](https://www.khanacademy.org/math/integral-calculus/ic-integration/ic-long-div/v/integral-partial-fraction)
+	- [X] [Integrating using trigonometric identities](https://www.khanacademy.org/math/integral-calculus/ic-integration/ic-integration-with-trig-identities/v/using-trig-identity-to-use-u-substitution)
+	- [X] [Trigonometric substitution](https://www.khanacademy.org/math/integral-calculus/ic-integration/ic-trig-substitution/v/introduction-to-trigonometric-substitution)
+	- [X] [Integration by parts](https://www.khanacademy.org/math/integral-calculus/ic-integration/ic-integration-by-parts/v/deriving-integration-by-parts-formula)
+	- [X] [Integrating using linear partial fractions](https://www.khanacademy.org/math/integral-calculus/ic-integration/ic-partial-frac/v/integration-with-partial-fractions)
+	- [X] [Improper integrals](https://www.khanacademy.org/math/integral-calculus/ic-integration/ic-improper-integrals/v/introduction-to-improper-integrals)
+	- [X] [Differential equations introduction](https://www.khanacademy.org/math/integral-calculus/ic-diff-eq/ic-diff-eq-intro/v/differential-equation-introduction)
+	- [X] [Verifying solutions for differential equations](https://www.khanacademy.org/math/integral-calculus/ic-diff-eq/ic-verify-diff-eq-solutions/v/verifying-solutions-to-differential-equations)
+	- [X] [Sketching slope fields](https://www.khanacademy.org/math/integral-calculus/ic-diff-eq/ic-sketch-slope-fields/v/creating-a-slope-field)
+	- [X] [Reasoning using slope fields](https://www.khanacademy.org/math/integral-calculus/ic-diff-eq/ic-reason-slope-fields/v/slope-field-to-visualize-solutions)
+	- [X] [Approximation with Euler’s method](https://www.khanacademy.org/math/integral-calculus/ic-diff-eq/ic-eulers-method/v/eulers-method)
+	- [X] [Separation of variables](https://www.khanacademy.org/math/integral-calculus/ic-diff-eq/ic-separation-of-vars/v/separable-differential-equations-introduction)
+	- [X] [Particular solutions to differential equations](https://www.khanacademy.org/math/integral-calculus/ic-diff-eq/ic-diff-eq-particular-solutions/v/finding-constant-of-integration-rational)
+	- [X] [Exponential models](https://www.khanacademy.org/math/integral-calculus/ic-diff-eq/ic-exp-models/v/modeling-population-with-simple-differential-equation)
+	- [X] [Logistic models](https://www.khanacademy.org/math/integral-calculus/ic-diff-eq/ic-logistic-models/v/modeling-population-with-differential-equations)
+	- [X] [Average value of a function](https://www.khanacademy.org/math/integral-calculus/ic-int-app/ic-avg-value/v/average-function-value-closed-interval)
+	- [X] [Straight-line motion](https://www.khanacademy.org/math/integral-calculus/ic-int-app/ic-linear-motion/v/motion-problems-with-integrals)
+	- [X] [Non-motion applications of integrals](https://www.khanacademy.org/math/integral-calculus/ic-int-app/ic-integral-apps/v/area-under-rate-net-change)
+	- [X] [Area: vertical area between curves](https://www.khanacademy.org/math/integral-calculus/ic-int-app/ic-vertical-area/v/evaluating-simple-definite-integral)
+	- [X] [Area: horizontal area between curves](https://www.khanacademy.org/math/integral-calculus/ic-int-app/ic-horizontal-area/v/area-between-curve-and-y-axis)
+	- [X] [Area: curves that intersect at more than two points](https://www.khanacademy.org/math/integral-calculus/ic-int-app/ic-composite-area/e/area-between-curves-that-intersect-at-more-than-two-points)
+	- [X] [Volume: squares and rectangles cross sections](https://www.khanacademy.org/math/integral-calculus/ic-int-app/ic-vol-squares-rect/v/volume-with-cross-sections-intro)
+	- [X] [Volume: triangles and semicircles cross sections](https://www.khanacademy.org/math/integral-calculus/ic-int-app/ic-vol-tri-circle/v/volume-solid-semicircle-cross-section)
+	- [X] [Volume: disc method (revolving around x- and y-axes)](https://www.khanacademy.org/math/integral-calculus/ic-int-app/ic-disc-method-axes/v/disk-method-around-x-axis)
+	- [X] [Volume: disc method (revolving around other axes)](https://www.khanacademy.org/math/integral-calculus/ic-int-app/ic-disc-method-non-axes/v/disc-method-rotation-around-horizontal-line)
+	- [X] [Volume: washer method (revolving around x- and y-axes)](https://www.khanacademy.org/math/integral-calculus/ic-int-app/ic-washer-method-axes/v/disc-method-washer-method-for-rotation-around-x-axis)
+	- [X] [Volume: washer method (revolving around other axes)](https://www.khanacademy.org/math/integral-calculus/ic-int-app/ic-washer-method-non-axes/v/washer-method-rotating-around-non-axis)
+	- [X] [Arc length](https://www.khanacademy.org/math/integral-calculus/ic-int-app/ic-arc-length/v/arc-length-formula)
+	- [X] [Calculator-active practice](https://www.khanacademy.org/math/integral-calculus/ic-int-app/ic-calculator-active/e/applications-of-integration-calculator-active)
+	- [X] [Arc length: parametric curves](https://www.khanacademy.org/math/integral-calculus/ic-adv-funcs/ic-parametric-arc-length/v/parametric-curve-arc-length)
+	- [X] [Planar motion](https://www.khanacademy.org/math/integral-calculus/ic-adv-funcs/ic-planar-motion/v/planar-motion-with-integrals)
+	- [X] [Area: polar regions (single curve)](https://www.khanacademy.org/math/integral-calculus/ic-adv-funcs/ic-polar-one-region/v/formula-area-polar-graph)
+	- [X] [Area: polar regions (two curves)](https://www.khanacademy.org/math/integral-calculus/ic-adv-funcs/ic-polar-two-regions/v/area-defined-by-two-polar-graphs)
+	- [X] [Arc length: polar curves](https://www.khanacademy.org/math/integral-calculus/ic-adv-funcs/dc-polar-arc-length/v/polar-arc-length-formula)
+	- [X] [Calculator-active practice](https://www.khanacademy.org/math/integral-calculus/ic-adv-funcs/ic-polar-calc-active/v/calculator-integral)
+	
 
 
 
