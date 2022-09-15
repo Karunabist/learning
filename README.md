@@ -502,11 +502,16 @@ finite stste of automata, infinite state of automata)...
 Branches
 
 - [X] [Automata theory](https://en.wikipedia.org/wiki/Automata_theory)
-    - [] []()
+    - [X] [Informal description](https://en.wikipedia.org/wiki/Automata_theory#Informal_description)
+	- [X] [Formal definition](https://en.wikipedia.org/wiki/Automata_theory#Formal_definition)
+	- [X] [Variant definitions of automata](https://en.wikipedia.org/wiki/Automata_theory#Variant_definitions_of_automata)
+	- [X] [Types of automata](https://en.wikipedia.org/wiki/Automata_theory#Types_of_automata)
 	- [X] [Formal language](https://en.wikipedia.org/wiki/Formal_language)
 
 - [X] [Computability theory](https://en.wikipedia.org/wiki/Computability_theory)
 - [X] [Computational complexity theory](https://en.wikipedia.org/wiki/Computational_complexity_theory)
+
+
 
 
 - [X] [Automata Theory: Stanford Course](https://online.stanford.edu/courses/soe-ycsautomata-automata-theory)
