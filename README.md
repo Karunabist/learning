@@ -1171,9 +1171,12 @@ and their representations in **vector spaces** and through **matrices**.
 
 ### Probability
 
-- [X] [Independent events](https://en.wikipedia.org/wiki/Independence_(probability_theory))
-- [X] [Mutually exclusive events](https://en.wikipedia.org/wiki/Mutual_exclusivity)
-- [X] [Not mutually exclusive events](https://en.wikipedia.org/wiki/Probability#Not_mutually_exclusive_events)
+- [X] [Independent events](https://en.wikipedia.org/wiki/Independence_(probability_theory)): If two events, A and B are independent then the joint probability is: ${\displaystyle P(A{\mbox{ and }}B)=P(A\cap B)=P(A)P(B).}{\displaystyle P(A{\mbox{ and }}B)=P(A\cap B)=P(A)P(B).}$. For example, if two coins are flipped, then the chance of both being heads is ${\displaystyle {\tfrac {1}{2}}\times {\tfrac {1}{2}}={\tfrac {1}{4}}}{\tfrac {1}{2}}\times {\tfrac {1}{2}}={\tfrac {1}{4}}$.
+
+- [X] [Mutually exclusive events](https://en.wikipedia.org/wiki/Mutual_exclusivity): If either event A or event B can occur but never both simultaneously, then they are called mutually exclusive events.A clear example is the set of outcomes of a single coin toss, which can result in either heads or tails, but not both.
+
+
+- [X] [Not mutually exclusive events](https://en.wikipedia.org/wiki/Probability#Not_mutually_exclusive_events): 
 - [X] [Conditional probability](https://en.wikipedia.org/wiki/Conditional_probability)
 - [X] [Inverse probability](https://en.wikipedia.org/wiki/Probability#Inverse_probability)
 - [X] [Summary of probabilities](https://en.wikipedia.org/wiki/Probability#Summary_of_probabilities)
@@ -1182,7 +1185,10 @@ and their representations in **vector spaces** and through **matrices**.
 - [X] [INTRODUCTION TO PROBABILITY: MIT](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/)
 
      **PART I: THE FUNDAMENTALS**
-	- [X]  []()
+	- [X]  [Lecture 1: Probability Models and Axioms](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/mitres_6_012s18_l01as/)
+	Lecture Videos
+	    - [X] [L01.1 Lecture Overview](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/lecture-overview/)
+		- [X] [L01.2 Sample Space](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/sample-space/)
 	
 
 - [X] [Probability: the basics](https://www.khanacademy.org/math/statistics-probability/probability-library/basic-theoretical-probability/a/probability-the-basics)
@@ -1192,6 +1198,7 @@ and their representations in **vector spaces** and through **matrices**.
 - [X] [Probability](https://www.mathsisfun.com/data/probability.html)
 - [X] [Probability](https://www.cuemath.com/data/probability/)
 - [X] [Probability](https://seeing-theory.brown.edu/basic-probability/index.html)
+
 
 ### Statistics
 ####  Descriptive statistics
