@@ -365,7 +365,39 @@ Dialects,accents, and varieties
 
 ^(and), v (or), ¬ (not), → (implies)...
 
+- Mathematical logic is the study of formal logic within mathematics. 
+- Mathematical logic is massively use in computer science e.g in boolean data type and may more.
 
+- [X] [Formal Logic](https://en.wikipedia.org/wiki/Logic#Premises,_conclusions,_and_truth)
+    
+	Fundamental concepts
+    
+	- [X] [Reason](https://en.wikipedia.org/wiki/Reason)
+	- [X] [Argument](https://en.wikipedia.org/wiki/Argument)
+	- [X] [Logical connective](https://en.wikipedia.org/wiki/Logical_connective)
+    - [X] [Premise](https://en.wikipedia.org/wiki/Premise)
+	- [X] [Logical truth](https://en.wikipedia.org/wiki/Logical_truth)
+	- [X] [Inference](https://en.wikipedia.org/wiki/Inference)
+	- [X] [Fallacies](https://en.wikipedia.org/wiki/Logic#Fallacies)
+	- [X] [Definitory and strategic rules](https://en.wikipedia.org/wiki/Logic#Definitory_and_strategic_rules)
+	- [X] [Formal system](https://en.wikipedia.org/wiki/Formal_system)
+	- [X] [Sentence]()
+	- [X] [Statement](): Sentence which gives True or False value is known as statement
+	- [X] [Declarative]()
+	- [X] [Converse]()
+	- [X] [Inverse]()
+	- [X] [Contrapositive]()
+	- [X] [Logical truth table](https://en.wikipedia.org/wiki/Truth_table)
+
+	
+
+- [X] [Computational logic](https://en.wikipedia.org/wiki/Computational_logic)
+	- Computational logic is the use of logic to perform or reason about computation. It bears a similar relationship to computer science and engineering as mathematical logic bears to mathematics and as philosophical logic bears to philosophy. It is synonymous with "logic in computer science".
+
+
+- [X] [Logic in computer science](https://en.wikipedia.org/wiki/Logic_in_computer_science)
+
+    - Logic in computer science covers the overlap between the field of logic and that of computer science.
 
 
 - [X] [Mathematical Logic Part One: Stanford](https://web.stanford.edu/class/archive/cs/cs103/cs103.1132/lectures/09/Small09.pdf)
