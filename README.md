@@ -452,19 +452,11 @@ Dialects,accents, and varieties
 	- [X] [Partitions](https://en.wikipedia.org/wiki/Partition_of_a_set)
 	- [X] [Basic operations](https://en.wikipedia.org/wiki/Algebra_of_sets)
 	- [X] [Principle of inclusion and exclusion](https://en.wikipedia.org/wiki/Inclusion%E2%80%93exclusion_principle)
+	- [X] [Zermelo-Fraenkel Set Theory](https://plato.stanford.edu/entries/set-theory/ZF.html)
 
 - [X] [Algebra of sets](https://en.wikipedia.org/wiki/Algebra_of_sets)
     - [X] []()
 
-
-
-
-- [X] [Set Theory: Stanford](https://plato.stanford.edu/entries/set-theory/)
-- [X] [The Early Development of Set Theory](https://plato.stanford.edu/entries/settheory-early/)
-- [X] [Zermelo-Fraenkel Set Theory](https://plato.stanford.edu/entries/set-theory/ZF.html)
-- [X] [Alternative Axiomatic Set Theories](https://plato.stanford.edu/entries/settheory-alternative/)
-- [X] [Set Theory: Constructive and Intuitionistic ZF](https://plato.stanford.edu/entries/set-theory-constructive/)
-- [X] [Non-wellfounded Set Theory](https://plato.stanford.edu/entries/nonwellfounded-set-theory/)
 
 
 ### Category theory
