@@ -368,10 +368,10 @@ Dialects,accents, and varieties
 - Mathematical logic is the study of formal logic within mathematics. 
 - Mathematical logic is massively use in computer science e.g in boolean data type and may more.
 
-- [X] [Formal Logic](https://en.wikipedia.org/wiki/Logic#Premises,_conclusions,_and_truth)
+#### [Logic](https://en.wikipedia.org/wiki/Logic)
     
-	[Fundamental concepts](https://en.wikipedia.org/wiki/Logic#Fundamental_concepts)
-    
+- [X] [Fundamental concepts](https://en.wikipedia.org/wiki/Logic#Fundamental_concepts)
+    - [X] [Formal Logic](https://en.wikipedia.org/wiki/Logic#Premises,_conclusions,_and_truth)
 	- [X] [Reason](https://en.wikipedia.org/wiki/Reason)
 	- [X] [Argument](https://en.wikipedia.org/wiki/Argument)
 	- [X] [Logical connective](https://en.wikipedia.org/wiki/Logical_connective)
@@ -382,26 +382,33 @@ Dialects,accents, and varieties
 	- [X] [Definitory and strategic rules](https://en.wikipedia.org/wiki/Logic#Definitory_and_strategic_rules)
 	- [X] [Formal system](https://en.wikipedia.org/wiki/Formal_system)
 
-	[Propositional Logic](https://en.wikipedia.org/wiki/Propositional_calculus)
+- [X] [Systems of logic](https://en.wikipedia.org/wiki/Logic#Systems_of_logic)
 
-	- [X] [Sentence]()
-	- [X] [Statement](): Sentence which gives True or False value is known as statement
-	- [X] [Declarative]()
-	- [X] [Converse]()
-	- [X] [Inverse]()
-	- [X] [Contrapositive]()
-	- [X] [Logical truth table](https://en.wikipedia.org/wiki/Truth_table)
+    **Classical**
 
-	[First-Order Logic](https://en.wikipedia.org/wiki/First-order_logic)
+	- [X] [Propositional Logic](https://en.wikipedia.org/wiki/Propositional_calculus)
+		- [X] [Sentence]()
+		- [X] [Statement](): Sentence which gives True or False value is known as statement
+		- [X] [Declarative]()
+		- [X] [Converse]()
+		- [X] [Inverse]()
+		- [X] [Contrapositive]()
+		- [X] [Logical truth table](https://en.wikipedia.org/wiki/Truth_table)
+
+	- [X] [First-Order Logic](https://en.wikipedia.org/wiki/First-order_logic)
 
 
-	
-- [X] [Computational logic](https://en.wikipedia.org/wiki/Computational_logic)
-	- Computational logic is the use of logic to perform or reason about computation. It bears a similar relationship to computer science and engineering as mathematical logic bears to mathematics and as philosophical logic bears to philosophy. It is synonymous with "logic in computer science".
+- [X] [Areas of research]()
 
-- [X] [Logic in computer science](https://en.wikipedia.org/wiki/Logic_in_computer_science)
+    - [X] [Mathematical logic](https://en.wikipedia.org/wiki/Mathematical_logic)
 
-    - Logic in computer science covers the overlap between the field of logic and that of computer science.
+	- [X] [Computational logic](https://en.wikipedia.org/wiki/Computational_logic)
+		- Computational logic is the use of logic to perform or reason about computation. It bears a similar relationship to computer science and engineering as mathematical logic bears to mathematics and as philosophical logic bears to philosophy. It is synonymous with "logic in computer science".
+
+	- [X] [Logic in computer science](https://en.wikipedia.org/wiki/Logic_in_computer_science)
+
+		- Logic in computer science covers the overlap between the field of logic and that of computer science.
+
 
 
 - [X] [Mathematical Logic Part One: Prepositional Logic: Stanford](https://web.stanford.edu/class/archive/cs/cs103/cs103.1132/lectures/09/Small09.pdf)
