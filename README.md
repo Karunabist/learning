@@ -1293,6 +1293,26 @@ Inferential statistics can be contrasted with descriptive statistics. Descriptiv
 - [X] [Inferential Statistics](https://statisticsbyjim.com/basics/descriptive-inferential-statistics/)
 - [X] [Inferential Statistics](https://corporatefinanceinstitute.com/resources/knowledge/other/inferential-statistics/)
 
+- [X] [point estimate](https://en.wikipedia.org/wiki/Point_estimation)
+- [X] [Interval estimation](https://en.wikipedia.org/wiki/Interval_estimation)
+- [X] [confidence interval](https://en.wikipedia.org/wiki/Confidence_interval)
+
+##### Sampling methods
+
+Simple random sampling
+
+Stratified sampling
+
+Cluster sampling
+
+Systematic sampling
+
+##### Testing hypotheses 
+
+##### Comparison tests
+
+
+
 ##### Frequentist inference 
 - [X] [Frequentist inference](https://seeing-theory.brown.edu/frequentist-inference/index.html)
 - [X] [Frequentist and Bayesian Inference](https://towardsdatascience.com/frequentist-and-bayesian-inference-83af2595f172)
