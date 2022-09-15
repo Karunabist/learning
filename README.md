@@ -403,9 +403,17 @@ Dialects,accents, and varieties
 		- [X] [De Morgan's Laws](https://en.wikipedia.org/wiki/De_Morgan%27s_laws)
 		- [X] [Contraposition](https://en.wikipedia.org/wiki/Contraposition)
 		- [X] [Tautologies](https://en.wikipedia.org/wiki/Tautology_(logic))
-		
+		- [X] [Mathematical Logic Part One: Prepositional Logic: Stanford](https://web.stanford.edu/class/archive/cs/cs103/cs103.1132/lectures/09/Small09.pdf)
 
 	- [X] [First-Order Logic](https://en.wikipedia.org/wiki/First-order_logic)
+
+		First-order logic is a logical system for reasoning about properties of objects.
+		- [X] [predicates]()
+		- [X] [functions]()
+		- [X] [quantifiers]()
+		- [X] [Mathematical Logic Part Two: Stanford](https://web.stanford.edu/class/archive/cs/cs103/cs103.1134/lectures/09/Small09.pdf)
+		- [X] [Mathematical Logic Part Two: First Order Logic: Stanford](https://web.stanford.edu/class/archive/cs/cs103/cs103.1126/lectures/09/Slides09.pdf)
+		- [X] [Mathematical Logic Part Three: Stanford](https://web.stanford.edu/class/archive/cs/cs103/cs103.1156/lectures/07/Small07.pdf)
 
 
 - [X] [Areas of research]()
@@ -419,12 +427,6 @@ Dialects,accents, and varieties
 
 		- Logic in computer science covers the overlap between the field of logic and that of computer science.
 
-
-
-- [X] [Mathematical Logic Part One: Prepositional Logic: Stanford](https://web.stanford.edu/class/archive/cs/cs103/cs103.1132/lectures/09/Small09.pdf)
-- [X] [Mathematical Logic Part Two: Stanford](https://web.stanford.edu/class/archive/cs/cs103/cs103.1134/lectures/09/Small09.pdf)
-- [X] [Mathematical Logic Part Two: First Order Logic: Stanford](https://web.stanford.edu/class/archive/cs/cs103/cs103.1126/lectures/09/Slides09.pdf)
-- [X] [Mathematical Logic Part Three: Stanford](https://web.stanford.edu/class/archive/cs/cs103/cs103.1156/lectures/07/Small07.pdf)
 - [X] [Mathematical Logic: illinois](https://faculty.math.illinois.edu/~vddries/main2.pdf)
 
 
