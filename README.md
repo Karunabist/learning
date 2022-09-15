@@ -436,7 +436,9 @@ Dialects,accents, and varieties
 
 **Basic concepts and notation**
 - [X] [Set (mathematics)](https://en.wikipedia.org/wiki/Set_(mathematics)): A set is the mathematical model for a collection of different things; a set contains elements or members, which can be mathematical objects of any kind: numbers, symbols, points in space, lines, other geometrical shapes, variables, or even other sets.
-
+    - [X] [Relation (mathematics)](https://en.wikipedia.org/wiki/Relation_(mathematics))
+	- [X] [Function](https://en.wikipedia.org/wiki/Function_(mathematics))
+	- [X] [Ordinals](https://en.wikipedia.org/wiki/Ordinal_number)
     - [X] [How sets are defined and set notation](https://en.wikipedia.org/wiki/Set_(mathematics)#How_sets_are_defined_and_set_notation)
 	- [X] [Membership](https://en.wikipedia.org/wiki/Element_(mathematics))
 	- [X] [The empty set](https://en.wikipedia.org/wiki/Empty_set)
@@ -456,7 +458,7 @@ Dialects,accents, and varieties
 
 
 
-- [X] [Basic Set Theory: Stanford](https://plato.stanford.edu/entries/set-theory/basic-set-theory.html)
+
 - [X] [Set Theory: Stanford](https://plato.stanford.edu/entries/set-theory/)
 - [X] [The Early Development of Set Theory](https://plato.stanford.edu/entries/settheory-early/)
 - [X] [Zermelo-Fraenkel Set Theory](https://plato.stanford.edu/entries/set-theory/ZF.html)
