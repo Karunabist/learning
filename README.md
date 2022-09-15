@@ -425,8 +425,21 @@ Dialects,accents, and varieties
 - Set theory is the branch of mathematical logic that studies sets, which can be informally described as collections of objects. Although objects of any kind can be collected into a set, set theory, as a branch of mathematics, is mostly concerned with those that are relevant to mathematics as a whole.
 
 **Basic concepts and notation**
-- [X] [Set (mathematics)](https://en.wikipedia.org/wiki/Set_(mathematics))
-    - [X] []()
+- [X] [Set (mathematics)](https://en.wikipedia.org/wiki/Set_(mathematics)): A set is the mathematical model for a collection of different things; a set contains elements or members, which can be mathematical objects of any kind: numbers, symbols, points in space, lines, other geometrical shapes, variables, or even other sets.
+
+    - [X] [How sets are defined and set notation](https://en.wikipedia.org/wiki/Set_(mathematics)#How_sets_are_defined_and_set_notation)
+	- [X] [Membership](https://en.wikipedia.org/wiki/Element_(mathematics))
+	- [X] [The empty set](https://en.wikipedia.org/wiki/Empty_set)
+	- [X] [Singleton sets](https://en.wikipedia.org/wiki/Singleton_(mathematics))
+	- [X] [Subsets](https://en.wikipedia.org/wiki/Subset)
+	- [X] [Euler and Venn diagrams](https://en.wikipedia.org/wiki/Set_(mathematics)#Euler_and_Venn_diagrams)
+	- [X] [Special sets of numbers in mathematics](https://en.wikipedia.org/wiki/Set_(mathematics)#Special_sets_of_numbers_in_mathematics)
+	- [X] [Functions](https://en.wikipedia.org/wiki/Function_(mathematics))
+	- [X] [Cardinality](https://en.wikipedia.org/wiki/Cardinality)
+	- [X] [Power sets](https://en.wikipedia.org/wiki/Power_set)
+	- [X] [Partitions](https://en.wikipedia.org/wiki/Partition_of_a_set)
+	- [X] [Basic operations](https://en.wikipedia.org/wiki/Algebra_of_sets)
+	- [X] [Principle of inclusion and exclusion](https://en.wikipedia.org/wiki/Inclusion%E2%80%93exclusion_principle)
 
 - [X] [Algebra of sets](https://en.wikipedia.org/wiki/Algebra_of_sets)
     - [X] []()
