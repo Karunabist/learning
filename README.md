@@ -463,12 +463,19 @@ f:x→y,f:y→z,g o f:x→z , functors(functions) map between categories ...
 
 - It becomes a ground for unification of interdisciplinary mathematical ideas; and the way it achieves this is by taking an abstract vantage point on objects, relationships, states, events, processes, and trajectories of these disciplines.
 
-- [X] [Category (mathematics)](https://en.wikipedia.org/wiki/Category_(mathematics))
-- [X] [Mathematical object](https://en.wikipedia.org/wiki/Mathematical_object)
-- [X] [Morphism](https://en.wikipedia.org/wiki/Morphism)
+- [X] [Categories, objects, and morphisms](https://en.wikipedia.org/wiki/Category_theory#Categories,_objects,_and_morphisms)
+
+	- [X] [Category (mathematics)](https://en.wikipedia.org/wiki/Category_(mathematics))
+	- [X] [Mathematical object](https://en.wikipedia.org/wiki/Mathematical_object)
+	- [X] [Morphism](https://en.wikipedia.org/wiki/Morphism)
+	- [X] [Monoids](https://en.wikipedia.org/wiki/Monoid)
+
 - [X] [Functor](https://en.wikipedia.org/wiki/Functor)
 - [X] [natural transformation](https://en.wikipedia.org/wiki/Natural_transformation)
-- [X] [Monoids](https://en.wikipedia.org/wiki/Monoid)
+
+- [X] [Other concepts](https://en.wikipedia.org/wiki/Category_theory#Other_concepts)
+    - [X] []()
+
 
 
 #### References
@@ -489,6 +496,9 @@ f:x→y,f:y→z,g o f:x→z , functors(functions) map between categories ...
 ### Theory of Computation
 
 finite stste of automata, infinite state of automata)...
+
+
+
 
 - [X] [Automata Theory: Stanford Course](https://online.stanford.edu/courses/soe-ycsautomata-automata-theory)
 - [X] [THEORY OF COMPUTATION: MIT](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/)
