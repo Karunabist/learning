@@ -463,6 +463,8 @@ f:x→y,f:y→z,g o f:x→z , functors(functions) map between categories ...
 
 - It becomes a ground for unification of interdisciplinary mathematical ideas; and the way it achieves this is by taking an abstract vantage point on objects, relationships, states, events, processes, and trajectories of these disciplines.
 
+- Category theory use to analyze deep learning model, input(source object), label(target object) and model is known as functors.
+
 - [X] [Categories, objects, and morphisms](https://en.wikipedia.org/wiki/Category_theory#Categories,_objects,_and_morphisms)
 
 	- [X] [Category (mathematics)](https://en.wikipedia.org/wiki/Category_(mathematics))
@@ -1171,6 +1173,9 @@ and their representations in **vector spaces** and through **matrices**.
 
 ### Probability
 
+- First we need to create a space.
+
+
 - [X] [Independent events](https://en.wikipedia.org/wiki/Independence_(probability_theory)): If two events, A and B are independent then the joint probability is: ${\displaystyle P(A{\mbox{ and }}B)=P(A\cap B)=P(A)P(B).}{\displaystyle P(A{\mbox{ and }}B)=P(A\cap B)=P(A)P(B).}$. For example, if two coins are flipped, then the chance of both being heads is ${\displaystyle {\tfrac {1}{2}}\times {\tfrac {1}{2}}={\tfrac {1}{4}}}{\tfrac {1}{2}}\times {\tfrac {1}{2}}={\tfrac {1}{4}}$.
 
 - [X] [Mutually exclusive events](https://en.wikipedia.org/wiki/Mutual_exclusivity): If either event A or event B can occur but never both simultaneously, then they are called mutually exclusive events.A clear example is the set of outcomes of a single coin toss, which can result in either heads or tails, but not both.
@@ -1186,9 +1191,26 @@ and their representations in **vector spaces** and through **matrices**.
 
      **PART I: THE FUNDAMENTALS**
 	- [X]  [Lecture 1: Probability Models and Axioms](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/mitres_6_012s18_l01as/)
-	Lecture Videos
+
+	   Lecture Videos
+
 	    - [X] [L01.1 Lecture Overview](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/lecture-overview/)
 		- [X] [L01.2 Sample Space](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/sample-space/)
+		- [X] [L01.3 Sample Space Examples](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/sample-space-examples/)
+		- [X] [L01.4 Probability Axioms](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/probability-axioms/)
+		- [X] [L01.5 Simple Properties of Probabilities](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/simple-properties-of-probabilities/)
+		- [X] [L01.6 More Properties of Probabilities](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/more-properties-of-probabilities/)
+		- [X] [L01.7 A Discrete Example](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/a-discrete-example/)
+		- [X] [L01.8 A Continuous Example](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/a-continuous-example/)
+		- [X] [L01.9 Countable Additivity](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/countable-additivity/)
+		- [X] [L01.10 Interpretations & Uses of Probabilities](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/interpretations-uses-of-probabilities/)
+	
+	- [X] [Lecture 1 Supplement: Mathematical Background](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/mitres_6_012s18_mathovervw/)
+
+	    Lecture Videos
+
+	    - [] []()
+	    
 	
 
 - [X] [Probability: the basics](https://www.khanacademy.org/math/statistics-probability/probability-library/basic-theoretical-probability/a/probability-the-basics)
