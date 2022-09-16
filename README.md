@@ -1312,13 +1312,15 @@ A descriptive statistic (in the count noun sense) is a summary statistic that qu
 - [X] [Descriptive Statistics: Simplelearn](https://www.simplilearn.com/what-is-descriptive-statistics-article)
 ##### Univariate analysis
 
-- [X] [Mean](https://en.wikipedia.org/wiki/Mean)
-- [X] [Median](https://en.wikipedia.org/wiki/Median)
-- [X] [Mode](https://en.wikipedia.org/wiki/Mode_(statistics))
-- [X] [Range](https://en.wikipedia.org/wiki/Range_(statistics))
-- [X] [Quartile](https://en.wikipedia.org/wiki/Quartile)
-- [X] [Variance](https://en.wikipedia.org/wiki/Variance)
-- [X] [Standard Deviation](https://en.wikipedia.org/wiki/Standard_deviation)
+- [X] Central Tendency
+	- [X] [Mean](https://en.wikipedia.org/wiki/Mean)
+	- [X] [Median](https://en.wikipedia.org/wiki/Median)
+	- [X] [Mode](https://en.wikipedia.org/wiki/Mode_(statistics))
+- [X] Dispersion
+	- [X] [Range](https://en.wikipedia.org/wiki/Range_(statistics))
+	- [X] [Quartile](https://en.wikipedia.org/wiki/Quartile)
+	- [X] [Variance](https://en.wikipedia.org/wiki/Variance)
+	- [X] [Standard Deviation](https://en.wikipedia.org/wiki/Standard_deviation)
 - [X] [Skwness](https://en.wikipedia.org/wiki/Skewness)
 - [X] [Kurtosis](https://en.wikipedia.org/wiki/Kurtosis)
 - [X] [histograms](https://en.wikipedia.org/wiki/Histogram)
@@ -1351,25 +1353,24 @@ Statistical inference is the process of using data analysis to infer properties 
 
 Inferential statistics can be contrasted with descriptive statistics. Descriptive statistics is solely concerned with properties of the observed data, and it does not rest on the assumption that the data come from a larger population. In machine learning, the term inference is sometimes used instead to mean "make a prediction, by evaluating an already trained model"; in this context inferring properties of the model is referred to as training or learning (rather than inference), and using a model for prediction is referred to as inference (instead of prediction); see also predictive inference.
 
-- [X] [Inferential Statistics](https://www.scribbr.com/statistics/inferential-statistics/)
-- [X] [Inferential Statistics](https://statisticsbyjim.com/basics/descriptive-inferential-statistics/)
-- [X] [Inferential Statistics](https://corporatefinanceinstitute.com/resources/knowledge/other/inferential-statistics/)
 
-- [X] [point estimate](https://en.wikipedia.org/wiki/Point_estimation)
-- [X] [Interval estimation](https://en.wikipedia.org/wiki/Interval_estimation)
-- [X] [confidence interval](https://en.wikipedia.org/wiki/Confidence_interval)
+- [X] Estimating population parameters from sample statistics
 
-##### Sampling methods
+	- [X] [point estimate](https://en.wikipedia.org/wiki/Point_estimation)
+	- [X] [Interval estimation](https://en.wikipedia.org/wiki/Interval_estimation)
+	- [X] [confidence interval](https://en.wikipedia.org/wiki/Confidence_interval)
 
-Simple random sampling
+- [X] Sampling methods
 
-Stratified sampling
+	- [X] [Simple random sampling](https://en.wikipedia.org/wiki/Simple_random_sample)
+	- [X] [Stratified sampling](https://en.wikipedia.org/wiki/Stratified_sampling)
+	- [X] [Cluster sampling](https://en.wikipedia.org/wiki/Cluster_sampling)
+	- [X] [Systematic sampling](https://en.wikipedia.org/wiki/Systematic_sampling)
 
-Cluster sampling
+- [X] Testing hypotheses : A statistical hypothesis test is a method of statistical inference used to decide whether the data at hand sufficiently support a particular hypothesis.
 
-Systematic sampling
+##### Confidence intervals (CIs)
 
-##### Testing hypotheses 
 
 ##### Comparison tests
 
