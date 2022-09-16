@@ -461,7 +461,15 @@ Dialects,accents, and varieties
 	- [X] [Zermelo-Fraenkel Set Theory](https://plato.stanford.edu/entries/set-theory/ZF.html)
 
 - [X] [Algebra of sets](https://en.wikipedia.org/wiki/Algebra_of_sets)
-    - [X] []()
+    - [X] [Commutative property](https://en.wikipedia.org/wiki/Commutative_property)
+	- [X] [Associative property](https://en.wikipedia.org/wiki/Associative_property)
+	- [X] [Distributive property](https://en.wikipedia.org/wiki/Distributive_property)
+	- [X] [idempotent laws](https://en.wikipedia.org/wiki/Idempotence)
+	- [X] [domination laws]()
+	- [X] [absorption laws](https://en.wikipedia.org/wiki/Absorption_law)
+	- [X] [reflexivity](https://en.wikipedia.org/wiki/Reflexive_relation)
+	- [X] [antisymmetry](https://en.wikipedia.org/wiki/Antisymmetric_relation)
+	- [X] [transitivity](https://en.wikipedia.org/wiki/Transitive_relation)
 
 
 
