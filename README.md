@@ -1312,25 +1312,31 @@ A descriptive statistic (in the count noun sense) is a summary statistic that qu
 - [X] [Descriptive Statistics: Simplelearn](https://www.simplilearn.com/what-is-descriptive-statistics-article)
 ##### Univariate analysis
 
+- [X] [distribution ](https://en.wikipedia.org/wiki/Frequency_(statistics))
+    - [X] [Construction](https://en.wikipedia.org/wiki/Frequency_(statistics)#Construction)
+	- [X] [Histogram](https://en.wikipedia.org/wiki/Frequency_(statistics)#Histograms)
+	- [X] [Bar graphs](https://en.wikipedia.org/wiki/Frequency_(statistics)#Bar_graphs)
+	- [X] [Frequency distribution table](https://en.wikipedia.org/wiki/Frequency_(statistics)#Frequency_distribution_table)
+	- [X] [Joint frequency distributions](https://en.wikipedia.org/wiki/Frequency_(statistics)#Joint_frequency_distributions)
+
 - [X] Central Tendency
 	- [X] [Mean](https://en.wikipedia.org/wiki/Mean)
+	    - [X] [Harmonic mean]()
+		- [X] [Geometric mean]()
 	- [X] [Median](https://en.wikipedia.org/wiki/Median)
 	- [X] [Mode](https://en.wikipedia.org/wiki/Mode_(statistics))
+
 - [X] Dispersion
 	- [X] [Range](https://en.wikipedia.org/wiki/Range_(statistics))
 	- [X] [Quartile](https://en.wikipedia.org/wiki/Quartile)
 	- [X] [Variance](https://en.wikipedia.org/wiki/Variance)
 	- [X] [Standard Deviation](https://en.wikipedia.org/wiki/Standard_deviation)
+
 - [X] [Skwness](https://en.wikipedia.org/wiki/Skewness)
 - [X] [Kurtosis](https://en.wikipedia.org/wiki/Kurtosis)
 - [X] [histograms](https://en.wikipedia.org/wiki/Histogram)
 - [X] [Stem-and-leaf display](https://en.wikipedia.org/wiki/Stem-and-leaf_display)
 
-
-
-- [X] [Univariate descriptive statistics](https://analyse-it.com/docs/user-guide/distribution/continuous/univariate-descriptive-statistics)
-- [X] [UNIVARIATE DATA ANALYSIS](https://home.csulb.edu/~msaintg/ppa696/696uni.htm)
-- [X] [Univariate Statistics Analysis & Examples](https://study.com/learn/lesson/univariate-statistics-analysis-examples-what-is-univariate-data.html)
 
 ##### Bivariate and multivariate analysis
 
