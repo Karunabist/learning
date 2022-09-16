@@ -1214,7 +1214,6 @@ and their representations in **vector spaces** and through **matrices**.
 
 - First we need to create a space.
 
-
 - [X] [Independent events](https://en.wikipedia.org/wiki/Independence_(probability_theory)): If two events, A and B are independent then the joint probability is: ${\displaystyle P(A{\mbox{ and }}B)=P(A\cap B)=P(A)P(B).}{\displaystyle P(A{\mbox{ and }}B)=P(A\cap B)=P(A)P(B).}$. For example, if two coins are flipped, then the chance of both being heads is ${\displaystyle {\tfrac {1}{2}}\times {\tfrac {1}{2}}={\tfrac {1}{4}}}{\tfrac {1}{2}}\times {\tfrac {1}{2}}={\tfrac {1}{4}}$.
 
 - [X] [Mutually exclusive events](https://en.wikipedia.org/wiki/Mutual_exclusivity): If either event A or event B can occur but never both simultaneously, then they are called mutually exclusive events.A clear example is the set of outcomes of a single coin toss, which can result in either heads or tails, but not both.
@@ -1260,6 +1259,35 @@ and their representations in **vector spaces** and through **matrices**.
 		- [X] [S01.9 Proof that a Set of Real Numbers is Uncountable](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/proof-that-a-set-of-real-numbers-is-uncountable/)
 		- [X] [S01.10 Bonferroni's Inequality](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/bonferronis-inequality/)
 	    
+	- [X] [Lecture 2: Conditioning and Bayes’ Rule](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/mitres_6_012s18_l02as/)
+
+	    Lecture Videos
+
+		- [X] [L02.1 Lecture Overview](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/lecture-overview-1/)
+		- [X] [L02.2 Conditional Probabilities](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/conditional-probabilities/)
+		- [X] [L02.3 A Die Roll Example](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/a-die-roll-example/)
+		- [X] [L02.4 Conditional Probabilities Obey the Same Axioms](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/conditional-probabilities-obey-the-same-axioms/)
+		- [X] [L02.5 A Radar Example and Three Basic Tools](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/a-radar-example-and-three-basic-tools/)
+		- [X] [L02.6 The Multiplication Rule](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/the-multiplication-rule/)
+		- [X] [L02.7 Total Probability Theorem](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/total-probability-theorem/)
+		- [X] [L02.8 Bayes' Rule](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/bayes-rule/)
+
+	- [X] [Lecture 3: Independence](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/mitres_6_012s18_l03as/)
+
+	    Lecture Videos
+
+		- [X] [L03.1 Lecture Overview](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/lecture-overview-2/)
+		- [X] [L03.2 A Coin Tossing Example](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/a-coin-tossing-example/)
+		- [X] [L03.3 Independence of Two Events](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/independence-of-two-events/)
+		- [X] [L03.4 Independence of Event Complements](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/independence-of-event-complements/)
+		- [X] [L03.5 Conditional Independence](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/conditional-independence/)
+		- [X] [L03.6 Independence Versus Conditional Independence](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/independence-versus-conditional-independence/)
+		- [X] [L03.7 Independence of a Collection of Events](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/independence-of-a-collection-of-events/)
+		- [X] [L03.8 Independence Versus Pairwise Independence](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/independence-versus-pairwise-independence/)
+		- [X] [L03.9 Reliability](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/reliability/)
+		- [X] [L03.10 The King's Sibling](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/the-kings-sibling/)
+
+
 	
 
 - [X] [Probability: the basics](https://www.khanacademy.org/math/statistics-probability/probability-library/basic-theoretical-probability/a/probability-the-basics)
