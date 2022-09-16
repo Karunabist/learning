@@ -1,6 +1,6 @@
 # Learning 👀 
 
-1. First define space, what is space? smallest unit of that domain.It might be space of letters/words for language,numbers/objects for mathematics,atom for physics,ion for chemistry,...,array for computer science. Each element in space has its own meaning.
+1. First define space, what is space? collection of smallest units of that domain.It might be space of letters/words for language,numbers/objects for mathematics,atoms for physics,ions for chemistry,...,arrays for computer science. Each element in space has its own meaning.
 2. Second define function, which take input from space and do something meaningful. Grammetical(s+v+o) is for language, mathematical operations(+,-,/,...) for mathematics,..., CRUD in computer science.
 3. Second we receive output, which has beautiful meaning
 
