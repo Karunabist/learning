@@ -1213,6 +1213,8 @@ and their representations in **vector spaces** and through **matrices**.
 ### Probability
 
 - First we need to create a space.
+- Calculate Probability/probability distributation from space 
+
 
 - [X] [Independent events](https://en.wikipedia.org/wiki/Independence_(probability_theory)): If two events, A and B are independent then the joint probability is: ${\displaystyle P(A{\mbox{ and }}B)=P(A\cap B)=P(A)P(B).}{\displaystyle P(A{\mbox{ and }}B)=P(A\cap B)=P(A)P(B).}$. For example, if two coins are flipped, then the chance of both being heads is ${\displaystyle {\tfrac {1}{2}}\times {\tfrac {1}{2}}={\tfrac {1}{4}}}{\tfrac {1}{2}}\times {\tfrac {1}{2}}={\tfrac {1}{4}}$.
 
@@ -1327,7 +1329,10 @@ and their representations in **vector spaces** and through **matrices**.
 
 ### Statistics
 
-Statistics (from German: Statistik, orig. "description of a state, a country") is the discipline that concerns the collection, organization, analysis, interpretation, and presentation of data.
+- Statistics (from German: Statistik, orig. "description of a state, a country") is the discipline that concerns the collection, organization, analysis, interpretation, and presentation of data.
+- Descriptive statistics: Space is data calculate mean,variance,distributation.. from data
+- Inferential statistics: Inference data from mean,variance,distributation...
+
 
 
 ####  Descriptive statistics
