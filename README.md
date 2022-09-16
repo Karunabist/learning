@@ -1221,8 +1221,18 @@ and their representations in **vector spaces** and through **matrices**.
 
 - [X] [Not mutually exclusive events](https://en.wikipedia.org/wiki/Probability#Not_mutually_exclusive_events): 
 - [X] [Conditional probability](https://en.wikipedia.org/wiki/Conditional_probability)
+- [X] [Conditional Probabilities, Clearly Explained!!!: StatQuest](https://www.youtube.com/watch?v=_IgyaD7vOOA&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=17)
 - [X] [Inverse probability](https://en.wikipedia.org/wiki/Probability#Inverse_probability)
 - [X] [Summary of probabilities](https://en.wikipedia.org/wiki/Probability#Summary_of_probabilities)
+- [X] [Bayes' Theorem, Clearly Explained!!!!: StatQuest](https://www.youtube.com/watch?v=9wCnvr7Xw4E&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=18)
+- [X] [Central limit theorem](https://en.wikipedia.org/wiki/Central_limit_theorem)
+- [X] [The Central Limit Theorem, Clearly Explained!!!: StatQuest](https://www.youtube.com/watch?v=YAlJCEDH2uY&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=20)
+- [X] [Odds and Log(Odds), Clearly Explained!!!: StatQuest](https://www.youtube.com/watch?v=ARfXDSkQf1Y&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=45)
+- [X] [Odds Ratios and Log(Odds Ratios), Clearly Explained!!!: StatQuest](https://www.youtube.com/watch?v=8nm0G-1uJzA&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=46)
+
+- [X] [Probability Distributation](https://en.wikipedia.org/wiki/Probability_distribution)
+    - [X] [The Main Ideas behind Probability Distributions: StatQuest](https://www.youtube.com/watch?v=oI3hZJqXJuc&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=2)
+
 
 - [X] [List Of Probability Distributation](https://en.wikipedia.org/wiki/List_of_probability_distributions#Discrete_distributions)
 - [X] [Discrete distributions](https://en.wikipedia.org/wiki/List_of_probability_distributions#Discrete_distributions)
@@ -1232,6 +1242,14 @@ and their representations in **vector spaces** and through **matrices**.
     - [X] [Bernoulli distribution](https://en.wikipedia.org/wiki/Bernoulli_distribution): which takes value 1 with probability p and value 0 with probability q = 1 − p.
 	- [X] [Rademacher distribution](https://en.wikipedia.org/wiki/Rademacher_distribution): which takes value 1 with probability 1/2 and value −1 with probability 1/2.
     - [X] [Binomial distribution](https://en.wikipedia.org/wiki/Binomial_distribution): which describes the number of successes in a series of independent Yes/No experiments all with the same probability of success.
+	- [X] [The Binomial Distribution and Test, Clearly Explained!!!: StatQuest](https://www.youtube.com/watch?v=J8jNoF-K8E8&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=35)
+
+- [X] [Absolutely continuous distributions](https://en.wikipedia.org/wiki/List_of_probability_distributions#Absolutely_continuous_distributions)
+    
+
+	Supported on the whole real line
+
+    - [X] [The Normal Distribution, Clearly Explained!!!](https://www.youtube.com/watch?v=rzFX5NWojp0&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=3)
 
 - [X] [INTRODUCTION TO PROBABILITY: MIT](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/)
 
@@ -1316,14 +1334,20 @@ Statistics (from German: Statistik, orig. "description of a state, a country") i
 
 A descriptive statistic (in the count noun sense) is a summary statistic that quantitatively describes or summarizes features from a collection of information, while descriptive statistics (in the mass noun sense) is the process of using and analysing those statistics.
 
+
+
 ##### Univariate analysis
 
 - [X] [distribution ](https://en.wikipedia.org/wiki/Frequency_(statistics))
     - [X] [Construction](https://en.wikipedia.org/wiki/Frequency_(statistics)#Construction)
 	- [X] [Histogram](https://en.wikipedia.org/wiki/Frequency_(statistics)#Histograms)
+	- [X] [Histogram: StatQuest](https://www.youtube.com/watch?v=qBigTkBLU6g&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=1)
 	- [X] [Bar graphs](https://en.wikipedia.org/wiki/Frequency_(statistics)#Bar_graphs)
 	- [X] [Frequency distribution table](https://en.wikipedia.org/wiki/Frequency_(statistics)#Frequency_distribution_table)
 	- [X] [Joint frequency distributions](https://en.wikipedia.org/wiki/Frequency_(statistics)#Joint_frequency_distributions)
+	- [X] [Bar Charts Are Better than Pie Charts: StatQuest](https://www.youtube.com/watch?v=RiEZ_hEf96A&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=29)
+	- [X] [Boxplots are Awesome!!!: StatQuest](https://www.youtube.com/watch?v=fHLhBnmwUM0&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=30)
+	- [X] []()
 
 - [X] Central Tendency
 	- [X] [Mean](https://en.wikipedia.org/wiki/Mean)
@@ -1337,6 +1361,15 @@ A descriptive statistic (in the count noun sense) is a summary statistic that qu
 	- [X] [Quartile](https://en.wikipedia.org/wiki/Quartile)
 	- [X] [Variance](https://en.wikipedia.org/wiki/Variance)
 	- [X] [Standard Deviation](https://en.wikipedia.org/wiki/Standard_deviation)
+	- [X] [Covariance, Clearly Explained!!!: StstQuest](https://www.youtube.com/watch?v=qtaqvPAeEJY&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=15)
+	- [X] [Standard Deviation vs Standard Error, Clearly Explained!!!: StatQuest](https://www.youtube.com/watch?v=A82brFpdr9g&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=21)
+	- [X] [The standard error, Clearly Explained!!!: StatQuest](https://www.youtube.com/watch?v=XNgt7F6FqDU&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=22)
+	- [X] [Quantiles and Percentiles, Clearly Explained!!!: StatQuest](https://www.youtube.com/watch?v=IFKQLDmRK0Y&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=36)
+	- [X] [Quantile-Quantile Plots (QQ plots), Clearly Explained!!!: StatQuest](https://www.youtube.com/watch?v=okjYjClSjOg&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=37)
+	- [X] [Quantile Normalization, Clearly Explained!!!: StatQuest](https://www.youtube.com/watch?v=ecjN6Xpv6SE&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=38)
+	- [X] [Why Dividing By N Underestimates the Variance: StatQuest](https://www.youtube.com/watch?v=sHRBg6BhKjI&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=42)
+
+- [X] [Calculating the Mean, Variance and Standard Deviation, Clearly Explained!!!: StatQuest](https://www.youtube.com/watch?v=SzZ6GpcfoQY&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=5)
 
 - [X] [Skwness](https://en.wikipedia.org/wiki/Skewness)
 - [X] [Kurtosis](https://en.wikipedia.org/wiki/Kurtosis)
@@ -1352,6 +1385,9 @@ A descriptive statistic (in the count noun sense) is a summary statistic that qu
 - [X] [Dependence/Correlation](https://en.wikipedia.org/wiki/Correlation)
 - [X] [Conditional probability distribution](https://en.wikipedia.org/wiki/Conditional_probability_distribution)
 
+
+- [X] [Statistical Power, Clearly Explained!!!: StatQuest](https://www.youtube.com/watch?v=Rsc5znwR5FA&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=13)
+- [X] [Power Analysis, Clearly Explained!!!: StatQuest](https://www.youtube.com/watch?v=VX_M3tIyiYk&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=14)
 
 #### Inferential statistics
 
@@ -1372,6 +1408,11 @@ Inferential statistics can be contrasted with descriptive statistics. Descriptiv
 	- [X] [Stratified sampling](https://en.wikipedia.org/wiki/Stratified_sampling)
 	- [X] [Cluster sampling](https://en.wikipedia.org/wiki/Cluster_sampling)
 	- [X] [Systematic sampling](https://en.wikipedia.org/wiki/Systematic_sampling)
+	- [X] [Population and Estimated Parameters, Clearly Explained!!!: StatQuest](https://www.youtube.com/watch?v=vikkiwjQqfU&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=4)
+	- [X] [Sampling from a Distribution, Clearly Explained!!!: StatQuest](https://www.youtube.com/watch?v=XLCWeSVzHUU&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=7)
+	- [X] [Bootstrapping Main Ideas!!!: StatQuest](https://www.youtube.com/watch?v=Xz0x-8-cgaQ&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=24)
+	- [X] [Using Bootstrapping to Calculate p-values!!!: StatQuest](https://www.youtube.com/watch?v=N4ZQQqyIf6k&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=25)
+	- [X] [Sample Size and Effective Sample Size, Clearly Explained!!!: StatQuest](https://www.youtube.com/watch?v=67zCIqdeXpo&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=28)
 
 - [X] Testing hypotheses : A statistical hypothesis test is a method of statistical inference used to decide whether the data at hand sufficiently support a particular hypothesis.
     - [X] [Definition of terms](https://en.wikipedia.org/wiki/Statistical_hypothesis_testing#Definition_of_terms)
@@ -1380,13 +1421,23 @@ Inferential statistics can be contrasted with descriptive statistics. Descriptiv
 	- [X] [Chi square test](): categorical
 	- [X] [F test]()
 	- [X] [ANOVA test]()
+	- [X] [Hypothesis Testing and The Null Hypothesis, Clearly Explained!!!: StatQuest](https://www.youtube.com/watch?v=0oc49DyA3hU&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=8)
+    - [X] [Alternative Hypotheses: Main Ideas!!!: StatQuest](https://www.youtube.com/watch?v=5koKb5B_YWo&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=9)
+	- [X] [p-values: What they are and how to interpret them:StatQuest](https://www.youtube.com/watch?v=vemZtEM63GY&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=10)
+    - [X] [How to calculate p-values](https://www.youtube.com/watch?v=JQc3yx0-Q9E&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=11)
+    - [X] [p-hacking: What it is and how to avoid it!: StatQuest](https://www.youtube.com/watch?v=HDCOUXE3HMM&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=12)
+	- [X] [StatQuickie: Which t test to use: StatQuest](https://www.youtube.com/watch?v=nnBJeb_I-q8&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=33)
+	- [X] [StatQuest: One or Two Tailed P-Values: StatQuest](https://www.youtube.com/watch?v=bsZGt-caXO4&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=34)
+
 
 - [X] [Confidence intervals (CIs)](https://en.wikipedia.org/wiki/Confidence_interval)
+- [X] [Confidence Intervals, Clearly Explained!!!: StatQuest](https://www.youtube.com/watch?v=TqOeMYtOc1w&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=23)
 
 
 - [X] [Comparison tests]()
     - [X] [Correlation]()
 	- [X] [Pearson correlation coefficient](https://en.wikipedia.org/wiki/Pearson_correlation_coefficient)
+	- [X] [Pearson's Correlation, Clearly Explained!!!: StatQuest](https://www.youtube.com/watch?v=xZ_z8KWkhXE&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=16)
 
 
 
@@ -1399,6 +1450,8 @@ Inferential statistics can be contrasted with descriptive statistics. Descriptiv
 ##### Bayesian inference(MAP)
 - [X] [MLE, MAP and Bayesian Inference](https://towardsdatascience.com/mle-map-and-bayesian-inference-3407b2d6d4d9)
 - [X] [ML, MAP, and Bayesian](https://engineering.purdue.edu/kak/Trinity.pdf)
+- [X] [Maximum Likelihood, clearly explained!!!:StatQuest](https://www.youtube.com/watch?v=XepXtl9YKwc&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=40)
+- [X] [Maximum Likelihood for the Exponential Distribution, Clearly Explained!!!: StatQuest](https://www.youtube.com/watch?v=p3T-_LMrvBc&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=41)
 - [X] [An Introduction to Bayesian Inference — Defining the MAP Estimate](https://medium.com/mlearning-ai/an-introduction-to-bayesian-inference-part-2-e15df4faa56c)
 - [X] [MLE, MAP, Bayes classification](http://www.cs.cmu.edu/~aarti/Class/10701_Spring14/slides/MLE_MAP_Part1.pdf)
 - [X] [Maximum a posteriori estimation](https://en.wikipedia.org/wiki/Maximum_a_posteriori_estimation)
@@ -1409,6 +1462,9 @@ Inferential statistics can be contrasted with descriptive statistics. Descriptiv
 - [X] [Likelihood inference](https://utstat.toronto.edu/reid/research/likelihood-final.pdf)
 - [X] [Likelihood principle: Wikipedia](https://en.wikipedia.org/wiki/Likelihood_principle)
 - [X] [Likelihood based inference](https://bookdown.org/ybrandvain/Applied-Biostats/likelihood.html)
+- [X] [Probability is not Likelihood. Find out why!!!: StatQuest](https://www.youtube.com/watch?v=pYxNSUDSFH4&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=39)
+- [X] [Maximum Likelihood for the Binomial Distribution, Clearly Explained!!!: StatQuest](https://www.youtube.com/watch?v=4KKV9yZCoM4&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=43)
+- [X] [Maximum Likelihood For the Normal Distribution, step-by-step!!!: StatQuest](https://www.youtube.com/watch?v=Dn6b9fCIUpM&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=44)
 
 ##### AIC-based inference
 - [X] [Akaike information criterion: Wikipedia](https://en.wikipedia.org/wiki/Akaike_information_criterion)
@@ -2249,6 +2305,8 @@ Multi-Class Classification Loss Functions
 
 	
 #### Be familar with accuracy matrix
+
+- [X] [R-squared, Clearly Explained!!!: StatQuest](https://www.youtube.com/watch?v=2AQKmw14mHM&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=19)
 - [ ] [Evaluating Deep Learning Models: The Confusion Matrix, Accuracy, Precision, and Recall](https://blog.paperspace.com/deep-learning-metrics-precision-recall-accuracy/)
 - [ ] [Everything you Should Know about Confusion Matrix for Machine Learning](https://www.analyticsvidhya.com/blog/2020/04/confusion-matrix-machine-learning/)
 - [ ] [Metrics to Evaluate your Machine Learning Algorithm](https://towardsdatascience.com/metrics-to-evaluate-your-machine-learning-algorithm-f10ba6e38234)
