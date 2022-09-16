@@ -1308,8 +1308,6 @@ Statistics (from German: Statistik, orig. "description of a state, a country") i
 
 A descriptive statistic (in the count noun sense) is a summary statistic that quantitatively describes or summarizes features from a collection of information, while descriptive statistics (in the mass noun sense) is the process of using and analysing those statistics.
 
-- [X] [Descriptive Statistics: Wikipedia](https://en.wikipedia.org/wiki/Descriptive_statistics)
-- [X] [Descriptive Statistics: Simplelearn](https://www.simplilearn.com/what-is-descriptive-statistics-article)
 ##### Univariate analysis
 
 - [X] [distribution ](https://en.wikipedia.org/wiki/Frequency_(statistics))
@@ -1345,12 +1343,6 @@ A descriptive statistic (in the count noun sense) is a summary statistic that qu
 - [X] [Scatter plot](https://en.wikipedia.org/wiki/Scatter_plot)
 - [X] [Dependence/Correlation](https://en.wikipedia.org/wiki/Correlation)
 - [X] [Conditional probability distribution](https://en.wikipedia.org/wiki/Conditional_probability_distribution)
-
-
-
-- [X] [Bivariate Analysis](https://sciencing.com/difference-between-bivariate-multivariate-analyses-8667797.html)
-- [X] [Introduction to Univariate, Bivariate and Multivariate Analysis](https://medium.com/analytics-vidhya/univariate-bivariate-and-multivariate-analysis-8b4fc3d8202c)
-- [X] [Bivariate Analysis](https://www.analyticsvidhya.com/blog/2021/04/exploratory-analysis-using-univariate-bivariate-and-multivariate-analysis-techniques/)
 
 
 #### Inferential statistics
