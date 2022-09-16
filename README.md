@@ -1527,13 +1527,17 @@ Inferential statistics can be contrasted with descriptive statistics. Descriptiv
 - [X] [patrickJMT ](https://www.youtube.com/c/patrickjmt/featured)
 - [X] [Numberphile ](https://www.youtube.com/c/numberphile)
 - [X] [The Math Sorcerer ](https://www.youtube.com/c/TheMathSorcerer)
+
 **Mathematical Symbols**
+
 - [X] [Mathematical Symbols: Article](https://byjus.com/maths/math-symbols/)
 - [X] [Math Symbols List: Article](https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html)
 - [X] [Mathematical Symbols: Article](https://mathvault.ca/hub/higher-math/math-symbols/)
 
 **Podcast**
+
 - [X] [Grant Sanderson](https://www.youtube.com/c/GrantSanderson/featured)
+
 **Other Resources**
 
 - [ ] [arXiv.org - Mathematics](https://arxiv.org/archive/math)
