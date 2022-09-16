@@ -1384,7 +1384,9 @@ Inferential statistics can be contrasted with descriptive statistics. Descriptiv
 - [X] [Confidence intervals (CIs)](https://en.wikipedia.org/wiki/Confidence_interval)
 
 
-##### Comparison tests
+- [X] [Comparison tests]()
+    - [X] [Correlation]()
+	- [X] [Pearson correlation coefficient](https://en.wikipedia.org/wiki/Pearson_correlation_coefficient)
 
 
 
