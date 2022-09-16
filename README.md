@@ -1,7 +1,7 @@
 # Learning 👀 
 
-1. First define space, what is space? collection of smallest units of that domain.It might be space of letters/words for language,numbers/objects for mathematics,atoms for physics,ions for chemistry,...,arrays for computer science. Each element in space has its own meaning.
-2. Second define function, which take input from space and do something meaningful. Grammetical(s+v+o) is for language, mathematical operations(+,-,/,...) for mathematics,..., CRUD in computer science.
+1. First define space, what is space? collection of smallest units of that domain.It might be space of letters/words for language,numbers/objects for mathematics,atoms for physics,ions for chemistry,...,arrays for computer science. Each element of space has its own meaning.
+2. Second define function, which takes an input from the space and do something meaningful. Grammer(s+v+o) is for language, mathematical operations(+,-,/,...) for mathematics,..., CRUD operation in computer science.
 3. Second we receive output, which has beautiful meaning
 
 **Note: Creating/collecting more elements in space. Create perfect function will give perfect output.**
@@ -275,9 +275,9 @@ Dialects,accents, and varieties
 	
 ## Books
 
-- [X] [Atomic Habit](https://www.opportunitiesforyouth.org/wp-content/uploads/2021/04/Atomic_Habits_by_James_Clear-1.pdf)(Ongoing: Page 86)
+- [X] [Atomic Habit](https://www.opportunitiesforyouth.org/wp-content/uploads/2021/04/Atomic_Habits_by_James_Clear-1.pdf)
 - [X] [The Psycology Of Money](https://www.planetayurveda.com/traditional-books/the-psychology-of-money-by-morgan-housel.pdf)
-- [X] [The Subtle Art Of Not Giving A F*ck](https://www.docdroid.net/KyoHFx5/the-subtle-art-of-not-giving-a-fuck-pdf#page=5)
+- [X] [The Subtle Art Of Not Giving A F*ck](https://www.docdroid.net/KyoHFx5/the-subtle-art-of-not-giving-a-fuck-pdf#page=5)(Ongoing: )
 - [X] [Elon Musk](https://drive.google.com/file/d/1C8ODShsViYqTUGmbeW2y3aLg3Lbr_1fj/view?usp=sharing)
 - [X] [Born A Crime](https://drive.google.com/file/d/1_BmJeqonDQChIF2BoxqKh0jq-nSU25eS/view?usp=sharing)
 - [X] [Tinkle Double Digest](https://drive.google.com/file/d/1XoO5s4MJlG4zt3QJGKk2ovLoRIiWL-sx/view?usp=sharing)
