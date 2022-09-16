@@ -1224,6 +1224,14 @@ and their representations in **vector spaces** and through **matrices**.
 - [X] [Inverse probability](https://en.wikipedia.org/wiki/Probability#Inverse_probability)
 - [X] [Summary of probabilities](https://en.wikipedia.org/wiki/Probability#Summary_of_probabilities)
 
+- [X] [List Of Probability Distributation](https://en.wikipedia.org/wiki/List_of_probability_distributions#Discrete_distributions)
+- [X] [Discrete distributions](https://en.wikipedia.org/wiki/List_of_probability_distributions#Discrete_distributions)
+    
+	With finite support
+
+    - [X] [Bernoulli distribution](https://en.wikipedia.org/wiki/Bernoulli_distribution): which takes value 1 with probability p and value 0 with probability q = 1 − p.
+	- [X] [Rademacher distribution](https://en.wikipedia.org/wiki/Rademacher_distribution): which takes value 1 with probability 1/2 and value −1 with probability 1/2.
+    - [X] [Binomial distribution](https://en.wikipedia.org/wiki/Binomial_distribution): which describes the number of successes in a series of independent Yes/No experiments all with the same probability of success.
 
 - [X] [INTRODUCTION TO PROBABILITY: MIT](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/)
 
@@ -1366,8 +1374,14 @@ Inferential statistics can be contrasted with descriptive statistics. Descriptiv
 	- [X] [Systematic sampling](https://en.wikipedia.org/wiki/Systematic_sampling)
 
 - [X] Testing hypotheses : A statistical hypothesis test is a method of statistical inference used to decide whether the data at hand sufficiently support a particular hypothesis.
+    - [X] [Definition of terms](https://en.wikipedia.org/wiki/Statistical_hypothesis_testing#Definition_of_terms)
+	- [X] [Z-test](https://en.wikipedia.org/wiki/Z-test): n>30,quantative,
+	- [X] [T-test](): n<30, 
+	- [X] [Chi square test](): categorical
+	- [X] [F test]()
+	- [X] [ANOVA test]()
 
-##### Confidence intervals (CIs)
+- [X] [Confidence intervals (CIs)](https://en.wikipedia.org/wiki/Confidence_interval)
 
 
 ##### Comparison tests
@@ -2192,12 +2206,32 @@ Notes:
 
 Regression Loss Functions, Binary Classification Loss Functions, Multi-Class Classification Loss Functions
 
-- [ ] [ ](https://vinija.ai/toolkit/loss/#multiple-negative-ranking-loss)
+Regression Loss Functions
+- [X] [Square loss]()
+- [X] [Absolute error]()
+- [X] [Huber loss]()
+- [X] []()
+
+
+Binary Classification Loss Functions
+- [X] [Binary Cross Entropy Loss]()
+- [X] [Hing loss]()
+
+Multi-Class Classification Loss Functions
+- [X] [Multi class entropy loss]()
+- [X] [KL divergence]()
+
+- [ ] [Common Loss functions](https://vinija.ai/toolkit/loss/#multiple-negative-ranking-loss)
 - [ ] [Common Loss functions in machine learning](https://towardsdatascience.com/common-loss-functions-in-machine-learning-46af0ffc4d23)
 - [ ] [A Detailed Guide to 7 Loss Functions for Machine Learning Algorithms with Python Code](https://www.analyticsvidhya.com/blog/2019/08/detailed-guide-7-loss-functions-machine-learning-python-code/)
 - [ ] [How to Choose Loss Functions When Training Deep Learning Neural Networks](https://machinelearningmastery.com/how-to-choose-loss-functions-when-training-deep-learning-neural-networks/)
 	
 #### Be familar with back propagation, objective function, optimization
+
+- [X] [Gradient descent]()
+- [X] [Stochastic gradient descent]()
+- [X] [Mini-batch gradient]()
+
 
 - [X] [Andrej Karpathy](https://www.youtube.com/watch?v=VMj-3S1tku0)
 - [X] [The spelled-out intro to language modeling: building makemore: Andrej Karpathy](https://www.youtube.com/watch?v=PaCmpygFfXo)
@@ -2210,11 +2244,6 @@ Regression Loss Functions, Binary Classification Loss Functions, Multi-Class Cla
 - [X] [Gradient Descent, Step-by-Step](https://www.youtube.com/watch?v=sDv4f4s2SB8) `0:23:54`
 - [X] [Stochastic Gradient Descent, Clearly Explained!!!](https://www.youtube.com/watch?v=vMh0zPT0tLI) `0:10:53`
 
-#### Be familar with hypothesis testing
-- [ ] [Hypothesis Testing with Python: Step by step hands-on tutorial with practical examples](https://towardsdatascience.com/hypothesis-testing-with-python-step-by-step-hands-on-tutorial-with-practical-examples-e805975ea96e)
-- [ ] [Hypothesis testing in Machine learning using Python](https://towardsdatascience.com/hypothesis-testing-in-machine-learning-using-python-a0dc89e169ce)
-- [ ] [Statistical Hypothesis Testing with Python Implementation](https://www.section.io/engineering-education/statistical-hypothesis-testing-python-implementation/)
-- [ ] [An Interactive Guide to Hypothesis Testing in Python](https://www.visual-design.net/post/an-interactive-guide-to-hypothesis-testing-in-python)
 
 	
 #### Be familar with accuracy matrix
