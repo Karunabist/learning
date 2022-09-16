@@ -4,6 +4,7 @@
 2. Second define function, which take input from space and do something meaningful. Grammetical(s+v+o) is for language, mathematical operations(+,-,/,...) for mathematics,..., CRUD in computer science.
 3. Second we receive output, which has beautiful meaning
 
+Note: Creating/collecting more elements in space. Create perfect function will give perfect output.
 
 <table width="100%">
   <tr>
