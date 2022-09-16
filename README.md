@@ -1479,7 +1479,22 @@ Inferential statistics can be contrasted with descriptive statistics. Descriptiv
 - [X] [Exploratory Data Analysis](https://r4ds.had.co.nz/exploratory-data-analysis.html)
 
 
-### Statistics and other decision sciences(probability and statistics)
+
+### Computational mathematics
+
+### Computational science
+
+### Numerical methods
+
+### Stochastic 
+
+### Computational complexity
+
+
+### Cryptography 
+
+
+## References
 - [ ] [ StatQuest: Statistics Fundamentals](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
 - [ ] [ Article: Entropy, Cross Entropy, and KL Divergence](https://towardsdatascience.com/entropy-cross-entropy-and-kl-divergence-17138ffab87b)
 - [ ] [ Article: Interview Guide to Probability Distributions](https://medium.com/acing-ai/interview-guide-to-probability-distributions-a6dfb08c3766)
@@ -1501,51 +1516,25 @@ Inferential statistics can be contrasted with descriptive statistics. Descriptiv
 - [ ] [ Udacity: Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)     
 - [ ] [ Udacity: Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201) 
 
-
-
-### Computational mathematics
-
-### Computational science
-
-### Numerical methods
-
-### Stochastic 
-
-### Computational complexity
-
-
-### Cryptography 
-
-
-
-### Books
-
+**Books**
 - [X] [An Introduction to Probability with de Finetti’s Approach and to Bayesian Statistics](http://ndl.ethernet.edu.et/bitstream/123456789/29038/1/Francesca%20Biagini_2016.pdf)
 - [X] [Bayesian Network](https://bayanbox.ir/view/2696034682419953093/Timo-Koski-John-Noble-Bayesian-Networks-An-Int.pdf)
 - [X] [PROBABILITY and STATISTICS](http://users.encs.concordia.ca/~doedel/courses/comp-233/slides.pdf)
 
-## Youtube Channels
+**Youtube Channels**
 - [X] [Matthew Weathers](https://www.youtube.com/c/MDWeathers)	
 - [X] [MathTheBeautiful](https://www.youtube.com/c/MathTheBeautiful)
 - [X] [patrickJMT ](https://www.youtube.com/c/patrickjmt/featured)
 - [X] [Numberphile ](https://www.youtube.com/c/numberphile)
 - [X] [The Math Sorcerer ](https://www.youtube.com/c/TheMathSorcerer)
-
-## Mathematical Symbols
+**Mathematical Symbols**
 - [X] [Mathematical Symbols: Article](https://byjus.com/maths/math-symbols/)
 - [X] [Math Symbols List: Article](https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html)
 - [X] [Mathematical Symbols: Article](https://mathvault.ca/hub/higher-math/math-symbols/)
 
-## Python Programming Library 
-- [X] [SymPy](https://docs.sympy.org/latest/index.html)
-- [X] [Math Module](https://docs.python.org/3/library/math.html)
-- [X] [Scipy](https://docs.scipy.org/doc/scipy/)
-- [X] [Numpy](https://numpy.org/doc/)
-- [X] [Theano](https://theano-pymc.readthedocs.io/en/latest/)
-- [X] [Statsmodel](https://www.statsmodels.org/stable/index.html)
-- [X] []()
-
-## Other Resources
+**Podcast**
+- [X] [Grant Sanderson](https://www.youtube.com/c/GrantSanderson/featured)
+**Other Resources**
 
 - [ ] [arXiv.org - Mathematics](https://arxiv.org/archive/math)
 - [ ] [Calculus.org](http://calculus.org/)
@@ -1568,9 +1557,17 @@ Inferential statistics can be contrasted with descriptive statistics. Descriptiv
 - [ ] [Brandon Foltz ](https://www.youtube.com/c/BrandonFoltz/videos)
 - [ ] [nsufl](https://nsufl.libguides.com/cnso-calculus/gettingstarted)
 
-## Podcast
-- [ ] [Grant Sanderson](https://www.youtube.com/c/GrantSanderson/featured)
-- [ ] []()
+
+## Python Programming Library 
+- [X] [SymPy](https://docs.sympy.org/latest/index.html)
+- [X] [Math Module](https://docs.python.org/3/library/math.html)
+- [X] [Scipy](https://docs.scipy.org/doc/scipy/)
+- [X] [Numpy](https://numpy.org/doc/)
+- [X] [Theano](https://theano-pymc.readthedocs.io/en/latest/)
+- [X] [Statsmodel](https://www.statsmodels.org/stable/index.html)
+- [X] []()
+
+
 
 </details>
 
