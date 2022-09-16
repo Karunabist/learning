@@ -506,9 +506,7 @@ f:x→y,f:y→z,g o f:x→z , functors(functions) map between categories ...
 	- [X] [Monoids](https://en.wikipedia.org/wiki/Monoid)
 
 - [X] [Functor](https://en.wikipedia.org/wiki/Functor)
-
 - [X] [Morphism vs Functor](https://wikidiff.com/functor/morphism) : "arrows" representing morphisms, functors are structure-preserving maps between categories.
-
 - [X] [natural transformation](https://en.wikipedia.org/wiki/Natural_transformation)
 
 - [X] [Other concepts](https://en.wikipedia.org/wiki/Category_theory#Other_concepts)
