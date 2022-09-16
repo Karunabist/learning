@@ -272,8 +272,10 @@ Dialects,accents, and varieties
 - [X] [Listening: Official Pdf](https://drive.google.com/drive/folders/1rb2WFBLKsln4UiNmEnx-8hm3JQ9KopQ_?usp=sharing)
 - [X] [TST Prep TOEFL](https://www.youtube.com/c/TOEFLSpeakingTeacher1)
 - [X] [Greg Mat](https://www.youtube.com/channel/UCktwzce9ncy_K78l1KBZkYQ)
+
+## References
 	
-## Books
+**Books**
 
 - [X] [Atomic Habit](https://www.opportunitiesforyouth.org/wp-content/uploads/2021/04/Atomic_Habits_by_James_Clear-1.pdf)
 - [X] [The Psycology Of Money](https://www.planetayurveda.com/traditional-books/the-psychology-of-money-by-morgan-housel.pdf)
@@ -306,13 +308,13 @@ Dialects,accents, and varieties
 - [X] [Udacity: App Marketing](https://www.udacity.com/course/app-marketing--ud719)
 - [X] [Udacity: How to Build a Startup](https://www.udacity.com/course/how-to-build-a-startup--ep245)
 
-## Podcasts
+**Podcasts**
 - [X] [A Way with Words](https://www.waywordradio.org/category/episodes/)
 - [X] [Lex Fridman ](https://www.youtube.com/c/lexfridman)
 - [X] [Rich Roll ](https://www.youtube.com/c/Richroll)
 - [ ] [Learn English Podcast: Listen to episodes](https://www.youtube.com/watch?v=zV5HPJN48qc&list=PLZOJurmtexYqc6KY_Db4-fV7F06af1FkW)	
 	
-## Youtube Channels
+**Youtube Channels**
 - [X] [linguamarina](https://www.youtube.com/c/linguamarina)
 - [X] [mmmEnglish ](https://www.youtube.com/c/mmmEnglish_Emma)
 - [X] [The Urban Fight ](https://www.youtube.com/c/TheUrbanFight)
@@ -350,8 +352,9 @@ Dialects,accents, and varieties
 - [X] [Learn With Sam And Ash](https://www.youtube.com/c/LearnWithSamAndAsh)
 - [X] [Speak English With Vanessa ](https://www.youtube.com/c/TeacherVanessa)	
 	
-## Other References
+**Other References**
 - [X] [Wikipedia](https://en.wikipedia.org/wiki/English_language)
+
 </details>
 
 <details>
