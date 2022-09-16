@@ -483,14 +483,32 @@ f:x→y,f:y→z,g o f:x→z , functors(functions) map between categories ...
 
 - Category theory use to analyze deep learning model, input(source object), label(target object) and model is known as functors.
 
+- [X] [Mathematical object](https://en.wikipedia.org/wiki/Mathematical_object)
 - [X] [Categories, objects, and morphisms](https://en.wikipedia.org/wiki/Category_theory#Categories,_objects,_and_morphisms)
 
 	- [X] [Category (mathematics)](https://en.wikipedia.org/wiki/Category_(mathematics))
-	- [X] [Mathematical object](https://en.wikipedia.org/wiki/Mathematical_object)
-	- [X] [Morphism](https://en.wikipedia.org/wiki/Morphism)
+
+		A category C consists of the following three mathematical entities:
+
+	    - [X] [A class ob(C)](https://en.wikipedia.org/wiki/Class_(set_theory)) : whose elements are called objects;
+		- [X] [A class hom(C)]() : whose elements are called morphisms or maps or arrows. Each morphism f has a source object a and target object b.
+		- [X] [A binary operation ∘](https://en.wikipedia.org/wiki/Binary_operation): called composition of morphisms, such that for any three objects a, b, and c, we have ∘ : hom(b, c) × hom(a, b) → hom(a, c). The composition of f : a → b and g : b → c is written as g ∘ f or gf,[a] governed by two axioms: [Associativity](https://en.wikipedia.org/wiki/Associative_property),[Identity](https://en.wikipedia.org/wiki/Identity_(mathematics))
+
+	- [X] [Morphism](https://en.wikipedia.org/wiki/Morphism): Relations among morphisms (such as fg = h) are often depicted using commutative diagrams, with "points" (corners) representing objects and "arrows" representing morphisms.
+	    - [X] [Monomorphism](https://en.wikipedia.org/wiki/Monomorphism)
+		- [X] [epimorphism ](https://en.wikipedia.org/wiki/Epimorphism)
+		- [X] [bimorphism]()
+		- [X] [isomorphism ](https://en.wikipedia.org/wiki/Isomorphism)
+		- [X] [endomorphism](https://en.wikipedia.org/wiki/Endomorphism)
+		- [X] [automorphism](https://en.wikipedia.org/wiki/Automorphism)
+		- [X] [retraction](https://en.wikipedia.org/wiki/Section_(category_theory))
+		- [X] [section](https://en.wikipedia.org/wiki/Section_(category_theory))
 	- [X] [Monoids](https://en.wikipedia.org/wiki/Monoid)
 
 - [X] [Functor](https://en.wikipedia.org/wiki/Functor)
+
+- [X] [Morphism vs Functor](https://wikidiff.com/functor/morphism) : "arrows" representing morphisms, functors are structure-preserving maps between categories.
+
 - [X] [natural transformation](https://en.wikipedia.org/wiki/Natural_transformation)
 
 - [X] [Other concepts](https://en.wikipedia.org/wiki/Category_theory#Other_concepts)
