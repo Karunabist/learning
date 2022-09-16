@@ -514,21 +514,6 @@ f:x→y,f:y→z,g o f:x→z , functors(functions) map between categories ...
 
 
 
-#### References
-
-- [X] [Resources for learning practical category theory](https://mathoverflow.net/questions/903/resources-for-learning-practical-category-theory)
-- [X] [category-theory-resources](https://github.com/prathyvsh/category-theory-resources)
-
-- [X] [Categories](https://plato.stanford.edu/entries/categories/)
-- [X] [Category Theory: Stanford](https://plato.stanford.edu/entries/category-theory/)
-- [X] [An Introduction to Category Theory: Stanford](http://web.stanford.edu/~truax/notes/Category_Theory.pdf)
-- [X] [Programmatic Reading Guide](https://plato.stanford.edu/entries/category-theory/bib.html)
-- [X] [Structuralism in the Philosophy of Mathematics](https://plato.stanford.edu/entries/structuralism-mathematics/)
-
-
-
-
-
 ### Theory of Computation
 
 finite stste of automata, infinite state of automata)...
@@ -1500,6 +1485,14 @@ Inferential statistics can be contrasted with descriptive statistics. Descriptiv
 
 
 ## References
+- [X] [Resources for learning practical category theory](https://mathoverflow.net/questions/903/resources-for-learning-practical-category-theory)
+- [X] [category-theory-resources](https://github.com/prathyvsh/category-theory-resources)
+
+- [X] [Categories](https://plato.stanford.edu/entries/categories/)
+- [X] [Category Theory: Stanford](https://plato.stanford.edu/entries/category-theory/)
+- [X] [An Introduction to Category Theory: Stanford](http://web.stanford.edu/~truax/notes/Category_Theory.pdf)
+- [X] [Programmatic Reading Guide](https://plato.stanford.edu/entries/category-theory/bib.html)
+- [X] [Structuralism in the Philosophy of Mathematics](https://plato.stanford.edu/entries/structuralism-mathematics/)
 - [ ] [ StatQuest: Statistics Fundamentals](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
 - [ ] [ Article: Entropy, Cross Entropy, and KL Divergence](https://towardsdatascience.com/entropy-cross-entropy-and-kl-divergence-17138ffab87b)
 - [ ] [ Article: Interview Guide to Probability Distributions](https://medium.com/acing-ai/interview-guide-to-probability-distributions-a6dfb08c3766)
