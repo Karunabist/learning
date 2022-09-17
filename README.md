@@ -1590,18 +1590,50 @@ Inferential statistics can be contrasted with descriptive statistics. Descriptiv
 * Difference between classical and modern physics
 
 ## Classic Physics
+- [X] [Classical mechanics]()
+    - [ ] [Gerd Baumann - Mathematica for Theoretical Physics_ Classical Mechanics and Nonlinear Dynamics-Springer (2005)](https://drive.google.com/file/d/1JN2PBE9e24RQzjkDgjnPDZkj271P_fD4/view?usp=sharing)
+	- [ ] [Tom W B Kibble, Frank H Berkshire - Classical mechanics-Imperial College Press_ Distributed by World Scientific Pub (2004)](https://drive.google.com/file/d/17p0qEYPJCGSJ7HZ_Js7fplxm6aPPnHjg/view?usp=sharing)
+- [X] [Classical electrodynamics (Maxwell's Equations)]()
+- [X] [Classical thermodynamics]()
+- [X] [Special relativity and general relativity]()
+- [X] [5.Classical chaos theory and nonlinear dynamics]()
+
 
 ## Modern Physics
 
+- [ ] [description]()
+- [ ] [Hallmark]()
+- [ ] [Quantum field theory(combines classical field theory, special relativity and quantum mechanics.)]()
+- [ ] [Quantum mechanics]()
+- [ ] [speed of light (special relativity)]()
+
+
 ## Difference between classical and modern physics
 
+
 ## References
+
+**Richard Feynman**
+- [ ] [(Frontiers in Physics) Richard P. Feynman - Feynman lectures on computation-Addison-Wesley (1996)](https://drive.google.com/file/d/1dudPt_OICTWacGzhot8JsYEWkpt-5qCD/view?usp=sharing)
+- [ ] [(Helix Books) Richard P. Feynman - Six Not-So-Easy Pieces -Basic Books (1998)](https://drive.google.com/file/d/1iV3JlzprRpmJAuCzeI_2FSYuZBtMcwX3/view?usp=sharing)
+
+**Einstine**
+
+- [ ] [Michio Kaku - Parallel worlds_ journey through creation, higher dimensions, and future of cosmos-Doubleday (2005)](https://drive.google.com/file/d/1J5Kzd6WwdGol2bcrtwrpESLiTSIV1FUa/view?usp=sharing)
+- [ ] [Michio Kaku - Physics of the impossible-Doubleday (2008)](https://drive.google.com/file/d/1HPuXMaYfDXehzn9Qo6yzvNe1pTE3XZE4/view?usp=sharing)
+
+
+**Other References**
+
 - [ ] [Physics: Wikipedia](https://en.wikipedia.org/wiki/Physics)
 - [ ] [Best Physics Books](https://www.readthistwice.com/lists/best-physics-books)
 - [ ] [fundamentals-of-physics-textbook](https://drive.google.com/file/d/16KN6IzJuRzfEEih-bnACsEAcj0NmomYm/view?usp=sharing)
 - [ ] [K. F. Riley, M. P. Hobson, S. J. Bence - Mathematical methods for physics and engineering-Cambridge University Press (2006)](https://drive.google.com/file/d/1QIhRC46T-_TUr6x8iKTISZF71iDbPnnW/view?usp=sharing)
 - [ ] [SH452_2020-07-04T06_11_16.402Z_halliday-physics](https://drive.google.com/file/d/1uNQWgz44-GMelai23fgpgME05r-1fF--/view?usp=sharing)
-- [ ] []()
+- [ ] [SH452_2020-07-04T06_14_49.248Z_Advanced Level Physics](https://drive.google.com/file/d/1uOajrXoIgMkdvgykV1LVlk4PsoZLE6MW/view?usp=sharing)
+- [ ] [SH452_2020-12-07T06_56_49.949Z_physics](https://drive.google.com/file/d/1uV7N7Hb5JzpGC5dLQ5aOlH6EdtgZgPic/view?usp=sharing)
+- [ ] [SH452_2020-12-07T06_56_50.134Z_BE Physics-Solution](https://drive.google.com/file/d/1uVO1grLcZDMz7glGesQskLj5Jd1YMD-T/view?usp=sharing)
+- [ ] [SH452_2021-04-03T15_53_58.377Z_physicsBook](https://drive.google.com/file/d/1uYVlMdORC62WC5dImWiX_uRf2WP5a3Yv/view?usp=sharing)
 
 
 
