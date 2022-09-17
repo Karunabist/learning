@@ -1662,10 +1662,14 @@ Inferential statistics can be contrasted with descriptive statistics. Descriptiv
 ## Redox
 
 ## Equilibrium
-## 
+
+## Chemical laws
 
 
 </details>
+
+
+
 
 
 <details>
