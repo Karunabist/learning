@@ -18,7 +18,7 @@
 		  <li><a href= "https://docs.google.com/document/d/1brdu9ShaaN1JTiQzs3ckHWFDOv2ft7c_-lpKsRqz5I0/edit?usp=sharing">Biology(cell)</a></li> 
 		  <li><a href= "https://docs.google.com/document/d/1gIVyhmQCia1pDzFCwEdKoF_tpSz5vZlQyeECx9riFGE/edit?usp=sharing">Engineering(atom)</a></li>
 		  <li>Astronomy</li> 
-		  <li>Economics(supply and demand)</li>
+		  <li><a href= "https://docs.google.com/document/d/1nxTLBHwMnclj-nrvmHYMcwJveu0QHme-XwOw5DI3Y1Q/edit?usp=sharing">Economics(supply and demand)</a></li>
 		  <li>Managment,accounting,Education,
 			  General Knowledge ...etc</li>
 		  <li>Companies(motivations)</li>
@@ -1726,6 +1726,26 @@ Other branches of engineering
 
 </details>
 
+
+<details>
+<summary>Economics(6 Branches of economics)</summary>
+
+# Economics(6 Branches of economics)
+
+## Microeconomics
+
+## Macroeconomics
+
+## International economics
+
+## Development economics
+
+## Labor economics
+
+## Welfare economics
+
+
+</details>
 
 <details>
 <summary>Computer science(Array)</summary>
