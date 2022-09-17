@@ -1579,7 +1579,7 @@ Inferential statistics can be contrasted with descriptive statistics. Descriptiv
 
 
 
-<!-- <details>
+<details>
 <summary>Physics(atom)</summary>
 
 # Physics(atom)
@@ -1598,9 +1598,14 @@ Inferential statistics can be contrasted with descriptive statistics. Descriptiv
 ## References
 - [ ] [Physics: Wikipedia](https://en.wikipedia.org/wiki/Physics)
 - [ ] [Best Physics Books](https://www.readthistwice.com/lists/best-physics-books)
+- [ ] [fundamentals-of-physics-textbook](https://drive.google.com/file/d/16KN6IzJuRzfEEih-bnACsEAcj0NmomYm/view?usp=sharing)
+- [ ] [K. F. Riley, M. P. Hobson, S. J. Bence - Mathematical methods for physics and engineering-Cambridge University Press (2006)](https://drive.google.com/file/d/1QIhRC46T-_TUr6x8iKTISZF71iDbPnnW/view?usp=sharing)
+- [ ] [SH452_2020-07-04T06_11_16.402Z_halliday-physics](https://drive.google.com/file/d/1uNQWgz44-GMelai23fgpgME05r-1fF--/view?usp=sharing)
+- [ ] []()
 
 
-</details> -->
+
+</details>
 
 
 
