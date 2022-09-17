@@ -3116,35 +3116,26 @@ Multi-Class Classification Loss Functions
 
 # PHD career(Single problem)
 
-## Vision Problems
+## Write cold email
+- [X] [My note on cold-email](https://github.com/MadanBaduwal/journals-and-conferences/blob/main/cold-email.md)
+- [X] [University of California Berkely](https://research.berkeley.edu/how-cold-email-professor)
+- [X] [University of California Santa Cruz](https://ugr.ue.ucsc.edu/email)	
+- [X] [getting-a-gig](https://github.com/cassidoo/getting-a-gig)
+
+## Application fee waiver email template
+- [X] [My note on application fee waiver email template](https://docs.google.com/document/d/1UNzUIJDp9bY9vUFgUXiKoEZs75qHuVgbmYQxtJIo-X4/edit?usp=sharing)
+
+
+## Vision Problems and datasets
 - [X] [vision problems my note](https://www.computervisiondatasets.ml/)
 - [X] [Wikipedia](https://en.wikipedia.org/wiki/Computer_vision#Typical_tasks)
 	
-## Vision Datasets
-- [X] [vision datasets my note](https://www.computervisiondatasets.ml/)
-- [X] [kaggle](https://www.kaggle.com/datasets?search=image)
-- [X] [paperswithcode](https://paperswithcode.com/datasets)
-- [X] [Jbhuang](https://github.com/jbhuang0604/awesome-computer-vision#datasets)
-- [X] [cvpapers datasets](http://www.cvpapers.com/datasets.html)
-- [X] [rodrigob](http://rodrigob.github.io/are_we_there_yet/build/)
-- [X] [yacvid]([http://yacvid.hayko.at/)
-- [X] [computervisiononline](https://computervisiononline.com/)
-- [X] [CVonline: Databases](https://homepages.inf.ed.ac.uk/cgi/rbf/CVONLINE/entries.pl?TAG363)
-- [X] [Computer Vision Datasets](http://clickdamage.com/sourcecode/cv_datasets.php)
-- [X] [datasets](http://datasets.visionbib.com/info-index.html)
-- [X] [visualdata](https://visualdata.io/discovery)
-- [X] [tensorflow](https://www.tensorflow.org/datasets/catalog/overview)
 	
 ## Peoples
 - [X] [People working in Artificial Intelligance](https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:artificial_intelligence)
 - [X] [People working in Machine Learning](https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:machine_learning)
 - [X] [people working in computer vision my note](https://madanbaduwal.github.io/people-in-computer-vision/) and [scholar](https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:computer_vision)
 
-## Write cold email
-- [X] [My note on cold-email](https://github.com/MadanBaduwal/journals-and-conferences/blob/main/cold-email.md)
-- [X] [University of California Berkely](https://research.berkeley.edu/how-cold-email-professor)
-- [X] [University of California Santa Cruz](https://ugr.ue.ucsc.edu/email)	
-- [X] [getting-a-gig](https://github.com/cassidoo/getting-a-gig)
 
 ## Paper Reading
 - [X] [How to read paper my note](https://github.com/MadanBaduwal/phd-career/blob/main/paper-reading.md)
