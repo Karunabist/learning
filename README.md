@@ -1748,6 +1748,25 @@ Other branches of engineering
 </details>
 
 <details>
+<summary>Managment,accounting,Education,General Knowledge ...etc</summary>
+
+# Managment,accounting,Education,General Knowledge ...etc
+
+</details>
+
+
+</details>
+
+<details>
+<summary>Companies(8 Types of companies)</summary>
+
+# Companies(8 Types of companies)
+
+</details>
+
+
+
+<details>
 <summary>Computer science(Array)</summary>
 
 # Computer science(Array)
