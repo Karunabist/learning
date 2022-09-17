@@ -1,8 +1,8 @@
 # Learning 👀 
 
-1. First define space, what is space? collection of smallest units of that domain.It might be space of letters/words for language,numbers/objects for mathematics,atoms for physics,ions for chemistry,...,arrays for computer science. Each element of space has its own meaning.
-2. Second define function, which takes an input from the space and do something meaningful. Grammer(s+v+o) is for language, mathematical operations(+,-,/,...) for mathematics,..., CRUD operation in computer science.
-3. Second we receive output, which has beautiful meaning
+1. First define space:  what is space? Space is a collection of tiny elements of particular domain. It might be space of letters/words for language,numbers/objects for mathematics,atoms for physics,ions for chemistry,...,arrays for computer science. Each element of space has its own meaning.
+2. Second define function:  which takes space elements from space and do something meaningful operation. Grammer(s+v+o) is for language, mathematical operations(+,-,/,...) for mathematics,..., CRUD operation for computer science.
+3. Third we receive output from operation: which has beautiful meaning.
 
 **Note: Creating/collecting more elements in space. Create perfect function will give perfect output.**
 
