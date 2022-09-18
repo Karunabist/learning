@@ -1779,6 +1779,10 @@ Other branches of engineering
 * Computer systems and computational processes: Artificial intelligence, Computer architecture and organization, Concurrent parallel and distributed computing, Computer network(ip & port), Computer security and cryptography, Databases and data mining and data science, Computer graphics and visualization, Image and sound processing
 * Applied  computer science: Computational science finance and engineering, Social computing and human–computer interaction, Software engineer
 	
+## Theory of computation
+
+## Information and coading theory
+
 ## Data Structure and Algorithms
 
 CRUD operation
