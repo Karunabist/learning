@@ -1722,7 +1722,7 @@ Other branches of engineering
 ## Marine engineering
 
 ## Computer engineering
-- [ ] [Introduction to Human-Computer Interaction: Stanford](https://hci.stanford.edu/courses/cs147/2021/wi/index.html)
+
 
 ## Astronomical engineering
 
@@ -3033,6 +3033,54 @@ Multi-Class Classification Loss Functions
 - [X] [Midjourney: Text-to-Image](https://www.midjourney.com/home/) > Expanding the imaginative powers of the human species
 
 
+## Computer architecture and organization
+
+- [X] [Computer Organization and Systems: Stanford](http://web.stanford.edu/class/cs107/)
+- [ ] [Computer Systems from the Ground Up: Stanford](http://web.stanford.edu/class/cs107e/)
+- [ ] [Principles of Computer Systems: Stanford](http://web.stanford.edu/class/cs110/)
+- [X] [CS 61C Great Ideas in Computer Architecture (Machine Structures) UC Berkeley](https://www-inst.eecs.berkeley.edu//~cs61c/sp15/)
+- [X] [CS 107 Computer Organization & Systems Stanford University](https://courseware.stanford.edu/pg/courses/lectures/371747)
+- [X] [CS 3410 Computer System Organization and Programming](https://www.cs.cornell.edu/courses/cs3410/2016fa/)
+- [ ] [CSCI 360 Computer Architecture 3 CUNY Hunter College](http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci360/csci360_f14.php)
+- [ ] [15-213 Introduction to Computer Systems (ICS)](http://www.cs.cmu.edu/~213/)
+- [ ] [15-418 Parallel Computer Architecture and Programming](http://15418.courses.cs.cmu.edu/spring2015/)
+- [ ] [18-447 Introduction to Computer Architecture CMU](https://course.ece.cmu.edu/~ece447/s15/doku.php?id=start)
+
+## Concurrent parallel and distributed computing
+- [ ] [Exploring Computing: Stanford](https://web.stanford.edu/class/cs106e/)
+- [ ] [Parallel Computing: Stanford](https://gfxcourses.stanford.edu/cs149/fall20)
+- [ ] [CS 425 Distributed Systems Univ of Illinois, Urbana-Champaign](https://courses.engr.illinois.edu/cs425/fa2016/index.html)
+- [ ] [CS 5412 Cloud Computing Cornell University](https://www.cs.cornell.edu/courses/cs5412/2014sp/)
+- [ ] [CSCI 493.75 Parallel Computing CUNY Hunter College](http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci493.65/csci493.65_spr14.php)
+- [ ] [PODC Principles of Distributed Computing ETH-Zurich](https://disco.ethz.ch/courses/podc_allstars/)
+- [ ] [SPAC Parallelism and Concurrency Univ of Washington](https://homes.cs.washington.edu/~djg/teachingMaterials/spac/)
+- [ ] [6.824 Distributed Systems MIT](http://css.csail.mit.edu/6.824/2014/index.html)
+- [ ] [CSEP 552 Distributed Systems University of Washington](https://courses.cs.washington.edu/courses/csep552/16wi/)
+- [ ] [15-319/619 Cloud Computing (ICS) Carnegie-Mellon University](http://www.cs.cmu.edu/~msakr/15619-s17/recitations.html)
+- [ ] [15-440 Distributed Systems Carnegie-Mellon University](http://www.cs.cmu.edu/~dga/15-440/F12/index.html)
+- [ ] [15-749 Engineering Distributed Systems Carnegie-Mellon University](https://www.andrew.cmu.edu/course/15-749/)
+
+
+## Computer network(ip & port)
+- [ ] [Introduction to Computer Networking: Stanford](https://cs144.github.io/)
+- [X] [CS 168 Introduction to the Internet: Architecture and Protocols UC Berkeley](https://inst.eecs.berkeley.edu/~cs168/fa14/)
+- [X] [Layers of OSI Model](https://en.wikipedia.org/wiki/OSI_model#Layer_7:_Application_layer)
+
+	- [X] [Application Layer](https://www.geeksforgeeks.org/application-layer-in-osi-model/)
+	- [X] [Presentation Layer](https://www.geeksforgeeks.org/presentation-layer-in-osi-model/)
+	- [X] [Session Layer](https://www.geeksforgeeks.org/session-layer-in-osi-model/)
+	- [X] [Transport Layer](https://osi-model.com/transport-layer/)
+	- [X] [Network Layer](https://www.studytonight.com/computer-networks/osi-model-network-layer)
+	- [X] [Data Link Layer](https://www.tutorialspoint.com/data_communication_computer_network/data_link_layer_introduction.htm)
+	- [X] [Physical Layer](https://www.tutorialspoint.com/data_communication_computer_network/data_link_layer_introduction.htm)
+
+### Other References
+- [X] [Computer Network: Wikipedia](https://en.wikipedia.org/wiki/Computer_network)
+
+
+## Computer security and cryptography
+
+
 ## Databases and data mining and data science
 
 ### Database
@@ -3054,52 +3102,19 @@ Multi-Class Classification Loss Functions
 - [ ] [Introduction to Computer Graphics and Imaging: Stanford](http://web.stanford.edu/class/cs148/)
 
 
-## Computer architecture and organization
-
-- [X] [Computer Organization and Systems: Stanford](http://web.stanford.edu/class/cs107/)
-- [ ] [Computer Systems from the Ground Up: Stanford](http://web.stanford.edu/class/cs107e/)
-- [ ] [Principles of Computer Systems: Stanford](http://web.stanford.edu/class/cs110/)
-- [X] [CS 61C Great Ideas in Computer Architecture (Machine Structures) UC Berkeley](https://www-inst.eecs.berkeley.edu//~cs61c/sp15/)
-- [X] [CS 107 Computer Organization & Systems Stanford University](https://courseware.stanford.edu/pg/courses/lectures/371747)
-- [X] [CS 3410 Computer System Organization and Programming](https://www.cs.cornell.edu/courses/cs3410/2016fa/)
-- [ ] [CSCI 360 Computer Architecture 3 CUNY Hunter College](http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci360/csci360_f14.php)
-- [ ] [15-213 Introduction to Computer Systems (ICS)](http://www.cs.cmu.edu/~213/)
-- [ ] [15-418 Parallel Computer Architecture and Programming](http://15418.courses.cs.cmu.edu/spring2015/)
-- [ ] [18-447 Introduction to Computer Architecture CMU](https://course.ece.cmu.edu/~ece447/s15/doku.php?id=start)
+## Image and sound processing
 
 
-## Concurrent parallel and distributed computing
-- [ ] [Exploring Computing: Stanford](https://web.stanford.edu/class/cs106e/)
-- [ ] [Parallel Computing: Stanford](https://gfxcourses.stanford.edu/cs149/fall20)
-- [ ] [CS 425 Distributed Systems Univ of Illinois, Urbana-Champaign](https://courses.engr.illinois.edu/cs425/fa2016/index.html)
-- [ ] [CS 5412 Cloud Computing Cornell University](https://www.cs.cornell.edu/courses/cs5412/2014sp/)
-- [ ] [CSCI 493.75 Parallel Computing CUNY Hunter College](http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci493.65/csci493.65_spr14.php)
-- [ ] [PODC Principles of Distributed Computing ETH-Zurich](https://disco.ethz.ch/courses/podc_allstars/)
-- [ ] [SPAC Parallelism and Concurrency Univ of Washington](https://homes.cs.washington.edu/~djg/teachingMaterials/spac/)
-- [ ] [6.824 Distributed Systems MIT](http://css.csail.mit.edu/6.824/2014/index.html)
-- [ ] [CSEP 552 Distributed Systems University of Washington](https://courses.cs.washington.edu/courses/csep552/16wi/)
-- [ ] [15-319/619 Cloud Computing (ICS) Carnegie-Mellon University](http://www.cs.cmu.edu/~msakr/15619-s17/recitations.html)
-- [ ] [15-440 Distributed Systems Carnegie-Mellon University](http://www.cs.cmu.edu/~dga/15-440/F12/index.html)
-- [ ] [15-749 Engineering Distributed Systems Carnegie-Mellon University](https://www.andrew.cmu.edu/course/15-749/)
+## Computational science, finance and engineering
 
-## Computer network(ip & port)
-- [ ] [Introduction to Computer Networking: Stanford](https://cs144.github.io/)
-- [X] [CS 168 Introduction to the Internet: Architecture and Protocols UC Berkeley](https://inst.eecs.berkeley.edu/~cs168/fa14/)
-- [X] [Layers of OSI Model](https://en.wikipedia.org/wiki/OSI_model#Layer_7:_Application_layer)
 
-	- [X] [Application Layer](https://www.geeksforgeeks.org/application-layer-in-osi-model/)
-	- [X] [Presentation Layer](https://www.geeksforgeeks.org/presentation-layer-in-osi-model/)
-	- [X] [Session Layer](https://www.geeksforgeeks.org/session-layer-in-osi-model/)
-	- [X] [Transport Layer](https://osi-model.com/transport-layer/)
-	- [X] [Network Layer](https://www.studytonight.com/computer-networks/osi-model-network-layer)
-	- [X] [Data Link Layer](https://www.tutorialspoint.com/data_communication_computer_network/data_link_layer_introduction.htm)
-	- [X] [Physical Layer](https://www.tutorialspoint.com/data_communication_computer_network/data_link_layer_introduction.htm)
+## Social computing and human–computer interaction
 
-### Other References
-- [X] [Computer Network: Wikipedia](https://en.wikipedia.org/wiki/Computer_network)
+- [ ] [Introduction to Human-Computer Interaction: Stanford](https://hci.stanford.edu/courses/cs147/2021/wi/index.html)
+
+
 
 ## Software engineer
-
 ### Software
 
 #### Desktop
