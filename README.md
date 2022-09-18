@@ -1202,6 +1202,7 @@ and their representations in **vector spaces** and through **matrices**.
 
 - First we need to create a space.
 - Calculate Probability/probability distributation from space 
+- [ ] [Probability for Computer Scientists: Stanford](http://web.stanford.edu/class/cs109/)
 
 
 - [X] [Independent events](https://en.wikipedia.org/wiki/Independence_(probability_theory)): (If two events, A and B are independent then the joint probability is: ${\displaystyle P(A{\mbox{ and }}B)=P(A\cap B)=P(A)P(B).}{\displaystyle P(A{\mbox{ and }}B)=P(A\cap B)=P(A)P(B).}$. For example, if two coins are flipped, then the chance of both being heads is ${\displaystyle {\tfrac {1}{2}}\times {\tfrac {1}{2}}={\tfrac {1}{4}}}{\tfrac {1}{2}}\times {\tfrac {1}{2}}={\tfrac {1}{4}}$).
@@ -1721,6 +1722,7 @@ Other branches of engineering
 ## Marine engineering
 
 ## Computer engineering
+- [ ] [Introduction to Human-Computer Interaction: Stanford](https://hci.stanford.edu/courses/cs147/2021/wi/index.html)
 
 ## Astronomical engineering
 
@@ -1994,10 +1996,18 @@ Note:
      	
 ## Programming language theory and formal methods
 
+
+- [ ] [Programming Methodologies: Stanford](https://web.stanford.edu/class/cs106a/)
+- [ ] [Programming Abstractions: Stanford](https://web.stanford.edu/class/cs106b/)
+- [ ] [Object-Oriented Systems Design:Stanford](http://web.stanford.edu/class/cs108/)
+- [ ] [Enrichment Adventures in Programming Abstractions: Stanford](https://web.stanford.edu/class/cs106m/syllabus)
 - [General Rule For Any Programming Language](https://github.com/MadanBaduwal/programming/blob/main/General_rule_of_any_programming.ipynb)
 - [X] [CS 179 GPU Programming Caltech](http://courses.cms.caltech.edu/cs179/)
 - [X] [CS 452 Real-Time Programming University of Waterloo](http://mud.cgl.uwaterloo.ca/wmcowan/teaching/cs452/s12/)
 - [X] [ECE 459 Programming for Performance University of Waterloo](https://patricklam.ca/p4p/)
+- [ ] [Safety in Systems Programming: Stanford](https://web.stanford.edu/class/cs110l/)
+- [ ] [From Languages to Information: Stanford](http://web.stanford.edu/class/cs124/)
+- [ ] [Compiler](http://web.stanford.edu/class/cs143/)
 
 ### Python
 - [X] [Python Documentation: Officials ](https://docs.python.org/3/)
@@ -2121,7 +2131,9 @@ Note:
 - [X] [Indexing: tensor[row][column][depth]](https://numpy.org/devdocs/user/basics.indexing.html)
 - [X] [Slicing: tensor[from_row:to_row:step,from_column:to_column:step,from_depth:to_depth:step]](https://www.pythoninformer.com/python-libraries/numpy/index-and-slice/)
 
+
 #### Article,Books And Courses
+- [ ] [The Python Programming Language: Stanford](https://stanfordpython.com/#/)
 - [ ] [Article: A reverse chronology of some Python features](https://snarky.ca/a-reverse-chronology-of-some-python-features/)
 - [ ] [Book: A Byte of Python](https://python.swaroopch.com)
 - [ ] [Book: Learn Python The Hard way](https://learnpythonthehardway.org)
@@ -2859,6 +2871,7 @@ Multi-Class Classification Loss Functions
 
 #### Machine Learning and Deep learning Books and Cources
 - [ ] [scikit-learn: Algorithms Documentation](https://github.com/scikit-learn/scikit-learn)
+- [ ] [Applied Machine Learning: Stanford](https://web.stanford.edu/class/cs129/)
 - [ ] [handson-ml](https://github.com/ageron/handson-ml)
 - [ ] [handson-ml2](https://github.com/ageron/handson-ml2)
 - [ ] [handson-ml3](https://github.com/ageron/handson-ml3)
@@ -2959,7 +2972,8 @@ Multi-Class Classification Loss Functions
 ### Computer Vision
 
 #### Be familar with computer vision from scratch
-	
+
+- [ ] [Computer Vision: Foundations and Applications: Stanford](http://vision.stanford.edu/teaching/cs131_fall2021/index.html)
 - [ ] [pyimagesearch](https://pyimagesearch.com/)
 
 - [ ] [Computer Vision: Theory and Application - Rick Szeliski 2010](http://szeliski.org/Book/)(Ongoing)
@@ -3022,6 +3036,7 @@ Multi-Class Classification Loss Functions
 ## Databases and data mining and data science
 
 ### Database
+- [ ] [Data Management and Data Systems: Stanford](https://cs145-fa20.github.io/)
 - [X] [CS 186 Introduction to Database Systems UC Berkeley](https://sites.google.com/site/cs186spring2015/)
 - [X] [MYSQL](https://dev.mysql.com/doc/)
 - [X] [MongoDB](https://www.mongodb.com/docs/)
@@ -3035,7 +3050,15 @@ Multi-Class Classification Loss Functions
 - [ ] [15-721 Database Systems Carnegie-Mellon University](https://15721.courses.cs.cmu.edu/spring2016/)
 - [ ] [15-445/645 Database Systems Carnegie-Mellon University](https://15445.courses.cs.cmu.edu/fall2022/)
 
+## Computer graphics and visualization
+- [ ] [Introduction to Computer Graphics and Imaging: Stanford](http://web.stanford.edu/class/cs148/)
+
+
 ## Computer architecture and organization
+
+- [X] [Computer Organization and Systems: Stanford](http://web.stanford.edu/class/cs107/)
+- [ ] [Computer Systems from the Ground Up: Stanford](http://web.stanford.edu/class/cs107e/)
+- [ ] [Principles of Computer Systems: Stanford](http://web.stanford.edu/class/cs110/)
 - [X] [CS 61C Great Ideas in Computer Architecture (Machine Structures) UC Berkeley](https://www-inst.eecs.berkeley.edu//~cs61c/sp15/)
 - [X] [CS 107 Computer Organization & Systems Stanford University](https://courseware.stanford.edu/pg/courses/lectures/371747)
 - [X] [CS 3410 Computer System Organization and Programming](https://www.cs.cornell.edu/courses/cs3410/2016fa/)
@@ -3046,6 +3069,8 @@ Multi-Class Classification Loss Functions
 
 
 ## Concurrent parallel and distributed computing
+- [ ] [Exploring Computing: Stanford](https://web.stanford.edu/class/cs106e/)
+- [ ] [Parallel Computing: Stanford](https://gfxcourses.stanford.edu/cs149/fall20)
 - [ ] [CS 425 Distributed Systems Univ of Illinois, Urbana-Champaign](https://courses.engr.illinois.edu/cs425/fa2016/index.html)
 - [ ] [CS 5412 Cloud Computing Cornell University](https://www.cs.cornell.edu/courses/cs5412/2014sp/)
 - [ ] [CSCI 493.75 Parallel Computing CUNY Hunter College](http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci493.65/csci493.65_spr14.php)
@@ -3058,6 +3083,7 @@ Multi-Class Classification Loss Functions
 - [ ] [15-749 Engineering Distributed Systems Carnegie-Mellon University](https://www.andrew.cmu.edu/course/15-749/)
 
 ## Computer network(ip & port)
+- [ ] [Introduction to Computer Networking: Stanford](https://cs144.github.io/)
 - [X] [CS 168 Introduction to the Internet: Architecture and Protocols UC Berkeley](https://inst.eecs.berkeley.edu/~cs168/fa14/)
 - [X] [Layers of OSI Model](https://en.wikipedia.org/wiki/OSI_model#Layer_7:_Application_layer)
 
@@ -3085,6 +3111,7 @@ Multi-Class Classification Loss Functions
 
 	
 #### Smartphone
+- [ ] [Cross-Platform Mobile Development: Stanford](https://web.stanford.edu/class/cs47/)
 ##### Android
 - [X] [Android Studio : Tutorial](https://www.javatpoint.com/android-tutorial)
 - [X] [Android Studio : Android Tutorial](https://www.tutorialspoint.com/android/index.htm)
@@ -3096,7 +3123,9 @@ Multi-Class Classification Loss Functions
 #### Tablet
 - [ ] [Flutter: documentation](https://docs.flutter.dev/)
 
+
 #### Web application	
+- [ ] [Web Applications (Spring 2022): Stanford](http://web.stanford.edu/class/cs142/)
 ##### Front-End
 - [X] UX Design
 - [X] UI Design
@@ -3180,7 +3209,11 @@ Multi-Class Classification Loss Functions
 
 
 #### operating System
+
+- [ ] [Operating Systems: Stanford](https://www.scs.stanford.edu/21wi-cs140/)
+- [ ] [Embedded Operating Systems: Stanford](https://github.com/dddrrreee/cs140e-20win)
 - [ ] [CS 140 Operating Systems Stanford University](http://web.stanford.edu/~ouster/cgi-bin/cs140-spring14/lectures.php)
+- [ ] [Operating Systems Principles: Stanford](https://web.stanford.edu/~ouster/cs111-spring21/)
 - [ ] [CS 162 Operating Systems and Systems Programming UC Berkeley](https://cs162.org/)
 - [ ] [CS 241 Systems Programming (Spring 2016) Univ of Illinois, Urbana-Champaign](https://courses.engr.illinois.edu/cs241/sp2016/index.html)
 - [ ] [CS 2043 Unix Tools & Scripting Cornell University](https://www.cs.cornell.edu/courses/cs2043/2014sp/)
@@ -3195,6 +3228,8 @@ Multi-Class Classification Loss Functions
 - [ ] [Ubuntu](https://github.com/ubuntu)
     - [ ] [Linux Command](https://docs.rockylinux.org/books/admin_guide/03-commands/)
 	- [ ] [Command](https://nbviewer.org/github/donnemartin/data-science-ipython-notebooks/blob/master/commands/linux.ipynb)
+
+- [ ] [Practical Unix: Stanford](https://practicalunix.org/)
 
 
 #### Device Drivers
