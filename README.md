@@ -1236,7 +1236,7 @@ and their representations in **vector spaces** and through **matrices**.
 - [X] [Joint probability distributatio](https://www.investopedia.com/terms/j/jointprobability.asp): Probability of multiple events occurring simultaneously. two random variables that are defined on the same probability space, the joint probability distribution is the corresponding probability distribution on all possible pairs of outputs.
 - [X] [Marginal Probability](https://en.wikipedia.org/wiki/Marginal_distribution): It's like normal probability in join probability curve. It may be thought of as an unconditional probability. It is not conditioned on another event.
 - [X] [Marginal Probability](https://towardsdatascience.com/marginal-joint-and-conditional-probabilities-explained-by-data-scientist-4225b28907a4)
-- [X] [Conditional Probability](https://sites.nicholas.duke.edu/statsreview/jmc/): p(A|B) is the probability of event A occurring, given that event B occurs
+- [X] [Conditional Probability](https://sites.nicholas.duke.edu/statsreview/jmc/): Fix the value of one variable. computer the probability of other variable.p(A|B) is the probability of event A occurring, given that event B occurs
 
 
 - [X] [Probability Distributation](https://en.wikipedia.org/wiki/Probability_distribution)
