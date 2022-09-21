@@ -2049,7 +2049,7 @@ Note:
 ### Python
 - [X] [Python Documentation: Officials ](https://docs.python.org/3/)
 - [X] [Context Manager and With Keyword in Python](https://www.geeksforgeeks.org/context-manager-in-python/)
-- [X] [Python Metaclass](https://www.pythontutorial.net/python-oop/python-metaclass/)
+- [X] [Python Metaclass](https://www.pythontutorial.net/python-oop/python-metaclass/): type is default metaclass in python.
 - [X] [Python Metaclass](https://www.geeksforgeeks.org/metaprogramming-metaclasses-python/)
 - [X] [match Statements](https://benhoyt.com/writings/python-pattern-matching/)
 - [X] [Defult Argument Value: Mutable Default Arguments: default value is evaluated only once](https://www.codecademy.com/learn/learn-intermediate-python-3/modules/int-python-function-arguments/cheatsheet)
@@ -2097,10 +2097,12 @@ Note:
 	- [X] [Logical Operators vs Bitwise Operators](https://www.geeksforgeeks.org/difference-between-and-and-in-python/#:~:text=and%20is%20a%20Logical%20AND,otherwise%20True%20when%20using%20logically.)
 	- [X] [Python | a += b is not always a = a + b](https://www.geeksforgeeks.org/python-a-b-is-not-always-a-a-b/)
 	- [X] [Difference between == and is operator in Python](https://www.geeksforgeeks.org/difference-between-and-is-operator-in-python/)
+	- [X] [Ternary Operator in Python](https://www.geeksforgeeks.org/ternary-operator-in-python/)
+	- [X] [check whether the object is of a class or its subclass.](https://www.geeksforgeeks.org/python-issubclass/#:~:text=issubclass()%20in%20Python,class%20else%20it%20returns%20False.&text=Parameters%3A,Object%3A%20class%20to%20be%20checked)
 	
 
 - [X] [Operator Overloading](https://www.geeksforgeeks.org/operator-overloading-in-python/)
-- [X] [A Guide to Python's Magic Methods](https://rszalski.github.io/magicmethods/)
+- [X] [A Guide to Python's Dunder/Magic/Special Methods](https://rszalski.github.io/magicmethods/)
 - [X] [Multiple Statements per Line: print(a); print(b); print(c)](https://www.tutorialspoint.com/How-to-provide-multiple-statements-on-a-single-line-in-Python)
 - [X] [What is the maximum possible value of an integer in Python ?: In Python, value of an integer is not restricted by the number of bits and can expand to the limit of the available memory](https://www.geeksforgeeks.org/what-is-the-maximum-possible-value-of-an-integer-in-python/)
 - [X] [Packing and Unpacking Arguments in Python: *(for list/tuple) and **(for key-value/dictionary)](https://www.geeksforgeeks.org/packing-and-unpacking-arguments-in-python/)
@@ -2167,6 +2169,11 @@ Note:
 - [X] [High Dimension Array: tensor(row,column,depth)](https://numpy.org/doc/stable/reference/arrays.ndarray.html)
 - [X] [Indexing: tensor[row][column][depth]](https://numpy.org/devdocs/user/basics.indexing.html)
 - [X] [Slicing: tensor[from_row:to_row:step,from_column:to_column:step,from_depth:to_depth:step]](https://www.pythoninformer.com/python-libraries/numpy/index-and-slice/)
+- [X] [Callable](https://www.geeksforgeeks.org/callable-in-python/#:~:text=In%20general%2C%20a%20callable%20is,may%20not%20be%2C%20otherwise%20False.)
+- [X] [introspection/reflection in python](https://betterprogramming.pub/python-reflection-and-introspection-97b348be54d8#:~:text=In%20programming%2C%20introspection%20is%20the,apart%20from%20less%2Ddynamic%20languages.)
+- [X] [Python mixin](https://www.pythontutorial.net/python-oop/python-mixin/)
+- [X] [What is PEP8(Python Enterprise Proposal)?](): It covers formatting, comments, naming conventions, but also programming recommendations as well as useful tips on various topics. The main aim of PEP8 is to help developers improve code readability, reliability and maintainability.
+
 
 
 #### Article,Books And Courses
