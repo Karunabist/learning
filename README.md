@@ -1233,7 +1233,7 @@ and their representations in **vector spaces** and through **matrices**.
 - [X] [Probability mass function](https://en.wikipedia.org/wiki/Probability_mass_function)
 - [X] [Probability density function](https://en.wikipedia.org/wiki/Probability_density_function): Probability density function is not define about probability , area under the probability density function gives probability. In x-axis we have events and in y-axis we have p.d.f(which value is not in 0-1 becaus it is not probability)
 - [X] [Joint probability distributatio](https://www.investopedia.com/terms/j/jointprobability.asp): Probability of multiple events occurring simultaneously. two random variables that are defined on the same probability space, the joint probability distribution is the corresponding probability distribution on all possible pairs of outputs.
-- [X] [Marginal Probability](https://en.wikipedia.org/wiki/Marginal_distribution): It may be thought of as an unconditional probability.  It is not conditioned on another event.
+- [X] [Marginal Probability](https://en.wikipedia.org/wiki/Marginal_distribution): It's like normal probability in join probability curve. It may be thought of as an unconditional probability. It is not conditioned on another event.
 - [X] [Marginal Probability](https://towardsdatascience.com/marginal-joint-and-conditional-probabilities-explained-by-data-scientist-4225b28907a4)
 - [X] [Conditional Probability](https://sites.nicholas.duke.edu/statsreview/jmc/): p(A|B) is the probability of event A occurring, given that event B occurs
 
@@ -1264,6 +1264,8 @@ and their representations in **vector spaces** and through **matrices**.
 - [X] [Joint distributions](https://en.wikipedia.org/wiki/List_of_probability_distributions#Joint_distributions)
 
     For any set of independent random variables the probability density function of their joint distribution is the product of their individual density functions.
+
+	- [X] [multivariate normal distribution](https://en.wikipedia.org/wiki/Multivariate_normal_distribution)
 
 
 
