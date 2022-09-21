@@ -1206,12 +1206,17 @@ and their representations in **vector spaces** and through **matrices**.
 - [ ] [Probability for Computer Scientists: Stanford](http://web.stanford.edu/class/cs109/)
 
 
+- [X] [Event](https://en.wikipedia.org/wiki/Event_(probability_theory))
+
 - [X] [Independent events](https://en.wikipedia.org/wiki/Independence_(probability_theory)): (If two events, A and B are independent then the joint probability is: ${\displaystyle P(A{\mbox{ and }}B)=P(A\cap B)=P(A)P(B).}{\displaystyle P(A{\mbox{ and }}B)=P(A\cap B)=P(A)P(B).}$. For example, if two coins are flipped, then the chance of both being heads is ${\displaystyle {\tfrac {1}{2}}\times {\tfrac {1}{2}}={\tfrac {1}{4}}}{\tfrac {1}{2}}\times {\tfrac {1}{2}}={\tfrac {1}{4}}$).
 
 - [X] [Mutually exclusive events](https://en.wikipedia.org/wiki/Mutual_exclusivity): If either event A or event B can occur but never both simultaneously, then they are called mutually exclusive events.A clear example is the set of outcomes of a single coin toss, which can result in either heads or tails, but not both.
 
 
 - [X] [Not mutually exclusive events](https://en.wikipedia.org/wiki/Probability#Not_mutually_exclusive_events): 
+
+- [X] [Random Variable](https://en.wikipedia.org/wiki/Random_variable)
+
 - [X] [Conditional probability](https://en.wikipedia.org/wiki/Conditional_probability)
 - [X] [Conditional Probabilities, Clearly Explained!!!: StatQuest](https://www.youtube.com/watch?v=_IgyaD7vOOA&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=17)
 - [X] [Inverse probability](https://en.wikipedia.org/wiki/Probability#Inverse_probability)
@@ -1222,6 +1227,7 @@ and their representations in **vector spaces** and through **matrices**.
 - [X] [Odds and Log(Odds), Clearly Explained!!!: StatQuest](https://www.youtube.com/watch?v=ARfXDSkQf1Y&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=45)
 - [X] [Odds Ratios and Log(Odds Ratios), Clearly Explained!!!: StatQuest](https://www.youtube.com/watch?v=8nm0G-1uJzA&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=46)
 - [X] [Expected value](https://en.wikipedia.org/wiki/Expected_value#:~:text=In%20probability%20theory%2C%20the%20expected,outcomes%20of%20a%20random%20variable.)
+
 - [X] [Probability Distributation](https://en.wikipedia.org/wiki/Probability_distribution)
     - [X] [The Main Ideas behind Probability Distributions: StatQuest](https://www.youtube.com/watch?v=oI3hZJqXJuc&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=2)
 
