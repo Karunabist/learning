@@ -1231,7 +1231,11 @@ and their representations in **vector spaces** and through **matrices**.
 - [X] [Expected value](https://en.wikipedia.org/wiki/Expected_value#:~:text=In%20probability%20theory%2C%20the%20expected,outcomes%20of%20a%20random%20variable.)
 - [X] [Variance](https://en.wikipedia.org/wiki/Variance)
 - [X] [Probability mass function](https://en.wikipedia.org/wiki/Probability_mass_function)
-- [X] [Probability density function](https://en.wikipedia.org/wiki/Probability_density_function)
+- [X] [Probability density function](https://en.wikipedia.org/wiki/Probability_density_function): Probability density function is not define about probability , area under the probability density function gives probability. In x-axis we have events and in y-axis we have p.d.f(which value is not in 0-1 becaus it is not probability)
+- [X] [Joint probability distributatio](https://www.investopedia.com/terms/j/jointprobability.asp): Probability of multiple events occurring simultaneously. two random variables that are defined on the same probability space, the joint probability distribution is the corresponding probability distribution on all possible pairs of outputs.
+- [X] [Marginal Probability](https://en.wikipedia.org/wiki/Marginal_distribution): It may be thought of as an unconditional probability.  It is not conditioned on another event.
+- [X] [Marginal Probability](https://towardsdatascience.com/marginal-joint-and-conditional-probabilities-explained-by-data-scientist-4225b28907a4)
+- [X] [Conditional Probability](https://sites.nicholas.duke.edu/statsreview/jmc/): p(A|B) is the probability of event A occurring, given that event B occurs
 
 
 - [X] [Probability Distributation](https://en.wikipedia.org/wiki/Probability_distribution)
@@ -1239,6 +1243,7 @@ and their representations in **vector spaces** and through **matrices**.
 
 
 - [X] [List Of Probability Distributation](https://en.wikipedia.org/wiki/List_of_probability_distributions#Discrete_distributions)
+
 - [X] [Discrete distributions](https://en.wikipedia.org/wiki/List_of_probability_distributions#Discrete_distributions)
     
 	With finite support
@@ -1255,7 +1260,12 @@ and their representations in **vector spaces** and through **matrices**.
 
     - [X] [The Normal Distribution, Clearly Explained!!!/ Gaussian or the bell curve/ Gaussian, Gauss, or Laplace–Gauss distribution](https://www.youtube.com/watch?v=rzFX5NWojp0&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=3)
 	- [X] [The Normal Distribution, Clearly Explained!!!/ Gaussian or the bell curve/ Gaussian, Gauss, or Laplace–Gauss distribution](https://en.wikipedia.org/wiki/Normal_distribution)
-	
+
+- [X] [Joint distributions](https://en.wikipedia.org/wiki/List_of_probability_distributions#Joint_distributions)
+
+    For any set of independent random variables the probability density function of their joint distribution is the product of their individual density functions.
+
+
 
 - [X] [INTRODUCTION TO PROBABILITY: MIT](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/)
 
