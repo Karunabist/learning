@@ -2142,7 +2142,7 @@ Note:
 - [X] [Python | __import__() function](https://www.geeksforgeeks.org/python-__import__-function/)
 - [X] [Coroutine in Python](https://www.geeksforgeeks.org/coroutine-in-python/)
 - [X] [Python bit functions on int (bit_length, to_bytes and from_bytes)](https://www.geeksforgeeks.org/python-bit-functions-on-int-bit_length-to_bytes-and-from_bytes/)
-- [X] [Python issubclass()](https://www.geeksforgeeks.org/python-issubclass/#:~:text=Python%20issubclass()%20is%20built,class%20else%20it%20returns%20False%20.&text=Return%20Type%3A%20True%20if%20object,of%20the%20tuple%2C%20otherwise%20False.)
+- [X] [Python issubclass()](https://www.geeksforgeeks.org/python-issubclass/#:~:text=Python%20issubclass()%20is%20built,class%20else%20it%20returns%20False%20.&text=Return%20Type%3A%20True%20if%20object,of%20the%20tuple%2C%20otherwise%20False.): check if a class is a child of another class
 - [X] [Destructors in Python](https://www.geeksforgeeks.org/destructors-in-python/)
 - [X] [Python Reflection and Introspection](https://betterprogramming.pub/python-reflection-and-introspection-97b348be54d8)
 - [X] [Python Reflection and Introspection](https://dengking.github.io/programming-language/Python/Paradigm/Meta-programming/Reflective/Python-reflection/)
@@ -2186,6 +2186,8 @@ print(ClassName.mro())
 - [X] [pickling and unpickling in Python](https://www.geeksforgeeks.org/pickle-python-object-serialization/)
 - [X] [.py and .pyc](https://www.tutorialspoint.com/what-is-the-difference-between-py-and-pyc-files)
 - [X] [Is Python call by reference or call by value](https://www.geeksforgeeks.org/is-python-call-by-reference-or-call-by-value/#:~:text=Python%20utilizes%20a%20system%2C%20which,being%20passed%20to%20the%20function.)
+- [X] [PYTHONPATH](https://bic-berkeley.github.io/psych-214-fall-2016/using_pythonpath.html): It is an environment variable which is used when a module is imported.
+
 
 #### Article,Books And Courses
 - [ ] [Python Frequently Asked Questions (Programming)](https://docs.python.org/2/faq/programming.html)
