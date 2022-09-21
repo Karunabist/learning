@@ -1253,7 +1253,9 @@ and their representations in **vector spaces** and through **matrices**.
 
 	Supported on the whole real line
 
-    - [X] [The Normal Distribution, Clearly Explained!!!](https://www.youtube.com/watch?v=rzFX5NWojp0&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=3)
+    - [X] [The Normal Distribution, Clearly Explained!!!/ Gaussian or the bell curve/ Gaussian, Gauss, or Laplace–Gauss distribution](https://www.youtube.com/watch?v=rzFX5NWojp0&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=3)
+	- [X] [The Normal Distribution, Clearly Explained!!!/ Gaussian or the bell curve/ Gaussian, Gauss, or Laplace–Gauss distribution](https://en.wikipedia.org/wiki/Normal_distribution)
+	
 
 - [X] [INTRODUCTION TO PROBABILITY: MIT](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/)
 
