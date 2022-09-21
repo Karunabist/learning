@@ -710,6 +710,7 @@ and their representations in **vector spaces** and through **matrices**.
 	- [X] [Changing Basis](https://www.youtube.com/watch?v=D7QY2kis4bw&list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3&index=10): Projecting into new basis vectors
 	- [X] [Application of Changing Basis](https://www.youtube.com/watch?v=GpFDwzHlrKk&list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3&index=12)
 	- [X] [Linear Independence](https://en.wikipedia.org/wiki/Linear_independence)
+	- [X] [Polar Coordinate](https://en.wikipedia.org/wiki/Polar_coordinate_system)
 	
 
 - [X] [Matrices](https://en.wikipedia.org/wiki/Matrix_(mathematics))
