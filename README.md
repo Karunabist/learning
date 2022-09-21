@@ -1231,6 +1231,8 @@ and their representations in **vector spaces** and through **matrices**.
 - [X] [Odds Ratios and Log(Odds Ratios), Clearly Explained!!!: StatQuest](https://www.youtube.com/watch?v=8nm0G-1uJzA&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=46)
 - [X] [Expected value](https://en.wikipedia.org/wiki/Expected_value#:~:text=In%20probability%20theory%2C%20the%20expected,outcomes%20of%20a%20random%20variable.)
 - [X] [Variance](https://en.wikipedia.org/wiki/Variance)
+- [X] [Co-variance](https://en.wikipedia.org/wiki/Covariance)
+- [X] [Sample mean and covariance/ emperical mean and covariance](https://en.wikipedia.org/wiki/Sample_mean_and_covariance)
 - [X] [Probability mass function](https://en.wikipedia.org/wiki/Probability_mass_function)
 - [X] [Probability density function](https://en.wikipedia.org/wiki/Probability_density_function): Probability density function is not define about probability , area under the probability density function gives probability. In x-axis we have events and in y-axis we have p.d.f(which value is not in 0-1 becaus it is not probability)
 - [X] [Joint probability distributatio](https://www.investopedia.com/terms/j/jointprobability.asp): Probability of multiple events occurring simultaneously. two random variables that are defined on the same probability space, the joint probability distribution is the corresponding probability distribution on all possible pairs of outputs.
