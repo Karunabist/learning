@@ -1221,7 +1221,7 @@ and their representations in **vector spaces** and through **matrices**.
 - [X] [The Central Limit Theorem, Clearly Explained!!!: StatQuest](https://www.youtube.com/watch?v=YAlJCEDH2uY&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=20)
 - [X] [Odds and Log(Odds), Clearly Explained!!!: StatQuest](https://www.youtube.com/watch?v=ARfXDSkQf1Y&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=45)
 - [X] [Odds Ratios and Log(Odds Ratios), Clearly Explained!!!: StatQuest](https://www.youtube.com/watch?v=8nm0G-1uJzA&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=46)
-
+- [X] [Expected value](https://en.wikipedia.org/wiki/Expected_value#:~:text=In%20probability%20theory%2C%20the%20expected,outcomes%20of%20a%20random%20variable.)
 - [X] [Probability Distributation](https://en.wikipedia.org/wiki/Probability_distribution)
     - [X] [The Main Ideas behind Probability Distributions: StatQuest](https://www.youtube.com/watch?v=oI3hZJqXJuc&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=2)
 
@@ -1592,6 +1592,9 @@ Inferential statistics can be contrasted with descriptive statistics. Descriptiv
 * Difference between classical and modern physics
 
 ## Classic Physics
+
+Newton's laws, Maxwell's equations, thermodynamics
+
 - [X] [Classical mechanics]()
     - [ ] [Gerd Baumann - Mathematica for Theoretical Physics_ Classical Mechanics and Nonlinear Dynamics-Springer (2005)](https://drive.google.com/file/d/1JN2PBE9e24RQzjkDgjnPDZkj271P_fD4/view?usp=sharing)
 	- [ ] [Tom W B Kibble, Frank H Berkshire - Classical mechanics-Imperial College Press_ Distributed by World Scientific Pub (2004)](https://drive.google.com/file/d/17p0qEYPJCGSJ7HZ_Js7fplxm6aPPnHjg/view?usp=sharing)
@@ -1602,6 +1605,8 @@ Inferential statistics can be contrasted with descriptive statistics. Descriptiv
 
 
 ## Modern Physics
+
+- [X] [Schrödinger equation](https://en.wikipedia.org/wiki/Schr%C3%B6dinger_equation)
 
 - [ ] [description]()
 - [ ] [Hallmark]()
