@@ -2100,7 +2100,6 @@ Note:
 	- [X] [Ternary Operator in Python](https://www.geeksforgeeks.org/ternary-operator-in-python/)
 	- [X] [check whether the object is of a class or its subclass.](https://www.geeksforgeeks.org/python-issubclass/#:~:text=issubclass()%20in%20Python,class%20else%20it%20returns%20False.&text=Parameters%3A,Object%3A%20class%20to%20be%20checked)
 	
-
 - [X] [Operator Overloading](https://www.geeksforgeeks.org/operator-overloading-in-python/)
 - [X] [A Guide to Python's Dunder/Magic/Special Methods](https://rszalski.github.io/magicmethods/)
 - [X] [Multiple Statements per Line: print(a); print(b); print(c)](https://www.tutorialspoint.com/How-to-provide-multiple-statements-on-a-single-line-in-Python)
@@ -2173,10 +2172,23 @@ Note:
 - [X] [introspection/reflection in python](https://betterprogramming.pub/python-reflection-and-introspection-97b348be54d8#:~:text=In%20programming%2C%20introspection%20is%20the,apart%20from%20less%2Ddynamic%20languages.)
 - [X] [Python mixin](https://www.pythontutorial.net/python-oop/python-mixin/)
 - [X] [What is PEP8(Python Enterprise Proposal)?](): It covers formatting, comments, naming conventions, but also programming recommendations as well as useful tips on various topics. The main aim of PEP8 is to help developers improve code readability, reliability and maintainability.
-
-
+- [X] [memory managed in Python](https://www.geeksforgeeks.org/memory-management-in-python/)
+- [X] [memory managed in Python](https://docs.python.org/3/c-api/memory.html#:~:text=Memory%20management%20in%20Python%20involves,by%20the%20Python%20memory%20manager.)
+- [X] [Python Script executable on Unix](http://net-informations.com/python/iq/unix.htm)
+- [X] [Method resolution order in Python Inheritance(MRO)](https://www.geeksforgeeks.org/method-resolution-order-in-python-inheritance/): 
+```python
+# it prints the lookup order
+print(ClassName.__mro__)
+print(ClassName.mro())
+```
+- [X] [Descriptor in Python](https://www.geeksforgeeks.org/descriptor-in-python/)
+- [X] [range() vs xrange() in Python](https://www.geeksforgeeks.org/range-vs-xrange-in-python/)
+- [X] [pickling and unpickling in Python](https://www.geeksforgeeks.org/pickle-python-object-serialization/)
+- [X] [.py and .pyc](https://www.tutorialspoint.com/what-is-the-difference-between-py-and-pyc-files)
+- [X] [Is Python call by reference or call by value](https://www.geeksforgeeks.org/is-python-call-by-reference-or-call-by-value/#:~:text=Python%20utilizes%20a%20system%2C%20which,being%20passed%20to%20the%20function.)
 
 #### Article,Books And Courses
+- [ ] [Python Frequently Asked Questions (Programming)](https://docs.python.org/2/faq/programming.html)
 - [ ] [The Python Programming Language: Stanford](https://stanfordpython.com/#/)
 - [ ] [Article: A reverse chronology of some Python features](https://snarky.ca/a-reverse-chronology-of-some-python-features/)
 - [ ] [Book: A Byte of Python](https://python.swaroopch.com)
@@ -2225,6 +2237,8 @@ Note:
 - [ ] [Youtube: The Clean Architecture in Python](https://www.youtube.com/watch?v=DJtef410XaM)
 
 #### Important Python Library
+
+- [X] [PyChecker]()
 - [X] Profiling Tools
 	- [X] [cProfile](https://docs.python.org/3.2/library/profile.html)
 	- [X] [Profile](https://docs.python.org/3.2/library/profile.html)
