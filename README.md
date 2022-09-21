@@ -2439,7 +2439,8 @@ Notes:
     - [X] ERNIE-ViLG : [paper](https://arxiv.org/abs/2112.15283),[Github](https://github.com/PaddlePaddle/PaddleHub/tree/develop/modules/image/text_to_image/ernie_vilg),[Reddit thread](https://www.reddit.com/r/MachineLearning/comments/x4l4af/r_ernievilg_a_stateoftheart_texttoimage_model/), [demo](https://huggingface.co/spaces/PaddlePaddle/ERNIE-ViLG),[Colab](https://colab.research.google.com/drive/1z1Sy7HXWPY8R295tNA-UrFYLfnBe0okl#scrollTo=TuAWt2O9J4_s)
     - [X] Stable Diffusion: [paper](https://arxiv.org/pdf/2112.10752.pdf),[Github](https://github.com/CompVis/stable-diffusion#stable-diffusion-v1), [Hugging Face](https://huggingface.co/blog/stable_diffusion)
     
-
+- [X] [Q-learning](https://en.wikipedia.org/wiki/Q-learning)
+- [X] [Markov Decision Process](https://en.wikipedia.org/wiki/Markov_decision_process)
 
 ####  Activation Function In Neural Networks
 
