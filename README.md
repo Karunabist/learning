@@ -2293,6 +2293,47 @@ print(ClassName.mro())
 	
 ## Artificial intelligence
 
+## Data and Feature engineering
+
+- [X] [Feature Creation from database]()
+    - [X] [In snowflake]()
+	- [X] [MongoDB]()
+- [X] [Feature engineering introduction]()
+    - [X] [My note on feature engineering](https://github.com/MadanBaduwal/feature-engineering/blob/main/Introduction.ipynb)
+- [X] [Missing Data Imputation]()
+    - [X] [My note on missing data imputation](https://github.com/MadanBaduwal/feature-engineering/blob/main/2_short_note_Missing_data_imputation.ipynb)
+
+- [X] [Outlier Analysis and handling]()
+
+- [X] [Feature Transformation]()
+
+- [X] [Feature Selection]()
+
+- [X] [Data sampling and reduction,discretization]()
+
+- [X] [Feature Creation]()
+
+- [X] [Handling Imbalance Data]()
+
+- [X] [Data Quality]()
+
+
+## Be able to manipulate data with Numpy
+
+
+- [X] [ Article: A Visual Intro to NumPy and Data Representation](https://jalammar.github.io/visual-numpy/)
+- [X] [ Article: Good practices with numpy random number generators](https://albertcthomas.github.io/good-practices-random-number-generators/)
+- [X] [ Article: NumPy Illustrated: The Visual Guide to NumPy](https://betterprogramming.pub/numpy-illustrated-the-visual-guide-to-numpy-3b1d4976de1d)
+- [X] [ Article: NumPy Fundamentals for Data Science and Machine Learning](https://pabloinsente.github.io/intro-numpy-fundamentals)
+- [X] [ Datacamp: Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
+- [X] [ Pluralsight: Working with Multidimensional Data Using NumPy](https://www.pluralsight.com/courses/numpy-working-with-multidimensional-data)
+
+
+## Be able to manipulate data with Pandas
+
+
+
+
 ### Machine Learning
 Notes:
 * Forward Pass and Backward Pass
@@ -3152,6 +3193,10 @@ Multi-Class Classification Loss Functions
 - [X] [CS 186 Introduction to Database Systems UC Berkeley](https://sites.google.com/site/cs186spring2015/)
 - [X] [MYSQL](https://dev.mysql.com/doc/)
 - [X] [MongoDB](https://www.mongodb.com/docs/)
+    - [X] [mongo compass]()
+	- [X] [studio 3T]()
+	- [X] [Pymongo]()
+
 - [X] [SQLite](https://www.sqlite.org/index.html)
 - [X] [Postgresql](https://www.postgresql.org/)
 - [X] [Oracle](https://www.oracle.com/database/)
