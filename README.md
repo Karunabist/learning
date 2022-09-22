@@ -1,17 +1,17 @@
 # Learning 👀 
 
-1. First define space: what is space? Space is a collection of tiny elements of a particular domain. It might be space of letters/words for language, numbers/objects for mathematics, atoms for physics, ions/chemical elements for chemistry,..., and arrays for computer science. Each element of space has its own meaning.
-2. Second define a function: which takes space elements from space and does something meaningful operation. Grammer(s+v+o) is for language, mathematical operations(+,-,/,...) for mathematics,..., CRUD operation for computer science.
-3. Third, we receive output from operation: which has a beautiful meaning.
+1. First define space(Input): what is space? Space is a collection of tiny elements of a particular domain. It might be space of letters/words for language, numbers/objects for mathematics, atoms for physics, ions/chemical elements for chemistry,..., and arrays for computer science. Each element of space has its own meaning.
+2. Second define a function(Process): which takes space elements from space and does something meaningful operation. Grammer(s+v+o) is for language, mathematical operations(+,-,/,...) for mathematics,..., CRUD operation for computer science.
+3. Third, we receive output from operation(Output): which has a beautiful meaning.
 
 
-**Note: Creating/collecting more elements in space. Create perfect function will give perfect output.**
+**Life long learning is: Creating or collecting more tiney elements in space. Creating or collecting perfect functions. Expecting perfect output.**
 
 <table width="100%">
   <tr>
 	  <td width="20%">
 	<ul>
-		<p><b>Start from the smallest unit/object of the system.</b></p>
+		<p><b>Start from the tiney elements/units/objects of the system.</b></p>
 		<li><a href= "https://docs.google.com/document/d/1snROtUFb4DGpGE0kVZr6nFM1GUnRuaXFwLWCYvFM3ME/edit?usp=sharing">Language(English)(letter)</a></li>            
 		  <li><a href="https://colab.research.google.com/drive/15uiUNCEPbh1VhH-wfvJctbm8902po2zq?usp=sharing">Mathematics(number/object)</a></li>
 		  <li><a href= "https://docs.google.com/document/d/1aMGL_ye6mxmdJSpQXOlcpahYdrwgrMh_p6EM0cPY6qQ/edit?usp=sharing">Physics(atom)</a></li>
