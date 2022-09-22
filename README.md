@@ -3063,6 +3063,9 @@ Multi-Class Classification Loss Functions
 	
 ### Computer Vision
 
+- [X] []()
+
+
 #### Be familar with computer vision from scratch
 
 - [ ] [Computer Vision: Foundations and Applications: Stanford](http://vision.stanford.edu/teaching/cs131_fall2021/index.html)
