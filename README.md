@@ -17,8 +17,8 @@
 		  <li><a href= "https://docs.google.com/document/d/1aMGL_ye6mxmdJSpQXOlcpahYdrwgrMh_p6EM0cPY6qQ/edit?usp=sharing">Physics(atom)</a></li>
 		  <li><a href= "https://docs.google.com/document/d/1e8HjXTtJcvfEQSxYotMXx7T2iexRoEQDNjtattCozus/edit?usp=sharing">Chemistry(ion)</a></li>
 		  <li><a href= "https://docs.google.com/document/d/1brdu9ShaaN1JTiQzs3ckHWFDOv2ft7c_-lpKsRqz5I0/edit?usp=sharing">Biology(cell)</a></li> 
-		  <li><a href= "https://docs.google.com/document/d/1gIVyhmQCia1pDzFCwEdKoF_tpSz5vZlQyeECx9riFGE/edit?usp=sharing">Engineering(atom)</a></li>
-		  <li>Astronomy</li> 
+		  <li><a href="#">Astronomy</a></li>
+		  <li><a href= "https://docs.google.com/document/d/1gIVyhmQCia1pDzFCwEdKoF_tpSz5vZlQyeECx9riFGE/edit?usp=sharing">Engineering(atom)</a></li> 
 		  <li><a href= "https://docs.google.com/document/d/1nxTLBHwMnclj-nrvmHYMcwJveu0QHme-XwOw5DI3Y1Q/edit?usp=sharing">Economics(supply and demand)</a></li>
 		  <li>Managment,accounting,Education,
 			  General Knowledge ...etc</li>
@@ -34,7 +34,7 @@
   <li><a href = "https://colab.research.google.com/drive/1FcZQ7RijE5ovxH2pd25bpHVVG4q7fp_9?usp=sharing">Universal Rules</a></li>
   <li><a href = "https://github.com/MadanBaduwal/learning/blob/main/favorite-quotes.md">Favorite Quotes</a></li>
   <li><a href = "https://docs.google.com/drawings/d/1uBr-Ib-BPVB_FrUmj-Xo5aCxKKKGzBqAs4P-jNDb8j4/edit?usp=sharing">Aim</a></li>
-   <li>Power of Revision</li>
+   <li><a href="https://www.theguardian.com/education/2016/may/07/the-way-youre-revising-may-let-you-down-in-exams-and-heres-why">Power of Revision</a></li>
   
   <img class="zoom" src="https://www.bloo.vision/cms/wp-content/uploads/2020/02/vision-system_eye-and-brain-uai-1440x1164.png" alt="Italian Trulli"> 
 	  <ul>
@@ -1732,6 +1732,17 @@ Newton's laws, Maxwell's equations, thermodynamics
 
 
 </details>
+
+
+
+<details>
+<summary>Astronomy</summary>
+
+# Astronomy
+
+</details>
+
+
 
 <details>
 <summary>Engineering(4 Main branches of engineering)(hardware)</summary>
