@@ -30,7 +30,8 @@
 	  </ul> </td>
 	  
   <td width="40%">
-  <li><a href = "https://colab.research.google.com/drive/1FcZQ7RijE5ovxH2pd25bpHVVG4q7fp_9?usp=sharing">Universal Rule</a></li>
+  <li><a href = "https://colab.research.google.com/drive/1FcZQ7RijE5ovxH2pd25bpHVVG4q7fp_9?usp=sharing">Universal Rules</a></li>
+  <li><a href = "https://github.com/MadanBaduwal/learning/blob/main/favorite-quotes.md">Favorite Quotes</a></li>
   <li><a href = "https://docs.google.com/drawings/d/1uBr-Ib-BPVB_FrUmj-Xo5aCxKKKGzBqAs4P-jNDb8j4/edit?usp=sharing">Aim</a></li>
    <li>Power of Revision</li>
   

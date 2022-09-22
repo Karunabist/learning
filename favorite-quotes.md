@@ -18,4 +18,17 @@
             <img class="zoom" src="https://raw.githubusercontent.com/MadanBaduwal/learning/main/images/6.Hirerchy.jpg" alt="Italian Trulli"> 
         </td>
     </tr>
+    <tr>
+    <td width="50%">
+            <img class="zoom" src="https://raw.githubusercontent.com/MadanBaduwal/learning/main/images/7.Nature.jpg" alt="Italian Trulli"> 
+        </td>
+        <td width="50%">
+            <img class="zoom" src="https://raw.githubusercontent.com/MadanBaduwal/learning/main/images/8.Astronomy.jpg"> 
+        </td>
+    </tr>
+     <tr>
+    <td width="50%">
+            <img class="zoom" src="https://raw.githubusercontent.com/MadanBaduwal/learning/main/images/9.motivation.png" alt="Italian Trulli"> 
+        </td>
+    </tr>
 </table>
