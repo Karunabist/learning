@@ -4,10 +4,18 @@
 <table width="100%">
     <tr>
         <td width="50%">
-            <img class="zoom" src="https://www.bloo.vision/cms/wp-content/uploads/2020/02/vision-system_eye-and-brain-uai-1440x1164.png" alt="Italian Trulli"> 
+            <img class="zoom" src="https://raw.githubusercontent.com/MadanBaduwal/learning/main/images/3.Everything%20is%20electron%2Cproton%2Cand%20neutron.jpg" alt="Italian Trulli"> 
         </td>
         <td width="50%">
-            <img class="zoom" src="https://www.bloo.vision/cms/wp-content/uploads/2020/02/vision-system_eye-and-brain-uai-1440x1164.png" alt="Italian Trulli"> 
+            <img class="zoom" src="https://raw.githubusercontent.com/MadanBaduwal/learning/main/images/4.Everything%20is%20frequency%2Cenergy%2C%20and%20vibration.jpg" alt="Italian Trulli"> 
+        </td>
+    </tr>
+    <tr>
+    <td width="50%">
+            <img class="zoom" src="https://raw.githubusercontent.com/MadanBaduwal/learning/main/images/5.Everything%20is%20vibration.jpg" alt="Italian Trulli"> 
+        </td>
+        <td width="50%">
+            <img class="zoom" src="https://raw.githubusercontent.com/MadanBaduwal/learning/main/images/6.Hirerchy.jpg" alt="Italian Trulli"> 
         </td>
     </tr>
 </table>
