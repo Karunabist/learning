@@ -1946,7 +1946,7 @@ Note:
 	- [ ] [Uniform-Cost Search (Dijkstra for large Graphs)](https://www.geeksforgeeks.org/uniform-cost-search-dijkstra-for-large-graphs/)
 	- [ ] [Bidirectional Search](https://www.geeksforgeeks.org/bidirectional-search/)
 
-- [X] INFORMED SEARCH
+- [X] Informed Search
 	- [Heuristics]()
 	- [ ] [greedy best first Algorithm](https://python.algorithmexamples.com/web/graphs/greedy_best_first.html)
 	- [ ] [A* Search: Colab](https://colab.research.google.com/drive/1b1LaCBkAhkfsHzwwiqmYsYNje0wFhWAG?usp=sharing)
