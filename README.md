@@ -19,11 +19,11 @@
 		  <li><a href= "https://docs.google.com/document/d/1brdu9ShaaN1JTiQzs3ckHWFDOv2ft7c_-lpKsRqz5I0/edit?usp=sharing">Biology(cell)</a></li> 
 		  <li><a href= "https://docs.google.com/document/d/1gIVyhmQCia1pDzFCwEdKoF_tpSz5vZlQyeECx9riFGE/edit?usp=sharing">Engineering(atom)</a></li> 
 		  <li><a href= "https://docs.google.com/document/d/1nxTLBHwMnclj-nrvmHYMcwJveu0QHme-XwOw5DI3Y1Q/edit?usp=sharing">Economics(supply and demand)</a></li>
-		  <li>Managment,accounting,Education,
-			  General Knowledge ...etc</li>
-		  <li>Companies(motivations)</li>
+		  <li><a href="#">Managment,accounting,Education,
+			  General Knowledge ...etc</a></li>
+		  <li><a href="#">Companies(motivations)</a></li>
 		  <li><a href="https://colab.research.google.com/drive/1eqOUu2cIzTNweQB_dr3NyiQhirm3ol_0?usp=sharing">Computer science(Array)</a></li>
-		  <li>PHD career(Single problem)</li>
+		  <li><a href="#">PHD career(Single problem)</a></li>
 		Download Book From Here:<a href="https://libgen.is/">libgen.is</a></br>
 		  Download Paid Research Papers From Here: <a href="https://sci-hub.se/">sci-hub.se</a></br>
 	Free Pdf hosting: <a href="https://pdfhost.io/">pdfhost.io</a>
@@ -86,7 +86,7 @@
 -------------------------
 	
 <details>
-<summary>Language(English)</summary>
+<summary>Language(5 things)</summary>
 
 # Language(English)
 
@@ -361,7 +361,7 @@ Dialects,accents, and varieties
 </details>
 
 <details>
-<summary>Mathematics(number/object)</summary>
+<summary>Mathematics(3 fields)</summary>
 
 # Mathematics(number/object)
 
@@ -1613,7 +1613,7 @@ Inferential statistics can be contrasted with descriptive statistics. Descriptiv
 
 
 <details>
-<summary>Physics(atom)</summary>
+<summary>Physics(3 core theories)</summary>
 
 # Physics(atom)
 3 core theories
@@ -1810,7 +1810,7 @@ Other branches of engineering
 
 
 <details>
-<summary>Computer science(Array)</summary>
+<summary>Computer science(3fields)</summary>
 
 # Computer science(Array)
 
