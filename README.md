@@ -1737,7 +1737,7 @@ Newton's laws, Maxwell's equations, thermodynamics
 
 
 <details>
-<summary>Engineering(4 Main branches of engineering)(hardware)</summary>
+<summary>Engineering(4 Main branches of engineering)</summary>
 
 
 # Engineering(4 Main branches of engineering)(hardware)
@@ -1810,7 +1810,7 @@ Other branches of engineering
 
 
 <details>
-<summary>Computer science(3fields)</summary>
+<summary>Computer science(3 fields)</summary>
 
 # Computer science(Array)
 
@@ -3428,7 +3428,7 @@ Multi-Class Classification Loss Functions
 
 
 <details>
-<summary>PHD career(Single problem)</summary>
+<summary>PHD career(Segmentation and Detection)</summary>
 
 # PHD career(Single problem)
 
