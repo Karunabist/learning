@@ -5,13 +5,13 @@
 3. Third, we receive output from operation(Output): which has a beautiful meaning.
 
 
-**Life long learning is: Creating or collecting more tiney elements in space. Creating or collecting perfect functions. Expecting perfect output.**
+**Life long learning is: Creating or collecting more tiny elements in space. Creating or collecting perfect functions. Expecting perfect output.**
 
 <table width="100%">
   <tr>
 	  <td width="20%">
 	<ul>
-		<p><b>Start from the tiney elements/units/objects of the system.</b></p>
+		<p><b>Start from the tiny elements/units/objects of the system.</b></p>
 		<li><a href= "https://docs.google.com/document/d/1snROtUFb4DGpGE0kVZr6nFM1GUnRuaXFwLWCYvFM3ME/edit?usp=sharing">Language(English)(letter)</a></li>            
 		  <li><a href="https://colab.research.google.com/drive/15uiUNCEPbh1VhH-wfvJctbm8902po2zq?usp=sharing">Mathematics(number/object)</a></li>
 		  <li><a href= "https://docs.google.com/document/d/1aMGL_ye6mxmdJSpQXOlcpahYdrwgrMh_p6EM0cPY6qQ/edit?usp=sharing">Physics(atom)</a></li>
@@ -280,11 +280,11 @@ Dialects,accents, and varieties
 	
 **Books**
 
-- [X] [Atomic Habit](https://www.opportunitiesforyouth.org/wp-content/uploads/2021/04/Atomic_Habits_by_James_Clear-1.pdf)
-- [X] [The Psycology Of Money](https://www.planetayurveda.com/traditional-books/the-psychology-of-money-by-morgan-housel.pdf)
-- [X] [The Subtle Art Of Not Giving A F*ck](https://www.docdroid.net/KyoHFx5/the-subtle-art-of-not-giving-a-fuck-pdf#page=5)(Ongoing: )
-- [X] [Elon Musk](https://drive.google.com/file/d/1C8ODShsViYqTUGmbeW2y3aLg3Lbr_1fj/view?usp=sharing)
-- [X] [Born A Crime](https://drive.google.com/file/d/1_BmJeqonDQChIF2BoxqKh0jq-nSU25eS/view?usp=sharing)
+- [X] [Atomic Habit](https://www.opportunitiesforyouth.org/wp-content/uploads/2021/04/Atomic_Habits_by_James_Clear-1.pdf): The Surprising Power of Tiny Habits
+- [X] [The Psycology Of Money](https://www.planetayurveda.com/traditional-books/the-psychology-of-money-by-morgan-housel.pdf): Better relationship with money and to make smarter financial decisions. Instead of pretending that humans are ROI-optimizing machines, he shows you how your psychology can work for and against you.ow to think more rationally and make better decisions when it comes to money.
+- [X] [The Subtle Art Of Not Giving A F*ck](https://www.docdroid.net/KyoHFx5/the-subtle-art-of-not-giving-a-fuck-pdf#page=5): Thus, we can say that the key to living a good life is not giving a fuck about more things, but rather, giving a fuck only about the things that align with your personal values.
+- [X] [Elon Musk](https://drive.google.com/file/d/1C8ODShsViYqTUGmbeW2y3aLg3Lbr_1fj/view?usp=sharing): If the rules are such that you can't make progress, then you have to fight the rules.
+- [X] [Born A Crime](https://drive.google.com/file/d/1_BmJeqonDQChIF2BoxqKh0jq-nSU25eS/view?usp=sharing): 
 - [X] [Tinkle Double Digest](https://drive.google.com/file/d/1XoO5s4MJlG4zt3QJGKk2ovLoRIiWL-sx/view?usp=sharing)
 - [X] [A Text Book Of Professional Communication Skills and Esp for Engineers and Professional](https://drive.google.com/file/d/1oQBkfYVxkM7QQGdJmG2MfeyXHOonWtzb/view?usp=sharing)
 - [X] [The Hidden Staircase](https://drive.google.com/file/d/1GpwUz1G-X7j0eqh8rhT3hFFT6cX_lbUg/view?usp=sharing)
