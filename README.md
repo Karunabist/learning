@@ -3437,6 +3437,10 @@ Multi-Class Classification Loss Functions
 
 # PHD career(Single problem)
 
+## Mail For Recommendation
+
+- [X] [My note on writing mail for recommendation](https://docs.google.com/document/d/1S9M0gC-uLoM5fv2D6vDjLAa3K9tjPIGVRTmV7XEeUp0/edit?usp=sharing)
+
 ## Write cold email
 - [X] [My note on cold-email](https://github.com/MadanBaduwal/journals-and-conferences/blob/main/cold-email.md)
 - [X] [University of California Berkely](https://research.berkeley.edu/how-cold-email-professor)
