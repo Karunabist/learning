@@ -1336,7 +1336,16 @@ and their representations in **vector spaces** and through **matrices**.
 		- [X] [L03.9 Reliability](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/reliability/)
 		- [X] [L03.10 The King's Sibling](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/the-kings-sibling/)
 
-
+    - [X] [Lecture 4: Counting](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/mitres_6_012s18_l04as/)
+	    - [X] [L04.1 Lecture Overview](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/lecture-overview-3/)
+		- [X] [L04.2 The Counting Principle](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/the-counting-principle/)
+		- [X] [L04.3 Die Roll Example](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/die-roll-example/)
+		- [X] [L04.4 Combinations](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/combinations/)
+		- [X] [L04.5 Binomial Probabilities](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/binomial-probabilities/)
+		- [X] [L04.6 A Coin Tossing Example](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/a-coin-tossing-example-1/)
+		- [X] [L04.7 Partitions](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/partitions/)
+		- [X] [L04.8 Each Person Gets An Ace](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/each-person-gets-an-ace/)
+		- [X] [L04.9 Multinomial Probabilities](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/multinomial-probabilities/)
 	
 
 - [X] [Probability: the basics](https://www.khanacademy.org/math/statistics-probability/probability-library/basic-theoretical-probability/a/probability-the-basics)
