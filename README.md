@@ -1637,7 +1637,8 @@ Newton's laws, Maxwell's equations, thermodynamics
 
 ## Modern Physics
 
-- [X] [Schrödinger equation](https://en.wikipedia.org/wiki/Schr%C3%B6dinger_equation)
+- [X] [Schrödinger equation](https://en.wikipedia.org/wiki/Schr%C3%B6dinger_equation): A linear partial differential equation that governs the wave function of a quantum-mechanical system.
+- [X] [Big Bang](https://en.wikipedia.org/wiki/Big_Bang): Physical theory that describes how the universe expanded from an initial state of high density and temperature.
 
 - [ ] [description]()
 - [ ] [Hallmark]()
