@@ -725,7 +725,7 @@ and their representations in **vector spaces** and through **matrices**.
 	- [X] [Non-Singular Matrix](https://www.cuemath.com/algebra/non-singular-matrix/):Non Singular matrix is a square matrix whose determinant is a non-zero value.
 	- [X] [Pivot Element](https://en.wikipedia.org/wiki/Pivot_element)
 	- [X] [Eigenvalues and eigenvectors](https://en.wikipedia.org/wiki/Eigenvalues_and_eigenvectors)
-	- [X] [Computational aspects: A−1 = adj(A) / det(A)](https://en.wikipedia.org/wiki/Matrix_(mathematics)#Computational_aspects)
+	- [X] [Computational aspects: A−1 = (1/ det(A))* adj(A)](https://en.wikipedia.org/wiki/Matrix_(mathematics)#Computational_aspects)
     - [X] [Linear equation and System of linear equations](https://en.wikipedia.org/wiki/Linear_equation)
 	- [X] [Linear equation and System of linear equations](https://en.wikipedia.org/wiki/System_of_linear_equations)
 	- [X] [Diagonal and triangular matrix](https://en.wikipedia.org/wiki/Matrix_(mathematics)#Diagonal_and_triangular_matrix)
