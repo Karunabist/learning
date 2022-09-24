@@ -675,6 +675,7 @@ a ≤ c
 
 ##### Linear Algebra
 
+- Favorite Topic In Linear Algebra By Gilbert Strange: Four Spaces(column space, row space, null space,left null space)
 - Linear algebra is the branch of mathematics concerning linear equations such as: ${\displaystyle a_{1}x_{1}+\cdots +a_{n}x_{n}=b,}$
 linear maps such as:
 
@@ -692,6 +693,7 @@ and their representations in **vector spaces** and through **matrices**.
 	- [X] [Linear Subspaces](https://en.wikipedia.org/wiki/Linear_subspace)
 	- [X] [Null Space or Kernel (linear algebra)](https://en.wikipedia.org/wiki/Kernel_(linear_algebra))
 	- [X] [Row and column spaces](https://en.wikipedia.org/wiki/Row_and_column_spaces)
+	- [X] [Left Null Space](https://en.wikipedia.org/wiki/Kernel_(linear_algebra)#Left_null_space)
 	- [X] [Linear span](https://en.wikipedia.org/wiki/Linear_span)
 	- [X] [Subspaces vs Span](https://web.auburn.edu/holmerr/2660/Textbook/spanandsubspace-print.pdf): Span is always subspace
 	- [X] [Space vs Span](https://math.stackexchange.com/questions/3786958/what-is-the-difference-between-vector-space-and-vector-span): Span is the space of two or more vectors, but space can be space of one vector| span is like a verb and space is like a noun
@@ -1337,6 +1339,9 @@ and their representations in **vector spaces** and through **matrices**.
 		- [X] [L03.10 The King's Sibling](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/the-kings-sibling/)
 
     - [X] [Lecture 4: Counting](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/mitres_6_012s18_l04as/)
+
+		Lecture Videos
+
 	    - [X] [L04.1 Lecture Overview](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/lecture-overview-3/)
 		- [X] [L04.2 The Counting Principle](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/the-counting-principle/)
 		- [X] [L04.3 Die Roll Example](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/die-roll-example/)
@@ -1348,6 +1353,9 @@ and their representations in **vector spaces** and through **matrices**.
 		- [X] [L04.9 Multinomial Probabilities](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/multinomial-probabilities/)
 
 	- [X] [Lecture 5: Discrete Random Variables Part I](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/mitres_6_012s18_l05as/)
+
+		Lecture Videos
+
 	    - [X] [L05.1 Lecture Overview](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/lecture-overview-4/)
 		- [X] [L05.2 Definition of Random Variables](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/definition-of-random-variables/)
 		- [X] [L05.3 Probability Mass Functions](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/probability-mass-functions/)
@@ -1360,6 +1368,8 @@ and their representations in **vector spaces** and through **matrices**.
 		- [X] [L05.10 The Expected Value Rule](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/the-expected-value-rule/)
 		- [X] [L05.11 Linearity of Expectations](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/linearity-of-expectations/)
 		- [X] [S05.1 Supplement: Functions](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/supplement-functions/)
+
+	- [X] []()
 
 - [X] [Probability: the basics](https://www.khanacademy.org/math/statistics-probability/probability-library/basic-theoretical-probability/a/probability-the-basics)
 - [X] [Probability: wikipedia](https://en.wikipedia.org/wiki/Probability)
