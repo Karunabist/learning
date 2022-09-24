@@ -1369,7 +1369,15 @@ and their representations in **vector spaces** and through **matrices**.
 		- [X] [L05.11 Linearity of Expectations](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/linearity-of-expectations/)
 		- [X] [S05.1 Supplement: Functions](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/supplement-functions/)
 
-	- [X] []()
+	- [X] [Lecture 6: Discrete Random Variables Part II](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/mitres_6_012s18_l06as/)
+	    - [X] [L06.1 Lecture Overview](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/lecture-overview-5/)
+		- [X] [L06.2 Variance](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/variance/)
+		- [X] [L06.3 The Variance of the Bernoulli & the Uniform](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/the-variance-of-the-bernoulli-the-uniform/)
+		- [X] [L06.4 Conditional PMFs & Expectations Given an Event](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/conditional-pmfs-expectations-given-an-event/)
+		- [X] [L06.5 Total Expectation Theorem](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/total-expectation-theorem/)
+		- [X] [L06.6 Geometric PMF Memorylessness & Expectation](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/geometric-pmf-memorylessness-expectation/)
+		- [X] [L06.7 Joint PMFs and the Expected Value Rule](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/joint-pmfs-and-the-expected-value-rule/)
+		- [X] [L06.8 Linearity of Expectations & the Mean of the Binomial](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/linearity-of-expectations-the-mean-of-the-binomial/)
 
 - [X] [Probability: the basics](https://www.khanacademy.org/math/statistics-probability/probability-library/basic-theoretical-probability/a/probability-the-basics)
 - [X] [Probability: wikipedia](https://en.wikipedia.org/wiki/Probability)
