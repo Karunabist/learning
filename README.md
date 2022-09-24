@@ -1370,6 +1370,9 @@ and their representations in **vector spaces** and through **matrices**.
 		- [X] [S05.1 Supplement: Functions](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/supplement-functions/)
 
 	- [X] [Lecture 6: Discrete Random Variables Part II](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/mitres_6_012s18_l06as/)
+
+	    Lecture Videos
+		
 	    - [X] [L06.1 Lecture Overview](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/lecture-overview-5/)
 		- [X] [L06.2 Variance](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/variance/)
 		- [X] [L06.3 The Variance of the Bernoulli & the Uniform](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/the-variance-of-the-bernoulli-the-uniform/)
