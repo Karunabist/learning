@@ -1033,7 +1033,7 @@ and their representations in **vector spaces** and through **matrices**.
 
 - [X] [Differential calculus](https://en.wikipedia.org/wiki/Differential_calculus)
   
-    - Derivative: Derivative of function f(x) at x = a is define as solpe of tangent for this function at a. i.e from right side: (f(x+h)-f(x))/(x + h - x) or from left side: (f(x-h)-f(x))/(x + h - x). Analysis from both side.
+    - Derivative: Derivative of function f(x) at x = a is define as solpe of tangent for this function at a. i.e from right side: (f(x+h)-f(x))/(x + h - x) or from left side: (f(x-h)-f(x))/(x - h - x). Analysis from both side.
     - $\frac{\partial f}{\partial x}$ and $f'(x)$ are representation of derivative. In actual we do  (f(x+h)-f(x))/(x + h -x) while doing derivative in computer science. But this representation help to analyze complex structure.
 
 
