@@ -3273,14 +3273,17 @@ Multi-Class Classification Loss Functions
 
 ## Software engineer
 ### Software
+- [X] [My note on software engineering](https://github.com/MadanBaduwal/software-engineering/blob/main/1_Software_engineering_GENERAL.ipynb)
 
 #### Desktop
 - [X] [Tkinter: Graphical User Interfaces with Tk](https://docs.python.org/3/library/tk.html)
 - [X] [Tkinter: TkDocs](https://tkdocs.com/tutorial/index.html)
 - [X] [Tkinter: Python interface to Tcl/Tk](https://python.readthedocs.io/en/stable/library/tkinter.html)
+- [X] [Tkinter communicate with arudino](https://github.com/MadanBaduwal/software-engineering/blob/main/Tkinter%20communicate%20with%20arudino.ipynb)
 - [X] [Kivy](https://kivy.org/doc/stable/)
 - [X] [PyQt](https://doc.qt.io/qtforpython/)
-
+- [X] [Pygam]()
+- [X] [Pyglet]()
 	
 #### Smartphone
 - [ ] [Cross-Platform Mobile Development: Stanford](https://web.stanford.edu/class/cs47/)
@@ -3294,6 +3297,17 @@ Multi-Class Classification Loss Functions
 - [ ] [React Native: Documentation](https://reactnative.dev/docs/getting-started)
 #### Tablet
 - [ ] [Flutter: documentation](https://docs.flutter.dev/)
+
+
+##### Javascript
+
+- [X] [Javascript Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [X] [Javascript Documentation](https://devdocs.io/javascript/)
+- [X] [Pyscript]()
+
+##### Server
+
+- [X] [Dell EMC]()
 
 
 #### Web application	
@@ -3313,7 +3327,8 @@ Multi-Class Classification Loss Functions
 - [X] [Tailwind](https://tailwindcss.com/)
 - [X] [Reactjs: Documentation](https://reactjs.org/docs/getting-started.html)
 - [X] [Nextjs](https://nextjs.org/docs)
-	
+
+
 ##### Web framework
 - [ ] [Spring](https://docs.spring.io/spring-framework/docs/current/reference/html/)
 - [ ] [Laravel](https://laravel.com/docs/9.x/installation)
@@ -3462,6 +3477,12 @@ Multi-Class Classification Loss Functions
 ## API
 - [X] [REST API]()
 - [X] [GraphQL]()
+- [X] [FastAPI]()
+- [X] [Flask]()
+- [X] [Requests]()
+- [X] [Streamlit]()
+- [X] [Gradio]()
+
 ## System Design
 
 - [X] [system-design-primer](https://github.com/donnemartin/system-design-primer)
