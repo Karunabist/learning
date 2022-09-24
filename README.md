@@ -1346,7 +1346,20 @@ and their representations in **vector spaces** and through **matrices**.
 		- [X] [L04.7 Partitions](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/partitions/)
 		- [X] [L04.8 Each Person Gets An Ace](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/each-person-gets-an-ace/)
 		- [X] [L04.9 Multinomial Probabilities](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/multinomial-probabilities/)
-	
+
+	- [X] [Lecture 5: Discrete Random Variables Part I](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/mitres_6_012s18_l05as/)
+	    - [X] [L05.1 Lecture Overview](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/lecture-overview-4/)
+		- [X] [L05.2 Definition of Random Variables](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/definition-of-random-variables/)
+		- [X] [L05.3 Probability Mass Functions](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/probability-mass-functions/)
+		- [X] [L05.4 Bernoulli & Indicator Random Variables](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/bernoulli-indicator-random-variables/)
+		- [X] [L05.5 Uniform Random Variables](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/uniform-random-variables/)
+		- [X] [L05.6 Binomial Random Variables](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/binomial-random-variables/)
+		- [X] [L05.7 Geometric Random Variables](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/geometric-random-variables/)
+		- [X] [L05.8 Expectation](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/expectation/)
+		- [X] [L05.9 Elementary Properties of Expectation](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/elementary-properties-of-expectation/)
+		- [X] [L05.10 The Expected Value Rule](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/the-expected-value-rule/)
+		- [X] [L05.11 Linearity of Expectations](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/linearity-of-expectations/)
+		- [X] [S05.1 Supplement: Functions](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/supplement-functions/)
 
 - [X] [Probability: the basics](https://www.khanacademy.org/math/statistics-probability/probability-library/basic-theoretical-probability/a/probability-the-basics)
 - [X] [Probability: wikipedia](https://en.wikipedia.org/wiki/Probability)
