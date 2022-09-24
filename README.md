@@ -3501,6 +3501,11 @@ Multi-Class Classification Loss Functions
 - [ ] [Ansible]()
 - [ ] [Chef]()
 - [ ] [Datadog](https://docs.datadoghq.com/)
+- [ ] [Airflow]()
+
+### Software Life Cycle
+- [X] [Agile]() 
+
 
 
 ## API
