@@ -1639,6 +1639,7 @@ Newton's laws, Maxwell's equations, thermodynamics
 
 - [X] [Schrödinger equation](https://en.wikipedia.org/wiki/Schr%C3%B6dinger_equation): A linear partial differential equation that governs the wave function of a quantum-mechanical system.
 - [X] [Big Bang](https://en.wikipedia.org/wiki/Big_Bang): Physical theory that describes how the universe expanded from an initial state of high density and temperature.
+- [X] [String Theory](https://en.wikipedia.org/wiki/String_theory): String theory is a theoretical framework in which the point-like particles of particle physics are replaced by one-dimensional objects called strings. String theory describes how these strings propagate through space and interact with each other.
 
 - [ ] [description]()
 - [ ] [Hallmark]()
