@@ -2503,8 +2503,19 @@ print(ClassName.mro())
 		- [X] [Discretization by Decision Tree]()
 
 - [X] [Feature Creation]()
+    - [X] [Features From Existing Data]()
+	- [X] [How to extract year, month, day, hour, minute, second, and week from datetime variable]()
+	- [X] [Mixed Data (number/String/mixed)]()
+	- [X] [Features from Images]()
+	- [X] [Features from text]()
 
 - [X] [Handling Imbalance Data]()
+    - [X] [Resampling techniques.]()
+	    - [X] [Random Under Sampling]()
+		- [X] [Random Over Sampling]()
+		- [X] [Cluster-based over Sampling]()
+		- [X] [Informed Over Sampling]()
+		- [X] [Algorithm Level Methods of Handling Imbalance]()
 
 - [X] [Data Quality]()
 
