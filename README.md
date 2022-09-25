@@ -2352,7 +2352,7 @@ print(ClassName.mro())
 ## Artificial intelligence
 
 ### Data and Feature engineering
-
+- [X] [General Concept of feature engineering and data science](https://github.com/MadanBaduwal/feature-engineering/blob/main/2_General_concept_of_data_science.ipynb)
 - [X] [Feature Creation from database]()
     - [X] [In snowflake]()
 	- [X] [MongoDB]()
