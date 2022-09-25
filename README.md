@@ -2551,6 +2551,7 @@ Notes:
 - [X] [Multivariate Adaptive Regression Splines on Python](https://medium.com/@aishwaryapatange/pyearth-multivariate-adaptive-regression-splines-on-python-86e8dd647030)
 - [X] [Multivariate Adaptive Regression Splines](https://towardsdatascience.com/mars-multivariate-adaptive-regression-splines-how-to-improve-on-linear-regression-e1e7a63c5eae)
 - [X] [Multivariate Adaptive Regression Splines:An Introduction to Multivariate Adaptive Regression Splines](https://www.statology.org/multivariate-adaptive-regression-splines/)
+- [X] [Locally Estimate scatterplot smoothing(LOESS)]()
 - [X] [Stepwise Regression: Stepwise Regression Tutorial in Python](https://towardsdatascience.com/stepwise-regression-tutorial-in-python-ebf7c782c922)
 - [X] [Stepwise Regression: A Beginner’s Guide to Stepwise Multiple Linear Regression](https://medium.com/analytics-vidhya/a-beginners-guide-to-stepwise-multiple-linear-regression-e81df82b9f9e)
 - [X] [Local Regression: Implementation of Locally Weighted Linear Regression](https://www.geeksforgeeks.org/implementation-of-locally-weighted-linear-regression/)
@@ -2644,6 +2645,8 @@ Notes:
 - [X] [KNN: Implementing K Nearest Neighbors from scratch in Python](https://blog.devgenius.io/implementing-k-nearest-neighbors-from-scratch-in-python-d5eaaf558d49)
 - [X] [KNN: K-Nearest Neighbors (KNN) Algorithm in Python from Scratch](https://www.linkedin.com/pulse/k-nearest-neighbors-knn-algorithm-python-from-scratch-amit-kumar/)
 - [X] [Article: K-nearest neighbors](https://www.jeremyjordan.me/k-nearest-neighbors/)
+- [X] [Learning Vector Quantization(LVQ)]()
+- [X] [Self-Organizing Map(SOM)]()
 - [X] [K-Means Clustering: KMeans Clustering From Scratch](https://www.kaggle.com/code/adinishad/kmeans-clustering-from-scratch)
 - [X] [K-Means Clustering: Create a K-Means Clustering Algorithm from Scratch in Python](https://towardsdatascience.com/create-your-own-k-means-clustering-algorithm-in-python-d7d4c9077670)
 - [X] [K-Means Clustering: K-Means Clustering From Scratch in Python](https://www.askpython.com/python/examples/k-means-clustering-from-scratch)
@@ -2781,6 +2784,9 @@ Multi-Class Classification Loss Functions
 - [ ] [Everything you Should Know about Confusion Matrix for Machine Learning](https://www.analyticsvidhya.com/blog/2020/04/confusion-matrix-machine-learning/)
 - [ ] [Metrics to Evaluate your Machine Learning Algorithm](https://towardsdatascience.com/metrics-to-evaluate-your-machine-learning-algorithm-f10ba6e38234)
      
+
+#### Model intrepration
+- [X] [SHAP]()
 	 
  #### Be familar with machine learning Libraries
 - [X] [Numpy](https://numpy.org/doc/)
