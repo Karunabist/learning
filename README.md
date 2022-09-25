@@ -2434,21 +2434,20 @@ print(ClassName.mro())
 
 - [X] [Feature Selection]()
 
-       Filter methods
+	Filter methods
+	- [X] [Pearson's Correlation Coefficient]()
+	- [X] [Chi-Square Test]()
+	
+	Wrapper methods
 
-	   - [X] [Pearson's Correlation Coefficient]()
-	   - [X] [Chi-Square Test]()
+	- [X] [Forward selection]()
+	- [X] [Backward elimination (Recursive feature elimination(RFE))]()
 
-	   Wrapper methods
+	Embedded methods
 
-	   - [X] [Forward selection]()
-	   - [X] [Backward elimination (Recursive feature elimination(RFE))]()
-
-	   Embedded methods
-
-       - [X] [LASSO regression]()
-	   - [X] [Ridge regression]()
-	   - [X] [Elastic-Net regression]()
+	- [X] [LASSO regression]()
+	- [X] [Ridge regression]()
+	- [X] [Elastic-Net regression]()
 
 - [X] [Data sampling and reduction,discretization]()
     - [X] [Sampling Techniques]()
