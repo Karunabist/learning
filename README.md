@@ -2991,7 +2991,7 @@ Multi-Class Classification Loss Functions
 
 - [X] [Awful AI](https://github.com/daviddao/awful-ai)
 
-#### Be familar with MLOPS
+#### Numerical machine learning/ data science
 
 
 **Be able to setup data annotation efficiently**
