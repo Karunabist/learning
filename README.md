@@ -3273,7 +3273,84 @@ Multi-Class Classification Loss Functions
 	
 ### Computer Vision
 
-- [X] []()
+#### System methods
+
+- [X] [image acquisition(Digital image fundamentals)]()
+
+    Imaging
+    - [X] [Point Light Source]()
+	- [X] [Parallel Light Source]()
+	- [X] [Diffuse reflection]()
+	- [X] [Specular reflection]()
+	- [X] [Lambertian Surface]()
+	- [X] [Pinhole Camera]()
+	- [X] [Digital Camera]()
+	- [X] [Convex lens]()
+	- [X] [Concave lens]()
+	- [X] [Snell's law]()
+
+	Image Representation
+
+	- [X] [Image as a function]()
+	- [X] [Image as discrete function]()
+	- [X] [Sampling]()
+	- [X] [Relationship with pixel]()
+	- [X] [Quantization]()
+	- [X] [Image as a matrix]()
+	- [X] [Image as a 3D Tensor]()
+	- [X] [Color Spaces](): HSV, YUV
+
+	Imaging Geometry
+	- [X] [Homogeneous Co-ordinates](): Rotation,Scaling, Translation, 
+	- [X] [Projection]()
+	- [X] [Rotation and Scaling Images]()
+	- [X] [Translation]()
+
+- [X] [Pre-processing(Digital image processing)(Intensity transformation and spatial filter)]()
+
+    Point Operators
+
+    - [X] [Brightness]()
+	- [X] [contrast]()
+	- [X] [Histogram]()
+    
+	Binary Operations
+
+	- [X] [Mask]()
+	- [X] [Image thresholding]()
+	    - [X] [Global Thresholding]()
+		- [X] [Local Thresholding]()
+		- [X] [Optimal Thresholding]()
+
+	Filters
+	- [X] [1-D Linear Cross-Correlation]()
+	- [X] [2-D Cross Correlation]()
+	- [X] [1-D Linear Convolution]()
+	- [X] [2-D Linear convolution]()
+	- [X] [Gaussian filter]()
+
+	Denoising
+	- [X] [Salt-and-Pepper Noise]()
+	- [X] [Median Filter]()
+	- [X] [Gaussian Sampling]()
+	- [X] [Median Filtering]()
+
+	Sharpening
+	- [X] [First order derivative]()
+	- [X] [2D Second order derivatives]()
+	- [X] [The Laplacian for Image sharpening (2D Second order derivatives)]()
+	- [X] [Unsharp masking ]()
+	- [X] [Gaussian Blur]()
+	- [X] [Out-of-focus blur]()
+	- [X] [Image deblurring]()
+	- [X] [Box filter]()
+	- [X] [Motion Blur]()
+
+	Image Upscaling and Downscaling
+
+- [X] [Feature extraction/matching(training and testing both prespective)]()
+- [X] [High level processing(classification,detection)]()
+- [X] [Decision making(Evaluation)]()
 
 
 #### Be familar with computer vision from scratch
@@ -3336,6 +3413,11 @@ Multi-Class Classification Loss Functions
 - [ ] [Exadel CompreFace ](https://github.com/exadel-inc/CompreFace)
 - [ ] [computer-vision-in-action ](https://github.com/Charmve/computer-vision-in-action)
 - [X] [Midjourney: Text-to-Image](https://www.midjourney.com/home/) > Expanding the imaginative powers of the human species
+
+### Natural Language Processing
+
+
+### Reinforcement Learning
 
 
 ## Computer architecture and organization
