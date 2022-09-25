@@ -2419,14 +2419,53 @@ print(ClassName.mro())
 	    - [X] [Logarithmic transformation](): $$\log_a(a^x) = x$$
 		- [X] [Reciprocal transformation](): $$\text{Reciprocal}(x) = \frac{1}{x}$$
 		- [X] [Exponential/Power transformation](): $$\text{exp}(x) = x^\lambda$$
-		- [X] [Box-Cox transformation](): $$\large{x^{(\lambda)} = \begin{cases}\frac{x^\lambda-1}{\lambda} &\text{if }  \lambda \not= 0\\ \log(x) &\text{if } \lambda = 0\end{cases}}$$
+		- [X] [Box-Cox transformation](): 
 		- [X] [Yeo-Johnson transformation]()
 	- [X] [Feature Scaling]()
 	    - [X] [Standardization]()
+		- [X] [Min-Max Scaling]()
+		- [X] [Robust scaling]()
+		- [X] [Maximum absolute scaling]()
+		- [X] [Mean normalization]()
+		- [X] [Scaling to vector unit norm]()
+
+	- [X] [Concept Hierarchy Generation]()
+	
 
 - [X] [Feature Selection]()
+       Filter methods
+
+	   - [X] [Pearson's Correlation Coefficient]()
+	   - [X] [Chi-Square Test]()
+
+	   Wrapper methods
+
+	   - [X] [Forward selection]()
+	   - [X] [Backward elimination (Recursive feature elimination(RFE))]()
+
+	   Embedded methods
+
+       - [X] [LASSO regression]()
+	   - [X] [Ridge regression]()
+	   - [X] [Elastic-Net regression]()
 
 - [X] [Data sampling and reduction,discretization]()
+    - [X] [Sampling Techniques]()
+	    - [X] [Power]()
+		- [X] [Effect Size (ES)]()
+		- [X] [Simple Random Sampling (SRS)]()
+		- [X] [Stratified Random Sampling]()
+	- [X] [Data Reduction]()
+	    - [X] [Principal Component Analysis (PCA)]()
+		- [X] [Singular Value Decomposition (SVD)]()
+		- [X] [Linear Discriminant Analysis (LDA)]()
+		- [X] [Autoencoders]()
+		- [X] [Non-negative Matrix Factorization]()
+		- [X] [Independent Component Analysis (ICA)]()
+	- [X] [Discretization]()
+	    - [X] [Discretization by Histogram Analysis]()
+		- [X] [Discretization by Cluster]()
+		- [X] [Discretization by Decision Tree]()
 
 - [X] [Feature Creation]()
 
