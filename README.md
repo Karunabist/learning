@@ -2354,10 +2354,26 @@ print(ClassName.mro())
 ### Data and Feature engineering
 - [X] [General Concept of feature engineering and data science](https://github.com/MadanBaduwal/feature-engineering/blob/main/2_General_concept_of_data_science.ipynb)
 - [X] [Feature Creation from database]()
+    - [X] [Data Sources](https://www.javatpoint.com/how-to-get-datasets-for-machine-learning)
     - [X] [In snowflake]()
 	- [X] [MongoDB]()
 - [X] [Feature engineering introduction]()
-    - [X] [My note on feature engineering](https://github.com/MadanBaduwal/feature-engineering/blob/main/Introduction.ipynb)
+    - [X] [Feature](): In brief, features, aka attributes or variables, are measurable properties present in the dataset that trains ML/DL models.
+    - [X] [My note on feature engineering](https://github.com/MadanBaduwal/feature-engineering/blob/main/Introduction.ipynb): Feature Engineering is a process of transforming raw, untouched data into useful features that better represent the data at hand and are present in a proper format without non-redundancy, missing values.
+	- [X] [Importance of feature engineering](https://www.analyticsvidhya.com/blog/2021/10/a-beginners-guide-to-feature-engineering-everything-you-need-to-know/#:~:text=Benefits%20of%20Feature%20Engineering&text=Higher%20efficiency%20of%20the%20model,Greater%20Flexibility%20of%20the%20features)
+
+	Types of Variables
+
+    - [X] [Numerical]()
+	    - [X] [Discrete](): Numerical variables whose values are always whole numbers are discrete variables.
+		- [X] [Continious](): These variables values can be any number but within a certain range defined by the user taking the data.
+	- [X] [Categorical]()
+	    - [X] [Nominal](): Nominal variables have values that have no particular ordering.
+		- [X] [Ordinal](): Ordinal variables have categorical values where the categories can be meaningfully ordered. 
+	- [X] [Date/Time](): The values of these variables can be only date, only time, or both date and time. 
+	- [X] [Mixed]()
+	
+
 - [X] [Missing Data Imputation]()
     - [X] [My note on missing data imputation](https://github.com/MadanBaduwal/feature-engineering/blob/main/2_short_note_Missing_data_imputation.ipynb)
 
