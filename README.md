@@ -2433,6 +2433,7 @@ print(ClassName.mro())
 	
 
 - [X] [Feature Selection]()
+
        Filter methods
 
 	   - [X] [Pearson's Correlation Coefficient]()
