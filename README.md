@@ -2405,6 +2405,9 @@ print(ClassName.mro())
 - [X] [Outlier Analysis and handling]()
 
 - [X] [Feature Transformation]()
+    - [X] [Categorical Variable Encoding]()
+	    - [X] [One-hot Encoding]()
+		- []
 
 - [X] [Feature Selection]()
 
