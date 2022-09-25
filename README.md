@@ -2372,10 +2372,32 @@ print(ClassName.mro())
 		- [X] [Ordinal](): Ordinal variables have categorical values where the categories can be meaningfully ordered. 
 	- [X] [Date/Time](): The values of these variables can be only date, only time, or both date and time. 
 	- [X] [Mixed]()
+
+	- [X] [Cardinality]()
 	
 
 - [X] [Missing Data Imputation]()
     - [X] [My note on missing data imputation](https://github.com/MadanBaduwal/feature-engineering/blob/main/2_short_note_Missing_data_imputation.ipynb)
+
+
+   Causes for missing data
+   - [X] [Lost or not stored]()
+   - [X] [Don't exist]()
+   - [X] [Not Found/ Not Identified]()
+
+   - [X] [Missing Completely at Random (MCAR)](): MCAR means that the missingness is independent of data.
+   - [X] [Missing at Random (MAR)](): MAR means the missingness depends on some variables. 
+   - [X] [Missing Not at Random (MNAR)](): MNAR means the missingness depends on its own variable.
+   
+   Deletion
+
+   - [X] [Deleting Rows]()
+   - [X] [Pairwise Deletion]()
+   - [X] [Deleting Columns]()
+
+   Imputation
+
+   - [X] []()
 
 - [X] [Outlier Analysis and handling]()
 
