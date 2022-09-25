@@ -2404,6 +2404,41 @@ print(ClassName.mro())
 
 - [X] [Outlier Analysis and handling]()
 
+    types of outliers
+
+    - [X] [Point Outliers/Global outliers]()
+	- [X] [Contextual Outliers]()
+	- [X] [Collective Outliers]()
+
+	Outliers detection technique
+
+	- [X] [Univariate outlier detection technique]()
+	- [X] [he multi-variate outlier detection technique]()
+
+	causes of outliers 
+
+	- [X] [Incorrect entry]()
+	- [X] [Mis-reporting]()
+	- [X] [Sampling error]()
+
+	Univariate Outlier detection
+	- [X] [A boxplot Method]()
+	- [X] [A Histogram Method]()
+	- [X] [Z- Score Method]()
+	- [X] [Modified Z-Score Method]()
+	- [X] [IQR approach]()
+
+	multivariate outlier detection
+	- [X] [Scatter Plot]()
+	- [X] [Isolation Forest]()
+	- [X] [Mahalanobis Distance]()
+
+	Outlier Handling
+	- [X] [Trimming]()
+	- [X] [Discretization]()
+	- [X] [Imputing]()
+	- [X] [Performing winsorization]()
+
 - [X] [Feature Transformation]()
     - [X] [Categorical Variable Encoding]()
 	    - [X] [One-hot Encoding]()
