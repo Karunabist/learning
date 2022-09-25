@@ -2407,7 +2407,22 @@ print(ClassName.mro())
 - [X] [Feature Transformation]()
     - [X] [Categorical Variable Encoding]()
 	    - [X] [One-hot Encoding]()
-		- []
+		- [X] [Encoding into K-dummy variables]()
+		- [X] [Encoding into K-1-dummy variables]()
+		- [X] [Integer/Label/Ordinal Encoding]()
+		- [X] [Count/Frequency Encoding]()
+		- [X] [Mean/Target Encoding]()
+		- [X] [Weight of Evidence]()
+		- [X] [Rare Label Encoding]()
+		- [X] [Binary Encoding and Feature Hashing]()
+	- [X] [Mathematical transformations]()
+	    - [X] [Logarithmic transformation](): $$\log_a(a^x) = x$$
+		- [X] [Reciprocal transformation](): $$\text{Reciprocal}(x) = \frac{1}{x}$$
+		- [X] [Exponential/Power transformation](): $$\text{exp}(x) = x^\lambda$$
+		- [X] [Box-Cox transformation](): $$\large{x^{(\lambda)} = \begin{cases}\frac{x^\lambda-1}{\lambda} &\text{if }  \lambda \not= 0\\ \log(x) &\text{if } \lambda = 0\end{cases}}$$
+		- [X] [Yeo-Johnson transformation]()
+	- [X] [Feature Scaling]()
+	    - [X] [Standardization]()
 
 - [X] [Feature Selection]()
 
