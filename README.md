@@ -3360,7 +3360,9 @@ Multi-Class Classification Loss Functions
 	- [X] [Closing]()
 
 - [X] [Feature extraction/matching(training and testing both prespective)]()
+
     Edge Detection
+
 	- [X] [Canny edge detection]()
 	- [X] [RANdom SAmple Consensus (RANSAC) algorithm]()
     
@@ -3444,7 +3446,17 @@ Multi-Class Classification Loss Functions
 ### Natural Language Processing
 
 
-### Reinforcement Learning
+### Machine olfaction
+
+### Machine test
+
+### Machine touch
+
+### Motion and manipulation
+
+### Social intelligance
+
+### General intelligence
 
 
 ## Computer architecture and organization
