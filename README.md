@@ -3353,7 +3353,29 @@ Multi-Class Classification Loss Functions
 	- [X] [Bilinear Interpolation]()
 	- [X] [Bicubic Interpolation]()
 
+	Morphological Processing
+	- [X] [Erosion]()
+	- [X] [Dilation]()
+	- [X] [Opening]()
+	- [X] [Closing]()
+
 - [X] [Feature extraction/matching(training and testing both prespective)]()
+    Edge Detection
+	- [X] [Canny edge detection]()
+	- [X] [RANdom SAmple Consensus (RANSAC) algorithm]()
+    
+	Feature detection and matching
+	- [X] [Harris Corner detector]()
+	- [X] [Harris-Laplace detector]()
+	- [X] [Features from accelerated segment test (FAST)]()
+	- [X] [Laplace of Gaussian (LOG) Detector]()
+	- [X] [Difference of Gaussian (DOG) Detector]()
+	- [X] [Brute-Force Matcher]()
+	- [X] [FLANN (Fast Library for Approximate Nearest Neighbors) Matcher]()
+	- [X] [SIFT Algorithm]()
+
+
+
 - [X] [High level processing(classification,detection)]()
 - [X] [Decision making(Evaluation)]()
 
