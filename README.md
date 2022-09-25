@@ -2727,6 +2727,8 @@ Notes:
     
 - [X] [Q-learning](https://en.wikipedia.org/wiki/Q-learning)
 - [X] [Markov Decision Process](https://en.wikipedia.org/wiki/Markov_decision_process)
+- [X] [Multi-armed Bandits]()
+- [X] [Monte Carlo]()
 
 ####  Activation Function In Neural Networks
 
@@ -2783,7 +2785,7 @@ Multi-Class Classification Loss Functions
 - [ ] [Evaluating Deep Learning Models: The Confusion Matrix, Accuracy, Precision, and Recall](https://blog.paperspace.com/deep-learning-metrics-precision-recall-accuracy/)
 - [ ] [Everything you Should Know about Confusion Matrix for Machine Learning](https://www.analyticsvidhya.com/blog/2020/04/confusion-matrix-machine-learning/)
 - [ ] [Metrics to Evaluate your Machine Learning Algorithm](https://towardsdatascience.com/metrics-to-evaluate-your-machine-learning-algorithm-f10ba6e38234)
-     
+- [ ] [Silhoutte Score]() 
 
 #### Model intrepration
 - [X] [SHAP]()
