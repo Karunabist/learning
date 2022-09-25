@@ -3507,7 +3507,7 @@ Multi-Class Classification Loss Functions
 ## Computer security and cryptography
 
 
-## Databases and data mining and data science
+## Databases and data mining 
 
 ### Database
 - [ ] [Data Management and Data Systems: Stanford](https://cs145-fa20.github.io/)
