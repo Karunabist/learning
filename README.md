@@ -2397,7 +2397,10 @@ print(ClassName.mro())
 
    Imputation
 
-   - [X] []()
+   - [X] [Categorical]()
+   - [X] [Continuous]()
+   - [X] [Time series]()
+
 
 - [X] [Outlier Analysis and handling]()
 
