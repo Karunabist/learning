@@ -3347,6 +3347,11 @@ Multi-Class Classification Loss Functions
 	- [X] [Motion Blur]()
 
 	Image Upscaling and Downscaling
+	- [X] [NN interpolation for 1D signal]()
+	- [X] [NN interpolation for 2D signal]()
+	- [X] [Linear Interpolation]()
+	- [X] [Bilinear Interpolation]()
+	- [X] [Bicubic Interpolation]()
 
 - [X] [Feature extraction/matching(training and testing both prespective)]()
 - [X] [High level processing(classification,detection)]()
