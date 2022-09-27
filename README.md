@@ -2135,9 +2135,11 @@ Note:
 - [X] [Python OOP concept](https://www.geeksforgeeks.org/python-oops-concepts/#:~:text=In%20Python%2C%20object%2Doriented%20Programming,%2C%20polymorphisms%2C%20encapsulation%2C%20etc.)
 	- [X] [Inheritance: Geeksforgeeks](https://www.geeksforgeeks.org/inheritance-in-python/)
 	- [X] [Inheritance: Pynative](https://pynative.com/python-inheritance/)
-	- [X] [Polymorphism](https://www.programiz.com/python-programming/polymorphism)
+	- [X] [Polymorphism](https://www.programiz.com/python-programming/polymorphism): Polymorphism in python defines methods in the child class that have the same name as the methods in the parent class.
 	- [X] [Encapsulation](https://www.geeksforgeeks.org/encapsulation-in-python/)
 	- [X] [Abstraction](https://www.geeksforgeeks.org/abstract-classes-in-python/)
+	- [X] [Inheritance vs Abstraction](): Inheritance is for inheriting properties and having some of its own as well.Abstract is to restrict from being instantiated.
+	- 
 - [X] [Python call parent constructor: ParentclassName.__init__()/super.__init__()](https://www.adamsmith.haus/python/answers/how-to-call-a-parent-class-constructor-in-python)
 - [X] [Iterators](https://www.geeksforgeeks.org/iterators-in-python/)
 - [X] [_ : 5 Different Meanings of Underscore in Python](https://towardsdatascience.com/5-different-meanings-of-underscore-in-python-3fafa6cd0379#:~:text=Single%20standalone%20underscore%20_%20is%20a,used%20as%20a%20variable%20name.&text=According%20to%20Python%20doc%2C%20the,Here%20is%20an%20example.)
