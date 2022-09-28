@@ -2548,21 +2548,21 @@ Notes:
 #### Be write basic machine learning algorithms from scratch
 
 - [X] [Linear regression: Ordinary Least Squares Regression in Python from Scratch](https://jianghaochu.github.io/ordinary-least-squares-regression-in-python-from-scratch.html)
-- [X] [Article: Linear regression](https://www.jeremyjordan.me/linear-regression/)
-- [X] [Linear Regression from scratch(Gradient Prespective): Geeksforgeeks](https://www.geeksforgeeks.org/linear-regression-implementation-from-scratch-using-python/#:~:text=Linear%20Regression%20is%20a%20supervised,the%20given%20input%20value%20x.)
-- [X] [Linear Regression from scratch(Variance and Covariance prespective): Machine Learning Mastery](https://machinelearningmastery.com/implement-simple-linear-regression-scratch-python/)
-- [X] [Linear Regression from scratch(Variance and Covariance prespective): toward datascience blog](https://medium.com/@lope.ai/linear-regression-from-scratch-in-python-6bdae2ea3610)
-- [X] [StatQuest: Fitting a line to data, aka least squares, aka linear regression.](https://www.youtube.com/watch?v=PaFPbb66DxQ) `0:09:21`
-- [X] [StatQuest: Linear Models Pt.1 - Linear Regression](https://www.youtube.com/watch?v=nk2CQITm_eo) `0:27:26`
-- [X] [StatQuest: StatQuest: Linear Models Pt.2 - t-tests and ANOVA](https://www.youtube.com/watch?v=NF5_btOaCig) `0:11:37`
-- [X] [Article: Polynomial regression](https://www.jeremyjordan.me/polynomial-regression/)
-- [X] [Ridge Regression from Scratch using Python](https://www.geeksforgeeks.org/implementation-of-ridge-regression-from-scratch-using-python/)
-- [X] [Regularization Part 1: Ridge (L2) Regression](https://www.youtube.com/watch?v=Q81RR3yKn30) `0:20:26`
-- [X] [Lasso Regression From Scratch using Python](https://www.geeksforgeeks.org/implementation-of-lasso-regression-from-scratch-using-python/)
-- [X] [Regularization Part 2: Lasso (L1) Regression](https://www.youtube.com/watch?v=NGf0voTMlcs) `0:08:19`
+- [X] [Linear regression: Article](https://www.jeremyjordan.me/linear-regression/)
+- [X] [Linear Regression: from scratch(Gradient Prespective): Geeksforgeeks](https://www.geeksforgeeks.org/linear-regression-implementation-from-scratch-using-python/#:~:text=Linear%20Regression%20is%20a%20supervised,the%20given%20input%20value%20x.)
+- [X] [Linear Regression: from scratch(Variance and Covariance prespective): Machine Learning Mastery](https://machinelearningmastery.com/implement-simple-linear-regression-scratch-python/)
+- [X] [Linear Regression: from scratch(Variance and Covariance prespective): toward datascience blog](https://medium.com/@lope.ai/linear-regression-from-scratch-in-python-6bdae2ea3610)
+- [X] [Linear Regression: StatQuest: Fitting a line to data, aka least squares, aka linear regression.](https://www.youtube.com/watch?v=PaFPbb66DxQ) `0:09:21`
+- [X] [Linear Regression: StatQuest: Linear Models Pt.1 - Linear Regression](https://www.youtube.com/watch?v=nk2CQITm_eo) `0:27:26`
+- [X] [Linear Regression: StatQuest: StatQuest: Linear Models Pt.2 - t-tests and ANOVA](https://www.youtube.com/watch?v=NF5_btOaCig) `0:11:37`
+- [X] [Polynomial regression: Article](https://www.jeremyjordan.me/polynomial-regression/)
+- [X] [Ridge Regression: from Scratch using Python](https://www.geeksforgeeks.org/implementation-of-ridge-regression-from-scratch-using-python/)
+- [X] [Ridge Regression: Ridge (L2) Regression](https://www.youtube.com/watch?v=Q81RR3yKn30) `0:20:26`
+- [X] [Lasso Regression: From Scratch using Python](https://www.geeksforgeeks.org/implementation-of-lasso-regression-from-scratch-using-python/)
+- [X] [Lasso Regression: Lasso (L1) Regression](https://www.youtube.com/watch?v=NGf0voTMlcs) `0:08:19`
 - [X] [Ridge vs Lasso Regression, Visualized!!!](https://www.youtube.com/watch?v=Xm2C_gTAl8c) `0:09:05`
 - [X] [MultiTaskLasso](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.MultiTaskLasso.html#sklearn.linear_model.MultiTaskLasso)
-- [X] [Elastic Net Regression From Scratch(Ridge+Lasso)](https://www.geeksforgeeks.org/implementation-of-elastic-net-regression-from-scratch/)
+- [X] [Elastic Net Regression: From Scratch(Ridge+Lasso)](https://www.geeksforgeeks.org/implementation-of-elastic-net-regression-from-scratch/)
 - [X] [Regularization Part 3: Elastic Net Regression](https://www.youtube.com/watch?v=1dKRdX9bfIo) `0:05:19`
 - [X] [Multivariate Adaptive Regression Splines(MARS)](https://contrib.scikit-learn.org/py-earth/content.html)
 - [X] [Multivariate Adaptive Regression Splines on Python](https://medium.com/@aishwaryapatange/pyearth-multivariate-adaptive-regression-splines-on-python-86e8dd647030)
