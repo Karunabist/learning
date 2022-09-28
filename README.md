@@ -2548,6 +2548,10 @@ Notes:
 #### Be write basic machine learning algorithms from scratch
 
 - [X] [Linear regression: Ordinary Least Squares Regression in Python from Scratch](https://jianghaochu.github.io/ordinary-least-squares-regression-in-python-from-scratch.html)
+- [X] [Stochastic Gradient Descent](https://scikit-learn.org/stable/modules/sgd.html)
+   - [X] [Classification](https://scikit-learn.org/stable/modules/sgd.html#classification)
+   - [X] [Regression](https://scikit-learn.org/stable/modules/sgd.html#regression)
+   - [X] []()
 - [X] [Linear regression: Article](https://www.jeremyjordan.me/linear-regression/)
 - [X] [ Stochastic Gradient Descent - SGD](https://scikit-learn.org/stable/modules/linear_model.html#stochastic-gradient-descent-sgd)
 - [X] [Perceptron](https://scikit-learn.org/stable/modules/linear_model.html#perceptron)
@@ -2600,6 +2604,15 @@ Notes:
 - [X] [Saturated Models and Deviance](https://www.youtube.com/watch?v=9T0wlKdew6I) `0:18:39`
 - [X] [Deviance Residuals](https://www.youtube.com/watch?v=JC56jS2gVUE) `0:06:18`
 - [X] [Ridge Classification]()
+- [X] [Support vector machine](https://scikit-learn.org/stable/modules/svm.html)
+    - [X] [Classification](https://scikit-learn.org/stable/modules/svm.html#classification)
+	- [X] [Regression](https://scikit-learn.org/stable/modules/svm.html#regression)
+	- [X] [Density estimation, novelty detection](https://scikit-learn.org/stable/modules/svm.html#density-estimation-novelty-detection)
+	- [X] [Complexity](https://scikit-learn.org/stable/modules/svm.html#complexity)
+	- [X] [Tips on Practical Use](https://scikit-learn.org/stable/modules/svm.html#tips-on-practical-use)
+	- [X] [Kernel functions](https://scikit-learn.org/stable/modules/svm.html#kernel-functions)
+	- [X] [Mathematical formulation](https://scikit-learn.org/stable/modules/svm.html#mathematical-formulation)
+	- [X] [Implementation details](https://scikit-learn.org/stable/modules/svm.html#implementation-details)
 - [X] [Support Vector Machine(Gradient Prespective): Toward Datascience Blog](https://towardsdatascience.com/implementing-svm-from-scratch-784e4ad0bc6a)
 - [X] [Support Vector Machine(Gradient Prespective): Toward Datascience Blog](https://towardsdatascience.com/svm-implementation-from-scratch-python-2db2fc52e5c2)
 - [X] [Support Vector Machine(Gradient Prespective): Toward Datascience Blog](https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47)
@@ -2703,6 +2716,11 @@ Notes:
 - [X] [StatQuest: PCA in Python](https://www.youtube.com/watch?v=Lsue2gEM9D0) `0:11:37`
 - [ ] [Principal Component Analysis (PCA) clearly explained (2015)](https://www.youtube.com/watch?v=_UVHneBUBW0) `0:20:16`
 - [X] [StatQuest: Linear Discriminant Analysis (LDA) clearly explained.](https://www.youtube.com/watch?v=azXCzI57Yfc) `0:15:12`
+- [X] [Dimensionality reduction using Linear Discriminant Analysis](https://scikit-learn.org/stable/modules/lda_qda.html#dimensionality-reduction-using-linear-discriminant-analysis)
+- [X] [Mathematical formulation of the LDA and QDA classifiers](https://scikit-learn.org/stable/modules/lda_qda.html#mathematical-formulation-of-the-lda-and-qda-classifiers)
+- [X] [Mathematical formulation of LDA dimensionality reduction](https://scikit-learn.org/stable/modules/lda_qda.html#mathematical-formulation-of-lda-dimensionality-reduction)
+- [X] [Shrinkage and Covariance Estimator](https://scikit-learn.org/stable/modules/lda_qda.html#shrinkage-and-covariance-estimator)
+- [X] [Estimation algorithms](https://scikit-learn.org/stable/modules/lda_qda.html#estimation-algorithms)
 - [X] [StatQuest: MDS and PCoA](https://www.youtube.com/watch?v=GEn-_dAyYME) `0:08:18`
 - [X] [StatQuest: t-SNE, Clearly Explained](https://www.youtube.com/watch?v=NEaUSP4YerM) `0:11:47`
 
