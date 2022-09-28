@@ -2549,6 +2549,8 @@ Notes:
 
 - [X] [Linear regression: Ordinary Least Squares Regression in Python from Scratch](https://jianghaochu.github.io/ordinary-least-squares-regression-in-python-from-scratch.html)
 - [X] [Linear regression: Article](https://www.jeremyjordan.me/linear-regression/)
+- [X] [ Stochastic Gradient Descent - SGD](https://scikit-learn.org/stable/modules/linear_model.html#stochastic-gradient-descent-sgd)
+- [X] [Perceptron](https://scikit-learn.org/stable/modules/linear_model.html#perceptron)
 - [X] [Linear Regression: from scratch(Gradient Prespective): Geeksforgeeks](https://www.geeksforgeeks.org/linear-regression-implementation-from-scratch-using-python/#:~:text=Linear%20Regression%20is%20a%20supervised,the%20given%20input%20value%20x.)
 - [X] [Linear Regression: from scratch(Variance and Covariance prespective): Machine Learning Mastery](https://machinelearningmastery.com/implement-simple-linear-regression-scratch-python/)
 - [X] [Linear Regression: from scratch(Variance and Covariance prespective): toward datascience blog](https://medium.com/@lope.ai/linear-regression-from-scratch-in-python-6bdae2ea3610)
@@ -2563,7 +2565,17 @@ Notes:
 - [X] [Ridge vs Lasso Regression, Visualized!!!](https://www.youtube.com/watch?v=Xm2C_gTAl8c) `0:09:05`
 - [X] [MultiTaskLasso](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.MultiTaskLasso.html#sklearn.linear_model.MultiTaskLasso)
 - [X] [Elastic Net Regression: From Scratch(Ridge+Lasso)](https://www.geeksforgeeks.org/implementation-of-elastic-net-regression-from-scratch/)
-- [X] [Regularization Part 3: Elastic Net Regression](https://www.youtube.com/watch?v=1dKRdX9bfIo) `0:05:19`
+- [X] [Elastic Net Regression ](https://www.youtube.com/watch?v=1dKRdX9bfIo) `0:05:19`
+- [X] [Multi-task Elastic-Net](https://scikit-learn.org/stable/modules/linear_model.html#multi-task-elastic-net)
+- [X] [Least Angle Regression](https://scikit-learn.org/stable/modules/linear_model.html#least-angle-regression)
+- [X] [LARS Lasso](https://scikit-learn.org/stable/modules/linear_model.html#lars-lasso)
+- [X] [Orthogonal Matching Pursuit (OMP)](https://scikit-learn.org/stable/modules/linear_model.html#orthogonal-matching-pursuit-omp)
+- [X] [Bayesian Regression](https://scikit-learn.org/stable/modules/linear_model.html#bayesian-regression)
+- [X] [Generalized Linear Regression](https://scikit-learn.org/stable/modules/linear_model.html#generalized-linear-regression)
+- [X] [Passive Aggressive Algorithms](https://scikit-learn.org/stable/modules/linear_model.html#passive-aggressive-algorithms)
+- [X] [Robustness regression: outliers and modeling errors](https://scikit-learn.org/stable/modules/linear_model.html#robustness-regression-outliers-and-modeling-errors)
+- [X] [Quantile Regression](https://scikit-learn.org/stable/modules/linear_model.html#quantile-regression)
+- [X] [Polynomial regression: extending linear models with basis functions](https://scikit-learn.org/stable/modules/linear_model.html#polynomial-regression-extending-linear-models-with-basis-functions)
 - [X] [Multivariate Adaptive Regression Splines(MARS)](https://contrib.scikit-learn.org/py-earth/content.html)
 - [X] [Multivariate Adaptive Regression Splines on Python](https://medium.com/@aishwaryapatange/pyearth-multivariate-adaptive-regression-splines-on-python-86e8dd647030)
 - [X] [Multivariate Adaptive Regression Splines](https://towardsdatascience.com/mars-multivariate-adaptive-regression-splines-how-to-improve-on-linear-regression-e1e7a63c5eae)
