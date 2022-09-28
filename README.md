@@ -3462,6 +3462,69 @@ Multi-Class Classification Loss Functions
 
 ### Natural Language Processing
 
+**Corpus(files):** Large collection of text documents,such as books, news articles, etc. "corpora" = plural form of corpus
+
+* Corpus is  a large collection of texts used for studying language. A corpus is usually annotated (=word are labelled with information about the part of speech and grammatical category). The terms corpus and text corpus and language corpus are interchangeable. Using a corpus for any type of linguistic or language oriented work ensures the outcomes reflect the real use of the language.
+
+
+**Lexicon(शब्दकोश)(data in data structure):** A lexicon is a collection of words. It is like a dictionary(list of vocabulary). Each word may have additional information like part of speech (noun, verb, etc.) and the meaning/definition.
+
+Corpus diyako x vanyasi .txt file deko x vanni bujni. And lexicon diyako x vanyasi collection of words diyako x vanni bujni.
+
+**Dictionary(data in data structure)** : Collection of words.
+
+Example : Dictionary : 
+  {'This': 0, 'first': 1, 'is': 2, 'line': 3, 'These': 4, 'are': 5, 'lines': 6, 'second': 7, 'third': 8}
+
+
+**Tokenization(process):** Tokenization is the process of breaking corpus into sentences or sentence and phrase into smaller units called tokens(words).
+    * 
+
+**Frequency distribution :** We can explore the frequence distribution of words.
+
+
+**Encoding :** Unicode is a string character that we see. However, disk text is stored in an encoded form. Few popular encodings are UTF-8, ASCII, Latin-2.
+
+
+**Linguistic :** The scientific study of language is known as linguistics.
+
+**Phoenetics and Phonology :** Phoenitics and Phonology is the study of knowledge on linguistic sounds.
+
+**Morphology :** Morphology is the study of structure and formation of words from smaller units called morphemes.
+   * the study of the forms of things.
+   * a particular form, shape, or structur
+   * English mainly uses prefixes and suffixes to express inflectional and derivational morphology. 
+
+   * Example : cat-cats,walk-walks,computerize-computerization...
+
+**Syntax :** Syntax deals with the knowledge of structural relationship between words.
+
+**Semantics :** Semantics deals with the knowledge of meaning of words that makeup a phrase or a sentence. Relating to meaning in language or logic.
+
+
+**Pragmatics(paragraph) :** Pragmatics deals with the study of relationship between the meaning of the word / phrases / sentences inrelation to the intention of the speaker.
+
+**Discourse(प्रवचन) :** written or spoken communication or debate.
+
+**Pragmatics Vs Discourse:** Pragmatics deals with the context of a sentence and determines its meaning referencing that aprticular context where as discourse refers to understanding the language in actual communication with larger units like paragraphs.
+
+
+**What are some of the lower level components?**
+- **Tokenization**: breaking text into tokens (words, sentences, n-grams)
+- **Stopword removal**: a/an/the
+- **Stemming and lemmatization**: root word
+- **TF-IDF**: word importance
+- **Part-of-speech tagging**: noun/verb/adjective
+- **Named entity recognition**: person/organization/location
+- **Spelling correction**: "New Yrok City"
+- **Word sense disambiguation**:identifying which sense of a word is used in a sentence. eg: "buy a mouse"
+- **Segmentation**: Text segmentation is the process of dividing written text into meaningful units, such as words, sentences, or topics. eg : "New York City subway"
+- **Language detection**: "translate this page"
+- **Machine learning**
+
+
+
+
 
 ### Machine olfaction
 
