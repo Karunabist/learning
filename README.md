@@ -1496,7 +1496,7 @@ Inferential statistics can be contrasted with descriptive statistics. Descriptiv
 	- [X] [Using Bootstrapping to Calculate p-values!!!: StatQuest](https://www.youtube.com/watch?v=N4ZQQqyIf6k&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=25)
 	- [X] [Sample Size and Effective Sample Size, Clearly Explained!!!: StatQuest](https://www.youtube.com/watch?v=67zCIqdeXpo&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=28)
 
-- [X] Testing hypotheses : A statistical hypothesis test is a method of statistical inference used to decide whether the data at hand sufficiently support a particular hypothesis.
+- [X] Testing hypothesis : A statistical hypothesis test is a method of statistical inference used to decide whether the data at hand sufficiently support a particular hypothesis.
     - [X] [Definition of terms](https://en.wikipedia.org/wiki/Statistical_hypothesis_testing#Definition_of_terms)
 	- [X] [Z-test](https://en.wikipedia.org/wiki/Z-test): n>30,quantative,
 	- [X] [T-test](): n<30, 
@@ -1552,6 +1552,8 @@ Inferential statistics can be contrasted with descriptive statistics. Descriptiv
 - [X] [Akaike information criterion: Wikipedia](https://en.wikipedia.org/wiki/Akaike_information_criterion)
 ##### Other paradigms for inference
 - [X] [Statistical inference](https://www.nhh.no/globalassets/departments/business-and-management-science/research/lillestol/statistical_inference.pdf)
+
+- [X] [Kullback–Leibler divergence](https://en.wikipedia.org/wiki/Kullback%E2%80%93Leibler_divergence)
 
 #### Exploratory data analysis
 - [X] [What is Exploratory Data Analysis?](https://towardsdatascience.com/exploratory-data-analysis-8fc1cb20fd15)
