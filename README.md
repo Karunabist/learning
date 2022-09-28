@@ -3625,6 +3625,11 @@ Similarly, in the sentence, "When a hammer hits the glass table, it shattered,".
 
 Moreover, we will need to perform the different analysis levels like morphological analysis, syntax analysis, semantic analysis, pragmatic analysis, etc. to avoid ambiguities. We will discuss these in upcoming chapters.
 
+#### Be familar with NLP libraries
+- [X] [NLTK]()
+- [X] [spaCy]()
+- [X] [Gensim]()
+
 
 ### Machine olfaction
 
