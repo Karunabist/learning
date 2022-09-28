@@ -3540,6 +3540,92 @@ Predictive based models
 - [X] [TF-IDF]()
 
 
+Why is NLP hard?
+
+** __Ambiguity__**
+
+Human language is highly ambiguous instead of computer language(programming language), which is not vague by design. 
+
+
+ Let's discuss different types of ambiguity that occur in language.
+
+$\textbf{1. Phonological ambiguity:}$
+
+
+Phonological ambiguity can be described as words that sound similar(same) but are different in meaning. Such ambiguity arises on a dialogue-based system.
+
+For example,
+
+  - __I__ vs. __Eye__
+  - __No__ vs. __Know__
+  - __Peace__ vs. __Piece__
+
+$\textbf{2. Lexical ambiguity:}$  
+A lexeme is a smallest or basic unit of the lexicon in language that bears some meaning. A lexicon is a list of all words(vocabulary) used in a particular language or dictionary. 
+
+Lexical ambiguity can be described as words that have identical form but have unrelated or distinct meanings. 
+
+
+For example,
+
+   - __bank__ - commercial bank vs. river bank
+   - __mean__ - mathematical average vs. not nice
+
+
+$\textbf{3. Syntactic  ambiguity:}$  
+
+Syntax refers to the structural relationship between words.
+
+In syntactic ambiguity, ambiguity arises not due to the presence of lexeme with several meanings, but because the sentence's syntactic structure causes multiple interpretations. It is also called structural ambiguity.
+
+For example,
+
+$$\textbf{The tourist saw the child with telescope}$$
+
+There is two possible interpretation of the sentence:
+   1. The tourist has a telescope, and he saw a child when watching through it.
+   2. A child has a telescope, and the tourist saw him.
+
+
+$\textbf{4. Semantic ambiguity:}$  
+
+Semantics refers to the meaning of the words that make up a phrase or a sentence.
+
+Even after the syntax and the meaning of the individual words have been resolved, there is still ambiguity in the sentence, which is demonstrated with the following example.
+
+$$\textbf{Mark and Elizabeth got married last week.}$$
+
+The ambiguity here is that if Mark and Elizabeth got married to each other or a different person.
+
+$\textbf{5. Pragmatic ambiguity:}$  
+
+Pragmatics refers to studying the relationship between the meaning of the word/phrases/sentences concerning the speaker's intention.
+
+Sometimes, the whole context is needed to understand the meaning of individual sentences. For example,
+
+$$\textbf{I love chicken.}$$
+
+The above sentence can be interpreted in two ways based on two different contexts. First, if the person talks about the food they like, then chicken refers to the meat. Second, if people are animals they want, then chicken refers to the chicken as an animal.
+
+- **Non-standard English**: tweets/text messages
+- **Idioms**: "throw in the towel"
+- **Newly coined words**: "retweet"
+- **Tricky entity names**: "Where is A Bug's Life playing?"
+- **World knowledge**: "Mary and Sue are sisters", "Mary and Sue are mothers"
+
+
+**__How to avoid these ambiguities?__**
+
+To avoid these ambiguities, we need an understanding of the world or context in which different words or the sentence as a whole are used. 
+
+For example, the word "bank" appears in two different contexts, and if we are familiar with the context, this ambiguity is not a problem.
+
+Similarly, in the sentence, "When a hammer hits the glass table, it shattered,". If we have the common sense that that hammer is made from metal and is unlikely to shatter, an ambiguous referal of the word "it" is no longer a problem.
+
+
+Moreover, we will need to perform the different analysis levels like morphological analysis, syntax analysis, semantic analysis, pragmatic analysis, etc. to avoid ambiguities. We will discuss these in upcoming chapters.
+
+
 ### Machine olfaction
 
 ### Machine test
