@@ -3462,6 +3462,8 @@ Multi-Class Classification Loss Functions
 
 ### Natural Language Processing
 
+#### Introduction,tools and some basic components
+
 **Corpus(files):** Large collection of text documents,such as books, news articles, etc. "corpora" = plural form of corpus
 
 * Corpus is  a large collection of texts used for studying language. A corpus is usually annotated (=word are labelled with information about the part of speech and grammatical category). The terms corpus and text corpus and language corpus are interchangeable. Using a corpus for any type of linguistic or language oriented work ensures the outcomes reflect the real use of the language.
@@ -3478,7 +3480,8 @@ Example : Dictionary :
 
 
 **Tokenization(process):** Tokenization is the process of breaking corpus into sentences or sentence and phrase into smaller units called tokens(words).
-    * 
+    * Word Tokenization
+	* Sentence Tokenization
 
 **Frequency distribution :** We can explore the frequence distribution of words.
 
@@ -3522,8 +3525,19 @@ Example : Dictionary :
 - **Language detection**: "translate this page"
 - **Machine learning**
 
+#### Bag of word > Word embedding (each word to numerical value)
 
+Types of word embedding:
 
+Count Based Models
+- [X] [Documents as contexts]()
+- [X] [Words as contexts]()
+
+Predictive based models
+- [X] [Embedding Matrix Calculations (Neural Networks)]()
+- [X] [Word2vec]()
+- [X] [Bag of Words(BoW) model]()
+- [X] [TF-IDF]()
 
 
 ### Machine olfaction
