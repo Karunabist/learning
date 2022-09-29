@@ -2265,11 +2265,13 @@ print(ClassName.mro())
 - [X] [.py and .pyc](https://www.tutorialspoint.com/what-is-the-difference-between-py-and-pyc-files)
 - [X] [Is Python call by reference or call by value](https://www.geeksforgeeks.org/is-python-call-by-reference-or-call-by-value/#:~:text=Python%20utilizes%20a%20system%2C%20which,being%20passed%20to%20the%20function.)
 - [X] [PYTHONPATH](https://bic-berkeley.github.io/psych-214-fall-2016/using_pythonpath.html): It is an environment variable which is used when a module is imported.
-
+- [X] [New Type Union Operator](https://docs.python.org/3/whatsnew/3.10.html#pep-604-new-type-union-operator)
+- [X] [Dictionary Merge & Update Operators](https://docs.python.org/3/whatsnew/3.9.html#dictionary-merge-update-operators)
+- [X] [Type hinting generics for the built-in collections (list[int])](https://peps.python.org/pep-0585/)
+- [X] [Assignment expressions (:=)](https://docs.python.org/3/whatsnew/3.8.html#assignment-expressions)
 
 #### Article,Books And Courses
 - [ ] [Python Frequently Asked Questions (Programming)](https://docs.python.org/2/faq/programming.html)
-- [ ] [The Python Programming Language: Stanford](https://stanfordpython.com/#/)
 - [ ] [Article: A reverse chronology of some Python features](https://snarky.ca/a-reverse-chronology-of-some-python-features/)
 - [ ] [Book: A Byte of Python](https://python.swaroopch.com)
 - [ ] [Book: Learn Python The Hard way](https://learnpythonthehardway.org)
@@ -3933,7 +3935,9 @@ Moreover, we will need to perform the different analysis levels like morphologic
 #### Microcode
 - [ ] [MicroPython](https://micropython.org/)
 
-	
+#### Web 3.0
+
+
 ### Quality Assurance
 - [ ] [Pytest: Documentation](https://docs.pytest.org/en/7.1.x/contents.html)
 - [ ] [Python robot framework: Documentation](https://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html)
