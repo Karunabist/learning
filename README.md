@@ -1609,6 +1609,7 @@ Inferential statistics can be contrasted with descriptive statistics. Descriptiv
 - [ ] [ Udacity: Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201) 
 
 **Books**
+- [X] [Recommendation from 3blue1brown](https://www.3blue1brown.com/blog/book-recommendations)
 - [X] [An Introduction to Probability with de Finetti’s Approach and to Bayesian Statistics](http://ndl.ethernet.edu.et/bitstream/123456789/29038/1/Francesca%20Biagini_2016.pdf)
 - [X] [Bayesian Network](https://bayanbox.ir/view/2696034682419953093/Timo-Koski-John-Noble-Bayesian-Networks-An-Int.pdf)
 - [X] [PROBABILITY and STATISTICS](http://users.encs.concordia.ca/~doedel/courses/comp-233/slides.pdf)
