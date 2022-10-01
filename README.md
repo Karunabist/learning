@@ -1209,6 +1209,12 @@ and their representations in **vector spaces** and through **matrices**.
 - Calculate Probability/probability distributation from space 
 - [ ] [Probability for Computer Scientists: Stanford](http://web.stanford.edu/class/cs109/)
 
+- Probability calculation steps 
+
+	- Specify the sam pie space
+	- Specify a probability law
+	- Identify an event of interest
+	- Calculate ... 
 
 - [X] [Event](https://en.wikipedia.org/wiki/Event_(probability_theory)): In probability theory, an event is a set of outcomes of an experiment (a subset of the sample space) to which a probability is assigned.
 
@@ -1295,7 +1301,8 @@ and their representations in **vector spaces** and through **matrices**.
 		- [X] [L01.6 More Properties of Probabilities](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/more-properties-of-probabilities/)
 		- [X] [L01.7 A Discrete Example](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/a-discrete-example/)
 		- [X] [L01.8 A Continuous Example](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/a-continuous-example/)
-		- [X] [L01.9 Countable Additivity](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/countable-additivity/)
+		- [X] [L01.9 Countable Additivity](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/countable-additivity/): Countable Additivity Axiom: If AI, A2, A3,'" is an infinite sequence of disjoint events, then P(A1 U A2 U A3 U ... ) = P (A1) + P(A2) + P(A3 ) + ... 
+
 		- [X] [L01.10 Interpretations & Uses of Probabilities](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/interpretations-uses-of-probabilities/)
 	
 	- [X] [Lecture 1 Supplement: Mathematical Background](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/mitres_6_012s18_mathovervw/)
