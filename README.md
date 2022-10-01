@@ -1219,7 +1219,10 @@ and their representations in **vector spaces** and through **matrices**.
 
 - [X] [Not mutually exclusive events](https://en.wikipedia.org/wiki/Probability#Not_mutually_exclusive_events): 
 
-- [X] [Sample space](https://en.wikipedia.org/wiki/Sample_space)
+- [X] [Collectively exhaustive events](https://en.wikipedia.org/wiki/Collectively_exhaustive_events): In probability theory and logic, a set of events is jointly or collectively exhaustive if at least one of the events must occur. For example, when rolling a six-sided die, the events 1, 2, 3, 4, 5, and 6 balls of a single outcome are collectively exhaustive, because they encompass the entire range of possible outcomes.
+
+- [X] [Sample space](https://en.wikipedia.org/wiki/Sample_space): In probability theory, the sample space (also called sample description space or possibility space) of an experiment or random trial is the set of all possible outcomes or results of that experiment.
+
 
 - [X] [Random Variable](https://en.wikipedia.org/wiki/Random_variable)
 
