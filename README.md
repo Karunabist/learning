@@ -1286,7 +1286,7 @@ and their representations in **vector spaces** and through **matrices**.
 	   Lecture Videos
 
 	    - [X] [L01.1 Lecture Overview](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/lecture-overview/)
-		- [X] [L01.2 Sample Space](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/sample-space/)
+		- [X] [L01.2 Sample Space](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/sample-space/): Describe possible outcomes,Describe beliefs about likelihood of outcomes. List (set) of possible outcomes. List must be: Mutually exclusive,Collectively exhaustive,At the "right" granu larity.
 		- [X] [L01.3 Sample Space Examples](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/sample-space-examples/)
 		- [X] [L01.4 Probability Axioms](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/probability-axioms/)
 		- [X] [L01.5 Simple Properties of Probabilities](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/simple-properties-of-probabilities/)
