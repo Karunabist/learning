@@ -1210,7 +1210,7 @@ and their representations in **vector spaces** and through **matrices**.
 - [ ] [Probability for Computer Scientists: Stanford](http://web.stanford.edu/class/cs109/)
 
 
-- [X] [Event](https://en.wikipedia.org/wiki/Event_(probability_theory))
+- [X] [Event](https://en.wikipedia.org/wiki/Event_(probability_theory)): In probability theory, an event is a set of outcomes of an experiment (a subset of the sample space) to which a probability is assigned.
 
 - [X] [Independent events](https://en.wikipedia.org/wiki/Independence_(probability_theory)): (If two events, A and B are independent then the joint probability is: ${\displaystyle P(A{\mbox{ and }}B)=P(A\cap B)=P(A)P(B).}{\displaystyle P(A{\mbox{ and }}B)=P(A\cap B)=P(A)P(B).}$. For example, if two coins are flipped, then the chance of both being heads is ${\displaystyle {\tfrac {1}{2}}\times {\tfrac {1}{2}}={\tfrac {1}{4}}}{\tfrac {1}{2}}\times {\tfrac {1}{2}}={\tfrac {1}{4}}$).
 
@@ -1287,8 +1287,9 @@ and their representations in **vector spaces** and through **matrices**.
 
 	    - [X] [L01.1 Lecture Overview](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/lecture-overview/)
 		- [X] [L01.2 Sample Space](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/sample-space/): Describe possible outcomes,Describe beliefs about likelihood of outcomes. List (set) of possible outcomes. List must be: Mutually exclusive,Collectively exhaustive,At the "right" granu larity.
-		- [X] [L01.3 Sample Space Examples](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/sample-space-examples/)
-		- [X] [L01.4 Probability Axioms](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/probability-axioms/)
+		- [X] [L01.3 Sample Space Examples](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/sample-space-examples/): discrete/ finite example: Two rolls of a tetrahedral die , continuous example: (x,y ) such that 0 <= x,y<= 1 
+
+		- [X] [L01.4 Probability Axioms](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/probability-axioms/): 
 		- [X] [L01.5 Simple Properties of Probabilities](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/simple-properties-of-probabilities/)
 		- [X] [L01.6 More Properties of Probabilities](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/more-properties-of-probabilities/)
 		- [X] [L01.7 A Discrete Example](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/a-discrete-example/)
