@@ -1289,8 +1289,9 @@ and their representations in **vector spaces** and through **matrices**.
 		- [X] [L01.2 Sample Space](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/sample-space/): Describe possible outcomes,Describe beliefs about likelihood of outcomes. List (set) of possible outcomes. List must be: Mutually exclusive,Collectively exhaustive,At the "right" granu larity.
 		- [X] [L01.3 Sample Space Examples](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/sample-space-examples/): discrete/ finite example: Two rolls of a tetrahedral die , continuous example: (x,y ) such that 0 <= x,y<= 1 
 
-		- [X] [L01.4 Probability Axioms](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/probability-axioms/): 
-		- [X] [L01.5 Simple Properties of Probabilities](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/simple-properties-of-probabilities/)
+		- [X] [L01.4 Probability Axioms](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/probability-axioms/): Event: a subset of the sample space Probability is assigned to events, Axioms: Nonnegativity: p(A) = > 0, Normalization: p(all event)) = 1. 
+
+		- [X] [L01.5 Simple Properties of Probabilities](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/simple-properties-of-probabilities/): 
 		- [X] [L01.6 More Properties of Probabilities](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/more-properties-of-probabilities/)
 		- [X] [L01.7 A Discrete Example](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/a-discrete-example/)
 		- [X] [L01.8 A Continuous Example](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/a-continuous-example/)
