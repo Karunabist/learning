@@ -285,7 +285,6 @@ Dialects,accents, and varieties
 - [X] [The Subtle Art Of Not Giving A F*ck](https://www.docdroid.net/KyoHFx5/the-subtle-art-of-not-giving-a-fuck-pdf#page=5): Thus, we can say that the key to living a good life is not giving a fuck about more things, but rather, giving a fuck only about the things that align with your personal values.
 - [X] [Elon Musk](https://drive.google.com/file/d/1C8ODShsViYqTUGmbeW2y3aLg3Lbr_1fj/view?usp=sharing): If the rules are such that you can't make progress, then you have to fight the rules.
 - [X] [Born A Crime](https://drive.google.com/file/d/1_BmJeqonDQChIF2BoxqKh0jq-nSU25eS/view?usp=sharing): Stories of Noah's life are interspersed with insights into South Africa's culture, systems, and history.
-- [X] [Tinkle Double Digest](https://drive.google.com/file/d/1XoO5s4MJlG4zt3QJGKk2ovLoRIiWL-sx/view?usp=sharing)
 - [X] [A Text Book Of Professional Communication Skills and Esp for Engineers and Professional](https://drive.google.com/file/d/1oQBkfYVxkM7QQGdJmG2MfeyXHOonWtzb/view?usp=sharing)
 - [X] [The Hidden Staircase](https://drive.google.com/file/d/1GpwUz1G-X7j0eqh8rhT3hFFT6cX_lbUg/view?usp=sharing)
 - [X] [A Thousand Splindid Sun](https://drive.google.com/file/d/1_xZ4RY7lv3DIL6n2ApVfCOMF9sxkWVGa/view?usp=sharing)
