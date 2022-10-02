@@ -1317,8 +1317,8 @@ and their representations in **vector spaces** and through **matrices**.
 	    Lecture Videos
 
 	    - [X] [S01.0 Mathematical Background Overview](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/mathematical-background-overview/)
-		- [X] [S01.1 Sets](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/sets/)
-		- [X] [S01.2 De Morgan's Laws](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/de-morgans-laws/)
+		- [X] [S01.1 Sets](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/sets/): A collection of distinct elem ents 
+		- [X] [S01.2 De Morgan's Laws](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/de-morgans-laws/): 
 		- [X] [S01.3 Sequences and their Limits](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/sequences-and-their-limits/)
 		- [X] [S01.4 When Does a Sequence Converge?](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/when-does-a-sequence-converge/)
 		- [X] [S01.5 Infinite Series](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/infinite-series/)
@@ -1401,6 +1401,9 @@ and their representations in **vector spaces** and through **matrices**.
 		- [X] [L06.8 Linearity of Expectations & the Mean of the Binomial](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/linearity-of-expectations-the-mean-of-the-binomial/)
 
 	- [X] [Lecture 7: Discrete Random Variables Part III](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/mitres_6_012s18_l07as/)
+
+	    Lecture Videos
+
 	    - [X] [L07.1 Lecture Overview](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/lecture-overview-6/)
 		- [X] [L07.2 Conditional PMFs](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/conditional-pmfs/)
 		- [X] [L07.3 Conditional Expectation & the Total Expectation Theorem](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/conditional-expectation-the-total-expectation-theorem/)
@@ -1412,6 +1415,20 @@ and their representations in **vector spaces** and through **matrices**.
 		- [X] [S07.1 The Inclusion-Exclusion Formula](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/the-inclusion-exclusion-formula/)
 		- [X] [S07.2 The Variance of the Geometric](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/the-variance-of-the-geometric/)
 		- [X] [S07.3 Independence of Random Variables Versus Independence of Events](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/independence-of-random-variables-versus-independence-of-events/)
+	
+	- [X] [Lecture 8: Continuous Random Variables Part I](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/mitres_6_012s18_l09as/)
+	    
+		Video Lecture
+
+		- [X] [L08.1 Lecture Overview](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/lecture-overview-7/)
+		- [X] [L08.2 Probability Density Functions](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/probability-density-functions/)
+		- [X] [L08.3 Uniform & Piecewise Constant PDFs](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/uniform-piecewise-constant-pdfs/)
+		- [X] [L08.4 Means & Variances](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/means-variances/)
+		- [X] [L08.5 Mean & Variance of the Uniform](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/mean-variance-of-the-uniform/)
+		- [X] [L08.6 Exponential Random Variables](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/exponential-random-variables/)
+		- [X] [L08.7 Cumulative Distribution Functions](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/cumulative-distribution-functions/)
+		- [X] [L08.8 Normal Random Variables](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/normal-random-variables/)
+		- [X] [L08.9 Calculation of Normal Probabilities](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/calculation-of-normal-probabilities/)
 
 - [X] [Probability: the basics](https://www.khanacademy.org/math/statistics-probability/probability-library/basic-theoretical-probability/a/probability-the-basics)
 - [X] [Probability: wikipedia](https://en.wikipedia.org/wiki/Probability)
