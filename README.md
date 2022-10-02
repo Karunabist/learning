@@ -1307,6 +1307,8 @@ and their representations in **vector spaces** and through **matrices**.
 	    
 		Uses of Probabilities: 
 
+		![](https://raw.githubusercontent.com/MadanBaduwal/learning/main/images/use_of_probability.png)
+
 		
 
 
