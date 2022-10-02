@@ -1307,7 +1307,7 @@ and their representations in **vector spaces** and through **matrices**.
 	    
 		Uses of Probabilities: 
 
-		![](image.png)
+		
 
 
 	- [X] [Lecture 1 Supplement: Mathematical Background](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/mitres_6_012s18_mathovervw/)
