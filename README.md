@@ -1303,8 +1303,13 @@ and their representations in **vector spaces** and through **matrices**.
 		- [X] [L01.8 A Continuous Example](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/a-continuous-example/)
 		- [X] [L01.9 Countable Additivity](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/countable-additivity/): Countable Additivity Axiom: If AI, A2, A3,'" is an infinite sequence of disjoint events, then P(A1 U A2 U A3 U ... ) = P (A1) + P(A2) + P(A3 ) + ... 
 
-		- [X] [L01.10 Interpretations & Uses of Probabilities](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/interpretations-uses-of-probabilities/)
-	
+		- [X] [L01.10 Interpretations & Uses of Probabilities](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/interpretations-uses-of-probabilities/): Probabilities are often intepreted as:Description of beliefs,Betting preferences 
+	    
+		Uses of Probabilities: 
+
+		![](image.png)
+
+
 	- [X] [Lecture 1 Supplement: Mathematical Background](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/mitres_6_012s18_mathovervw/)
 
 	    Lecture Videos
