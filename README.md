@@ -1299,8 +1299,8 @@ and their representations in **vector spaces** and through **matrices**.
 
 		- [X] [L01.5 Simple Properties of Probabilities](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/simple-properties-of-probabilities/): 
 		- [X] [L01.6 More Properties of Probabilities](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/more-properties-of-probabilities/)
-		- [X] [L01.7 A Discrete Example](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/a-discrete-example/)
-		- [X] [L01.8 A Continuous Example](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/a-continuous-example/)
+		- [X] [L01.7 A Discrete Example](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/a-discrete-example/): Two rolls of a tetrahedral die 
+		- [X] [L01.8 A Continuous Example](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/a-continuous-example/): continuous example: (x,y ) such that 0 <= x,y<= 1 
 		- [X] [L01.9 Countable Additivity](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/countable-additivity/): Countable Additivity Axiom: If AI, A2, A3,'" is an infinite sequence of disjoint events, then P(A1 U A2 U A3 U ... ) = P (A1) + P(A2) + P(A3 ) + ... 
 
 		- [X] [L01.10 Interpretations & Uses of Probabilities](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/interpretations-uses-of-probabilities/): Probabilities are often intepreted as:Description of beliefs,Betting preferences 
