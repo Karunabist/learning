@@ -1329,15 +1329,22 @@ and their representations in **vector spaces** and through **matrices**.
 		- [X] [S01.10 Bonferroni's Inequality](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/bonferronis-inequality/)
 	    
 	- [X] [Lecture 2: Conditioning and Bayes’ Rule](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/mitres_6_012s18_l02as/)
+	   
+		Three important tools:
+
+		- Multiplication rule : 
+		- Total probability theorem :
+		- Bayes' rule ( -> inference):
 
 	    Lecture Videos
 
 		- [X] [L02.1 Lecture Overview](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/lecture-overview-1/)
-		- [X] [L02.2 Conditional Probabilities](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/conditional-probabilities/)
+		- [X] [L02.2 Conditional Probabilities](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/conditional-probabilities/): 
 		- [X] [L02.3 A Die Roll Example](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/a-die-roll-example/)
-		- [X] [L02.4 Conditional Probabilities Obey the Same Axioms](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/conditional-probabilities-obey-the-same-axioms/)
+		- [X] [L02.4 Conditional Probabilities Obey the Same Axioms](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/conditional-probabilities-obey-the-same-axioms/): P(A|B )=> 0, P (all|B ) = 1
 		- [X] [L02.5 A Radar Example and Three Basic Tools](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/a-radar-example-and-three-basic-tools/)
-		- [X] [L02.6 The Multiplication Rule](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/the-multiplication-rule/)
+		- [X] [L02.6 The Multiplication Rule](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/the-multiplication-rule/):General multiplication rule in probability is: $P(A_1 \cap A_2 ... \cap A_n)$, multiplication rule in conditional probability: $ P(A_1) \prod_{i=2}^{n} P(A_i | A_1 \cap...\cap A_{i-1})$
+
 		- [X] [L02.7 Total Probability Theorem](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/total-probability-theorem/)
 		- [X] [L02.8 Bayes' Rule](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/bayes-rule/)
 
