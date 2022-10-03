@@ -1217,7 +1217,7 @@ and their representations in **vector spaces** and through **matrices**.
 	- Calculate ... 
 
 - [X] [Event](https://en.wikipedia.org/wiki/Event_(probability_theory)): In probability theory, an event is a set of outcomes of an experiment (a subset of the sample space) to which a probability is assigned.
-- [X] [Independent events](https://en.wikipedia.org/wiki/Independence_(probability_theory)): (If two events, A and B are independent then the joint probability is: ${\displaystyle P(A{\mbox{ and }}B)=P(A\cap B)=P(A)P(B).}$. For example, if two coins are flipped, then the chance of both being heads is ${\displaystyle {\tfrac {1}{2}}\times {\tfrac {1}{2}}={\tfrac {1}{4}}}{\tfrac {1}{2}}\times {\tfrac {1}{2}}={\tfrac {1}{4}}$).
+- [X] [Independent events](https://en.wikipedia.org/wiki/Independence_(probability_theory)): 
 
 - [X] [Mutually exclusive events](https://en.wikipedia.org/wiki/Mutual_exclusivity): If either event A or event B can occur but never both simultaneously, then they are called mutually exclusive events.A clear example is the set of outcomes of a single coin toss, which can result in either heads or tails, but not both.
 
