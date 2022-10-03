@@ -1348,7 +1348,7 @@ and their representations in **vector spaces** and through **matrices**.
 
 		- [X] [L02.7 Total Probability Theorem](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/total-probability-theorem/): 
 		
-		${\displaystyle P(A)=\sum _{n}P(A\cap B_{n})} = {\displaystyle\sum _{n}P(A\mid B_{n})P(B_{n}),}$
+		$P(A)=\sum _{n}P(A\cap B_{n}) = \sum _{n}P(A\mid B_{n})P(B_{n})$
 
 		- [X] [L02.8 Bayes' Rule](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/bayes-rule/)
 
