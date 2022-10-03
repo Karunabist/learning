@@ -13,7 +13,7 @@
 	<ul>
 		<p><b>Start from the tiny elements/units/objects of the system.</b></p>
 		<li><a href= "https://docs.google.com/document/d/1snROtUFb4DGpGE0kVZr6nFM1GUnRuaXFwLWCYvFM3ME/edit?usp=sharing">Language(English)(letter)</a></li>            
-		  <li><a href="https://colab.research.google.com/drive/15uiUNCEPbh1VhH-wfvJctbm8902po2zq?usp=sharing">Mathematics(number/object)</a></li>
+		  <li><a href="https://colab.research.google.com/drive/15uiUNCEPbh1VhH-wfvJctbm8902po2zq?usp=sharing">Mathematics(number/object/element)</a></li>
 		  <li><a href= "https://docs.google.com/document/d/1aMGL_ye6mxmdJSpQXOlcpahYdrwgrMh_p6EM0cPY6qQ/edit?usp=sharing">Physics(atom)</a></li>
 		  <li><a href= "https://docs.google.com/document/d/1e8HjXTtJcvfEQSxYotMXx7T2iexRoEQDNjtattCozus/edit?usp=sharing">Chemistry(ion)</a></li>
 		  <li><a href= "https://docs.google.com/document/d/1brdu9ShaaN1JTiQzs3ckHWFDOv2ft7c_-lpKsRqz5I0/edit?usp=sharing">Biology(cell)</a></li> 
@@ -362,7 +362,7 @@ Dialects,accents, and varieties
 <details>
 <summary>Mathematics(3 fields)</summary>
 
-# Mathematics(number/object)
+# Mathematics(number/object/element)
 
 3 field: 
 	
@@ -1317,7 +1317,7 @@ and their representations in **vector spaces** and through **matrices**.
 	    Lecture Videos
 
 	    - [X] [S01.0 Mathematical Background Overview](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/mathematical-background-overview/)
-		- [X] [S01.1 Sets](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/sets/): A collection of distinct elem ents 
+		- [X] [S01.1 Sets](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/sets/): A collection of distinct elements 
 		- [X] [S01.2 De Morgan's Laws](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/de-morgans-laws/): 
 		- [X] [S01.3 Sequences and their Limits](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/sequences-and-their-limits/)
 		- [X] [S01.4 When Does a Sequence Converge?](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/when-does-a-sequence-converge/)
