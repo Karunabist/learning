@@ -1341,6 +1341,7 @@ and their representations in **vector spaces** and through **matrices**.
 
 		- [X] [L02.1 Lecture Overview](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/lecture-overview-1/)
 		- [X] [L02.2 Conditional Probabilities](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/conditional-probabilities/): 
+		![](https://raw.githubusercontent.com/MadanBaduwal/learning/main/images/conditional_probability.png)
 		- [X] [L02.3 A Die Roll Example](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/a-die-roll-example/)
 		- [X] [L02.4 Conditional Probabilities Obey the Same Axioms](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/conditional-probabilities-obey-the-same-axioms/): P(A|B )=> 0, P (all|B ) = 1
 		- [X] [L02.5 A Radar Example and Three Basic Tools](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/a-radar-example-and-three-basic-tools/)
@@ -1348,6 +1349,7 @@ and their representations in **vector spaces** and through **matrices**.
 		- [X] [L02.7 Total Probability Theorem](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/total-probability-theorem/): $P(A)=\sum_{n}P(A\cap B_{n}) = \sum_{n}P(A\mid B_{n})P(B_{n})$.
 
 		- [X] [L02.8 Bayes' Rule](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/bayes-rule/)
+		![](https://raw.githubusercontent.com/MadanBaduwal/learning/main/images/Baye's_rule.png)
 
 	- [X] [Lecture 3: Independence](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/mitres_6_012s18_l03as/)
 
