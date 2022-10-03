@@ -1346,9 +1346,7 @@ and their representations in **vector spaces** and through **matrices**.
 		- [X] [L02.5 A Radar Example and Three Basic Tools](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/a-radar-example-and-three-basic-tools/)
 		- [X] [L02.6 The Multiplication Rule](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/the-multiplication-rule/):General multiplication rule in probability is: $P(A_1 \cap A_2 ... \cap A_n)$, multiplication rule in conditional probability: $P(A_1) \prod_{i=2}^{n} P(A_i | A_1 \cap...\cap A_{i-1})$
 
-		- [X] [L02.7 Total Probability Theorem](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/total-probability-theorem/): 
-		
-		$P(A)=\sum _{n}P(A\cap B_{n}) = \sum _{n}P(A\mid B_{n})P(B_{n})$
+		- [X] [L02.7 Total Probability Theorem](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/total-probability-theorem/): $P(A)=\sum _{n}P(A\cap B_{n}) = \sum _{n}P(A\mid B_{n})P(B_{n})$
 
 		- [X] [L02.8 Bayes' Rule](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/bayes-rule/)
 
