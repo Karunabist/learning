@@ -3350,8 +3350,12 @@ Multi-Class Classification Loss Functions
 - [ ] [Machine Learning: My own implementation](https://github.com/MadanBaduwal/ML-algorithms)
 - [ ] [Article: Deep Learning Algorithms - The Complete Guide](https://theaisummer.com/Deep-Learning-Algorithms/)
 - [ ] [Udacity: Classification Models](https://www.udacity.com/course/classification-models--ud978)
+
 #### Youtube Channels
 
+- [ ] [MIT 6.034 Artificial Intelligence, Fall 2010](https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi)
+- [ ] [MIT 6.S191: Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
+- [ ] [MIT open course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-867-machine-learning-fall-2006/)
 - [ ] [StatQuest: Machine Learning](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)
 
 - [X] [Youtube: Applied ML 2020 - 03 Supervised learning and model validation](https://www.youtube.com/watch?v=7_YzyMYC2zM) `1:12:00`
@@ -4096,6 +4100,9 @@ Moreover, we will need to perform the different analysis levels like morphologic
 - [X] [realworld](https://github.com/gothinkster/realworld)
 - [X] [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
 - [X] [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+
+## References
+- [X] [Wikipedia: Computer Science](https://en.wikipedia.org/wiki/Computer_science)
 
 </details>
 
