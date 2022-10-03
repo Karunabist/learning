@@ -43,7 +43,7 @@
 		  <li><a href="https://www.opportunitiesforyouth.org/wp-content/uploads/2021/04/Atomic_Habits_by_James_Clear-1.pdf">Atomic Habit</a></li> 
 	  </ul>
 
-<img class="zoom" src="https://raw.githubusercontent.com/MadanBaduwal/learning/main/Atomic-Habits-Tiny-Changes-Remarkable-Results.png" alt="Italian Trulli"> 
+<img class="zoom" src="https://raw.githubusercontent.com/MadanBaduwal/learning/main/images/Atomic-Habits-Tiny-Changes-Remarkable-Results.png" alt="Italian Trulli"> 
 
 </td>
   <td width="40%">
