@@ -2934,6 +2934,17 @@ Multi-Class Classification Loss Functions
 
 - [X] [Gradient descent]()
 - [X] [Stochastic gradient descent]()
+- [X] [Stochastic gradient descent](https://scikit-learn.org/stable/modules/sgd.html)
+    - [X] [Classification](https://scikit-learn.org/stable/modules/sgd.html#classification)
+	- [X] [Regression](https://scikit-learn.org/stable/modules/sgd.html#regression)
+	- [X] [Online One-Class SVM](https://scikit-learn.org/stable/modules/sgd.html#online-one-class-svm)
+	- [X] [Stochastic Gradient Descent for sparse data](https://scikit-learn.org/stable/modules/sgd.html#stochastic-gradient-descent-for-sparse-data)
+	- [X] [Complexity](https://scikit-learn.org/stable/modules/sgd.html#complexity)
+	- [X] [Stopping criterion](https://scikit-learn.org/stable/modules/sgd.html#stopping-criterion)
+	- [X] [Tips on Practical Use](https://scikit-learn.org/stable/modules/sgd.html#tips-on-practical-use)
+	- [X] [Mathematical formulation](https://scikit-learn.org/stable/modules/sgd.html#mathematical-formulation)
+	- [X] [Implementation details](https://scikit-learn.org/stable/modules/sgd.html#implementation-details)
+    
 - [X] [Mini-batch gradient]()
 
 
