@@ -557,7 +557,11 @@ equal)
 	- [X] [transitivity](https://en.wikipedia.org/wiki/Transitive_relation):
 	
 	$If {\displaystyle A\subseteq B} and {\displaystyle B\subseteq C}, then {\displaystyle A\subseteq C}$
-	
+
+- [X] [De Morgan's Laws](https://en.wikipedia.org/wiki/De_Morgan's_laws): 
+
+${\displaystyle {\begin{aligned}{\overline {A\cup B}}&={\overline {A}}\cap {\overline {B}},\\{\overline {A\cap B}}&={\overline {A}}\cup {\overline {B}},\end{aligned}}}$
+
 - [X] [Relation (mathematics)](https://en.wikipedia.org/wiki/Relation_(mathematics)): In mathematics, a binary relation is a general concept that defines some relation between the elements of two sets.
 	- [X] [Special types of binary relations]()
 - [X] [Function](https://en.wikipedia.org/wiki/Function_(mathematics))
