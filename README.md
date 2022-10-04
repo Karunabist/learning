@@ -1473,6 +1473,9 @@ and their representations in **vector spaces** and through **matrices**.
 		- [X] [L08.9 Calculation of Normal Probabilities](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/calculation-of-normal-probabilities/)
 
 	- [X] [Lecture 9: Continuous Random Variables Part II](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/mitres_6_012s18_l09as/)
+
+	    Video Lecture
+
 	    - [X] [L09.1 Lecture Overview](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/lecture-overview-8/)
 		- [X] [L09.2 Conditioning A Continuous Random Variable on an Event](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/conditioning-a-continuous-random-variable-on-an-event/)
 		- [X] [L09.3 Conditioning Example](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/conditioning-example/)
@@ -1486,6 +1489,9 @@ and their representations in **vector spaces** and through **matrices**.
 		- [X] [S09.1 Buffon's Needle & Monte Carlo Simulation](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/buffons-needle-monte-carlo-simulation/)
 
 	- [X] [Lecture 10: Continuous Random Variables Part III](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/mitres_6_012s18_l10as/)
+
+	    Video Lecture
+
 	    - [X] [L10.1 Lecture Overview](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/lecture-overview-9/)
 		- [X] [L10.2 Conditional PDFs](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/conditional-pdfs/)
 		- [X] [L10.3 Comments on Conditional PDFs](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/comments-on-conditional-pdfs/)
@@ -1498,7 +1504,17 @@ and their representations in **vector spaces** and through **matrices**.
 		- [X] [L10.10 Detection of a Binary Signal](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/detection-of-a-binary-signal/)
 		- [X] [L10.11 Inference of the Bias of a Coin](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/inference-of-the-bias-of-a-coin/)
 
-
+    - [X] [Lecture 11: Derived Distributions](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/mitres_6_012s18_l11as/)
+	    - [X] [L11.1 Lecture Overview](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/lecture-overview-10/)
+		- [X] [L11.2 The PMF of a Function of a Discrete Random Variable](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/the-pmf-of-a-function-of-a-discrete-random-variable/)
+		- [X] [L11.3 A Linear Function of a Continuous Random Variable](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/a-linear-function-of-a-continuous-random-variable/)
+		- [X] [L11.4 A Linear Function of a Normal Random Variable](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/a-linear-function-of-a-normal-random-variable/)
+		- [X] [L11.5 The PDF of a General Function](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/the-pdf-of-a-general-function/)
+		- [X] [L11.6 The Monotonic Case](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/the-monotonic-case/)
+		- [X] [L11.7 The Intuition for the Monotonic Case](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/the-intuition-for-the-monotonic-case/)
+		- [X] [L11.8 A Nonmonotonic Example](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/a-nonmonotonic-example/)
+		- [X] [L11.9 The PDF of a Function of Multiple Random Variables](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/the-pdf-of-a-function-of-multiple-random-variables/)
+		- [X] [S11.1 Simulation](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/simulation/)
 
 - [X] [Probability: the basics](https://www.khanacademy.org/math/statistics-probability/probability-library/basic-theoretical-probability/a/probability-the-basics)
 - [X] [Probability: wikipedia](https://en.wikipedia.org/wiki/Probability)
