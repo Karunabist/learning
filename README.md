@@ -456,7 +456,7 @@ Example: $A = \{a,b,c..\}$
 - [X] [Naive set theory](https://en.wikipedia.org/wiki/Naive_set_theory): Naive set theory is any of several theories of sets used in the discussion of the foundations of mathematics. Unlike axiomatic set theories, which are defined using formal logic, naive set theory is defined informally, in natural language.
 
     - [X] [Russell's paradox](https://en.wikipedia.org/wiki/Russell%27s_paradox): 
-	- [X] [Axiomatic theories: Zermelo-Fraenkel Set Theory](https://plato.stanford.edu/entries/set-theory/ZF.html)
+	- [X] [Axiomatic theories: Zermelo-Fraenkel Set Theory](https://plato.stanford.edu/entries/set-theory/ZF.html): Aims to navigate the paradoxes of naive set theory by providing a rigorous defination of what a set is.
 	
 
 - [X] [How sets are defined and set notation](https://en.wikipedia.org/wiki/Set_(mathematics)#How_sets_are_defined_and_set_notation): Mathematical texts commonly denote sets by capital letters in italic, such as A, B, C. A set may also be called a collection or family, especially when its elements are themselves sets.
