@@ -1357,8 +1357,8 @@ and their representations in **vector spaces** and through **matrices**.
 
 		- [X] [L03.1 Lecture Overview](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/lecture-overview-2/)
 		- [X] [L03.2 A Coin Tossing Example](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/a-coin-tossing-example/)
-		- [X] [L03.3 Independence of Two Events](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/independence-of-two-events/)
-		- [X] [L03.4 Independence of Event Complements](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/independence-of-event-complements/)
+		- [X] [L03.3 Independence of Two Events](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/independence-of-two-events/): Definition of independence: p (A n B) = p (A) . P(B) , Intuitive "definition": P (B | A) = P (B), occurrence of A provides no new inform ation about B. 
+		- [X] [L03.4 Independence of Event Complements](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/independence-of-event-complements/): If A and B are independent. then A and $B^{c}$  are independent. 
 		- [X] [L03.5 Conditional Independence](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/conditional-independence/)
 		- [X] [L03.6 Independence Versus Conditional Independence](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/independence-versus-conditional-independence/)
 		- [X] [L03.7 Independence of a Collection of Events](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/resources/independence-of-a-collection-of-events/)
