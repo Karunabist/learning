@@ -446,24 +446,27 @@ Dialects,accents, and varieties
 - Set theory is the branch of mathematical logic that studies sets, which can be informally described as collections of objects. Although objects of any kind can be collected into a set, set theory, as a branch of mathematics, is mostly concerned with those that are relevant to mathematics as a whole.
 
 **Basic concepts and notation**
-- [X] [Set (mathematics)](https://en.wikipedia.org/wiki/Set_(mathematics)): A set is the mathematical model for a collection of different things; a set contains elements or members, which can be mathematical objects of any kind: numbers, symbols, points in space, lines, other geometrical shapes, variables, or even other sets.
-    - [X] [Relation (mathematics)](https://en.wikipedia.org/wiki/Relation_(mathematics))
-	- [X] [Function](https://en.wikipedia.org/wiki/Function_(mathematics))
-	- [X] [Ordinals](https://en.wikipedia.org/wiki/Ordinal_number)
-    - [X] [How sets are defined and set notation](https://en.wikipedia.org/wiki/Set_(mathematics)#How_sets_are_defined_and_set_notation)
-	- [X] [Membership](https://en.wikipedia.org/wiki/Element_(mathematics))
-	- [X] [The empty set](https://en.wikipedia.org/wiki/Empty_set)
-	- [X] [Singleton sets](https://en.wikipedia.org/wiki/Singleton_(mathematics))
-	- [X] [Subsets](https://en.wikipedia.org/wiki/Subset)
-	- [X] [Euler and Venn diagrams](https://en.wikipedia.org/wiki/Set_(mathematics)#Euler_and_Venn_diagrams)
-	- [X] [Special sets of numbers in mathematics](https://en.wikipedia.org/wiki/Set_(mathematics)#Special_sets_of_numbers_in_mathematics)
-	- [X] [Functions](https://en.wikipedia.org/wiki/Function_(mathematics))
-	- [X] [Cardinality](https://en.wikipedia.org/wiki/Cardinality)
-	- [X] [Power sets](https://en.wikipedia.org/wiki/Power_set)
-	- [X] [Partitions](https://en.wikipedia.org/wiki/Partition_of_a_set)
-	- [X] [Basic operations](https://en.wikipedia.org/wiki/Algebra_of_sets)
-	- [X] [Principle of inclusion and exclusion](https://en.wikipedia.org/wiki/Inclusion%E2%80%93exclusion_principle)
-	- [X] [Zermelo-Fraenkel Set Theory](https://plato.stanford.edu/entries/set-theory/ZF.html)
+- [X] [Set (mathematics)](https://en.wikipedia.org/wiki/Set_(mathematics)): A set is the mathematical model for a collection of different things; a set contains elements or members, which can be mathematical objects of any kind: **numbers, symbols, points in space, lines, other geometrical shapes, variables, or even other sets**.
+- [X] [Relation (mathematics)](https://en.wikipedia.org/wiki/Relation_(mathematics)): In mathematics, a binary relation is a general concept that defines some relation between the elements of two sets.
+	- [X] [Special types of binary relations]()
+- [X] [Function](https://en.wikipedia.org/wiki/Function_(mathematics))
+- [X] [Ordinals](https://en.wikipedia.org/wiki/Ordinal_number)
+- [X] [How sets are defined and set notation](https://en.wikipedia.org/wiki/Set_(mathematics)#How_sets_are_defined_and_set_notation)
+- [X] [Membership](https://en.wikipedia.org/wiki/Element_(mathematics)): If B is a set and x is an element of B, this is written in shorthand as x ∈ B, which can also be read as "x belongs to B", or "x is in B". The statement "y is not an element of B" is written as y ∉ B, which can also be read as "y is not in B".
+- [X] [The empty set](https://en.wikipedia.org/wiki/Empty_set): The empty set (or null set) is the unique set that has no members. It is denoted ∅ or ${\displaystyle \emptyset }\emptyset$  or { } or ϕ (or ϕ).
+- [X] [Singleton sets](https://en.wikipedia.org/wiki/Singleton_(mathematics)): A singleton set is a set with exactly one element; such a set may also be called a unit set. Any such set can be written as {x}, where x is the element. The set {x} and the element x mean different things; Halmos draws the analogy that a box containing a hat is not the same as the hat.
+- [X] [Subsets](https://en.wikipedia.org/wiki/Subset): If every element of set A is also in B, then A is described as being a subset of B, or contained in B, written A ⊆ B, or B ⊇ A. The latter notation may be read B contains A, B includes A, or B is a superset of A. The relationship between sets established by ⊆ is called inclusion or containment. Two sets are equal if they contain each other: A ⊆ B and B ⊆ A is equivalent to A = B.
+- [X] [Euler and Venn diagrams](https://en.wikipedia.org/wiki/Set_(mathematics)#Euler_and_Venn_diagrams): An Euler diagram is a graphical representation of a collection of sets; each set is depicted as a planar region enclosed by a loop, with its elements inside. 
+- [X] [Special sets of numbers in mathematics](https://en.wikipedia.org/wiki/Set_(mathematics)#Special_sets_of_numbers_in_mathematics)
+    - [X] ${\displaystyle \mathbf {N} }$ or ${\displaystyle \mathbb {N} }$, the set of all natural numbers: ${\displaystyle \mathbf {N} =\{0,1,2,3,...\}}$ (often, authors exclude 0)
+	- [X] 
+- [X] [Functions](https://en.wikipedia.org/wiki/Function_(mathematics))
+- [X] [Cardinality](https://en.wikipedia.org/wiki/Cardinality)
+- [X] [Power sets](https://en.wikipedia.org/wiki/Power_set)
+- [X] [Partitions](https://en.wikipedia.org/wiki/Partition_of_a_set)
+- [X] [Basic operations](https://en.wikipedia.org/wiki/Algebra_of_sets)
+- [X] [Principle of inclusion and exclusion](https://en.wikipedia.org/wiki/Inclusion%E2%80%93exclusion_principle)
+- [X] [Zermelo-Fraenkel Set Theory](https://plato.stanford.edu/entries/set-theory/ZF.html)
 
 - [X] [Algebra of sets](https://en.wikipedia.org/wiki/Algebra_of_sets)
     - [X] [Commutative property](https://en.wikipedia.org/wiki/Commutative_property)
