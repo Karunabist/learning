@@ -465,10 +465,14 @@ Dialects,accents, and varieties
 	- [X] ${\displaystyle \mathbf {C} }$ or ${\displaystyle \mathbb {C} }$, the set of all complex numbers: C = {a + bi | a, b ∈ R}, for example, 1 + 2i ∈ C.
 	
 
-- [X] [Functions](https://en.wikipedia.org/wiki/Function_(mathematics))
-- [X] [Cardinality](https://en.wikipedia.org/wiki/Cardinality)
-- [X] [Power sets](https://en.wikipedia.org/wiki/Power_set)
-- [X] [Partitions](https://en.wikipedia.org/wiki/Partition_of_a_set)
+- [X] [Functions](https://en.wikipedia.org/wiki/Function_(mathematics)): A function (or mapping) from a set A to a set B is a rule that assigns to each "input" element of A an "output" that is an element of B; more formally, a function is a special kind of relation, one that relates each element of A to exactly one element of B. A function is called
+    - [X] injective (or one-to-one) if it maps any two different elements of A to different elements of B,
+	- [X] surjective (or onto) if for every element of B, there is at least one element of A that maps to it, and
+    - [X] bijective (or a one-to-one correspondence) if the function is both injective and surjective — in this case, each element of A is paired with a unique element of B, and each element of B is paired with a unique element of A, so that there are no unpaired elements.
+
+- [X] [Cardinality](https://en.wikipedia.org/wiki/Cardinality): The cardinality of a set S, denoted |S|, is the number of members of S. For example, if B = {blue, white, red}, then |B| = 3. Repeated members in roster notation are not counted,so |{blue, white, red, blue, white}| = 3, too.More formally, two sets share the same cardinality if there exists a one-to-one correspondence between them.The cardinality of the empty set is zero.
+- [X] [Power sets](https://en.wikipedia.org/wiki/Power_set): The power set of a set S is the set of all subsets of S. The empty set and S itself are elements of the power set of S, because these are both subsets of S. For example, the power set of {1, 2, 3} is {∅, {1}, {2}, {3}, {1, 2}, {1, 3}, {2, 3}, {1, 2, 3}}. The power set of a set S is commonly written as P(S) or 2S.
+- [X] [Partitions](https://en.wikipedia.org/wiki/Partition_of_a_set): A partition of a set S is a set of nonempty subsets of S, such that every element x in S is in exactly one of these subsets.That is, the subsets are pairwise disjoint (meaning any two sets of the partition contain no element in common), and the union of all the subsets of the partition is S.
 - [X] [Basic operations](https://en.wikipedia.org/wiki/Algebra_of_sets)
 - [X] [Principle of inclusion and exclusion](https://en.wikipedia.org/wiki/Inclusion%E2%80%93exclusion_principle)
 - [X] [Zermelo-Fraenkel Set Theory](https://plato.stanford.edu/entries/set-theory/ZF.html)
