@@ -3598,6 +3598,8 @@ Multi-Class Classification Loss Functions
 	
 
 #### Be familar with Computer Vision libraries
+- [X] [PCL](https://pointclouds.org/)
+    - [X] []()
 - [X] [Opencv](https://docs.opencv.org/4.x/)
 - [ ] [Scikit-Image](https://github.com/scikit-image/scikit-image)
 - [ ] [Scikit-Opt](https://github.com/guofei9987/scikit-opt)
@@ -4169,7 +4171,7 @@ Moreover, we will need to perform the different analysis levels like morphologic
 
 
 <details>
-<summary>PHD career(Segmentation and Detection)</summary>
+<summary>PHD career(2D/3D Segmentation and Detection)</summary>
 
 # PHD career(Single problem)
 
