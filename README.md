@@ -448,12 +448,14 @@ Dialects,accents, and varieties
 **Basic concepts and notation**
 - [X] [Set (mathematics)](https://en.wikipedia.org/wiki/Set_(mathematics)): A set is the mathematical model for a collection of different things; a set contains elements or members, which can be mathematical objects of any kind: **numbers, symbols, points in space, lines, other geometrical shapes, variables, or even other sets**.
 
-- [X] [Relation (mathematics)](https://en.wikipedia.org/wiki/Relation_(mathematics)): In mathematics, a binary relation is a general concept that defines some relation between the elements of two sets.
-	- [X] [Special types of binary relations]()
-- [X] [Function](https://en.wikipedia.org/wiki/Function_(mathematics))
-- [X] [Ordinals](https://en.wikipedia.org/wiki/Ordinal_number)
+
 - [X] [How sets are defined and set notation](https://en.wikipedia.org/wiki/Set_(mathematics)#How_sets_are_defined_and_set_notation): Mathematical texts commonly denote sets by capital letters in italic, such as A, B, C. A set may also be called a collection or family, especially when its elements are themselves sets.
-    - [X] [Roster notation](https://en.wikipedia.org/wiki/Set_(mathematics)#Roster_notation):
+    - [X] [Roster notation](https://en.wikipedia.org/wiki/Set_(mathematics)#Roster_notation):Roster or enumeration notation defines a set by listing its elements between curly brackets, separated by commas:A = {4, 2, 1, 3},B = {blue, white, red}.Infinite sets in roster notation: {..., −3, −2, −1, 0, 1, 2, 3, ...}.
+	- [X] [Semantic definition](https://en.wikipedia.org/wiki/Set_(mathematics)#Semantic_definition): Another way to define a set is to use a rule to determine what the elements are:Let A be the set whose members are the first four positive integers.Let B be the set of colors of the French flag.Such a definition is called a semantic description.
+	- [X] [Set-builder notation](https://en.wikipedia.org/wiki/Set-builder_notation): Set-builder notation specifies a set as a selection from a larger set, determined by a condition on the elements.For example, a set F can be defined as follows:${\displaystyle F=\{n\mid n{\text{ is an integer, and }}0\leq n\leq 19\}.}$
+	- [X] [Classifying methods of definition](https://en.wikipedia.org/wiki/Set_(mathematics)#Classifying_methods_of_definition)
+
+
 - [X] [Membership](https://en.wikipedia.org/wiki/Element_(mathematics)): If B is a set and x is an element of B, this is written in shorthand as x ∈ B, which can also be read as "x belongs to B", or "x is in B". The statement "y is not an element of B" is written as y ∉ B, which can also be read as "y is not in B".
 - [X] [The empty set](https://en.wikipedia.org/wiki/Empty_set): The empty set (or null set) is the unique set that has no members. It is denoted ∅ or ${\displaystyle \emptyset }\emptyset$  or { } or ϕ (or ϕ).
 - [X] [Singleton sets](https://en.wikipedia.org/wiki/Singleton_(mathematics)): A singleton set is a set with exactly one element; such a set may also be called a unit set. Any such set can be written as {x}, where x is the element. The set {x} and the element x mean different things; Halmos draws the analogy that a box containing a hat is not the same as the hat.
@@ -498,7 +500,10 @@ Dialects,accents, and varieties
 	- [X] [reflexivity](https://en.wikipedia.org/wiki/Reflexive_relation)
 	- [X] [antisymmetry](https://en.wikipedia.org/wiki/Antisymmetric_relation)
 	- [X] [transitivity](https://en.wikipedia.org/wiki/Transitive_relation)
-
+- [X] [Relation (mathematics)](https://en.wikipedia.org/wiki/Relation_(mathematics)): In mathematics, a binary relation is a general concept that defines some relation between the elements of two sets.
+	- [X] [Special types of binary relations]()
+- [X] [Function](https://en.wikipedia.org/wiki/Function_(mathematics))
+- [X] [Ordinals](https://en.wikipedia.org/wiki/Ordinal_number)
 - [X] [Principle of inclusion and exclusion](https://en.wikipedia.org/wiki/Inclusion%E2%80%93exclusion_principle)
 - [X] [Zermelo-Fraenkel Set Theory](https://plato.stanford.edu/entries/set-theory/ZF.html)
 
