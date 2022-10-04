@@ -4285,3 +4285,8 @@ Daily paper reading
 
 </details>
 
+# Approach of solving any type of problem
+
+1. First define space(Input)
+2. Second define a function(Process)
+3. Third, we receive output from operation(Output)
