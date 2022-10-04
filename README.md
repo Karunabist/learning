@@ -1,5 +1,7 @@
 # Learning 👀 
 
+**How Learning works or The process of learning anything.**
+
 1. First define space(Input): what is space? Space is a collection of tiny elements of a particular domain. It might be space of letters/words for language, numbers/objects for mathematics, atoms for physics, ions/chemical elements for chemistry,..., and arrays for computer science. Each element of space has its own meaning.
 2. Second define a function(Process): which takes space elements from space and does something meaningful operation. Grammer(s+v+o) is for language, mathematical operations(+,-,/,...) for mathematics,..., CRUD operation for computer science.
 3. Third, we receive output from operation(Output): which has a beautiful meaning.
