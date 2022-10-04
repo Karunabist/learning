@@ -504,7 +504,7 @@ equal)
 	- [X] [absorption laws](https://en.wikipedia.org/wiki/Absorption_law): ${\displaystyle A\cup (A\cap B)=A}{\displaystyle A\cap (A\cup B)=A}$
 	- [X] [reflexivity](https://en.wikipedia.org/wiki/Reflexive_relation): $A \subseteq A$
 	- [X] [antisymmetry](https://en.wikipedia.org/wiki/Antisymmetric_relation): $A\subseteq B and {\displaystyle B\subseteq A}{\displaystyle B\subseteq A} if and only if {\displaystyle A=B}$
-	- [X] [transitivity](https://en.wikipedia.org/wiki/Transitive_relation): $If {\displaystyle A\subseteq B}A\subseteq B and {\displaystyle B\subseteq C}{\displaystyle B\subseteq C}, then {\displaystyle A\subseteq C}$
+	- [X] [transitivity](https://en.wikipedia.org/wiki/Transitive_relation): $If {\displaystyle A\subseteq B} and {\displaystyle B\subseteq C}, then {\displaystyle A\subseteq C}$
 - [X] [Relation (mathematics)](https://en.wikipedia.org/wiki/Relation_(mathematics)): In mathematics, a binary relation is a general concept that defines some relation between the elements of two sets.
 	- [X] [Special types of binary relations]()
 - [X] [Function](https://en.wikipedia.org/wiki/Function_(mathematics))
