@@ -443,7 +443,9 @@ Dialects,accents, and varieties
 
 ### Set theory
 
-{a,b,c..}
+$Name of the set(Capital Italic) = {element1, element2...}$
+
+Example: $ A = {a,b,c..}$
 
 - Set theory is the branch of mathematical logic that studies sets, which can be informally described as collections of objects. Although objects of any kind can be collected into a set, set theory, as a branch of mathematics, is mostly concerned with those that are relevant to mathematics as a whole.
 
