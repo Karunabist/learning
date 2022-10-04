@@ -1829,7 +1829,9 @@ Newton's laws, Maxwell's equations, thermodynamics
 - [ ] [Quantum field theory(combines classical field theory, special relativity and quantum mechanics.)]()
 - [ ] [Quantum mechanics]()
 - [ ] [speed of light (special relativity)]()
-
+- [ ] [Antimatter](https://en.wikipedia.org/wiki/Antimatter): In modern physics, antimatter is defined as matter composed of the antiparticles (or "partners") of the corresponding particles in "ordinary" matter.
+- [ ] [Alpha Centauries](https://en.wikipedia.org/wiki/Alpha_Centauri): Alpha Centauri is a gravitationally bound system of the closest stars and planets to the Solar System at 4.37 light-years (1.34 parsecs) from the Sun. 
+- [ ] [Light-year](https://en.wikipedia.org/wiki/Light-year): A light-year, alternatively spelled light year, is a large unit of length used to express astronomical distances and is equivalent to about 9.46 trillion kilometers (9.46×1012 km), or 5.88 trillion miles (5.88×1012 mi)
 
 ## Difference between classical and modern physics
 
