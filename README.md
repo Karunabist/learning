@@ -4285,7 +4285,7 @@ Daily paper reading
 
 </details>
 
-# Approach of solving any type of problem
+**Approach of solving any type of problem**
 
 1. First define space(Input)
 2. Second define a function(Process)
