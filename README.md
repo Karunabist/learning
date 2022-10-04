@@ -453,6 +453,12 @@ Example: $A = \{a,b,c..\}$
 - [X] [Set (mathematics)](https://en.wikipedia.org/wiki/Set_(mathematics)): A set is the mathematical model for a collection of different things; a set contains elements or members, which can be mathematical objects of any kind: **numbers, symbols, points in space, lines, other geometrical shapes, variables, or even other sets**.
 
 
+- [X] [Naive set theory](https://en.wikipedia.org/wiki/Naive_set_theory): Naive set theory is any of several theories of sets used in the discussion of the foundations of mathematics. Unlike axiomatic set theories, which are defined using formal logic, naive set theory is defined informally, in natural language.
+
+    - [X] [Russell's paradox](https://en.wikipedia.org/wiki/Russell%27s_paradox): 
+	- [X] [Axiomatic theories: Zermelo-Fraenkel Set Theory](https://plato.stanford.edu/entries/set-theory/ZF.html)
+	
+
 - [X] [How sets are defined and set notation](https://en.wikipedia.org/wiki/Set_(mathematics)#How_sets_are_defined_and_set_notation): Mathematical texts commonly denote sets by capital letters in italic, such as A, B, C. A set may also be called a collection or family, especially when its elements are themselves sets.
     - [X] [Roster notation](https://en.wikipedia.org/wiki/Set_(mathematics)#Roster_notation):Roster or enumeration notation defines a set by listing its elements between curly brackets, separated by commas:A = {4, 2, 1, 3},B = {blue, white, red}.Infinite sets in roster notation: {..., −3, −2, −1, 0, 1, 2, 3, ...}.
 	- [X] [Semantic definition](https://en.wikipedia.org/wiki/Set_(mathematics)#Semantic_definition): Another way to define a set is to use a rule to determine what the elements are:Let A be the set whose members are the first four positive integers.Let B be the set of colors of the French flag.Such a definition is called a semantic description.
@@ -563,11 +569,10 @@ equal)
 ${\displaystyle {\begin{aligned}{\overline {A\cup B}}&={\overline {A}}\cap {\overline {B}},\\{\overline {A\cap B}}&={\overline {A}}\cup {\overline {B}},\end{aligned}}}$
 
 - [X] [Relation (mathematics)](https://en.wikipedia.org/wiki/Relation_(mathematics)): In mathematics, a binary relation is a general concept that defines some relation between the elements of two sets.
-	- [X] [Special types of binary relations]()
 - [X] [Function](https://en.wikipedia.org/wiki/Function_(mathematics))
 - [X] [Ordinals](https://en.wikipedia.org/wiki/Ordinal_number)
 - [X] [Principle of inclusion and exclusion](https://en.wikipedia.org/wiki/Inclusion%E2%80%93exclusion_principle)
-- [X] [Zermelo-Fraenkel Set Theory](https://plato.stanford.edu/entries/set-theory/ZF.html)
+
 
 
 
