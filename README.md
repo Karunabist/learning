@@ -3529,6 +3529,8 @@ Multi-Class Classification Loss Functions
 
 ### Computer Vision
 
+[Computer Vision Problems and datasets](https://madanbaduwal.github.io/computer-vision-problems-and-datasets)
+
 #### System methods
 
 - [X] [image acquisition(Digital image fundamentals)]()
@@ -3702,6 +3704,8 @@ Multi-Class Classification Loss Functions
 - [X] [Midjourney: Text-to-Image](https://www.midjourney.com/home/) > Expanding the imaginative powers of the human species
 
 ### Natural Language Processing
+
+[NLP problems and datasets](https://github.com/MadanBaduwal/NLP-problems-and-datasets)
 
 #### Introduction,tools and some basic components
 
