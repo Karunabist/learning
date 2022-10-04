@@ -443,9 +443,9 @@ Dialects,accents, and varieties
 
 ### Set theory
 
-{$Name of the set(Capital Italic) = {{element1, element2...}}$}
+$Name of the set(Capital Italic) = \{element1, element2...\}$
 
-Example: {$A = {{a,b,c..}}$}
+Example: $A = \{a,b,c..\}$
 
 - Set theory is the branch of mathematical logic that studies sets, which can be informally described as collections of objects. Although objects of any kind can be collected into a set, set theory, as a branch of mathematics, is mostly concerned with those that are relevant to mathematics as a whole.
 
@@ -546,11 +546,17 @@ equal)
 	
 	${\displaystyle A\cap (A\cup B)=A}$
 
-	- [X] [reflexivity](https://en.wikipedia.org/wiki/Reflexive_relation):$A \subseteq A$
+	- [X] [reflexivity](https://en.wikipedia.org/wiki/Reflexive_relation): 
+	
+	$A \subseteq A$
 
-	- [X] [antisymmetry](https://en.wikipedia.org/wiki/Antisymmetric_relation):$A\subseteq B and {\displaystyle B\subseteq A}, {\displaystyle B\subseteq A} if and only if {\displaystyle A=B}$
+	- [X] [antisymmetry](https://en.wikipedia.org/wiki/Antisymmetric_relation):
+	
+	$A\subseteq B and {\displaystyle B\subseteq A}, {\displaystyle B\subseteq A} if and only if {\displaystyle A=B}$
 
-	- [X] [transitivity](https://en.wikipedia.org/wiki/Transitive_relation):$If {\displaystyle A\subseteq B} and {\displaystyle B\subseteq C}, then {\displaystyle A\subseteq C}$
+	- [X] [transitivity](https://en.wikipedia.org/wiki/Transitive_relation):
+	
+	$If {\displaystyle A\subseteq B} and {\displaystyle B\subseteq C}, then {\displaystyle A\subseteq C}$
 	
 - [X] [Relation (mathematics)](https://en.wikipedia.org/wiki/Relation_(mathematics)): In mathematics, a binary relation is a general concept that defines some relation between the elements of two sets.
 	- [X] [Special types of binary relations]()
