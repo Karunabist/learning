@@ -447,11 +447,13 @@ Dialects,accents, and varieties
 
 **Basic concepts and notation**
 - [X] [Set (mathematics)](https://en.wikipedia.org/wiki/Set_(mathematics)): A set is the mathematical model for a collection of different things; a set contains elements or members, which can be mathematical objects of any kind: **numbers, symbols, points in space, lines, other geometrical shapes, variables, or even other sets**.
+
 - [X] [Relation (mathematics)](https://en.wikipedia.org/wiki/Relation_(mathematics)): In mathematics, a binary relation is a general concept that defines some relation between the elements of two sets.
 	- [X] [Special types of binary relations]()
 - [X] [Function](https://en.wikipedia.org/wiki/Function_(mathematics))
 - [X] [Ordinals](https://en.wikipedia.org/wiki/Ordinal_number)
-- [X] [How sets are defined and set notation](https://en.wikipedia.org/wiki/Set_(mathematics)#How_sets_are_defined_and_set_notation)
+- [X] [How sets are defined and set notation](https://en.wikipedia.org/wiki/Set_(mathematics)#How_sets_are_defined_and_set_notation): Mathematical texts commonly denote sets by capital letters in italic, such as A, B, C. A set may also be called a collection or family, especially when its elements are themselves sets.
+    - [X] [Roster notation](https://en.wikipedia.org/wiki/Set_(mathematics)#Roster_notation):
 - [X] [Membership](https://en.wikipedia.org/wiki/Element_(mathematics)): If B is a set and x is an element of B, this is written in shorthand as x ∈ B, which can also be read as "x belongs to B", or "x is in B". The statement "y is not an element of B" is written as y ∉ B, which can also be read as "y is not in B".
 - [X] [The empty set](https://en.wikipedia.org/wiki/Empty_set): The empty set (or null set) is the unique set that has no members. It is denoted ∅ or ${\displaystyle \emptyset }\emptyset$  or { } or ϕ (or ϕ).
 - [X] [Singleton sets](https://en.wikipedia.org/wiki/Singleton_(mathematics)): A singleton set is a set with exactly one element; such a set may also be called a unit set. Any such set can be written as {x}, where x is the element. The set {x} and the element x mean different things; Halmos draws the analogy that a box containing a hat is not the same as the hat.
