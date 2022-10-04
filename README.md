@@ -474,11 +474,19 @@ Dialects,accents, and varieties
 - [X] [Power sets](https://en.wikipedia.org/wiki/Power_set): The power set of a set S is the set of all subsets of S. The empty set and S itself are elements of the power set of S, because these are both subsets of S. For example, the power set of {1, 2, 3} is {∅, {1}, {2}, {3}, {1, 2}, {1, 3}, {2, 3}, {1, 2, 3}}. The power set of a set S is commonly written as P(S) or 2S.
 - [X] [Partitions](https://en.wikipedia.org/wiki/Partition_of_a_set): A partition of a set S is a set of nonempty subsets of S, such that every element x in S is in exactly one of these subsets.That is, the subsets are pairwise disjoint (meaning any two sets of the partition contain no element in common), and the union of all the subsets of the partition is S.
 - [X] [Basic operations](https://en.wikipedia.org/wiki/Algebra_of_sets)
-- [X] [Principle of inclusion and exclusion](https://en.wikipedia.org/wiki/Inclusion%E2%80%93exclusion_principle)
-- [X] [Zermelo-Fraenkel Set Theory](https://plato.stanford.edu/entries/set-theory/ZF.html)
 
-- [X] [Algebra of sets](https://en.wikipedia.org/wiki/Algebra_of_sets)
-    - [X] [Commutative property](https://en.wikipedia.org/wiki/Commutative_property)
+    Algebra of sets
+
+	Suppose that a universal set U (a set containing all elements being discussed) has been fixed, and that A is a subset of U.
+
+	- [X] [complement](https://en.wikipedia.org/wiki/Complement_(set_theory)) : The complement of A is the set of all elements (of U) that do not belong to A. It may be denoted $A^c$ or A′. In set-builder notation, ${\displaystyle A^{\text{c}}=\{a\in U:a\notin A\}}$. The complement may also be called the absolute complement to distinguish it from the relative complement below. 
+
+	- [X] [Union](https://en.wikipedia.org/wiki/Union_(set_theory)):  union A ∪ B is the set of all things that are members of A or B or both.
+    - [X] [Intersection](https://en.wikipedia.org/wiki/Intersection_(set_theory)): intersection A ∩ B is the set of all things that are members of both A and B. If A ∩ B = ∅, then A and B are said to be disjoint.
+	- [X] [Set difference](https://en.wikipedia.org/wiki/Complement_(set_theory)#Relative_complement) : the set difference A \ B (also written A − B) is the set of all things that belong to A but not B. Especially when B is a subset of A, it is also called the relative complement of B in A.
+	- [X] [Symmetric difference](https://en.wikipedia.org/wiki/Symmetric_difference): symmetric difference A Δ B is the set of all things that belong to A or B but not both. One has ${\displaystyle A\,\Delta \,B=(A\setminus B)\cup (B\setminus A)}$.
+	- [X] [Cartesian product](https://en.wikipedia.org/wiki/Cartesian_product): cartesian product A × B is the set of all ordered pairs (a,b) such that a is an element of A and b is an element of B.
+	- [X] [Commutative property](https://en.wikipedia.org/wiki/Commutative_property)
 	- [X] [Associative property](https://en.wikipedia.org/wiki/Associative_property)
 	- [X] [Distributive property](https://en.wikipedia.org/wiki/Distributive_property)
 	- [X] [idempotent laws](https://en.wikipedia.org/wiki/Idempotence)
@@ -487,6 +495,10 @@ Dialects,accents, and varieties
 	- [X] [reflexivity](https://en.wikipedia.org/wiki/Reflexive_relation)
 	- [X] [antisymmetry](https://en.wikipedia.org/wiki/Antisymmetric_relation)
 	- [X] [transitivity](https://en.wikipedia.org/wiki/Transitive_relation)
+
+- [X] [Principle of inclusion and exclusion](https://en.wikipedia.org/wiki/Inclusion%E2%80%93exclusion_principle)
+- [X] [Zermelo-Fraenkel Set Theory](https://plato.stanford.edu/entries/set-theory/ZF.html)
+
 
 
 
