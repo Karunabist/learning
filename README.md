@@ -443,9 +443,9 @@ Dialects,accents, and varieties
 
 ### Set theory
 
-$Name of the set(Capital Italic) = {element1, element2...}$
+$Name of the set(Capital Italic) = {{element1, element2...}}$
 
-Example: $A = {a,b,c..}$
+Example: $A = {{a,b,c..}}$
 
 - Set theory is the branch of mathematical logic that studies sets, which can be informally described as collections of objects. Although objects of any kind can be collected into a set, set theory, as a branch of mathematics, is mostly concerned with those that are relevant to mathematics as a whole.
 
@@ -464,6 +464,7 @@ Example: $A = {a,b,c..}$
 
 
 - [X] [Membership](https://en.wikipedia.org/wiki/Element_(mathematics)): If B is a set and x is an element of B, this is written in shorthand as x ∈ B, which can also be read as "x belongs to B", or "x is in B". The statement "y is not an element of B" is written as y ∉ B, which can also be read as "y is not in B".
+- [X] [Universal set(U)](https://en.wikipedia.org/wiki/Universal_set): In set theory, a universal set is a set which contains all objects, including itself.
 - [X] [The empty set](https://en.wikipedia.org/wiki/Empty_set): The empty set (or null set) is the unique set that has no members. It is denoted ∅ or ${\displaystyle \emptyset }\emptyset$  or { } or ϕ (or ϕ).
 - [X] [Singleton sets](https://en.wikipedia.org/wiki/Singleton_(mathematics)): A singleton set is a set with exactly one element; such a set may also be called a unit set. Any such set can be written as {x}, where x is the element. The set {x} and the element x mean different things; Halmos draws the analogy that a box containing a hat is not the same as the hat.
 - [X] [Subsets](https://en.wikipedia.org/wiki/Subset): If every element of set A is also in B, then A is described as being a subset of B, or contained in B, written A ⊆ B, or B ⊇ A. The latter notation may be read B contains A, B includes A, or B is a superset of A. The relationship between sets established by ⊆ is called inclusion or containment. Two sets are equal if they contain each other: A ⊆ B and B ⊆ A is equivalent to A = B.
@@ -502,21 +503,41 @@ equal)
 	
     - [X] [Cartesian product](https://en.wikipedia.org/wiki/Cartesian_product): cartesian product A × B is the set of all ordered pairs (a,b) such that a is an element of A and b is an element of B.
 
-	- [X] [Commutative property](https://en.wikipedia.org/wiki/Commutative_property): In mathematics, a binary operation is commutative if changing the order of the operands does not change the result.Example: "3 + 4 = 4 + 3" or "2 × 5 = 5 × 2". ${\displaystyle A\cup B=B\cup A}{\displaystyle A\cap B=B\cap A}$
+	- [X] [Commutative property](https://en.wikipedia.org/wiki/Commutative_property): In mathematics, a binary operation is commutative if changing the order of the operands does not change the result.Example: "3 + 4 = 4 + 3" or "2 × 5 = 5 × 2". 
+	
+	${\displaystyle A\cup B=B\cup A}$
+	
+	${\displaystyle A\cap B=B\cap A}$
 
-	- [X] [Associative property](https://en.wikipedia.org/wiki/Associative_property): ${\displaystyle (A\cup B)\cup C=A\cup (B\cup C)} {\displaystyle (A\cap B)\cap C=A\cap (B\cap C)}$
+	- [X] [Associative property](https://en.wikipedia.org/wiki/Associative_property): 
+	
+	${\displaystyle (A\cup B)\cup C=A\cup (B\cup C)}$ 
+	
+	${\displaystyle (A\cap B)\cap C=A\cap (B\cap C)}$
 
-	- [X] [Distributive property](https://en.wikipedia.org/wiki/Distributive_property): $A\cup (B\cap C)=(A\cup B)\cap (A\cup C) {\displaystyle A\cap (B\cup C)=(A\cap B)\cup (A\cap C)}$
+	- [X] [Distributive property](https://en.wikipedia.org/wiki/Distributive_property):
+
+	$A\cup (B\cap C)=(A\cup B)\cap (A\cup C)$
+	
+	${\displaystyle A\cap (B\cup C)=(A\cap B)\cup (A\cap C)}$
 
 	- [X] [idempotent laws](https://en.wikipedia.org/wiki/Idempotence): ${\displaystyle A\cup A=A}{\displaystyle A\cap A=A}$
 
-	- [X] [domination laws](): ${\displaystyle A\cup U=U}{\displaystyle A\cap \varnothing =\varnothing }$
+	- [X] [domination laws](): 
+	
+	${\displaystyle A\cup U=U}$
 
-	- [X] [absorption laws](https://en.wikipedia.org/wiki/Absorption_law): ${\displaystyle A\cup (A\cap B)=A}{\displaystyle A\cap (A\cup B)=A}$
+	${\displaystyle A\cap \varnothing =\varnothing }$
+
+	- [X] [absorption laws](https://en.wikipedia.org/wiki/Absorption_law): 
+	
+	${\displaystyle A\cup (A\cap B)=A}$
+	
+	${\displaystyle A\cap (A\cup B)=A}$
 
 	- [X] [reflexivity](https://en.wikipedia.org/wiki/Reflexive_relation): $A \subseteq A$
 
-	- [X] [antisymmetry](https://en.wikipedia.org/wiki/Antisymmetric_relation): $A\subseteq B and {\displaystyle B\subseteq A}{\displaystyle B\subseteq A} if and only if {\displaystyle A=B}$
+	- [X] [antisymmetry](https://en.wikipedia.org/wiki/Antisymmetric_relation): $A\subseteq B and {\displaystyle B\subseteq A}, {\displaystyle B\subseteq A} if and only if {\displaystyle A=B}$
 
 	- [X] [transitivity](https://en.wikipedia.org/wiki/Transitive_relation): $If {\displaystyle A\subseteq B} and {\displaystyle B\subseteq C}, then {\displaystyle A\subseteq C}$
 	
