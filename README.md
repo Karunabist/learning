@@ -497,7 +497,7 @@ equal)
 	Suppose that a universal set U (a set containing all elements being discussed) has been fixed, and that A is a subset of U.
 	- [X] [complement](https://en.wikipedia.org/wiki/Complement_(set_theory)) : The complement of A is the set of all elements (of U) that do not belong to A. It may be denoted $A^c$ or A′. 
 	
-	In set-builder notation, {${\displaystyle A^{\text{c}}=\{a\in U:a\notin A\}}$}. The complement may also be called the absolute complement to distinguish it from the relative complement below. 
+	In set-builder notation, ${\displaystyle A^{\text{c}}=\{a\in U:a\notin A\}}$. The complement may also be called the absolute complement to distinguish it from the relative complement below. 
 
 	- [X] [Union](https://en.wikipedia.org/wiki/Union_(set_theory)):  union A ∪ B is the set of all things that are members of A or B or both.
     - [X] [Intersection](https://en.wikipedia.org/wiki/Intersection_(set_theory)): intersection A ∩ B is the set of all things that are members of both A and B. If A ∩ B = ∅, then A and B are said to be disjoint.
