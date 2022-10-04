@@ -493,9 +493,9 @@ equal)
 	
 	- [X] [Set difference](https://en.wikipedia.org/wiki/Complement_(set_theory)#Relative_complement): the set difference A \ B (also written A − B) is the set of all things that belong to A but not B. Especially when B is a subset of A, it is also called the relative complement of B in A.
 
-	- [X] [Symmetric difference](https://en.wikipedia.org/wiki/Symmetric_difference): symmetric difference A Δ B is the set of all things that belong to A or B but not both. One has ${\displaystyle A\,\Delta \,B=(A\setminus B)\cup (B\setminus A)}$.
+    - [X] [Symmetric difference](https://en.wikipedia.org/wiki/Symmetric_difference): symmetric difference A Δ B is the set of all things that belong to A or B but not both. One has ${\displaystyle A\,\Delta \,B=(A\setminus B)\cup (B\setminus A)}$.
 	
-	- [X] [Cartesian product](https://en.wikipedia.org/wiki/Cartesian_product): cartesian product A × B is the set of all ordered pairs (a,b) such that a is an element of A and b is an element of B.
+    - [X] [Cartesian product](https://en.wikipedia.org/wiki/Cartesian_product): cartesian product A × B is the set of all ordered pairs (a,b) such that a is an element of A and b is an element of B.
 
 	- [X] [Commutative property](https://en.wikipedia.org/wiki/Commutative_property): In mathematics, a binary operation is commutative if changing the order of the operands does not change the result.Example: "3 + 4 = 4 + 3" or "2 × 5 = 5 × 2". ${\displaystyle A\cup B=B\cup A}{\displaystyle A\cap B=B\cap A}$
 
