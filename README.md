@@ -459,7 +459,12 @@ Dialects,accents, and varieties
 - [X] [Euler and Venn diagrams](https://en.wikipedia.org/wiki/Set_(mathematics)#Euler_and_Venn_diagrams): An Euler diagram is a graphical representation of a collection of sets; each set is depicted as a planar region enclosed by a loop, with its elements inside. 
 - [X] [Special sets of numbers in mathematics](https://en.wikipedia.org/wiki/Set_(mathematics)#Special_sets_of_numbers_in_mathematics)
     - [X] ${\displaystyle \mathbf {N} }$ or ${\displaystyle \mathbb {N} }$, the set of all natural numbers: ${\displaystyle \mathbf {N} =\{0,1,2,3,...\}}$ (often, authors exclude 0)
-	- [X] 
+	- [X] ${\displaystyle \mathbf {Z} }$ or ${\displaystyle \mathbb {Z} }$ , the set of all integers (whether positive, negative or zero): ${\displaystyle \mathbf {Z} =\{...,-2,-1,0,1,2,3,...\}}$
+	- [X] ${\displaystyle \mathbf {Q} }$ or ${\displaystyle \mathbb {Q} }$ , the set of all rational numbers (that is, the set of all proper and improper fractions).
+	- [X] ${\displaystyle \mathbf {R} }$ or ${\displaystyle \mathbb {R} }$ , the set of all real numbers, including all rational numbers and all irrational numbers (which include algebraic numbers such as ${\displaystyle {\sqrt {2}}}$ that cannot be rewritten as fractions, as well as transcendental numbers such as π and e)
+	- [X] ${\displaystyle \mathbf {C} }$ or ${\displaystyle \mathbb {C} }$, the set of all complex numbers: C = {a + bi | a, b ∈ R}, for example, 1 + 2i ∈ C.
+	
+
 - [X] [Functions](https://en.wikipedia.org/wiki/Function_(mathematics))
 - [X] [Cardinality](https://en.wikipedia.org/wiki/Cardinality)
 - [X] [Power sets](https://en.wikipedia.org/wiki/Power_set)
