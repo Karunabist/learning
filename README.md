@@ -445,7 +445,7 @@ Dialects,accents, and varieties
 
 $Name of the set(Capital Italic) = {element1, element2...}$
 
-Example: $ A = {a,b,c..}$
+Example: $A = {a,b,c..}$
 
 - Set theory is the branch of mathematical logic that studies sets, which can be informally described as collections of objects. Although objects of any kind can be collected into a set, set theory, as a branch of mathematics, is mostly concerned with those that are relevant to mathematics as a whole.
 
@@ -456,7 +456,9 @@ Example: $ A = {a,b,c..}$
 - [X] [How sets are defined and set notation](https://en.wikipedia.org/wiki/Set_(mathematics)#How_sets_are_defined_and_set_notation): Mathematical texts commonly denote sets by capital letters in italic, such as A, B, C. A set may also be called a collection or family, especially when its elements are themselves sets.
     - [X] [Roster notation](https://en.wikipedia.org/wiki/Set_(mathematics)#Roster_notation):Roster or enumeration notation defines a set by listing its elements between curly brackets, separated by commas:A = {4, 2, 1, 3},B = {blue, white, red}.Infinite sets in roster notation: {..., −3, −2, −1, 0, 1, 2, 3, ...}.
 	- [X] [Semantic definition](https://en.wikipedia.org/wiki/Set_(mathematics)#Semantic_definition): Another way to define a set is to use a rule to determine what the elements are:Let A be the set whose members are the first four positive integers.Let B be the set of colors of the French flag.Such a definition is called a semantic description.
-	- [X] [Set-builder notation](https://en.wikipedia.org/wiki/Set-builder_notation): Set-builder notation specifies a set as a selection from a larger set, determined by a condition on the elements.For example, a set F can be defined as follows: ${\displaystyle F=\{n\mid n{\text{ is an integer, and }}0\leq n\leq 19\}}$. ${\displaystyle \{x\in E\mid \Phi (x)\},}$ or by adjoining it to the predicate: ${\displaystyle \{x\mid x\in E{\text{ and }}\Phi (x)\}\quad {\text{or}}\quad \{x\mid x\in E\land \Phi (x)\}.}{\displaystyle \{x\mid x\in E{\text{ and }}\Phi (x)\}\quad {\text{or}}\quad \{x\mid x\in E\land \Phi (x)\}.}$
+	- [X] [Set-builder notation](https://en.wikipedia.org/wiki/Set-builder_notation): Set-builder notation specifies a set as a selection from a larger set, determined by a condition on the elements.For example, a set F can be defined as follows: ${\displaystyle F=\{n\mid n{\text{ is an integer, and }}0\leq n\leq 19\}}$. 
+	
+	${\displaystyle \{x\in E\mid \Phi (x)\},}$ or by adjoining it to the predicate: ${\displaystyle \{x\mid x\in E{\text{ and }}\Phi (x)\}\quad {\text{or}}\quad \{x\mid x\in E\land \Phi (x)\}.}$
 
 	- [X] [Classifying methods of definition](https://en.wikipedia.org/wiki/Set_(mathematics)#Classifying_methods_of_definition)
 
