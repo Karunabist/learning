@@ -496,15 +496,25 @@ equal)
 	- [X] [Symmetric difference](https://en.wikipedia.org/wiki/Symmetric_difference): symmetric difference A Δ B is the set of all things that belong to A or B but not both. One has ${\displaystyle A\,\Delta \,B=(A\setminus B)\cup (B\setminus A)}$.
 	
 	- [X] [Cartesian product](https://en.wikipedia.org/wiki/Cartesian_product): cartesian product A × B is the set of all ordered pairs (a,b) such that a is an element of A and b is an element of B.
+
 	- [X] [Commutative property](https://en.wikipedia.org/wiki/Commutative_property): In mathematics, a binary operation is commutative if changing the order of the operands does not change the result.Example: "3 + 4 = 4 + 3" or "2 × 5 = 5 × 2". ${\displaystyle A\cup B=B\cup A}{\displaystyle A\cap B=B\cap A}$
+
 	- [X] [Associative property](https://en.wikipedia.org/wiki/Associative_property): ${\displaystyle (A\cup B)\cup C=A\cup (B\cup C)} {\displaystyle (A\cap B)\cap C=A\cap (B\cap C)}$
+
 	- [X] [Distributive property](https://en.wikipedia.org/wiki/Distributive_property): $A\cup (B\cap C)=(A\cup B)\cap (A\cup C) {\displaystyle A\cap (B\cup C)=(A\cap B)\cup (A\cap C)}$
+
 	- [X] [idempotent laws](https://en.wikipedia.org/wiki/Idempotence): ${\displaystyle A\cup A=A}{\displaystyle A\cap A=A}$
+
 	- [X] [domination laws](): ${\displaystyle A\cup U=U}{\displaystyle A\cap \varnothing =\varnothing }$
+
 	- [X] [absorption laws](https://en.wikipedia.org/wiki/Absorption_law): ${\displaystyle A\cup (A\cap B)=A}{\displaystyle A\cap (A\cup B)=A}$
+
 	- [X] [reflexivity](https://en.wikipedia.org/wiki/Reflexive_relation): $A \subseteq A$
+
 	- [X] [antisymmetry](https://en.wikipedia.org/wiki/Antisymmetric_relation): $A\subseteq B and {\displaystyle B\subseteq A}{\displaystyle B\subseteq A} if and only if {\displaystyle A=B}$
+
 	- [X] [transitivity](https://en.wikipedia.org/wiki/Transitive_relation): $If {\displaystyle A\subseteq B} and {\displaystyle B\subseteq C}, then {\displaystyle A\subseteq C}$
+	
 - [X] [Relation (mathematics)](https://en.wikipedia.org/wiki/Relation_(mathematics)): In mathematics, a binary relation is a general concept that defines some relation between the elements of two sets.
 	- [X] [Special types of binary relations]()
 - [X] [Function](https://en.wikipedia.org/wiki/Function_(mathematics))
