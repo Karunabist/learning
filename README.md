@@ -1287,7 +1287,9 @@ and their representations in **vector spaces** and through **matrices**.
 	- [X] [Telescoping series](https://www.khanacademy.org/math/integral-calculus/ic-series/ic-telescoping-series/v/telescoping-series)
 	
 
+- [X] [Ricci calculus: Absolute differential calculus](https://en.wikipedia.org/wiki/Ricci_calculus)
 
+- [X] [Tensor calculus](https://en.wikipedia.org/wiki/Tensor_calculus)
 
 - [ ] [ Khan Academy: Differential Calculus](https://www.khanacademy.org/math/differential-calculus)
 - [ ] [ Khan Academy: Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus)
