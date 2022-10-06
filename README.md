@@ -407,9 +407,9 @@ Dialects,accents, and varieties
 		- [X] [Inverse]()
 		- [X] [Contrapositive]()
 		- [X] [Logical truth table](https://en.wikipedia.org/wiki/Truth_table)
-		- [X] [Negation](https://en.wikipedia.org/wiki/Negation)
+		- [X] [Negation,logical negation](https://en.wikipedia.org/wiki/Negation): Denotes logical negation, and is read as "not". If E is a logical predicate, ${\displaystyle \neg E}$ is the predicate that evaluates to true if and only if E evaluates to false. For clarity, it is often replaced by the word "not". In programming languages and some mathematical texts, it is sometimes replaced by **"~" or "!"**, which are easier to type on some keyboards.
 		- [X] [Logical conjunction](https://en.wikipedia.org/wiki/Logical_conjunction)
-		- [X] [Logical disjunction](https://en.wikipedia.org/wiki/Logical_disjunction)
+		- [X] [Logical disjunction, logical or](https://en.wikipedia.org/wiki/Logical_disjunction): Denotes the logical or, and is read as "or". If E and F are logical predicates, ${\displaystyle E\lor F}$ is true if either E, F, or both are true. It is often replaced by the word "or".
 		- [X] [Implication (logic)](https://simple.wikipedia.org/wiki/Implication_(logic))
 		- [X] [Logical biconditional](https://en.wikipedia.org/wiki/Logical_biconditional)
 		- [X] [Operator precedence for propositional logic](http://logic.stanford.edu/intrologic/glossary/operator_precedence.html#:~:text=The%20following%20table%20gives%20a,precedence%20than%20%E2%87%92%20and%20%E2%87%94.)
