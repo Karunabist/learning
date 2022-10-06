@@ -646,7 +646,7 @@ Branches
 
 ## Pure Mathematics
 
-### Quantity(Arthmatic)
+### Quantity(Arthmatic)/Number theory
 #### Numbers 
 ##### Real Numbers
 - [X] [Real Numbers](https://drive.google.com/file/d/1CVgUrJt-Zd1Sa-rx7Pc28OkBsKiVmuUz/view?usp=sharing)
