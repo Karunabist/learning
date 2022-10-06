@@ -2,12 +2,14 @@
 
 **The process of learning anything.**
 
-1. First define space(Input): what is space? Space is a collection of tiny elements of a particular domain. It might be space of letters/words for language, numbers/objects for mathematics, atoms for physics, ions/chemical elements for chemistry,..., and arrays for computer science. Each element of space has its own meaning.
-2. Second define a function(Process): which takes space elements from space and does something meaningful operation. Grammer(s+v+o) is for language, mathematical operations(+,-,/,...) for mathematics,..., CRUD operation for computer science.
+1. First define space(Input): Space is a collection of tiny elements of a particular domain. It might be space of letters/words for language, numbers/objects for mathematics, atoms/subatomic particles(e,p,n)/Composite particles(quark, leptons, gauge bosons, higgs hosons) for physics, ions/chemical elements, for chemistry,..., and arrays/matrics/tensors for computer science. Each element of space has its own meaning.
+2. Second define a relationship: predicate,function(process) between space elements: which takes space elements from space and does something meaningful operation. Grammer(s+v+o) is for language, mathematical operations(+,-,/,...) for mathematics,..., CRUD operation for computer science.
 3. Third, we receive output from operation(Output): which has a beautiful meaning.
 
 
-**Life long learning is: Creating or collecting more tiny elements in space. Creating or collecting perfect functions. Expecting perfect output.**
+**Life long learning is: Creating or collecting more tiny elements in space. Creating or collecting perfect relationship. Expecting perfect output.**
+
+Note: A predicate is a type of relation. A relation is a particular type of set. A function is a particular type of relation.
 
 <table width="100%">
   <tr>
@@ -408,22 +410,26 @@ Dialects,accents, and varieties
 		- [X] [Contrapositive]()
 		- [X] [Logical truth table](https://en.wikipedia.org/wiki/Truth_table)
 		- [X] [Negation,logical negation](https://en.wikipedia.org/wiki/Negation): Denotes logical negation, and is read as "not". If E is a logical predicate, ${\displaystyle \neg E}$ is the predicate that evaluates to true if and only if E evaluates to false. For clarity, it is often replaced by the word "not". In programming languages and some mathematical texts, it is sometimes replaced by **"~" or "!"**, which are easier to type on some keyboards.
-		- [X] [Logical conjunction](https://en.wikipedia.org/wiki/Logical_conjunction)
+		- [X] [Logical conjunction, logical and](https://en.wikipedia.org/wiki/Logical_conjunction): Denotes the logical and, and is read as "and". If E and F are logical predicates, ${\displaystyle E\land F}$ is true if E and F are both true. It is often replaced by the word "and" or the symbol "&".
 		- [X] [Logical disjunction, logical or](https://en.wikipedia.org/wiki/Logical_disjunction): Denotes the logical or, and is read as "or". If E and F are logical predicates, ${\displaystyle E\lor F}$ is true if either E, F, or both are true. It is often replaced by the word "or".
+		- [X] [Exclusive or](https://en.wikipedia.org/wiki/Exclusive_or): if E and F are two Boolean variables or predicates, ${\displaystyle E\veebar F}$ denotes the exclusive or. Notations E XOR F and ${\displaystyle E\oplus F}$ are also commonly used; see ⊕.
 		- [X] [Implication (logic)](https://simple.wikipedia.org/wiki/Implication_(logic))
 		- [X] [Logical biconditional](https://en.wikipedia.org/wiki/Logical_biconditional)
 		- [X] [Operator precedence for propositional logic](http://logic.stanford.edu/intrologic/glossary/operator_precedence.html#:~:text=The%20following%20table%20gives%20a,precedence%20than%20%E2%87%92%20and%20%E2%87%94.)
 		- [X] [De Morgan's Laws](https://en.wikipedia.org/wiki/De_Morgan%27s_laws)
 		- [X] [Contraposition](https://en.wikipedia.org/wiki/Contraposition)
-		- [X] [Tautologies](https://en.wikipedia.org/wiki/Tautology_(logic))
+		- [X] [Tautologies](https://en.wikipedia.org/wiki/Tautology_(logic)) 
 		- [X] [Mathematical Logic Part One: Prepositional Logic: Stanford](https://web.stanford.edu/class/archive/cs/cs103/cs103.1132/lectures/09/Small09.pdf)
 
 	- [X] [First-Order Logic](https://en.wikipedia.org/wiki/First-order_logic)
 
 		First-order logic is a logical system for reasoning about properties of objects.
-		- [X] [predicates]()
+		- [X] [predicates](https://en.wikipedia.org/wiki/Predicate_(mathematical_logic)#Simplified_overview): In logic, a predicate is a symbol which represents a property or a relation. For instance, in the first order formula P(a), the symbol P is a predicate which applies to the individual constant a. Similarly, in the formula R(a,b), R is a predicate which applies to the individual constants a and b.
 		- [X] [functions]()
-		- [X] [quantifiers]()
+		- [X] [quantifiers](): 
+		    - [X] [Universal quantification ](): Denotes universal quantification and is read as "for all". If E is a logical predicate, ${\displaystyle \forall xE}$ means that E is true for all possible values of the variable x.
+			- [X] [Existential quantification](https://en.wikipedia.org/wiki/Existential_quantification): Denotes existential quantification and is read "there exists ... such that". If E is a logical predicate, ${\displaystyle \exists xE}$ means that there exists at least one value of x for which E is true.
+		
 		- [X] [Mathematical Logic Part Two: Stanford](https://web.stanford.edu/class/archive/cs/cs103/cs103.1134/lectures/09/Small09.pdf)
 		- [X] [Mathematical Logic Part Two: First Order Logic: Stanford](https://web.stanford.edu/class/archive/cs/cs103/cs103.1126/lectures/09/Slides09.pdf)
 		- [X] [Mathematical Logic Part Three: Stanford](https://web.stanford.edu/class/archive/cs/cs103/cs103.1156/lectures/07/Small07.pdf)
