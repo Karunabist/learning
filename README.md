@@ -382,9 +382,9 @@ Dialects,accents, and varieties
 
 - predicate: A predicate is a statement or mathematical assertion that contains variables, sometimes referred to as predicate variables, and may be true or false depending on those variables' value or values.
 
-like function in mathematics f(a) which take input a and process it for output. 
+  Like function in algebra $f(a)$ which take input a and process it for output. 
 
-In mathematical logic: $P(a)$, the symbol ${\displaystyle P}$ is a predicate which applies to the individual constant ${\displaystyle a}$. Similarly, in the formula ${\displaystyle R(a,b)}$, ${\displaystyle R}$ is a predicate which applies to the individual constants ${\displaystyle a}$ and ${\displaystyle b}$.
+  In mathematical logic: $P(a)$, the symbol ${\displaystyle P}$ is a predicate which applies to the individual constant ${\displaystyle a}$. Similarly, in the formula ${\displaystyle R(a,b)}$, ${\displaystyle R}$ is a predicate which applies to the individual constants ${\displaystyle a}$ and ${\displaystyle b}$.
 
 - Mathematical logic is the study of formal logic within mathematics. 
 - Mathematical logic is massively use in computer science e.g in boolean data type and may more.
