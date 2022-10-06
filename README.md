@@ -148,6 +148,7 @@ Note: A predicate is a type of relation. A relation is a particular type of set.
 	
 	
 ### Vocabulary
+- [X] [Word power makes it easy](https://hostnezt.com/cssfiles/english/Word%20Power%20Made%20Easy%20By%20Norman%20Lewis.pdf)
 - [X] [oxfordwordlist](https://www.oxfordwordlist.com/pages/report.asp)(Ongoing: 2858)
 - [X] [oxfordwordlist](http://mooneewestps.vic.edu.au/app/webroot/uploaded_files/media/oxford_plus_list.pdf)
 - [X] [The Oxford 3000™ (American English)](https://www.oxfordlearnersdictionaries.com/external/pdf/wordlists/oxford-3000-5000/American_Oxford_3000.pdf)
@@ -676,7 +677,7 @@ Branches
 - [X] [Real NUmbers](https://drive.google.com/file/d/1CTDyu6bOcqIJIaFxtNIPTR4Kse_B8qz_/view?usp=sharing)
 
 	**Rational Numbers**
-	- [X] Intigers
+	- [X] [Intigers](https://en.wikipedia.org/wiki/Integer): An integer is the number zero (0), a positive natural number (1, 2, 3, etc.) or a negative integer with a minus sign (−1, −2, −3, etc.). $\mathbb {Z}$ : Denotes the set of integers ${\displaystyle \{\ldots ,-2,-1,0,1,2,\ldots \}}$. It is often denoted also by ${\displaystyle \mathbf {Z} }$.  $\mathbb {Z} _{p}$: Denotes the set of p-adic integers, where p is a prime number.
 		- [X] [Whole](https://www.cuemath.com/numbers/whole-numbers/)
 
 			- [X] [Natural Numbers](https://en.wikipedia.org/wiki/Natural_number):  In mathematics, the natural numbers are those numbers used for counting (as in "there are six coins on the table") and ordering (as in "this is the third largest city in the country"). $\mathbb N$: Denotes the set of natural numbers ${\displaystyle \{1,2,\ldots \}}$, or sometimes ${\displaystyle \{0,1,2,\ldots \}}$. It is often denoted also by ${\displaystyle \mathbf {N} }$. When the distinction is important and readers might assume either definition, ${\displaystyle \mathbb {N} _{1}}$ and ${\displaystyle \mathbb {N} _{0}}$ are used, respectively, to denote one of them unambiguously.
@@ -4281,6 +4282,7 @@ Moreover, we will need to perform the different analysis levels like morphologic
 
 ## Write cold email
 - [X] [My note on cold-email](https://github.com/MadanBaduwal/journals-and-conferences/blob/main/cold-email.md)
+- [X] [hunter](https://www.hunter.cuny.edu/ugresearch/repository/files/Approaching%20a%20Faculty%20Member.pdf)
 - [X] [University of California Berkely](https://research.berkeley.edu/how-cold-email-professor)
 - [X] [University of California Santa Cruz](https://ugr.ue.ucsc.edu/email)	
 - [X] [getting-a-gig](https://github.com/cassidoo/getting-a-gig)
