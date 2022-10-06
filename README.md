@@ -413,7 +413,8 @@ Dialects,accents, and varieties
 		- [X] [Logical conjunction, logical and](https://en.wikipedia.org/wiki/Logical_conjunction): Denotes the logical and, and is read as "and". If E and F are logical predicates, ${\displaystyle E\land F}$ is true if E and F are both true. It is often replaced by the word "and" or the symbol "&".
 		- [X] [Logical disjunction, logical or](https://en.wikipedia.org/wiki/Logical_disjunction): Denotes the logical or, and is read as "or". If E and F are logical predicates, ${\displaystyle E\lor F}$ is true if either E, F, or both are true. It is often replaced by the word "or".
 		- [X] [Exclusive or](https://en.wikipedia.org/wiki/Exclusive_or): if E and F are two Boolean variables or predicates, ${\displaystyle E\veebar F}$ denotes the exclusive or. Notations E XOR F and ${\displaystyle E\oplus F}$ are also commonly used; see ⊕.
-		- [X] [Implication (logic)](https://simple.wikipedia.org/wiki/Implication_(logic))
+		- [X] [Implication (logic)](https://simple.wikipedia.org/wiki/Implication_(logic)): Implication (also known as logical consequence, implies, or If ... then) is a logical operation. It is the relationship between statements that holds true when one logically "follows from" one or more others. While a statement of the form "if P then Q" is often written as ${\displaystyle P\to Q}$, the assertion that "Q is a logical consequence P" is often written as ${\displaystyle P\implies Q}$.
+		- [X] [material conditional](https://en.wikipedia.org/wiki/Material_conditional): Denotes material conditional, and is read as "implies". If P and Q are logical predicates, {\displaystyle P\Rightarrow Q}P\Rightarrow Q means that if P is true, then Q is also true. Thus, {\displaystyle P\Rightarrow Q}P\Rightarrow Q is logically equivalent with {\displaystyle Q\lor \neg P}{\displaystyle Q\lor \neg P}.
 		- [X] [Logical biconditional](https://en.wikipedia.org/wiki/Logical_biconditional)
 		- [X] [Operator precedence for propositional logic](http://logic.stanford.edu/intrologic/glossary/operator_precedence.html#:~:text=The%20following%20table%20gives%20a,precedence%20than%20%E2%87%92%20and%20%E2%87%94.)
 		- [X] [De Morgan's Laws](https://en.wikipedia.org/wiki/De_Morgan%27s_laws)
@@ -427,8 +428,10 @@ Dialects,accents, and varieties
 		- [X] [predicates](https://en.wikipedia.org/wiki/Predicate_(mathematical_logic)#Simplified_overview): In logic, a predicate is a symbol which represents a property or a relation. For instance, in the first order formula P(a), the symbol P is a predicate which applies to the individual constant a. Similarly, in the formula R(a,b), R is a predicate which applies to the individual constants a and b.
 		- [X] [functions]()
 		- [X] [quantifiers](): 
-		    - [X] [Universal quantification ](): Denotes universal quantification and is read as "for all". If E is a logical predicate, ${\displaystyle \forall xE}$ means that E is true for all possible values of the variable x.
+		    - [X] [Universal quantification ](https://en.wikipedia.org/wiki/Universal_quantification): Denotes universal quantification and is read as "for all". If E is a logical predicate, ${\displaystyle \forall xE}$ means that E is true for all possible values of the variable x.
 			- [X] [Existential quantification](https://en.wikipedia.org/wiki/Existential_quantification): Denotes existential quantification and is read "there exists ... such that". If E is a logical predicate, ${\displaystyle \exists xE}$ means that there exists at least one value of x for which E is true.
+
+			- [X] [uniqueness quantification](https://en.wikipedia.org/wiki/Uniqueness_quantification): Denotes uniqueness quantification, that is, ${\displaystyle \exists !xP}$ means "there exists exactly one x such that P (is true)". In other words, ${\displaystyle \exists !xP(x)}$ is an abbreviation of ${\displaystyle \exists x\,(P(x)\,\wedge \neg \exists y\,(P(y)\wedge y\neq x))}\exists x\,( P(x) \, \wedge \neg \exists y\,(P(y) \wedge y  \ne x))$.
 		
 		- [X] [Mathematical Logic Part Two: Stanford](https://web.stanford.edu/class/archive/cs/cs103/cs103.1134/lectures/09/Small09.pdf)
 		- [X] [Mathematical Logic Part Two: First Order Logic: Stanford](https://web.stanford.edu/class/archive/cs/cs103/cs103.1126/lectures/09/Slides09.pdf)
