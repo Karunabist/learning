@@ -4367,3 +4367,12 @@ Daily paper reading
 1. First define space(Input)
 2. Second define a function(Process)
 3. Third, we receive output from operation(Output)
+
+**Universl Rules**
+* Everything is start from left to right
+
+    Examples:
+
+	* In computer science everything start from left-top corner 
+	* Clock wise direction is left to right
+	* Writing in paper is start from left-top to right.
