@@ -382,6 +382,7 @@ Dialects,accents, and varieties
 
 - Mathematical logic is the study of formal logic within mathematics. 
 - Mathematical logic is massively use in computer science e.g in boolean data type and may more.
+- predicate: A predicate is a statement or mathematical assertion that contains variables, sometimes referred to as predicate variables, and may be true or false depending on those variables' value or values.
 
 #### [Logic](https://en.wikipedia.org/wiki/Logic)
     
