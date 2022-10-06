@@ -510,7 +510,7 @@ equal)
 	
 	- [X] [Set difference](https://en.wikipedia.org/wiki/Complement_(set_theory)#Relative_complement): the set difference A \ B (also written A − B) is the set of all things that belong to A but not B. Especially when B is a subset of A, it is also called the relative complement of B in A.
 
-    - [X] [Symmetric difference](https://en.wikipedia.org/wiki/Symmetric_difference): symmetric difference A Δ B is the set of all things that belong to A or B but not both. 
+    - [X] [Symmetric difference](https://en.wikipedia.org/wiki/Symmetric_difference): symmetric difference  ${\displaystyle A\ominus B}$ or A Δ B is the set of all things that belong to A or B but not both. 
 	
 	One has $\displaystyle A\,\Delta \,B=(A\setminus B)\cup (B\setminus A)$.
 	
