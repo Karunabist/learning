@@ -506,6 +506,7 @@ equal)
 	In set-builder notation, ${\displaystyle A^{\text{c}}=\{a\in U:a\notin A\}}$. The complement may also be called the absolute complement to distinguish it from the relative complement below. 
 
 	- [X] [Union](https://en.wikipedia.org/wiki/Union_(set_theory)):  union A ∪ B is the set of all things that are members of A or B or both.
+	- [X] [Disjoint union](https://en.wikipedia.org/wiki/Disjoint_union): Denotes the disjoint union. That is, if A and B are sets then ${\displaystyle A\sqcup B=\left(A\times \{i_{A}\}\right)\cup \left(B\times \{i_{B}\}\right)}$ is a set of pairs where $i_A$ and $i_B$ are distinct indices discriminating the members of A and B in ${\displaystyle A\sqcup B}$.
     - [X] [Intersection](https://en.wikipedia.org/wiki/Intersection_(set_theory)): intersection A ∩ B is the set of all things that are members of both A and B. If A ∩ B = ∅, then A and B are said to be disjoint.
 	
 	- [X] [Set difference](https://en.wikipedia.org/wiki/Complement_(set_theory)#Relative_complement): the set difference A \ B (also written A − B) is the set of all things that belong to A but not B. Especially when B is a subset of A, it is also called the relative complement of B in A.
