@@ -380,9 +380,15 @@ Dialects,accents, and varieties
 
 ^(and), v (or), ¬ (not), → (implies)...
 
+- predicate: A predicate is a statement or mathematical assertion that contains variables, sometimes referred to as predicate variables, and may be true or false depending on those variables' value or values.
+
+like function in mathematics f(a) which take input a and process it for output. 
+
+In mathematical logic: $P(a)$, the symbol ${\displaystyle P}$ is a predicate which applies to the individual constant ${\displaystyle a}$. Similarly, in the formula ${\displaystyle R(a,b)}$, ${\displaystyle R}$ is a predicate which applies to the individual constants ${\displaystyle a}$ and ${\displaystyle b}$.
+
 - Mathematical logic is the study of formal logic within mathematics. 
 - Mathematical logic is massively use in computer science e.g in boolean data type and may more.
-- predicate: A predicate is a statement or mathematical assertion that contains variables, sometimes referred to as predicate variables, and may be true or false depending on those variables' value or values.
+
 
 #### [Logic](https://en.wikipedia.org/wiki/Logic)
     
@@ -417,10 +423,14 @@ Dialects,accents, and varieties
 		- [X] [Implication (logic)](https://simple.wikipedia.org/wiki/Implication_(logic)): Implication (also known as logical consequence, implies, or If ... then) is a logical operation. It is the relationship between statements that holds true when one logically "follows from" one or more others. While a statement of the form "if P then Q" is often written as ${\displaystyle P\to Q}$, the assertion that "Q is a logical consequence P" is often written as ${\displaystyle P\implies Q}$.
 		- [X] [material conditional](https://en.wikipedia.org/wiki/Material_conditional): Denotes material conditional, and is read as "implies". If P and Q are logical predicates, ${\displaystyle P\Rightarrow Q}$  means that if P is true, then Q is also true. Thus, ${\displaystyle P\Rightarrow Q}$ is logically equivalent with ${\displaystyle Q\lor \neg P}$.
 		- [X] [Logical biconditional](https://en.wikipedia.org/wiki/Logical_biconditional)
+		- [X] [Logical equivalence](https://en.wikipedia.org/wiki/Logical_equivalence): In logic and mathematics, statements ${\displaystyle p}$ and ${\displaystyle q}$ are said to be logically equivalent if they have the same truth value in every model.Denotes logical equivalence, and is read "is equivalent to" or "if and only if". If P and Q are logical predicates, ${\displaystyle P\Leftrightarrow Q}$ is thus an abbreviation of $${\displaystyle (P\Rightarrow Q)\land (Q\Rightarrow P)}$, or of ${\displaystyle (P\land Q)\lor (\neg P\land \neg Q)}$.
 		- [X] [Operator precedence for propositional logic](http://logic.stanford.edu/intrologic/glossary/operator_precedence.html#:~:text=The%20following%20table%20gives%20a,precedence%20than%20%E2%87%92%20and%20%E2%87%94.)
 		- [X] [De Morgan's Laws](https://en.wikipedia.org/wiki/De_Morgan%27s_laws)
 		- [X] [Contraposition](https://en.wikipedia.org/wiki/Contraposition)
 		- [X] [Tautologies](https://en.wikipedia.org/wiki/Tautology_(logic)) 
+		- [X] [⊤](https://en.wikipedia.org/wiki/Tee_(symbol)): ⊤ ${\displaystyle \top }$ denotes the logical predicate always true.
+		- [X] [⊥](https://en.wikipedia.org/wiki/Up_tack): $\bot$  denotes the logical predicate always false.
+
 		- [X] [Mathematical Logic Part One: Prepositional Logic: Stanford](https://web.stanford.edu/class/archive/cs/cs103/cs103.1132/lectures/09/Small09.pdf)
 
 	- [X] [First-Order Logic](https://en.wikipedia.org/wiki/First-order_logic)
