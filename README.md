@@ -1767,6 +1767,15 @@ Inferential statistics can be contrasted with descriptive statistics. Descriptiv
 
 ### Cryptography 
 
+## Mathematical Symbols
+
+- [ ] [Mathematical Symbols: Wikipedia](https://en.wikipedia.org/wiki/Glossary_of_mathematical_symbols)
+    - [ ] []()
+    
+- [X] [Mathematical Symbols: Article](https://byjus.com/maths/math-symbols/)
+- [X] [Math Symbols List: Article](https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html)
+- [X] [Mathematical Symbols: Article](https://mathvault.ca/hub/higher-math/math-symbols/)
+
 
 ## References
 - [X] [Resources for learning practical category theory](https://mathoverflow.net/questions/903/resources-for-learning-practical-category-theory)
@@ -1811,12 +1820,6 @@ Inferential statistics can be contrasted with descriptive statistics. Descriptiv
 - [X] [Numberphile ](https://www.youtube.com/c/numberphile)
 - [X] [The Math Sorcerer ](https://www.youtube.com/c/TheMathSorcerer)
 
-**Mathematical Symbols**
-
-- [X] [Mathematical Symbols: Article](https://byjus.com/maths/math-symbols/)
-- [X] [Math Symbols List: Article](https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html)
-- [X] [Mathematical Symbols: Article](https://mathvault.ca/hub/higher-math/math-symbols/)
-
 **Podcast**
 
 - [X] [Grant Sanderson](https://www.youtube.com/c/GrantSanderson/featured)
@@ -1836,7 +1839,6 @@ Inferential statistics can be contrasted with descriptive statistics. Descriptiv
 - [ ] [Wolfram MathWorld](https://mathworld.wolfram.com/)
 - [ ] [Wyzant - Calculus](https://www.wyzant.com/resources/lessons/math/calculus)
 - [ ] [Mathematical: Wikipedia](https://en.wikipedia.org/wiki/Mathematics)
-- [ ] [Mathematical Symbols: Wikipedia](https://en.wikipedia.org/wiki/Glossary_of_mathematical_symbols)
 - [ ] [Essentials Mathematics for machine learning](https://www.youtube.com/playlist?list=PLLy_2iUCG87D1CXFxE-SxCFZUiJzQ3IvE)
 - [ ] [Mathematics of Machine Learning](https://www.tivadardanka.com/blog)
 - [ ] [TED](https://www.ted.com/talks/marcus_du_sautoy_symmetry_reality_s_riddle?referrer=playlist-math_talks_to_blow_your_mind&autoplay=true)
