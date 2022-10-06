@@ -679,7 +679,7 @@ Branches
 	- [X] Intigers
 		- [X] [Whole](https://www.cuemath.com/numbers/whole-numbers/)
 
-			- [X] [Natural Numbers](https://en.wikipedia.org/wiki/Natural_number):  In mathematics, the natural numbers are those numbers used for counting (as in "there are six coins on the table") and ordering (as in "this is the third largest city in the country"). 
+			- [X] [Natural Numbers](https://en.wikipedia.org/wiki/Natural_number):  In mathematics, the natural numbers are those numbers used for counting (as in "there are six coins on the table") and ordering (as in "this is the third largest city in the country"). $\mathbb N$: Denotes the set of natural numbers ${\displaystyle \{1,2,\ldots \}}$, or sometimes ${\displaystyle \{0,1,2,\ldots \}}$. It is often denoted also by ${\displaystyle \mathbf {N} }$. When the distinction is important and readers might assume either definition, ${\displaystyle \mathbb {N}_{1}}$ and ${\displaystyle \mathbb {N}_{0}}$ are used, respectively, to denote one of them unambiguously.
 
 			- [X] [0](https://en.wikipedia.org/wiki/0)
 		- [X] [Negative](https://en.wikipedia.org/wiki/Negative_number#:~:text=In%20mathematics%2C%20a%20negative%20number,of%20as%20a%20negative%20asset.)
