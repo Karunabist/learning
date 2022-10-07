@@ -2328,6 +2328,7 @@ Note:
      	
 ## Programming language theory and formal methods
 
+Object
 
 - [ ] [Programming Methodologies: Stanford](https://web.stanford.edu/class/cs106a/)
 - [ ] [Programming Abstractions: Stanford](https://web.stanford.edu/class/cs106b/)
@@ -2342,6 +2343,13 @@ Note:
 - [ ] [Compiler](http://web.stanford.edu/class/cs143/)
 
 ### Python
+
+Python is object. Everything is object in python. Strings are objects, Lists are objects, Functions are objects and Even modules are also objects.
+
+Python is using a pure object model where classes are instances of a meta-class “type” in Python, the terms “type” and “class” are synonyms. And “type” is the only class which is an instance of itself.
+
+Except for the Python keywords like “if def, globals”, using type(<name>) or dir(<name>) or just type the resource name and press enter- will work on pretty much anything. 
+
 - [X] [Python Documentation: Officials ](https://docs.python.org/3/)
 - [X] [Context Manager and With Keyword in Python](https://www.geeksforgeeks.org/context-manager-in-python/)
 - [X] [Python Metaclass](https://www.pythontutorial.net/python-oop/python-metaclass/): type is default metaclass in python.
