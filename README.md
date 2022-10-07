@@ -4276,6 +4276,9 @@ Moreover, we will need to perform the different analysis levels like morphologic
 
 # PHD career(Single problem)
 
+* why the problem is interesting
+* How your paper differs (and improves upon) previous work
+
 ## Mail For Recommendation
 
 - [X] [My note on writing mail for recommendation](https://docs.google.com/document/d/1S9M0gC-uLoM5fv2D6vDjLAa3K9tjPIGVRTmV7XEeUp0/edit?usp=sharing)
@@ -4317,6 +4320,18 @@ Daily paper reading
 4. [AK: Twitter](https://twitter.com/_akhaliq)
 
 ## Paper Writing
+
+- [X] [How to write a good CVPR submission - William T. Freeman](https://billf.mit.edu/sites/default/files/documents/cvprPapers.pdf)
+
+    - [X] [1](): The most dangerous mistake you can make when writing your paper is assuming that the reviewer will understand the point of your paper. The complaint is often heard that the reviewer did not understand what an author was trying to say
+	    * Make it easy to see the main point
+
+    - [X] [1](): Start by stating which problem you are addressing, keeping the **audience in mind**. They must care about it, which means that sometimes you must tell them **why they should care about the problem**.**why the problem is interesting**.
+	- [X] [2](): Then state briefly what the **other solutions are to the problem**, and why they aren't satisfactory. If they were satisfactory, you wouldn't need to do the work. **How your paper differs (and improves upon) previous work**.**what problem it solves**.**What is really new in your paper (and what isn't)**
+	- [X] [3](): Then explain your own solution, compare it with other solutions, and say why it's better. 
+	- [X] [4](): At the end, talk about related work where similar techniques and experiments have been used, but applied to a different problem. 
+
+
 - [X] [How to write paper my note](https://github.com/MadanBaduwal/journals-and-conferences/blob/main/paper-writting.md)
 - [X] [Uiversity of Wisconsin Madison](https://writing.wisc.edu/handbook/assignments/planresearchpaper/)
 - [X] [Purdue University](https://owl.purdue.edu/owl/general_writing/common_writing_assignments/research_papers/index.html)
