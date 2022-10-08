@@ -4310,6 +4310,10 @@ Few old papers
 ## Application fee waiver email template
 - [X] [My note on application fee waiver email template](https://docs.google.com/document/d/1UNzUIJDp9bY9vUFgUXiKoEZs75qHuVgbmYQxtJIo-X4/edit?usp=sharing)
 
+## Research and service efforts to the university and Assistantship
+
+- [X] [My template](https://github.com/MadanBaduwal/phd-career/blob/main/email_for_assistantship.md)
+
 
 ## Vision Problems and datasets
 - [X] [vision problems my note](https://www.computervisiondatasets.ml/)
