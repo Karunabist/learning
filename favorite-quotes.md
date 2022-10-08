@@ -30,5 +30,8 @@
     <td width="50%">
             <img class="zoom" src="https://raw.githubusercontent.com/MadanBaduwal/learning/main/images/9.motivation.png" alt="Italian Trulli"> 
         </td>
+        <td width="50%">
+            <img class="zoom" src="https://scx1.b-cdn.net/csz/news/800a/2015/8-whatisthebig.jpg" alt="Big bang theory"> 
+        </td>
     </tr>
 </table>

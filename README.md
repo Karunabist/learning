@@ -4287,6 +4287,10 @@ Moreover, we will need to perform the different analysis levels like morphologic
 <details>
 <summary>PHD career(2D/3D Segmentation and Detection)</summary>
 
+Few old papers
+
+* [INERTIA AND ENERGY CONTENT](https://cdn2.hubspot.net/hubfs/232514/Einstein%20E=mc2%20(pp172-174).pdf)
+
 # PHD career(Single problem)
 
 * why the problem is interesting
