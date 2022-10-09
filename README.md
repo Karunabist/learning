@@ -96,6 +96,9 @@ Because we continiously collect tiny elements(data) for our space(brain). And de
 
 # Language(English)
 
+First know the meaning of word.
+Second know the context in which this word can use.
+
 5 things : 
 	
 * phonology 
