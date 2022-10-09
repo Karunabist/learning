@@ -126,7 +126,12 @@ Because we continiously collect tiny elements(data) for our space(brain). And de
 - [X] [Accent's Way English with Hadar](https://www.youtube.com/c/accentsway)
 
 
-### Grammer
+### Grammer(Verb)
+
+Convert any type of sentence into following grammetical structure:
+
+Tens, Voice, Speech | phrase, slang, idom
+
 - [X] [My note on grammer](https://colab.research.google.com/drive/1_z4bJJy3MWq0GHh9mK3DyuiKjgA14E71?usp=sharing)
 - [X] [The Best Grammer Workbook Ever](https://drive.google.com/file/d/1xhuoBYELrKJoL2lwUae8F4SZk__sNNBm/view?usp=sharing)
 - [X] [English Grammer Advance](https://drive.google.com/file/d/1J9zzxQ9UWDCUWI8FsDubK9-OFb2yk0Gg/view?usp=sharing)
