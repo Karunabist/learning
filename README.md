@@ -4427,6 +4427,14 @@ Daily paper reading
 
 </details>
 
+
+
+<details>
+<summary>Money</summary>
+
+</details>
+
+
 **Approach of solving any type of problem**
 
 1. First define space(Input)
