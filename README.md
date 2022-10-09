@@ -2,14 +2,16 @@
 
 **The process of learning anything.**
 
-1. First define space(Input): Space is a collection of tiny elements of a particular domain. It might be space of letters/words for language, numbers/objects for mathematics, atoms/subatomic particles(e,p,n)/Composite particles(quark, leptons, gauge bosons, higgs hosons) for physics, ions/chemical elements, for chemistry,..., and arrays/matrics/tensors for computer science. Each element of space has its own meaning.
+1. First define space(Input): Space is a collection of tiny elements of a particular domain. It might be the space of letters/words for language, numbers/objects for mathematics, atoms/subatomic particles(e,p,n)/Composite particles(quark, leptons, gauge bosons, higgs hosons) for physics, ions/chemical elements, for chemistry,..., and arrays/matrics/tensors for computer science. Each element of space has its own meaning.
 2. Second define a relationship: predicate,function(process) between space elements: which takes space elements from space and does something meaningful operation. Grammer(s+v+o) is for language, mathematical operations(+,-,/,...) for mathematics,..., CRUD operation for computer science.
 3. Third, we receive output from operation(Output): which has a beautiful meaning.
 
-
-**Life long learning is: Creating or collecting more tiny elements in space. Creating or collecting perfect relationship. Expecting perfect output.**
-
 Note: A predicate is a type of relation. A relation is a particular type of set. A function is a particular type of relation.
+
+**Why the process of learning anything is call life long?**
+
+Because we continiously collect tiny elements(data) for our space(brain). And define relationship between these elements(Brain(model) training).To obtain perfect output.
+
 
 <table width="100%">
   <tr>
@@ -4439,3 +4441,7 @@ Daily paper reading
 	* In computer science everything start from left-top corner 
 	* Clock wise direction is left to right
 	* Writing in paper is start from left-top to right.
+
+**Result of learning?**
+
+Find out the problem in existing system. Try to fix it with new approach.
