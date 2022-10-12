@@ -110,7 +110,6 @@ Second know the context in which this word can use.
 ## Daily news and blogs	
 - [X] [Vocabulary: Word of the day](https://www.vocabulary.com/dictionary/)
 - [X] [LDOCE5: Word of the day](https://www.ldoceonline.com/)
-- [X] [Collins Word of the Day](https://www.collinsdictionary.com/word-of-the-day)
 - [X] [merriam-webster Word of the day](https://www.merriam-webster.com/word-of-the-day)
 - [X] [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB/sections/CAQiQ0NCQVNMQW9JTDIwdk1EZGpNWFlTQW1WdUdnSlZVeUlOQ0FRYUNRb0hMMjB2TUcxcmVpb0pFZ2N2YlM4d2JXdDZLQUEqKggAKiYICiIgQ0JBU0Vnb0lMMjB2TURkak1YWVNBbVZ1R2dKVlV5Z0FQAVAB?hl=en-US&gl=US&ceid=US%3Aen/)
 
