@@ -3,10 +3,10 @@
 **The process of learning anything.**
 
 1. First define space(Input): Space is a collection of tiny elements of a particular domain. It might be the space of letters/words for language, numbers/objects for mathematics, atoms/subatomic particles(e,p,n)/Composite particles(quark, leptons, gauge bosons, higgs hosons) for physics, ions/chemical elements, for chemistry,..., and arrays/matrics/tensors for computer science. Each element of space has its own meaning.
-2. Second define a relationship: predicate,function(process) between space elements: which takes space elements from space and does something meaningful operation. Grammer(s+v+o) is for language, mathematical operations(+,-,/,...) for mathematics,..., CRUD operation for computer science.
+2. Second define a relationship: predicate,function(process),probability function: pmf,pdf between space elements: which takes space elements from space and does something meaningful operation. Grammer(s+v+o) is for language, mathematical operations(+,-,/,...) for mathematics,..., CRUD operation for computer science.
 3. Third, we receive output from operation(Output): which has a beautiful meaning.
 
-Note: A predicate is a type of relation. A relation is a particular type of set. A function is a particular type of relation.
+Note: A predicate is a type of relation. A relation is a particular type of set. A function is a particular type of relation. Every machine learning is condition probability function(p(class/data point))
 
 **Why the process of learning anything is call life long?**
 
