@@ -3093,6 +3093,7 @@ Multi-Class Classification Loss Functions
 
 
 #### Machine Learning and Deep learning Books and Cources
+- [ ] [Deepmind collected resources](https://storage.googleapis.com/deepmind-media/research/New_AtHomeWithAI%20resources.pdf)
 - [ ] [scikit-learn: Algorithms Documentation](https://github.com/scikit-learn/scikit-learn)
 - [ ] [Applied Machine Learning: Stanford](https://web.stanford.edu/class/cs129/)
 - [ ] [handson-ml](https://github.com/ageron/handson-ml)
