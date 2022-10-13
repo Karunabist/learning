@@ -162,6 +162,10 @@ First classify words into + (positive), -(negative), or =(neutral).We can use ne
 
 Warning: Don't mesh with +,-.
 
+prefixes+word
+
+Word+postfix
+
 - [X] [Word power makes it easy](https://hostnezt.com/cssfiles/english/Word%20Power%20Made%20Easy%20By%20Norman%20Lewis.pdf)
 - [X] [oxfordwordlist](https://www.oxfordwordlist.com/pages/report.asp)(Ongoing: 2858)
 - [X] [oxfordwordlist](http://mooneewestps.vic.edu.au/app/webroot/uploaded_files/media/oxford_plus_list.pdf)
