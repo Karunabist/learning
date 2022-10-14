@@ -1926,6 +1926,26 @@ Newton's laws, Maxwell's equations, thermodynamics
 - [X] [Classical thermodynamics]()
 - [X] [Special relativity and general relativity]()
 - [X] [5.Classical chaos theory and nonlinear dynamics]()
+
+
+## Modern Physics
+
+- [X] [Schrödinger equation](https://en.wikipedia.org/wiki/Schr%C3%B6dinger_equation): A linear partial differential equation that governs the wave function of a quantum-mechanical system.
+- [X] [Big Bang](https://en.wikipedia.org/wiki/Big_Bang): Physical theory that describes how the universe expanded from an initial state of high density and temperature.
+- [X] [String Theory](https://en.wikipedia.org/wiki/String_theory): String theory is a theoretical framework in which the point-like particles of particle physics are replaced by one-dimensional objects called strings. String theory describes how these strings propagate through space and interact with each other.
+
+- [X] [Theory of relativity](https://en.wikipedia.org/wiki/Theory_of_relativity): 
+
+
+- [ ] [description]()
+- [ ] [Hallmark]()
+- [ ] [Quantum field theory(combines classical field theory, special relativity and quantum mechanics.)]()
+- [ ] [Quantum mechanics]()
+- [ ] [speed of light (special relativity)]()
+- [ ] [Antimatter](https://en.wikipedia.org/wiki/Antimatter): In modern physics, antimatter is defined as matter composed of the antiparticles (or "partners") of the corresponding particles in "ordinary" matter.
+- [ ] [Alpha Centauries](https://en.wikipedia.org/wiki/Alpha_Centauri): Alpha Centauri is a gravitationally bound system of the closest stars and planets to the Solar System at 4.37 light-years (1.34 parsecs) from the Sun. 
+- [ ] [Light-year](https://en.wikipedia.org/wiki/Light-year): A light-year, alternatively spelled light year, is a large unit of length used to express astronomical distances and is equivalent to about 9.46 trillion kilometers (9.46×1012 km), or 5.88 trillion miles (5.88×1012 mi)
+
 - [X] [States of Matter](https://en.wikipedia.org/wiki/State_of_matter)
     - [X] [Solid]()
 	- [X] [Liquid]()
@@ -1949,24 +1969,6 @@ Newton's laws, Maxwell's equations, thermodynamics
 	- [X] [Fermion Materials]()
 	- [X] [Rydberg Polaron]()
 	- [X] [Quark-gluon Plasma]()
-
-## Modern Physics
-
-- [X] [Schrödinger equation](https://en.wikipedia.org/wiki/Schr%C3%B6dinger_equation): A linear partial differential equation that governs the wave function of a quantum-mechanical system.
-- [X] [Big Bang](https://en.wikipedia.org/wiki/Big_Bang): Physical theory that describes how the universe expanded from an initial state of high density and temperature.
-- [X] [String Theory](https://en.wikipedia.org/wiki/String_theory): String theory is a theoretical framework in which the point-like particles of particle physics are replaced by one-dimensional objects called strings. String theory describes how these strings propagate through space and interact with each other.
-
-- [X] [Theory of relativity](https://en.wikipedia.org/wiki/Theory_of_relativity): 
-
-
-- [ ] [description]()
-- [ ] [Hallmark]()
-- [ ] [Quantum field theory(combines classical field theory, special relativity and quantum mechanics.)]()
-- [ ] [Quantum mechanics]()
-- [ ] [speed of light (special relativity)]()
-- [ ] [Antimatter](https://en.wikipedia.org/wiki/Antimatter): In modern physics, antimatter is defined as matter composed of the antiparticles (or "partners") of the corresponding particles in "ordinary" matter.
-- [ ] [Alpha Centauries](https://en.wikipedia.org/wiki/Alpha_Centauri): Alpha Centauri is a gravitationally bound system of the closest stars and planets to the Solar System at 4.37 light-years (1.34 parsecs) from the Sun. 
-- [ ] [Light-year](https://en.wikipedia.org/wiki/Light-year): A light-year, alternatively spelled light year, is a large unit of length used to express astronomical distances and is equivalent to about 9.46 trillion kilometers (9.46×1012 km), or 5.88 trillion miles (5.88×1012 mi)
 
 ## Difference between classical and modern physics
 
