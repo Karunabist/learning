@@ -4325,18 +4325,20 @@ Moreover, we will need to perform the different analysis levels like morphologic
 <details>
 <summary>PHD career(2D/3D Segmentation and Detection)</summary>
 
-Few old papers
 
-* [INERTIA AND ENERGY CONTENT](https://cdn2.hubspot.net/hubfs/232514/Einstein%20E=mc2%20(pp172-174).pdf)
 
 # PHD career(Single problem)
 
 * why the problem is interesting
 * How your paper differs (and improves upon) previous work
 
+Few old papers
+
+* [INERTIA AND ENERGY CONTENT](https://cdn2.hubspot.net/hubfs/232514/Einstein%20E=mc2%20(pp172-174).pdf)
+
 ## Mail For Recommendation
 
-- [X] [My note on writing mail for recommendation](https://docs.google.com/document/d/1S9M0gC-uLoM5fv2D6vDjLAa3K9tjPIGVRTmV7XEeUp0/edit?usp=sharing)
+- [X] [My note on writing mail for recommendation](https://github.com/MadanBaduwal/phd-career/blob/main/recommendation_email.md)
 
 ## Write cold email
 - [X] [My note on cold-email](https://github.com/MadanBaduwal/journals-and-conferences/blob/main/cold-email.md)
