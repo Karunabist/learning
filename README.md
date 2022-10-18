@@ -4348,7 +4348,7 @@ Few old papers
 - [X] [getting-a-gig](https://github.com/cassidoo/getting-a-gig)
 
 ## Application fee waiver email template
-- [X] [My note on application fee waiver email template](https://docs.google.com/document/d/1UNzUIJDp9bY9vUFgUXiKoEZs75qHuVgbmYQxtJIo-X4/edit?usp=sharing)
+- [X] [My note on application fee waiver email template](https://github.com/MadanBaduwal/phd-career/blob/main/application_fee_waiver.md)
 
 ## Research and service efforts to the university and Assistantship
 
