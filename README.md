@@ -4345,7 +4345,7 @@ Look English:GRE, TOEFL section for resources.
 
 ## List universities 
 
-List universities according to your research area for PHD and affordable/job opportunities for Master.
+List universities according to your research area for PHD and affordable/job opportunities for Master and test scores requirements.
 For PHD visit professors profile and look at there personal website whether they are accepting students or not.
 
 - [X] [Researchers in computer vision with universities](https://github.com/MadanBaduwal/people-in-computer-vision)
