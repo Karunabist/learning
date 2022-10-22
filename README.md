@@ -29,7 +29,7 @@ Because we continiously collect tiny elements(data) for our space(brain). And de
 			  General Knowledge ...etc</a></li>
 		  <li><a href="#">Companies(motivations)</a></li>
 		  <li><a href="https://colab.research.google.com/drive/1eqOUu2cIzTNweQB_dr3NyiQhirm3ol_0?usp=sharing">Computer science(Array)</a></li>
-		  <li><a href="#">PHD career(Single problem)</a></li>
+		  <li><a href="#">\ career(Single problem)</a></li>
 		Download Book From Here:<a href="https://libgen.is/">libgen.is</a></br>
 		  Download Paid Research Papers From Here: <a href="https://sci-hub.se/">sci-hub.se</a></br>
 	Free Pdf hosting: <a href="https://pdfhost.io/">pdfhost.io</a>
@@ -4336,24 +4336,56 @@ Few old papers
 
 * [INERTIA AND ENERGY CONTENT](https://cdn2.hubspot.net/hubfs/232514/Einstein%20E=mc2%20(pp172-174).pdf)
 
-## Mail For Recommendation
+## Test exams 
 
-- [X] [My note on writing mail for recommendation](https://github.com/MadanBaduwal/phd-career/blob/main/recommendation_email.md)
+GRE, TOEFL..
 
-## Write cold email
+Look English:GRE, TOEFL section for resources.
+
+
+## List universities 
+
+List universities according to your research area for PHD and affordable/job opportunities for Master.
+
+- [X] [Researchers in computer vision with universities](https://github.com/MadanBaduwal/people-in-computer-vision)
+
+
+## Email for application fee waiver 
+
+Start writting application fee waiver emails to grad school or program director.
+
+Here is an email template: 
+
+- [X] [My note on application fee waiver email template](https://github.com/MadanBaduwal/phd-career/blob/main/application_fee_waiver.md)
+
+## Write cold email to professors
+
+Start writting emails to professors about your research.
+
 - [X] [My note on cold-email](https://github.com/MadanBaduwal/journals-and-conferences/blob/main/cold-email.md)
 - [X] [hunter](https://www.hunter.cuny.edu/ugresearch/repository/files/Approaching%20a%20Faculty%20Member.pdf)
 - [X] [University of California Berkely](https://research.berkeley.edu/how-cold-email-professor)
 - [X] [University of California Santa Cruz](https://ugr.ue.ucsc.edu/email)	
 - [X] [getting-a-gig](https://github.com/cassidoo/getting-a-gig)
 
-## Application fee waiver email template
-- [X] [My note on application fee waiver email template](https://github.com/MadanBaduwal/phd-career/blob/main/application_fee_waiver.md)
+## Latter of recommendation(LOR)
+
+## Statement of purpose(SOP)
+
+## Submit application
+
+## Mail For Recommendation
+
+Write an email for latter of recommendation.
+ 
+- [X] [My note on writing mail for recommendation](https://github.com/MadanBaduwal/phd-career/blob/main/recommendation_email.md)
+
 
 ## Research and service efforts to the university and Assistantship
 
 - [X] [My template](https://github.com/MadanBaduwal/phd-career/blob/main/email_for_assistantship.md)
 
+## Crack Interview
 
 ## Vision Problems and datasets
 - [X] [vision problems my note](https://www.computervisiondatasets.ml/)
