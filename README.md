@@ -4346,6 +4346,7 @@ Look English:GRE, TOEFL section for resources.
 ## List universities 
 
 List universities according to your research area for PHD and affordable/job opportunities for Master.
+For PHD visit professors profile and look at there personal website whether they are accepting students or not.
 
 - [X] [Researchers in computer vision with universities](https://github.com/MadanBaduwal/people-in-computer-vision)
 
@@ -4358,6 +4359,10 @@ Here is an email template:
 
 - [X] [My note on application fee waiver email template](https://github.com/MadanBaduwal/phd-career/blob/main/application_fee_waiver.md)
 
+## Check funding aviable at universities
+You can check funding by visiting professors personal website or by sending email to program director.
+
+
 ## Write cold email to professors
 
 Start writting emails to professors about your research.
@@ -4369,10 +4374,28 @@ Start writting emails to professors about your research.
 - [X] [getting-a-gig](https://github.com/cassidoo/getting-a-gig)
 
 ## Latter of recommendation(LOR)
+	
+## Select universities
+
+For PHD:
+* Test score requirements
+* Number of researchers related to your field at university
+* Application fee
+* Funding avilable
+* Communication with professors
+
+For Master:
+* Test scores
+* Number of researchers and affordable universities.
+* Application fee
+* Funding avilable(For master funding is only apply for some semesters only)
+* Communication with professors
 
 ## Statement of purpose(SOP)
+Prepare SOP for selected universities.
 
 ## Submit application
+Submit application with sop,test score pdfs,transcript,resume
 
 ## Mail For Recommendation
 
@@ -4381,7 +4404,8 @@ Write an email for latter of recommendation.
 - [X] [My note on writing mail for recommendation](https://github.com/MadanBaduwal/phd-career/blob/main/recommendation_email.md)
 
 
-## Research and service efforts to the university and Assistantship
+## Write mail after admission
+Research and service efforts to the university and Assistantship
 
 - [X] [My template](https://github.com/MadanBaduwal/phd-career/blob/main/email_for_assistantship.md)
 
