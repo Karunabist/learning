@@ -4353,7 +4353,7 @@ For PHD visit professors profile and look at there personal website whether they
 
 ## Email for application fee waiver 
 
-Start writting application fee waiver emails to grad school or program director.
+Start writting application fee waiver emails to grad school or program director or chair person.
 
 Here is an email template: 
 
