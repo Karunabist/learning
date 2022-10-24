@@ -4413,7 +4413,12 @@ Research and service efforts to the university and Assistantship
 
 - [X] [My template](https://github.com/MadanBaduwal/phd-career/blob/main/email_for_assistantship.md)
 
-## Crack Interview
+## Crack University Interview
+
+## Visa process and visa interview
+
+- [X] [My note: visa process](https://github.com/MadanBaduwal/people-in-computer-vision/blob/main/visa_processing.md)
+- [X] [My note: visa interview questions](https://github.com/MadanBaduwal/people-in-computer-vision/blob/main/visa_interview_questions.md)
 
 ## Vision Problems and datasets
 - [X] [vision problems my note](https://www.computervisiondatasets.ml/)
