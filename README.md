@@ -4359,9 +4359,13 @@ Here is an email template:
 
 - [X] [My note on application fee waiver email template](https://github.com/MadanBaduwal/phd-career/blob/main/application_fee_waiver.md)
 
-## Check funding aviable at universities
+## Check funding aviable at universities 
+
+Check funding aviable at universities to department chair/ department head
+
 You can check funding by visiting professors personal website or by sending email to program director.
 
+- [X] [My note](https://github.com/MadanBaduwal/people-in-computer-vision/blob/main/funding_available_at_university.md)
 
 ## Write cold email to professors
 
