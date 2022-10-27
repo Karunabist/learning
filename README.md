@@ -4323,7 +4323,14 @@ Moreover, we will need to perform the different analysis levels like morphologic
 
 
 <details>
+<summary>Neuroscience</summary>
+
+</details>
+
+<details>
 <summary>PHD career(2D/3D Segmentation and Detection)</summary>
+
+
 
 
 
