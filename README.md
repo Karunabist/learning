@@ -4404,6 +4404,7 @@ For Master:
 
 ## Statement of purpose(SOP)
 Prepare SOP for selected universities.
+- [X] [cs-sop.org](https://cs-sop.org/)
 
 ## Submit application
 Submit application with sop,test score pdfs,transcript,resume
@@ -4439,6 +4440,7 @@ Research and service efforts to the university and Assistantship
 
 
 ## Paper Reading
+- [X] [explainpaper](https://www.explainpaper.com/)
 - [X] [How to read paper my note](https://github.com/MadanBaduwal/phd-career/blob/main/paper-reading.md)
 - [X] [How to read paper my note](https://github.com/MadanBaduwal/phd-career/blob/main/paper-reading.md)
 - [X] [How to Read a Paper stanford](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
