@@ -4404,6 +4404,7 @@ For Master:
 
 ## Statement of purpose(SOP)
 Prepare SOP for selected universities.
+- [X] [How to Write a Bad Statement for a Computer Science Ph.D. Admissions Application](http://www.cs.cmu.edu/~pavlo/blog/2015/10/how-to-write-a-bad-statement-for-a-computer-science-phd-admissions-application.html?fbclid=IwAR0m9XcJ-8teKsEIvoLDZ4HbwfNOXEq-w8JBNvKVsbM5A2vMNSF1V4xCmGU)
 - [X] [cs-sop.org](https://cs-sop.org/)
 
 ## Submit application
