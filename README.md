@@ -4356,6 +4356,8 @@ GRE, TOEFL..
 
 Look English:GRE, TOEFL section for resources.
 
+- [ ] [Language](https://github.com/MadanBaduwal/learning)
+
 
 ## List universities 
 
@@ -4365,35 +4367,34 @@ For PHD visit professors profile and look at there personal website whether they
 - [X] [Researchers in computer vision with universities](https://github.com/MadanBaduwal/people-in-computer-vision)
 
 
-## Email for application fee waiver 
+## Application fee waiver
 
-Start writting application fee waiver emails to grad school or program/Graduate director or department chair person.
+Check universities for ways of fee waiver by seraching 'University name program fee waiver'.
+Start writting application fee waiver emails to grad school or program/Graduate director or department chair person. Most effective direction to mail director or chair. Grad school receive lots of email it's not possibe to get waiver code from them.
 
-Here is an email template: 
+Here is an email template to the : 
 
 - [X] [My note on application fee waiver email template](https://github.com/MadanBaduwal/phd-career/blob/main/application_fee_waiver.md)
 
-## Check funding aviable at universities 
+Attend Universities event:
 
-Check funding aviable at universities to department chair/ department head
+- [] [Attend event]()
 
-You can check funding by visiting professors personal website or by sending email to program director.
+
+## Check funding 
+
+You can check funding by visiting professors personal website or by sending email to program director/chair/head.
 
 - [X] [My note](https://github.com/MadanBaduwal/people-in-computer-vision/blob/main/funding_available_at_university.md)
 
-## Write cold email to professors
-
-Start writting emails to professors about your research.
-
-- [X] [My note on cold-email](https://github.com/MadanBaduwal/journals-and-conferences/blob/main/cold-email.md)
-- [X] [hunter](https://www.hunter.cuny.edu/ugresearch/repository/files/Approaching%20a%20Faculty%20Member.pdf)
-- [X] [University of California Berkely](https://research.berkeley.edu/how-cold-email-professor)
-- [X] [University of California Santa Cruz](https://ugr.ue.ucsc.edu/email)	
-- [X] [getting-a-gig](https://github.com/cassidoo/getting-a-gig)
 
 ## Latter of recommendation(LOR)
+
+- [] [Berkly Sample](https://gsi.berkeley.edu/media/sample-recommendation-letter.pdf)
+- [] [MIT](https://mitadmissions.org/apply/parents-educators/writingrecs/)
+
 	
-## Select universities
+## Finalize universities
 
 For PHD:
 * Test score requirements
@@ -4415,7 +4416,11 @@ Prepare SOP for selected universities.
 - [X] [cs-sop.org](https://cs-sop.org/)
 
 ## Submit application
-Submit application with sop,test score pdfs,transcript,resume
+Ready your all your documents sop,test score pdfs,transcript,resume
+
+- After submitting your application you will receive id to track your application status
+- Keep track of your applcication 
+
 
 ## Mail For Recommendation
 
@@ -4428,13 +4433,23 @@ Write an email for latter of recommendation.
 Research and service efforts to the university and Assistantship
 
 - [X] [My template](https://github.com/MadanBaduwal/phd-career/blob/main/email_for_assistantship.md)
+Start writting emails to professors about your research.
+- [X] [My note on cold-email](https://github.com/MadanBaduwal/journals-and-conferences/blob/main/cold-email.md)
+- [X] [hunter](https://www.hunter.cuny.edu/ugresearch/repository/files/Approaching%20a%20Faculty%20Member.pdf)
+- [X] [University of California Berkely](https://research.berkeley.edu/how-cold-email-professor)
+- [X] [University of California Santa Cruz](https://ugr.ue.ucsc.edu/email)	
+- [X] [getting-a-gig](https://github.com/cassidoo/getting-a-gig)
+
 
 ## Crack University Interview
+
+- Closely related with SOP
+
 
 ## Visa process and visa interview
 
 - [X] [My note: visa process](https://github.com/MadanBaduwal/people-in-computer-vision/blob/main/visa_processing.md)
-- [X] [My note: visa interview questions](https://github.com/MadanBaduwal/people-in-computer-vision/blob/main/visa_interview_questions.md)
+- [X] [My note: visa interview questions: Highly realted with SOP](https://github.com/MadanBaduwal/people-in-computer-vision/blob/main/visa_interview_questions.md)
 
 ## Vision Problems and datasets
 - [X] [vision problems my note](https://www.computervisiondatasets.ml/)
@@ -4448,6 +4463,7 @@ Research and service efforts to the university and Assistantship
 
 
 ## Paper Reading
+- [X] [research dictionary 1](https://github.com/MadanBaduwal/phd-career/blob/main/research_dictionary1.md)
 - [X] [explainpaper](https://www.explainpaper.com/)
 - [X] [How to read paper my note](https://github.com/MadanBaduwal/phd-career/blob/main/paper-reading.md)
 - [X] [How to read paper my note](https://github.com/MadanBaduwal/phd-career/blob/main/paper-reading.md)
