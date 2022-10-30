@@ -4337,7 +4337,7 @@ Moreover, we will need to perform the different analysis levels like morphologic
 
 
 <details>
-<summary>PHD career(2D/3D Segmentation and Detection)</summary>
+<summary>PHD career(Machine learning paradigms for 2D/3D Segmentation and Detection)</summary>
 
 
 # PHD career(Single problem)
