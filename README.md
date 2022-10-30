@@ -4327,11 +4327,17 @@ Moreover, we will need to perform the different analysis levels like morphologic
 
 </details>
 
+
+
+<details>
+<summary>Money</summary>
+
+</details>
+
+
+
 <details>
 <summary>PHD career(2D/3D Segmentation and Detection)</summary>
-
-
-
 
 
 # PHD career(Single problem)
@@ -4342,6 +4348,7 @@ Moreover, we will need to perform the different analysis levels like morphologic
 Few old papers
 
 * [INERTIA AND ENERGY CONTENT](https://cdn2.hubspot.net/hubfs/232514/Einstein%20E=mc2%20(pp172-174).pdf)
+* [Applying to Ph.D. Programs in Computer Science](http://www.cs.cmu.edu/~harchol/gradschooltalk.pdf)
 
 ## Test exams 
 
@@ -4541,11 +4548,6 @@ Daily paper reading
 </details>
 
 
-
-<details>
-<summary>Money</summary>
-
-</details>
 
 
 **Approach of solving any type of problem**
