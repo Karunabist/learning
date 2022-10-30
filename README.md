@@ -4584,3 +4584,7 @@ Daily paper reading
 **Result of learning?**
 
 Find out the problem in existing system. Try to fix it with new approach.
+
+**What is life?**
+
+Life is solving a single problem after acquiring knowledge of all other fields related to this problem.
