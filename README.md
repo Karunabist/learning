@@ -4369,7 +4369,10 @@ For PHD visit professors profile and look at there personal website whether they
 
 ## Application fee waiver
 
-Check universities for ways of fee waiver by seraching 'University name program fee waiver'.
+Check universities for ways of fee waiver by seraching 'University name program admission fee waiver'. 
+
+Write Application fee waiver in linkedine and filter by post.
+
 Start writting application fee waiver emails to grad school or program/Graduate director or department chair person. Most effective direction to mail director or chair. Grad school receive lots of email it's not possibe to get waiver code from them.
 
 Here is an email template to the : 
