@@ -4466,6 +4466,14 @@ Start writting emails to professors about your research.
 - [X] [People working in Machine Learning](https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:machine_learning)
 - [X] [people working in computer vision my note](https://madanbaduwal.github.io/people-in-computer-vision/) and [scholar](https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:computer_vision)
 
+## Types of Research Papers
+- [X] Analytical Research Paper: analysis of facts, events, issues, and ideas. researcher must remain neutral
+- [X] Argumentative Research Paper: problem with two opposing viewpoints, analyze them to propose their pros and cons and finally supports one viewpoint. 
+- [X] Cause and Effect Research Paper: assigned to the freshers. The main aim of this paper is to teach the researcher on how to write a research paper
+- [X] Experimental Research Paper: These research papers are usually written for biology, chemistry, physics, psychology, and sociology.
+- [X] Problem-Solution Research Paper(Mine): finding solutions to certain problems. n this research paper, the researcher describes the problem, analyze the available information, find some possible solutions and prove their effectiveness by giving examples, details, statistical data etc.
+- [X] Report Paper: This paper aims at providing all the facts and necessary information about the research topic
+- [X] Survey Research Paper
 
 ## Paper Reading
 - [X] [research dictionary 1](https://github.com/MadanBaduwal/phd-career/blob/main/research_dictionary1.md)
