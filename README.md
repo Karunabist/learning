@@ -524,8 +524,9 @@ equal)
 	- [X] ${\displaystyle \mathbf {Z} }$ or ${\displaystyle \mathbb {Z} }$ , the set of all integers (whether positive, negative or zero): ${\displaystyle \mathbf {Z} =\{...,-2,-1,0,1,2,3,...\}}$
 	- [X] ${\displaystyle \mathbf {Q} }$ or ${\displaystyle \mathbb {Q} }$ , the set of all rational numbers (that is, the set of all proper and improper fractions).
 	- [X] ${\displaystyle \mathbf {R} }$ or ${\displaystyle \mathbb {R} }$ , the set of all real numbers, including all rational numbers and all irrational numbers (which include algebraic numbers such as ${\displaystyle {\sqrt {2}}}$ that cannot be rewritten as fractions, as well as transcendental numbers such as π and e)
+	    - In mathematics, the real coordinate space of dimension n, denoted $R^n or {\displaystyle \mathbb {R} ^{n}}$, is the set of the n-tuples of real numbers
 	- [X] ${\displaystyle \mathbf {C} }$ or ${\displaystyle \mathbb {C} }$, the set of all complex numbers: C = {a + bi | a, b ∈ R}, for example, 1 + 2i ∈ C.
-	   - In mathematics, the real coordinate space of dimension n, denoted $R^n or {\displaystyle \mathbb {R} ^{n}}$, is the set of the n-tuples of real numbers
+	   
 	
 
 - [X] [Functions](https://en.wikipedia.org/wiki/Function_(mathematics)): A function (or mapping) from a set A to a set B is a rule that assigns to each "input" element of A an "output" that is an element of B; more formally, a function is a special kind of relation, one that relates each element of A to exactly one element of B. A function is called
