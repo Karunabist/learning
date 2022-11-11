@@ -4358,7 +4358,7 @@ GRE, TOEFL..
 
 Look English:GRE, TOEFL section for resources.
 
-- [ ] [Language](https://github.com/MadanBaduwal/learning)
+- [X] [Language](https://github.com/MadanBaduwal/learning)
 
 
 ## List universities 
@@ -4383,7 +4383,7 @@ Here is an email template to the :
 
 Attend Universities event:
 
-- [] [Attend event]()
+- [X] [Attend event]()
 
 
 ## Check funding 
@@ -4395,8 +4395,8 @@ You can check funding by visiting professors personal website or by sending emai
 
 ## Latter of recommendation(LOR)
 
-- [] [Berkly Sample](https://gsi.berkeley.edu/media/sample-recommendation-letter.pdf)
-- [] [MIT](https://mitadmissions.org/apply/parents-educators/writingrecs/)
+- [X] [Berkly Sample](https://gsi.berkeley.edu/media/sample-recommendation-letter.pdf)
+- [X] [MIT](https://mitadmissions.org/apply/parents-educators/writingrecs/)
 
 	
 ## Finalize universities
