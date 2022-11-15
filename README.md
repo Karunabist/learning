@@ -1,4 +1,4 @@
-# Learning 👀 
+# Learning 👀 to solve problems
 
 **The process of learning anything.**
 
