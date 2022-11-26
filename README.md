@@ -4336,10 +4336,15 @@ Moreover, we will need to perform the different analysis levels like morphologic
 
 </details>
 
+<details>
+<summary>MS career(Cognative science, Machine learning paradigms for 2D/3D Segmentation and Detection)</summary>
+</details>
+
+
 
 
 <details>
-<summary>PHD career(COgnative science, Machine learning paradigms for 2D/3D Segmentation and Detection)</summary>
+<summary>PHD career(Cognative science, Machine learning paradigms for 2D/3D Segmentation and Detection)</summary>
 
 
 # PHD career(Single problem)
