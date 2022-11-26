@@ -4432,6 +4432,9 @@ Daily paper reading
 - [X] [List from Resurchify](https://www.resurchify.com/impact/category/Computer-Vision-and-Pattern-Recognition)
 - [X] [List from Research](https://research.com/conference-rankings/computer-science/computer-vision)
 
+## Notes
+
+- [ ] [The life-cycle of your manuscript](https://reader.elsevier.com/reader/sd/pii/S1360859219303080?token=D562FBFA038922250D087894CA6165D4D537305858574F7160385D0C6B3BB24934770B0A5999AD624BCFACD77C5D2B6F&originRegion=eu-west-1&originCreation=20221126200258)
 
 ## Research
 - [X] [How to make steady research progress?](steady-progress.md)
@@ -4443,38 +4446,6 @@ Daily paper reading
 - [X] [How to work with your advisor?](https://twitter.com/jbhuang0604/status/1546361365778022400)
 - [X] [How to work with your senior advisor?](https://twitter.com/jbhuang0604/status/1563740402657775618)
 
-## Career
-- [X] [How to prepare your Curriculum Vitae?](https://twitter.com/jbhuang0604/status/1433651068282540033)
-- [X] [How to find a research internship?](https://twitter.com/jbhuang0604/status/1438337355031719941)
-- [X] [How to intern?](https://twitter.com/jbhuang0604/status/1505734716657438724)
-- [X] [How to prepare graduate school interview?](https://twitter.com/jbhuang0604/status/1482238901595127808)
-- [X] [How to improve graduate application after submission?](https://twitter.com/jbhuang0604/status/1472410988322377732)
-- [X] [How do I maximize my chance for PhD programs?](https://twitter.com/jbhuang0604/status/1425204888301150208)
-- [X] [How to ask for a letter of recommendation?](https://twitter.com/jbhuang0604/status/1522072974068703233)
-- [X] [How to survive the first year of PhD?](https://twitter.com/jbhuang0604/status/1523505108318924802)
-- [X] [How to get a tenure-track faculty job?](https://twitter.com/jbhuang0604/status/1533302893364789257)
-
-## Productivity
-- [X] [How to manage your time?](https://twitter.com/jbhuang0604/status/1430003911037947904)
-- [X] [How to be productive?](https://twitter.com/jbhuang0604/status/1430003911037947904)
-
-## Networking
-- [X] [How to network in a in-person conference?](https://twitter.com/jbhuang0604/status/1517352789780934656)
-- [X] [How to network in a virtual conference?](https://twitter.com/jbhuang0604/status/1446692346800873477)
-- [X] [How to write good cold emails?](cold-emails.md)
-- [X] [How do I get professors to answer my emails?](https://twitter.com/jbhuang0604/status/1441548826645602309)
-
-
-## Communication
-- [X] [How to disseminate your research?](https://twitter.com/jbhuang0604/status/1379448897823776769)
-- [X] [How to ask research questions?](https://twitter.com/jbhuang0604/status/1472808608874352641)
-- [X] [How to make a research poster?](https://twitter.com/jbhuang0604/status/1438948793718804486)
-- [X] [How to improve asynchronous communication?](https://twitter.com/jbhuang0604/status/1515912622721355781)
-- [X] [How to communicate clearly?](https://twitter.com/jbhuang0604/status/1520615196498214913)
-- [X] [How to set up a good calendar invite?](https://twitter.com/jbhuang0604/status/1528566229505650691)
-
-## Financial
-- [X] [How to save for retirement as a graduate student (in the US)?](https://twitter.com/jbhuang0604/status/1510479669962940416)
 
 </details>
 
