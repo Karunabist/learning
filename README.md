@@ -4370,7 +4370,7 @@ Moreover, we will need to perform the different analysis levels like morphologic
 </details>
 
 <details>
-<summary>MS career(Cognative science, Machine learning paradigms for 2D/3D Segmentation and Detection)</summary>
+<summary>MS</summary>
 </details>
 
 
