@@ -2571,7 +2571,7 @@ Object
 - [ ] [From Languages to Information: Stanford](http://web.stanford.edu/class/cs124/)
 - [ ] [Compiler](http://web.stanford.edu/class/cs143/)
 
-## Any programmin/project structure
+## Any programming project structure
 
 ```
 
@@ -2586,6 +2586,7 @@ Object
          ├── Function attribute
       ├── Generator
          ├── Generator attribute
+...
 ```
 
 ### Python
@@ -2840,7 +2841,7 @@ print(ClassName.mro())
 - [X] [Wikipedia: Python (programming language)](https://en.wikipedia.org/wiki/Python_(programming_language))
 - [X] [awesome-python:Python Library](https://github.com/vinta/awesome-python)
 
-### Go language
+### Go language project structure
 
 Note: Unlike C,C++,js,python in go language package is .go file and module is folder.
 
@@ -2861,7 +2862,7 @@ Go language project structure
 			├── Generator attribute
 		go.mod
 	go.work
-    ...
+...
 
 ```
 - [X] [go language documentation: Official](https://go.dev/doc/)
