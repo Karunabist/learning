@@ -4322,7 +4322,12 @@ Moreover, we will need to perform the different analysis levels like morphologic
 
 ## System Design
 
+Monolithioc
+
+Microservices
+
 - [X] [system-design-primer](https://github.com/donnemartin/system-design-primer)
+- [X] [Microservices](https://aws.amazon.com/microservices/)
 - [X] [how-web-works: What happens behind the scenes when we type www.google.com in a browser?](https://github.com/vasanthk/how-web-works)
 - [X] [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 - [X] [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
