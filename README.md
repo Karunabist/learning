@@ -2573,6 +2573,8 @@ Object
 
 ## Any programmin/project structure
 
+```
+
 ├── Package               <- Folder Contain Many programming files(modules)
     ├── Module_name  (.py)          <- File (i.e  .h(in c and c++),.py,.js ,.java,php...)
     ├── Module attribute
@@ -2584,6 +2586,7 @@ Object
          ├── Function attribute
       ├── Generator
          ├── Generator attribute
+```
 
 ### Python
 
