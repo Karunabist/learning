@@ -2850,7 +2850,7 @@ Go language project structure
 
 ├── Module              <- Folder Contain Many programming files(packages)
     ├── package_name  (.go)          <- File (i.e  .go)
-    ├── Module attribute
+    ├── package attribute
       ├── Class_name
       │   ├── Class attribute
       │        ├── Method
@@ -2863,6 +2863,9 @@ Go language project structure
 
 ```
 - [X] [go language documentation: Official](https://go.dev/doc/)
+- [X] [go commands: my note](https://github.com/MadanBaduwal/go-language/blob/main/go-commands.md)
+- [X] [go commands](https://pkg.go.dev/cmd/go)
+
 
 ## Artificial intelligence
 
