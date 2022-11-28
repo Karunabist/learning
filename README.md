@@ -2847,19 +2847,23 @@ Note: Unlike C,C++,js,python in go language package is .go file and module is fo
 Go language project structure
 
 ```
-
-├── Module              <- Folder Contain Many programming files(packages)
-    ├── package_name  (.go)          <- File (i.e  .go)
-    ├── package attribute
-      ├── Class_name
-      │   ├── Class attribute
-      │        ├── Method
-      │            ├── Method attribute
-      ├── Function
-         ├── Function attribute
-      ├── Generator
-         ├── Generator attribute
-
+├── Workspace
+	├── Module             <- Folder Contain Many programming files(packages)
+		├── package_name  (.go)          <- File (i.e  .go)
+		├── package attribute
+		├── Class_name
+		│   ├── Class attribute
+		│        ├── Method
+		│            ├── Method attribute
+		├── Function
+			├── Function attribute
+		├── Generator
+			├── Generator attribute
+		go.mod
+	go.work
+    |
+	|
+	|
 
 ```
 - [X] [go language documentation: Official](https://go.dev/doc/)
