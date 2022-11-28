@@ -2386,6 +2386,20 @@ Object
 - [ ] [From Languages to Information: Stanford](http://web.stanford.edu/class/cs124/)
 - [ ] [Compiler](http://web.stanford.edu/class/cs143/)
 
+## Any programmin/project structure
+
+├── Package               <- Folder Contain Many programming files(modules)
+    ├── Module_name  (.py)          <- File (i.e  .h(in c and c++),.py,.js ,.java,php...)
+    ├── Module attribute
+      ├── Class_name
+      │   ├── Class attribute
+      │        ├── Method
+      │            ├── Method attribute
+      ├── Function
+         ├── Function attribute
+      ├── Generator
+         ├── Generator attribute
+
 ### Python
 
 Python is object. Everything is object in python. Strings are objects, Lists are objects, Functions are objects and Even modules are also objects.
