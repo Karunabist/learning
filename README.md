@@ -2638,7 +2638,8 @@ print(ClassName.mro())
 - [X] [Wikipedia: Python (programming language)](https://en.wikipedia.org/wiki/Python_(programming_language))
 - [X] [awesome-python:Python Library](https://github.com/vinta/awesome-python)
 
-	
+### Go language
+
 ## Artificial intelligence
 
 ### Data and Feature engineering
