@@ -2654,6 +2654,8 @@ print(ClassName.mro())
 
 ### Go language
 
+Note: Unlike C,C++,js,python in go language package is .go file and module is folder.
+
 ## Artificial intelligence
 
 ### Data and Feature engineering
