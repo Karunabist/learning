@@ -2861,9 +2861,7 @@ Go language project structure
 			├── Generator attribute
 		go.mod
 	go.work
-    |
-	|
-	|
+    ...
 
 ```
 - [X] [go language documentation: Official](https://go.dev/doc/)
