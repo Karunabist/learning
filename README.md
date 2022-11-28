@@ -12,6 +12,29 @@ Note: A predicate is a type of relation. A relation is a particular type of set.
 
 Because we continiously collect tiny elements(data) for our space(brain). And define relationship between these elements(Brain(model) training).To obtain perfect output.
 
+**Approach of solving any type of problem**
+
+1. First define space(Input)
+2. Second define a function(Process)
+3. Third, we receive output from operation(Output)
+
+**Universl Rules**
+* Everything is start from left to right
+
+    Examples:
+
+	* In computer science everything start from left-top corner 
+	* Clock wise direction is left to right
+	* Writing in paper is start from left-top to right.
+
+**Result of learning?**
+
+Find out the problem in existing system. Try to fix it with new approach.
+
+**What is life?**
+
+Life is solving a single problem after acquiring knowledge of all other fields related to this problem.
+
 
 <table width="100%">
   <tr>
@@ -4504,28 +4527,3 @@ Daily paper reading
 
 </details>
 
-
-
-
-**Approach of solving any type of problem**
-
-1. First define space(Input)
-2. Second define a function(Process)
-3. Third, we receive output from operation(Output)
-
-**Universl Rules**
-* Everything is start from left to right
-
-    Examples:
-
-	* In computer science everything start from left-top corner 
-	* Clock wise direction is left to right
-	* Writing in paper is start from left-top to right.
-
-**Result of learning?**
-
-Find out the problem in existing system. Try to fix it with new approach.
-
-**What is life?**
-
-Life is solving a single problem after acquiring knowledge of all other fields related to this problem.
