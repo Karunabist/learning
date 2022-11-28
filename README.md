@@ -4345,14 +4345,17 @@ Moreover, we will need to perform the different analysis levels like morphologic
 
 
 ##### Web framework
-- [ ] [Spring](https://docs.spring.io/spring-framework/docs/current/reference/html/)
-- [ ] [Laravel](https://laravel.com/docs/9.x/installation)
-- [ ] [ASP.NET](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-6.0)
-- [X] [Nodejs: Documentation](https://nodejs.org/en/docs/)
-- [X] [Wordpress: Documentation](https://developer.wordpress.org/)
+
 - [X] [Django: Documentaion](https://docs.djangoproject.com/en/4.1/)
 - [X] [Django : awesome-django](https://github.com/wsvincent/awesome-django)
 - [X] [Flask: Documentation](https://flask.palletsprojects.com/en/2.2.x/)
+- [X] [Gin Web Framework (Gin)](https://go.dev/doc/tutorial/web-service-gin)
+- [X] [Nodejs: Documentation](https://nodejs.org/en/docs/)
+- [X] [Wordpress: Documentation](https://developer.wordpress.org/)
+- [ ] [Spring](https://docs.spring.io/spring-framework/docs/current/reference/html/)
+- [ ] [Laravel](https://laravel.com/docs/9.x/installation)
+- [ ] [ASP.NET](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-6.0)
+
 
 ##### SEO
 - [ ] [SEO: What Is SEO / Search Engine Optimization?](https://searchengineland.com/guide/what-is-seo)
