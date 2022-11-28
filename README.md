@@ -2844,6 +2844,26 @@ print(ClassName.mro())
 
 Note: Unlike C,C++,js,python in go language package is .go file and module is folder.
 
+Go language project structure
+
+```
+
+├── Module              <- Folder Contain Many programming files(packages)
+    ├── package_name  (.go)          <- File (i.e  .go)
+    ├── Module attribute
+      ├── Class_name
+      │   ├── Class attribute
+      │        ├── Method
+      │            ├── Method attribute
+      ├── Function
+         ├── Function attribute
+      ├── Generator
+         ├── Generator attribute
+
+
+```
+- [X] [go language documentation: Official](https://go.dev/doc/)
+
 ## Artificial intelligence
 
 ### Data and Feature engineering
