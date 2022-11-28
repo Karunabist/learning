@@ -2852,14 +2852,12 @@ Go language project structure
 	├── Module             <- Folder Contain Many programming files(packages)
 		├── package_name  (.go)          <- File (i.e  .go)
 		├── package attribute
-		├── Class_name
-		│   ├── Class attribute
+		├── Structs 
+		│   ├── Structs attribute
 		│        ├── Method
 		│            ├── Method attribute
 		├── Function
 			├── Function attribute
-		├── Generator
-			├── Generator attribute
 		go.mod
 	go.work
 ...
