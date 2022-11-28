@@ -2163,6 +2163,168 @@ Other branches of engineering
 
 
 
+
+
+
+<details>
+<summary>Neuroscience</summary>
+
+</details>
+
+
+
+<details>
+<summary>Money</summary>
+
+## Career
+- [X] [How to prepare your Curriculum Vitae?](https://twitter.com/jbhuang0604/status/1433651068282540033)
+- [X] [How to find a research internship?](https://twitter.com/jbhuang0604/status/1438337355031719941)
+- [X] [How to intern?](https://twitter.com/jbhuang0604/status/1505734716657438724)
+- [X] [How to prepare graduate school interview?](https://twitter.com/jbhuang0604/status/1482238901595127808)
+- [X] [How to improve graduate application after submission?](https://twitter.com/jbhuang0604/status/1472410988322377732)
+- [X] [How do I maximize my chance for PhD programs?](https://twitter.com/jbhuang0604/status/1425204888301150208)
+- [X] [How to ask for a letter of recommendation?](https://twitter.com/jbhuang0604/status/1522072974068703233)
+- [X] [How to survive the first year of PhD?](https://twitter.com/jbhuang0604/status/1523505108318924802)
+- [X] [How to get a tenure-track faculty job?](https://twitter.com/jbhuang0604/status/1533302893364789257)
+
+## Productivity
+- [X] [How to manage your time?](https://twitter.com/jbhuang0604/status/1430003911037947904)
+- [X] [How to be productive?](https://twitter.com/jbhuang0604/status/1430003911037947904)
+
+## Networking
+- [X] [How to network in a in-person conference?](https://twitter.com/jbhuang0604/status/1517352789780934656)
+- [X] [How to network in a virtual conference?](https://twitter.com/jbhuang0604/status/1446692346800873477)
+- [X] [How to write good cold emails?](cold-emails.md)
+- [X] [How do I get professors to answer my emails?](https://twitter.com/jbhuang0604/status/1441548826645602309)
+
+
+## Communication
+- [X] [How to disseminate your research?](https://twitter.com/jbhuang0604/status/1379448897823776769)
+- [X] [How to ask research questions?](https://twitter.com/jbhuang0604/status/1472808608874352641)
+- [X] [How to make a research poster?](https://twitter.com/jbhuang0604/status/1438948793718804486)
+- [X] [How to improve asynchronous communication?](https://twitter.com/jbhuang0604/status/1515912622721355781)
+- [X] [How to communicate clearly?](https://twitter.com/jbhuang0604/status/1520615196498214913)
+- [X] [How to set up a good calendar invite?](https://twitter.com/jbhuang0604/status/1528566229505650691)
+
+## Financial
+- [X] [How to save for retirement as a graduate student (in the US)?](https://twitter.com/jbhuang0604/status/1510479669962940416)
+
+</details>
+
+<details>
+<summary>MS</summary>
+</details>
+
+
+
+
+<details>
+<summary>PHD career(Cognative science, Machine learning paradigms for 2D/3D Segmentation and Detection)</summary>
+
+
+# PHD career(Single problem)
+
+* why the problem is interesting
+* How your paper differs (and improves upon) previous work
+
+Few old papers
+
+* [INERTIA AND ENERGY CONTENT](https://cdn2.hubspot.net/hubfs/232514/Einstein%20E=mc2%20(pp172-174).pdf)
+* [Applying to Ph.D. Programs in Computer Science](http://www.cs.cmu.edu/~harchol/gradschooltalk.pdf)
+
+
+## Vision Problems and datasets
+- [X] [vision problems my note](https://www.computervisiondatasets.ml/)
+- [X] [Wikipedia](https://en.wikipedia.org/wiki/Computer_vision#Typical_tasks)
+	
+	
+## Peoples
+- [X] [People working in Artificial Intelligance](https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:artificial_intelligence)
+- [X] [People working in Machine Learning](https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:machine_learning)
+- [X] [people working in computer vision my note](https://madanbaduwal.github.io/people-in-computer-vision/) and [scholar](https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:computer_vision)
+
+## Types of Research Papers
+- [X] Analytical Research Paper: analysis of facts, events, issues, and ideas. researcher must remain neutral
+- [X] Argumentative Research Paper: problem with two opposing viewpoints, analyze them to propose their pros and cons and finally supports one viewpoint. 
+- [X] Cause and Effect Research Paper: assigned to the freshers. The main aim of this paper is to teach the researcher on how to write a research paper
+- [X] Experimental Research Paper: These research papers are usually written for biology, chemistry, physics, psychology, and sociology.
+- [X] Problem-Solution Research Paper(Mine): finding solutions to certain problems. n this research paper, the researcher describes the problem, analyze the available information, find some possible solutions and prove their effectiveness by giving examples, details, statistical data etc.
+- [X] Report Paper: This paper aims at providing all the facts and necessary information about the research topic
+- [X] Survey Research Paper
+
+## Paper Reading
+- [X] [research dictionary 1](https://github.com/MadanBaduwal/phd-career/blob/main/research_dictionary1.md)
+- [X] [explainpaper](https://www.explainpaper.com/)
+- [X] [How to read paper my note](https://github.com/MadanBaduwal/phd-career/blob/main/paper-reading.md)
+- [X] [How to read paper my note](https://github.com/MadanBaduwal/phd-career/blob/main/paper-reading.md)
+- [X] [How to Read a Paper stanford](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
+- [X] [How to Read a Paper Hardvard](https://www.eecs.harvard.edu/~michaelm/postscripts/ReadPaper.pdf)
+- [X] [How to read a Paper Freecodecamp](https://www.freecodecamp.org/news/building-a-habit-of-reading-research-papers/)
+
+Daily paper reading
+
+1. [arxiv](https://arxiv.org/list/cs.CV/new)
+2. [CVF](https://openaccess.thecvf.com/menu)
+3. [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0,5&q=%22computer+vision%22&scisbd=1)
+4. [AK: Twitter](https://twitter.com/_akhaliq)
+
+## Paper Writing
+
+- [X] [How to write a good CVPR submission - William T. Freeman](https://billf.mit.edu/sites/default/files/documents/cvprPapers.pdf)
+
+    - [X] [1](): The most dangerous mistake you can make when writing your paper is assuming that the reviewer will understand the point of your paper. The complaint is often heard that the reviewer did not understand what an author was trying to say
+	    * Make it easy to see the main point
+
+    - [X] [1](): Start by stating which problem you are addressing, keeping the **audience in mind**. They must care about it, which means that sometimes you must tell them **why they should care about the problem**.**why the problem is interesting**.
+	- [X] [2](): Then state briefly what the **other solutions are to the problem**, and why they aren't satisfactory. If they were satisfactory, you wouldn't need to do the work. **How your paper differs (and improves upon) previous work**.**what problem it solves**.**What is really new in your paper (and what isn't)**
+	- [X] [3](): Then explain your own solution, compare it with other solutions, and say why it's better. 
+	- [X] [4](): At the end, talk about related work where similar techniques and experiments have been used, but applied to a different problem. 
+
+
+- [X] [How to write paper my note](https://github.com/MadanBaduwal/journals-and-conferences/blob/main/paper-writting.md)
+- [X] [Uiversity of Wisconsin Madison](https://writing.wisc.edu/handbook/assignments/planresearchpaper/)
+- [X] [Purdue University](https://owl.purdue.edu/owl/general_writing/common_writing_assignments/research_papers/index.html)
+- [X] [aresearchguide](https://www.aresearchguide.com/1steps.html)
+- [X] [wikihow](https://www.wikihow.com/Write-a-Research-Paper)
+- [X] [TheBestSchools](https://thebestschools.org/resources/how-to-write-research-paper/)
+- [X] [How to write papers that are easy to read?](paper-writing.md)
+- [X] [How to write a paper that looks like a good one?](https://twitter.com/jbhuang0604/status/1437443017510621185)
+- [X] [How to write clear and concise sentences?](https://twitter.com/jbhuang0604/status/1437931004451250176)
+- [X] [How to write a good related work section?](related-work.md)
+- [X] [How to prepare journal response letter?](https://twitter.com/jbhuang0604/status/1387148974377865219)
+
+## Presentation
+- [X] [How to start a presentation?](https://twitter.com/jbhuang0604/status/1548882661581754370)
+- [X] [How to end a presentation?](https://twitter.com/jbhuang0604/status/1549959041908150275)
+- [X] [How to handle questions in a presentation?](https://twitter.com/jbhuang0604/status/1553583984948531205)
+- [X] [How to present a line plot?](https://twitter.com/jbhuang0604/status/1506101759911116809)
+- [X] [How to prepare your presentation slides?](https://twitter.com/jbhuang0604/status/1397058827405742085)
+- [X] [How to organize your talk?](https://twitter.com/jbhuang0604/status/1509033327981965313)
+
+## Journals and Conferences
+- [X] [List from Google Scholar](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_computervisionpatternrecognition)
+- [X] [List from SJR](https://www.scimagojr.com/journalrank.php?category=1707)
+- [X] [List from Resurchify](https://www.resurchify.com/impact/category/Computer-Vision-and-Pattern-Recognition)
+- [X] [List from Research](https://research.com/conference-rankings/computer-science/computer-vision)
+
+## Notes
+
+- [ ] [The life-cycle of your manuscript](https://reader.elsevier.com/reader/sd/pii/S1360859219303080?token=D562FBFA038922250D087894CA6165D4D537305858574F7160385D0C6B3BB24934770B0A5999AD624BCFACD77C5D2B6F&originRegion=eu-west-1&originCreation=20221126200258)
+
+## Research
+- [X] [How to make steady research progress?](steady-progress.md)
+- [X] [How to share progress with your mentors/collaborators?](https://twitter.com/jbhuang0604/status/1453378296608137229)
+- [X] [How to work with my mentors effectively?](working-with-mentor.md)
+- [X] [How to keep track of literature?](https://twitter.com/jbhuang0604/status/1426039195542360070)
+- [X] [How to come up with research ideas?](https://twitter.com/jbhuang0604/status/1423499757591400448)
+- [X] [How to cope with paper rejection?](https://twitter.com/jbhuang0604/status/1443248831102136333)
+- [X] [How to work with your advisor?](https://twitter.com/jbhuang0604/status/1546361365778022400)
+- [X] [How to work with your senior advisor?](https://twitter.com/jbhuang0604/status/1563740402657775618)
+
+
+</details>
+
+
 <details>
 <summary>Computer science(3 fields)</summary>
 
@@ -4366,164 +4528,3 @@ Microservices
 - [X] [Wikipedia: Computer Science](https://en.wikipedia.org/wiki/Computer_science)
 
 </details>
-
-
-
-<details>
-<summary>Neuroscience</summary>
-
-</details>
-
-
-
-<details>
-<summary>Money</summary>
-
-## Career
-- [X] [How to prepare your Curriculum Vitae?](https://twitter.com/jbhuang0604/status/1433651068282540033)
-- [X] [How to find a research internship?](https://twitter.com/jbhuang0604/status/1438337355031719941)
-- [X] [How to intern?](https://twitter.com/jbhuang0604/status/1505734716657438724)
-- [X] [How to prepare graduate school interview?](https://twitter.com/jbhuang0604/status/1482238901595127808)
-- [X] [How to improve graduate application after submission?](https://twitter.com/jbhuang0604/status/1472410988322377732)
-- [X] [How do I maximize my chance for PhD programs?](https://twitter.com/jbhuang0604/status/1425204888301150208)
-- [X] [How to ask for a letter of recommendation?](https://twitter.com/jbhuang0604/status/1522072974068703233)
-- [X] [How to survive the first year of PhD?](https://twitter.com/jbhuang0604/status/1523505108318924802)
-- [X] [How to get a tenure-track faculty job?](https://twitter.com/jbhuang0604/status/1533302893364789257)
-
-## Productivity
-- [X] [How to manage your time?](https://twitter.com/jbhuang0604/status/1430003911037947904)
-- [X] [How to be productive?](https://twitter.com/jbhuang0604/status/1430003911037947904)
-
-## Networking
-- [X] [How to network in a in-person conference?](https://twitter.com/jbhuang0604/status/1517352789780934656)
-- [X] [How to network in a virtual conference?](https://twitter.com/jbhuang0604/status/1446692346800873477)
-- [X] [How to write good cold emails?](cold-emails.md)
-- [X] [How do I get professors to answer my emails?](https://twitter.com/jbhuang0604/status/1441548826645602309)
-
-
-## Communication
-- [X] [How to disseminate your research?](https://twitter.com/jbhuang0604/status/1379448897823776769)
-- [X] [How to ask research questions?](https://twitter.com/jbhuang0604/status/1472808608874352641)
-- [X] [How to make a research poster?](https://twitter.com/jbhuang0604/status/1438948793718804486)
-- [X] [How to improve asynchronous communication?](https://twitter.com/jbhuang0604/status/1515912622721355781)
-- [X] [How to communicate clearly?](https://twitter.com/jbhuang0604/status/1520615196498214913)
-- [X] [How to set up a good calendar invite?](https://twitter.com/jbhuang0604/status/1528566229505650691)
-
-## Financial
-- [X] [How to save for retirement as a graduate student (in the US)?](https://twitter.com/jbhuang0604/status/1510479669962940416)
-
-</details>
-
-<details>
-<summary>MS</summary>
-</details>
-
-
-
-
-<details>
-<summary>PHD career(Cognative science, Machine learning paradigms for 2D/3D Segmentation and Detection)</summary>
-
-
-# PHD career(Single problem)
-
-* why the problem is interesting
-* How your paper differs (and improves upon) previous work
-
-Few old papers
-
-* [INERTIA AND ENERGY CONTENT](https://cdn2.hubspot.net/hubfs/232514/Einstein%20E=mc2%20(pp172-174).pdf)
-* [Applying to Ph.D. Programs in Computer Science](http://www.cs.cmu.edu/~harchol/gradschooltalk.pdf)
-
-
-## Vision Problems and datasets
-- [X] [vision problems my note](https://www.computervisiondatasets.ml/)
-- [X] [Wikipedia](https://en.wikipedia.org/wiki/Computer_vision#Typical_tasks)
-	
-	
-## Peoples
-- [X] [People working in Artificial Intelligance](https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:artificial_intelligence)
-- [X] [People working in Machine Learning](https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:machine_learning)
-- [X] [people working in computer vision my note](https://madanbaduwal.github.io/people-in-computer-vision/) and [scholar](https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:computer_vision)
-
-## Types of Research Papers
-- [X] Analytical Research Paper: analysis of facts, events, issues, and ideas. researcher must remain neutral
-- [X] Argumentative Research Paper: problem with two opposing viewpoints, analyze them to propose their pros and cons and finally supports one viewpoint. 
-- [X] Cause and Effect Research Paper: assigned to the freshers. The main aim of this paper is to teach the researcher on how to write a research paper
-- [X] Experimental Research Paper: These research papers are usually written for biology, chemistry, physics, psychology, and sociology.
-- [X] Problem-Solution Research Paper(Mine): finding solutions to certain problems. n this research paper, the researcher describes the problem, analyze the available information, find some possible solutions and prove their effectiveness by giving examples, details, statistical data etc.
-- [X] Report Paper: This paper aims at providing all the facts and necessary information about the research topic
-- [X] Survey Research Paper
-
-## Paper Reading
-- [X] [research dictionary 1](https://github.com/MadanBaduwal/phd-career/blob/main/research_dictionary1.md)
-- [X] [explainpaper](https://www.explainpaper.com/)
-- [X] [How to read paper my note](https://github.com/MadanBaduwal/phd-career/blob/main/paper-reading.md)
-- [X] [How to read paper my note](https://github.com/MadanBaduwal/phd-career/blob/main/paper-reading.md)
-- [X] [How to Read a Paper stanford](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
-- [X] [How to Read a Paper Hardvard](https://www.eecs.harvard.edu/~michaelm/postscripts/ReadPaper.pdf)
-- [X] [How to read a Paper Freecodecamp](https://www.freecodecamp.org/news/building-a-habit-of-reading-research-papers/)
-
-Daily paper reading
-
-1. [arxiv](https://arxiv.org/list/cs.CV/new)
-2. [CVF](https://openaccess.thecvf.com/menu)
-3. [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0,5&q=%22computer+vision%22&scisbd=1)
-4. [AK: Twitter](https://twitter.com/_akhaliq)
-
-## Paper Writing
-
-- [X] [How to write a good CVPR submission - William T. Freeman](https://billf.mit.edu/sites/default/files/documents/cvprPapers.pdf)
-
-    - [X] [1](): The most dangerous mistake you can make when writing your paper is assuming that the reviewer will understand the point of your paper. The complaint is often heard that the reviewer did not understand what an author was trying to say
-	    * Make it easy to see the main point
-
-    - [X] [1](): Start by stating which problem you are addressing, keeping the **audience in mind**. They must care about it, which means that sometimes you must tell them **why they should care about the problem**.**why the problem is interesting**.
-	- [X] [2](): Then state briefly what the **other solutions are to the problem**, and why they aren't satisfactory. If they were satisfactory, you wouldn't need to do the work. **How your paper differs (and improves upon) previous work**.**what problem it solves**.**What is really new in your paper (and what isn't)**
-	- [X] [3](): Then explain your own solution, compare it with other solutions, and say why it's better. 
-	- [X] [4](): At the end, talk about related work where similar techniques and experiments have been used, but applied to a different problem. 
-
-
-- [X] [How to write paper my note](https://github.com/MadanBaduwal/journals-and-conferences/blob/main/paper-writting.md)
-- [X] [Uiversity of Wisconsin Madison](https://writing.wisc.edu/handbook/assignments/planresearchpaper/)
-- [X] [Purdue University](https://owl.purdue.edu/owl/general_writing/common_writing_assignments/research_papers/index.html)
-- [X] [aresearchguide](https://www.aresearchguide.com/1steps.html)
-- [X] [wikihow](https://www.wikihow.com/Write-a-Research-Paper)
-- [X] [TheBestSchools](https://thebestschools.org/resources/how-to-write-research-paper/)
-- [X] [How to write papers that are easy to read?](paper-writing.md)
-- [X] [How to write a paper that looks like a good one?](https://twitter.com/jbhuang0604/status/1437443017510621185)
-- [X] [How to write clear and concise sentences?](https://twitter.com/jbhuang0604/status/1437931004451250176)
-- [X] [How to write a good related work section?](related-work.md)
-- [X] [How to prepare journal response letter?](https://twitter.com/jbhuang0604/status/1387148974377865219)
-
-## Presentation
-- [X] [How to start a presentation?](https://twitter.com/jbhuang0604/status/1548882661581754370)
-- [X] [How to end a presentation?](https://twitter.com/jbhuang0604/status/1549959041908150275)
-- [X] [How to handle questions in a presentation?](https://twitter.com/jbhuang0604/status/1553583984948531205)
-- [X] [How to present a line plot?](https://twitter.com/jbhuang0604/status/1506101759911116809)
-- [X] [How to prepare your presentation slides?](https://twitter.com/jbhuang0604/status/1397058827405742085)
-- [X] [How to organize your talk?](https://twitter.com/jbhuang0604/status/1509033327981965313)
-
-## Journals and Conferences
-- [X] [List from Google Scholar](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_computervisionpatternrecognition)
-- [X] [List from SJR](https://www.scimagojr.com/journalrank.php?category=1707)
-- [X] [List from Resurchify](https://www.resurchify.com/impact/category/Computer-Vision-and-Pattern-Recognition)
-- [X] [List from Research](https://research.com/conference-rankings/computer-science/computer-vision)
-
-## Notes
-
-- [ ] [The life-cycle of your manuscript](https://reader.elsevier.com/reader/sd/pii/S1360859219303080?token=D562FBFA038922250D087894CA6165D4D537305858574F7160385D0C6B3BB24934770B0A5999AD624BCFACD77C5D2B6F&originRegion=eu-west-1&originCreation=20221126200258)
-
-## Research
-- [X] [How to make steady research progress?](steady-progress.md)
-- [X] [How to share progress with your mentors/collaborators?](https://twitter.com/jbhuang0604/status/1453378296608137229)
-- [X] [How to work with my mentors effectively?](working-with-mentor.md)
-- [X] [How to keep track of literature?](https://twitter.com/jbhuang0604/status/1426039195542360070)
-- [X] [How to come up with research ideas?](https://twitter.com/jbhuang0604/status/1423499757591400448)
-- [X] [How to cope with paper rejection?](https://twitter.com/jbhuang0604/status/1443248831102136333)
-- [X] [How to work with your advisor?](https://twitter.com/jbhuang0604/status/1546361365778022400)
-- [X] [How to work with your senior advisor?](https://twitter.com/jbhuang0604/status/1563740402657775618)
-
-
-</details>
-
