@@ -4535,14 +4535,29 @@ Moreover, we will need to perform the different analysis levels like morphologic
 - [X] [Streamlit]()
 - [X] [Gradio]()
 
-## System Design
+## System Design (**architecture**, **interfaces**, and **data**)
 
-Monolithioc
+System design is the process of defining the **architecture**, **interfaces**, and **data** for a system that satisfies specific requirements. 
 
-Microservices
+Elements of a System
+- [X] [Architecture]()
+- [X] [Modules]()
+- [X] [components]()
+- [X] [Interfaces]()
+- [X] [Data]()
 
-- [X] [system-design-primer](https://github.com/donnemartin/system-design-primer)
+System Design fundamentals
+
+- [X] [Horizontal and vertical scaling]()
+- [X] [Monolithioc]()
 - [X] [Microservices](https://aws.amazon.com/microservices/)
+- [X] [Proxy servers]()
+- [X] [CAP theorem]()
+- [X] [Redundancy and replication]()
+
+References
+- [X] [complete guide to System Design](https://www.educative.io/blog/complete-guide-to-system-design)
+- [X] [system-design-primer](https://github.com/donnemartin/system-design-primer)
 - [X] [how-web-works: What happens behind the scenes when we type www.google.com in a browser?](https://github.com/vasanthk/how-web-works)
 - [X] [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 - [X] [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
