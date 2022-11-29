@@ -4554,6 +4554,7 @@ Microservices
 - [X] [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
 - [X] [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 - [X] [Diagram as Code]()
+- [X] [System design: codekarle](https://www.codekarle.com/)
 
 ## References
 - [X] [Wikipedia: Computer Science](https://en.wikipedia.org/wiki/Computer_science)
