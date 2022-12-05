@@ -37,7 +37,7 @@ Life is solving a single problem after acquiring knowledge of all other fields r
 
 **Focus on single platform and spreed it anywhere**
 
-My single platform is **github: Integrate other Applications**,**Vscode: Extensions** and I always connect everything to github.
+My single platform is **github** with **Vscode: Extensions** , **github: Integrate other Applications**, **Notion: Template for everything** and I always connect everything to github.
 
 
 <table width="100%">
