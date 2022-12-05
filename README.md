@@ -35,6 +35,10 @@ Find out the problem in existing system. Try to fix it with new approach.
 
 Life is solving a single problem after acquiring knowledge of all other fields related to this problem.
 
+**Focus on single platform and spreed it anywhere**
+
+My single platform is github and I always connect everything to github.
+
 
 <table width="100%">
   <tr>
@@ -4495,6 +4499,7 @@ Moreover, we will need to perform the different analysis levels like morphologic
 - [ ] [Bitbucket]()
 - [ ] [Gitlab]()
 - [ ] [Jira]()
+    - Connect jira with github
 - [ ] [Pypi: Documentation](https://py-pkgs.org/08-ci-cd.html)
 - [ ] [Maven]()
 - [ ] [Sbt]()
@@ -4505,7 +4510,7 @@ Moreover, we will need to perform the different analysis levels like morphologic
 - [ ] [Codeship]()
 - [ ] [Jenkins: Documentation](https://www.jenkins.io/)
 - [ ] [Docker]()
-- [ ] []()
+- [X] [sphinx](https://www.sphinx-doc.org/en/master/)
 - [ ] [AWS: Documentation](https://docs.aws.amazon.com/)
 	- [X] [Configuration and credential file settings](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-files.html)
 	- [X] [EC2 Instance](https://docs.aws.amazon.com/ec2/index.html)
@@ -4537,7 +4542,7 @@ Moreover, we will need to perform the different analysis levels like morphologic
 - [X] [Streamlit]()
 - [X] [Gradio]()
 
-## System Design (**architecture**, **interfaces**, and **data**)
+## System Design/ Software design (**architecture**, **interfaces**, and **data**)
 
 System design is the process of defining the **architecture**, **interfaces**, and **data** for a system that satisfies specific requirements. 
 
@@ -4559,6 +4564,7 @@ System Design fundamentals
 
 References
 - [X] [complete guide to System Design](https://www.educative.io/blog/complete-guide-to-system-design)
+- [X] [IEEE defines software design documentation](https://books.google.de/books?id=t4akDwAAQBAJ&pg=PA176&lpg=PA176&dq=%22a+description+of+software+created+to+facilitate+analysis,+planning,+implementation,+and+decision-making%22&source=bl&ots=L9CngwTwbO&sig=ACfU3U0JzGFpKRftX5pYPIwtlFOjDcUhrA&hl=en&sa=X&ved=2ahUKEwjYhvKjuvnoAhWxM-wKHdsLDaQQ6AEwAnoECAsQAQ#v=onepage&q&f=false)
 - [X] [system-design-primer](https://github.com/donnemartin/system-design-primer)
 - [X] [how-web-works: What happens behind the scenes when we type www.google.com in a browser?](https://github.com/vasanthk/how-web-works)
 - [X] [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
@@ -4580,14 +4586,18 @@ Documentation structure
 ```
 Space/Workspace
     - 
-
 ```
-
+- [X] [diagrams.net](https://www.diagrams.net/)
+    - [Connect diagram.net with github](https://www.diagrams.net/blog/github-support)
 - [X] [Notion](https://www.notion.so/)
+    - [Connect notion with github]()
 - [X] [Google docs]()
+    - [Connect docs with github](https://zapier.com/apps/github/integrations/google-docs)
 - [ ] [Conflunce]()
-- [X] [sphinx](https://www.sphinx-doc.org/en/master/)
-
+    - [Connect with github](https://help.moveworkforward.com/GL/github-links-for-confluence)
+- [X] [Nuclino](https://www.nuclino.com/)
+    - []()
+- [X] [lucidchart](https://www.lucidchart.com/blog)
 
 ## References
 - [X] [Wikipedia: Computer Science](https://en.wikipedia.org/wiki/Computer_science)
