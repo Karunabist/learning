@@ -37,7 +37,7 @@ Life is solving a single problem after acquiring knowledge of all other fields r
 
 **Focus on single platform and spreed it anywhere**
 
-My single platform is github and I always connect everything to github.
+My single platform is **github: Integrate other Applications**,**Vscode: Extensions** and I always connect everything to github.
 
 
 <table width="100%">
@@ -4589,6 +4589,9 @@ Space/Workspace
 ```
 - [X] [diagrams.net](https://www.diagrams.net/)
     - [Connect diagram.net with github](https://www.diagrams.net/blog/github-support)
+	- [single-repository-diagrams](https://www.diagrams.net/blog/single-repository-diagrams)
+	- [Edit diagrams directly in GitHub with diagrams.net and github.dev](https://www.diagrams.net/blog/edit-diagrams-with-github-dev)
+	- For private repository you can edit diagrm either from vscode extension or add private repository in drawio application github application config
 - [X] [Notion](https://www.notion.so/)
     - [Connect notion with github]()
 - [X] [Google docs]()
