@@ -4493,7 +4493,6 @@ Moreover, we will need to perform the different analysis levels like morphologic
 - [ ] [github](https://github.com/marketplace)
 - [ ] [gitsome](https://github.com/donnemartin/gitsome)
 - [ ] [Bitbucket]()
-- [ ] [Conflunce]()
 - [ ] [Gitlab]()
 - [ ] [Jira]()
 - [ ] [Pypi: Documentation](https://py-pkgs.org/08-ci-cd.html)
@@ -4518,6 +4517,9 @@ Moreover, we will need to perform the different analysis levels like morphologic
 - [ ] [Virtualization]()
 - [ ] [Ansible]()
 - [ ] [Chef]()
+
+### Monitoring
+
 - [ ] [Datadog](https://docs.datadoghq.com/)
 - [ ] [Airflow]()
 
@@ -4570,6 +4572,22 @@ References
 - [X] [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 - [X] [Diagram as Code]()
 - [X] [System design: codekarle](https://www.codekarle.com/)
+
+## Documentation tools
+
+Documentation structure
+
+```
+Space/Workspace
+    - 
+
+```
+
+- [X] [Notion](https://www.notion.so/)
+- [X] [Google docs]()
+- [ ] [Conflunce]()
+- [X] [sphinx](https://www.sphinx-doc.org/en/master/)
+
 
 ## References
 - [X] [Wikipedia: Computer Science](https://en.wikipedia.org/wiki/Computer_science)
