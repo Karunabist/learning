@@ -4542,7 +4542,7 @@ Moreover, we will need to perform the different analysis levels like morphologic
 - [X] [Streamlit]()
 - [X] [Gradio]()
 
-## System Design/ Software design (**architecture**, **interfaces**, and **data**)
+## System Design / Software design (**architecture**, **interfaces**, and **data**)
 
 System design is the process of defining the **architecture**, **interfaces**, and **data** for a system that satisfies specific requirements. 
 
@@ -4561,10 +4561,60 @@ System Design fundamentals
 - [X] [Proxy servers]()
 - [X] [CAP theorem]()
 - [X] [Redundancy and replication]()
+- [X] [Storage]()
+    - Block storage
+    - File storage
+    - Object storage
+    - Redundant Disk Arrays (RAID)
+- [X] [Message queues]()
+    - [Kafka]()
+	- [RabbitMQ]()
+- [X] File systems
+    - Google File System (GFS)
+    - Hadoop Distributed File System (HDFS)
+- [X] [System Design patterns]
+    - Bloom filters
+    - Consistent hashing
+    - Quorum
+    - Checksum
+    - Merkle trees
+    - Leader election
+
+- [X] [Databases]()
+	- Relational databases
+		- MySQL
+		- PostgreSQL
+	- SQL joins
+	- Non-relational databases
+	    - MongoDB
+	- How to choose a database
+	- Database schemas
+	- Database queries
+	- ACID properties
+	- Database sharding and partitioning
+	- Database indexing
+
+- [X] [What are distributed systems?]()
+- [X] [Distributed system failures]()
+- [X] [Distributed system fundamentals]()
+	- MapReduce
+	- Stateless and stateful systems
+	- Raft
+- [X] [Distibuted system design patterns]()
+- [X] [Scalable web applications]()
+     - DNS and load balancing
+     - N-tier applications
+     - HTTP and REST
+     - Stream processing
+     - Caching
+		- Cache invalidation
+		- Cache eviction
+- [X] [Machine learning and System Design]()
+- [X] [Containerization and System Design]()
+- [X] [The cloud and System Design]()
 
 References
 - [X] [complete guide to System Design](https://www.educative.io/blog/complete-guide-to-system-design)
-- [X] [IEEE defines software design documentation](https://books.google.de/books?id=t4akDwAAQBAJ&pg=PA176&lpg=PA176&dq=%22a+description+of+software+created+to+facilitate+analysis,+planning,+implementation,+and+decision-making%22&source=bl&ots=L9CngwTwbO&sig=ACfU3U0JzGFpKRftX5pYPIwtlFOjDcUhrA&hl=en&sa=X&ved=2ahUKEwjYhvKjuvnoAhWxM-wKHdsLDaQQ6AEwAnoECAsQAQ#v=onepage&q&f=false)
 - [X] [system-design-primer](https://github.com/donnemartin/system-design-primer)
 - [X] [how-web-works: What happens behind the scenes when we type www.google.com in a browser?](https://github.com/vasanthk/how-web-works)
 - [X] [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
@@ -4578,6 +4628,7 @@ References
 - [X] [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 - [X] [Diagram as Code]()
 - [X] [System design: codekarle](https://www.codekarle.com/)
+ [X] [IEEE defines software design documentation](https://books.google.de/books?id=t4akDwAAQBAJ&pg=PA176&lpg=PA176&dq=%22a+description+of+software+created+to+facilitate+analysis,+planning,+implementation,+and+decision-making%22&source=bl&ots=L9CngwTwbO&sig=ACfU3U0JzGFpKRftX5pYPIwtlFOjDcUhrA&hl=en&sa=X&ved=2ahUKEwjYhvKjuvnoAhWxM-wKHdsLDaQQ6AEwAnoECAsQAQ#v=onepage&q&f=false)
 
 ## Documentation tools
 
