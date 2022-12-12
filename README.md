@@ -4540,10 +4540,10 @@ Moreover, we will need to perform the different analysis levels like morphologic
 - [X] [FastAPI]()
 - [X] [Flask]()
 - [X] [Requests]()
-- [X] [Streamlit]()
-- [X] [Gradio]()
+- [X] [Streamlit](https://docs.streamlit.io/)
+- [X] [Gradio](https://gradio.app/docs/)
 
-## System Design / Software design (**architecture**, **interfaces**, and **data**)
+## System Design / Software design 
 
 System design is the process of defining the **architecture**, **interfaces**, and **data** for a system that satisfies specific requirements. 
 
@@ -4631,6 +4631,9 @@ References
 - [X] [Diagram as Code]()
 - [X] [System design: codekarle](https://www.codekarle.com/)
  [X] [IEEE defines software design documentation](https://books.google.de/books?id=t4akDwAAQBAJ&pg=PA176&lpg=PA176&dq=%22a+description+of+software+created+to+facilitate+analysis,+planning,+implementation,+and+decision-making%22&source=bl&ots=L9CngwTwbO&sig=ACfU3U0JzGFpKRftX5pYPIwtlFOjDcUhrA&hl=en&sa=X&ved=2ahUKEwjYhvKjuvnoAhWxM-wKHdsLDaQQ6AEwAnoECAsQAQ#v=onepage&q&f=false)
+
+ ### Software design pattern
+
 
 ## Documentation tools
 
