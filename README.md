@@ -4634,6 +4634,11 @@ References
 
  ### Software design pattern
 
+#### References
+
+- [X] [Wikipedia](https://en.wikipedia.org/wiki/Software_design_pattern#:~:text=In%20software%20engineering%2C%20a%20software,into%20source%20or%20machine%20code.)
+- [X] [Source Making](https://sourcemaking.com/design_patterns)
+- [X] [Refactoring Guru](https://refactoring.guru/design-patterns)
 
 ## Documentation tools
 
