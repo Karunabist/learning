@@ -2765,7 +2765,7 @@ print(ClassName.mro())
 - [ ] [Treehouse: Python Basics](https://teamtreehouse.com/library/python-basics)
 
 - [ ] [My note on code convention](https://github.com/MadanBaduwal/python-project-structure/blob/main/code-convention.md)
-- [ ] [My note in MLOPS](https://github.com/MadanBaduwal/python-project-structure/blob/main/mlops.md)
+
 - [ ] [My note on issues face on python project](https://github.com/MadanBaduwal/python-project-structure/blob/main/error-and-issues.md)
 - [ ] [python-is-cool](https://github.com/chiphuyen/python-is-cool)
 - [ ] [pytudes](https://github.com/norvig/pytudes)	
@@ -3837,9 +3837,6 @@ Multi-Class Classification Loss Functions
 
 
 
-* [X] [awesome-mlops](https://github.com/visenger/awesome-mlops)
-* [X] [MadewithML](https://madewithml.com/)
-* [X] [mlops-course](https://github.com/GokuMohandas/mlops-course)
 
 
 ### Computer Vision
@@ -4523,6 +4520,16 @@ Moreover, we will need to perform the different analysis levels like morphologic
 - [ ] [Virtualization]()
 - [ ] [Ansible]()
 - [ ] [Chef]()
+
+### MLOPS
+- [ ] [My note in MLOPS](https://github.com/MadanBaduwal/python-project-structure/blob/main/mlops.md)
+* [X] [awesome-mlops](https://github.com/visenger/awesome-mlops)
+* [X] [MadewithML](https://madewithml.com/)
+* [X] [mlops-course](https://github.com/GokuMohandas/mlops-course)
+* [X] [ Stanford University: By Chip Huyen]()
+    - [X] [Lecture](https://stanford-cs329s.github.io/syllabus.html)
+	- [X] [Videos](https://www.youtube.com/watch?v=AZNTqytOhXk)
+
 
 ### Monitoring
 
