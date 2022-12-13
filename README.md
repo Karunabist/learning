@@ -2858,6 +2858,24 @@ Go language project structure
 - [X] [go commands: my note](https://github.com/MadanBaduwal/go-language/blob/main/go-commands.md)
 - [X] [go commands](https://pkg.go.dev/cmd/go)
 
+### Java
+
+### C++
+
+### Scripting language(.sh)
+A scripting language or script language is a programming language that is used to manipulate, customize, and automate the facilities of an existing system. Scripting languages are usually interpreted at runtime rather than compiled.
+
+#### Bash
+Bash, an interpreted scripting language for use on Unix, GNU and other Unix-like operating systems and environments.
+
+#### PowerShell
+PowerShell, a scripting language originally for use on Microsoft Windows but nowadays also installable on macOS and Linux.
+
+#### References
+- [X] [Wikipedia](https://en.wikipedia.org/wiki/Scripting_language)
+
+### YML Language
+
 ### References
 
 - [ ] [Programming Methodologies: Stanford](https://web.stanford.edu/class/cs106a/)
