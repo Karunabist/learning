@@ -2588,6 +2588,14 @@ Python is using a pure object model where classes are instances of a meta-class 
 
 Except for the Python keywords like “if def, globals”, using type(<name>) or dir(<name>) or just type the resource name and press enter- will work on pretty much anything. 
 
+- [X] [Python main function: execution point for a python program file](https://realpython.com/python-main-function/)
+    ```python
+	def main():
+    print("Hello World")
+
+	if __name__=="__main__":
+		main()
+	```
 - [X] [Python Documentation: Officials ](https://docs.python.org/3/)
 - [X] [Context Manager and With Keyword in Python](https://www.geeksforgeeks.org/context-manager-in-python/)
 - [X] [Python Metaclass](https://www.pythontutorial.net/python-oop/python-metaclass/): type is default metaclass in python.
@@ -2832,6 +2840,25 @@ print(ClassName.mro())
 - [X] [Wikipedia: Python (programming language)](https://en.wikipedia.org/wiki/Python_(programming_language))
 - [X] [awesome-python:Python Library](https://github.com/vinta/awesome-python)
 
+
+### Java
+
+- [X] [Java main function: execution point for a java program file](https://www.geeksforgeeks.org/main-and-init-function-in-golang/)
+    ```java
+		public class ClassName {
+        <!-- main method -->
+		public static void main(String[] args){
+
+			System.out.println("Hello, World!");
+		
+		}
+	}
+	```
+- [X] [java documentation](https://docs.oracle.com/en/java/)
+
+### C++
+
+
 ### Go language project structure
 
 Note: Unlike C,C++,js,python in go language package is .go file and module is folder.
@@ -2854,13 +2881,23 @@ Go language project structure
 ...
 
 ```
+- [X] [go main function: execution point for a go program file](https://www.geeksforgeeks.org/main-and-init-function-in-golang/)
+    ```go
+	package main
+
+	import "fmt"
+
+	func main() {
+		fmt.Println("Starting main function!")
+		
+		fmt.Println("Main function is called automatically")
+	}
+	```
 - [X] [go language documentation: Official](https://go.dev/doc/)
 - [X] [go commands: my note](https://github.com/MadanBaduwal/go-language/blob/main/go-commands.md)
 - [X] [go commands](https://pkg.go.dev/cmd/go)
 
-### Java
 
-### C++
 
 ### Scripting language(.sh)
 A scripting language or script language is a programming language that is used to manipulate, customize, and automate the facilities of an existing system. Scripting languages are usually interpreted at runtime rather than compiled.
