@@ -4342,7 +4342,7 @@ Moreover, we will need to perform the different analysis levels like morphologic
 
 
 
-## Software engineer
+## Software engineer(Frontend, Backend, and Database)
 ### Software
 - [X] [My note on software engineering](https://github.com/MadanBaduwal/software-engineering/blob/main/1_Software_engineering_GENERAL.ipynb)
 
@@ -4521,6 +4521,14 @@ Moreover, we will need to perform the different analysis levels like morphologic
 
 #### Web 3.0
 
+#### API
+- [X] [REST API]()
+- [X] [GraphQL]()
+- [X] [FastAPI]()
+- [X] [Flask]()
+- [X] [Requests]()
+- [X] [Streamlit](https://docs.streamlit.io/)
+- [X] [Gradio](https://gradio.app/docs/)
 
 ### Quality Assurance
 - [ ] [Pytest: Documentation](https://docs.pytest.org/en/7.1.x/contents.html)
@@ -4579,6 +4587,7 @@ Moreover, we will need to perform the different analysis levels like morphologic
 
 ### MLOPS
 - [ ] [My note in MLOPS](https://github.com/MadanBaduwal/python-project-structure/blob/main/mlops.md)
+- [X] [Stanford MLSys Seminars](https://www.youtube.com/@StanfordMLSysSeminars)
 * [X] [awesome-mlops](https://github.com/visenger/awesome-mlops)
 * [X] [MadewithML](https://madewithml.com/)
 * [X] [mlops-course](https://github.com/GokuMohandas/mlops-course)
@@ -4596,15 +4605,6 @@ Moreover, we will need to perform the different analysis levels like morphologic
 - [X] [Agile]() 
 
 
-
-## API
-- [X] [REST API]()
-- [X] [GraphQL]()
-- [X] [FastAPI]()
-- [X] [Flask]()
-- [X] [Requests]()
-- [X] [Streamlit](https://docs.streamlit.io/)
-- [X] [Gradio](https://gradio.app/docs/)
 
 ## System Design / Software design 
 
