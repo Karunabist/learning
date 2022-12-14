@@ -2904,6 +2904,7 @@ A scripting language or script language is a programming language that is used t
 
 #### Bash
 Bash, an interpreted scripting language for use on Unix, GNU and other Unix-like operating systems and environments.
+- [X] [ssh](https://www.ssh.com/academy/ssh/command)
 
 #### PowerShell
 PowerShell, a scripting language originally for use on Microsoft Windows but nowadays also installable on macOS and Linux.
