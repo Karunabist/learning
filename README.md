@@ -4586,7 +4586,12 @@ Moreover, we will need to perform the different analysis levels like morphologic
 - [ ] [Testing: Automation Testing in CI/CD](https://www.browserstack.com/guide/role-of-automation-testing-in-ci-cd)
 - [ ] [Codeship]()
 - [ ] [Jenkins: Documentation](https://www.jenkins.io/)
-- [ ] [Docker]()
+- [ ] [Docker](https://www.docker.com/)
+    - [ ] [Docker image vs Docker container](): The key difference between a Docker image Vs a container is that a Docker image is a read-only immutable template that defines how a container will be realized. A Docker container is a runtime instance of a Docker image that gets created when the $ docker run command is implemented.
+	- [ ] [Docker daemon](https://docs.docker.com/get-started/overview/): The Docker daemon ( dockerd ) listens for Docker API requests and manages Docker objects such as images, containers, networks, and volumes. A daemon can also communicate with other daemons to manage Docker services.
+	- [ ] [Docker daemon vs docker engine](https://i.stack.imgur.com/CBgNI.png): Docker Engine is the core product of Docker, including its daemon (dockerd) as well as its CLI (docker). Docker Daemon is simply a part of Docker Engine.
+	- [ ] [Remove build cache](https://docs.docker.com/engine/reference/commandline/builder_prune/)
+
 - [X] [sphinx](https://www.sphinx-doc.org/en/master/)
 - [ ] [AWS: Documentation](https://docs.aws.amazon.com/)
 	- [X] [Configuration and credential file settings](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-files.html)
