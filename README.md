@@ -20,6 +20,10 @@
     * CRUD operation for computer science.
     
 3. Third, we receive output from operation(Output): which has a beautiful meaning.
+    * Meaningful vocabulary,sentance,paragraph
+    * Meaningful mathematical numbers which have beautiful meaning
+    * Meaningful energy which have beautiful meaning
+    * 
 
 Note: A predicate is a type of relation. A relation is a particular type of set. A function is a particular type of relation. Every machine learning is condition probability function(p(class/data point))
 
