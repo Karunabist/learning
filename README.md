@@ -23,7 +23,8 @@
     * Meaningful vocabulary,sentance,paragraph
     * Meaningful mathematical numbers which have beautiful meaning
     * Meaningful energy which have beautiful meaning
-    * 
+    * Create beautiful matter
+	* Crate beautiful system which take input and give output
 
 Note: A predicate is a type of relation. A relation is a particular type of set. A function is a particular type of relation. Every machine learning is condition probability function(p(class/data point))
 
@@ -2179,7 +2180,10 @@ Other branches of engineering
 # Companies(8 Types of companies)
 
 # My conpanies
-
+- [X] [Omniblue Tech](https://omnibluetech.com/)
+    - [X] []()
+- [X] [National Innovation Center](https://nicnepal.org/)
+- [X] [Fusemachines](https://fusemachines.com/)
 - [X] [Matrix](https://computervisionlab.herokuapp.com/)
 
 </details>
