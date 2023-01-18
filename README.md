@@ -1,6 +1,6 @@
 # Learning 👀 to solve problems
 
-**The process of learning anything.**
+**a. The process of learning anything.**
 
 1. First define space(Input): Space is a collection of tiny elements of a particular domain. 
 
@@ -28,17 +28,17 @@
 
 Note: A predicate is a type of relation. A relation is a particular type of set. A function is a particular type of relation. Every machine learning is condition probability function(p(class/data point))
 
-**Why the process of learning anything is call life long?**
+**b. Why the process of learning anything is call life long?**
 
 Because we continiously collect tiny elements(data) for our space(brain). And define relationship between these elements(Brain(model) training).To obtain perfect output.
 
-**Approach of solving any type of problem**
+**c. Approach of solving any type of problem**
 
 1. First define space(Input)
 2. Second define a function(Process)
 3. Third, we receive output from operation(Output)
 
-**Universl Rules**
+**d. Universl Rules**
 * Everything is start from left to right
 
     Examples:
@@ -47,17 +47,19 @@ Because we continiously collect tiny elements(data) for our space(brain). And de
 	* Clock wise direction is left to right
 	* Writing in paper is start from left-top to right.
 
-**Result of learning?**
+**e. Result of learning?**
 
 Find out the problem in existing system. Try to fix it with new approach.
 
-**What is life?**
+**f. Focus on single platform and spreed it anywhere**
+
+My single platform is **github** with **Vscode: Extensions** , **github: Integrate other Applications**, and I always connect everything to github.
+
+**g. What is life?**
 
 Life is solving a single problem after acquiring knowledge of all other fields related to this problem.
 
-**Focus on single platform and spreed it anywhere**
 
-My single platform is **github** with **Vscode: Extensions** , **github: Integrate other Applications**, **Notion: Template for everything** and I always connect everything to github.
 
 
 <table width="100%">
