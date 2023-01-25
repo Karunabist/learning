@@ -9,7 +9,7 @@
     * numbers/objects for mathematics, 
     * atoms/subatomic particles(e,p,n)/Composite particles(quark, leptons, gauge bosons, higgs hosons) for physics, 
     * ions/chemical elements, for chemistry,..., 
-    * and arrays/matrics/tensors for computer science. 
+    * and data/object/arrays/matrics/tensors for computer science. 
     
     Each element of space has its own meaning.
 2. Second define a relationship: predicate,function(process),probability function: pmf,pdf between space elements: which takes space elements from space and does something meaningful operation. 
