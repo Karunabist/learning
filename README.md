@@ -2254,7 +2254,8 @@ Other branches of engineering
 
 
 # Computer and Network Security
-
+* [Syllabus](https://github.com/madanbaduwal/masters/blob/main/Computer%20And%20Network%20Security/SYL_COSC_6378_501_2388_6001040969.rtf)
+* [Intro](https://github.com/madanbaduwal/masters/blob/main/Computer%20And%20Network%20Security/T1-Intro.pdf)
 
 
 
