@@ -2242,6 +2242,18 @@ Other branches of engineering
 
 <details>
 <summary>MS</summary>
+
+# Intro to Computer Security
+* [Objectives](https://github.com/madanbaduwal/masters/blob/main/Intro%20to%20Computer%20Security/ObjectivesMapCosc4375.docx)
+* [intro](https://github.com/madanbaduwal/masters/blob/main/Intro%20to%20Computer%20Security/1_intro_A11y.pptx)
+	* [CIA]()
+	
+
+# Computer and Network Security
+# Analysis of Algorithms
+
+
+
 </details>
 
 
