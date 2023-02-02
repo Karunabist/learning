@@ -2245,11 +2245,19 @@ Other branches of engineering
 
 # Intro to Computer Security
 * [Objectives](https://github.com/madanbaduwal/masters/blob/main/Intro%20to%20Computer%20Security/ObjectivesMapCosc4375.docx)
-* [intro](https://github.com/madanbaduwal/masters/blob/main/Intro%20to%20Computer%20Security/1_intro_A11y.pptx)
+* [week1 : intro]()
+    * [Chapter 1](https://github.com/madanbaduwal/masters/blob/main/Intro%20to%20Computer%20Security/1_intro_A11y.pptx)
 	* [CIA]()
-	
+* [Week 2: ]()
+    * [Chapter 2](https://github.com/madanbaduwal/masters/blob/main/Intro%20to%20Computer%20Security/3_Chapter2A11y.pptx)
+	* [Chapter 3](https://github.com/madanbaduwal/masters/blob/main/Intro%20to%20Computer%20Security/4_Chapter3A11y.pptx)
+
 
 # Computer and Network Security
+
+
+
+
 # Analysis of Algorithms
 
 
