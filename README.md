@@ -2241,7 +2241,7 @@ Other branches of engineering
 </details>
 
 <details>
-<summary>MS</summary>
+<summary>MS(Cognative science, Machine learning paradigms for 2D/3D Segmentation and Detection)</summary>
 
 # Intro to Computer Security
 * [Objectives](https://github.com/madanbaduwal/masters/blob/main/Intro%20to%20Computer%20Security/ObjectivesMapCosc4375.docx)
