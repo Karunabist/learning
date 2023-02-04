@@ -2262,6 +2262,11 @@ Other branches of engineering
 
 
 # Analysis of Algorithms
+* [Syllabus](https://github.com/madanbaduwal/masters/blob/main/Analysis%20of%20Algorithms/SYL_COSC_6385_501_2208_6001029411-Spring2023.rtf)
+* [Intro](https://github.com/madanbaduwal/masters/blob/main/Analysis%20of%20Algorithms/chapter01.pdf)
+* [Intro2](https://github.com/madanbaduwal/masters/blob/main/Analysis%20of%20Algorithms/chapter02.pdf)
+* [GrowthofFunction](https://github.com/madanbaduwal/masters/blob/main/Analysis%20of%20Algorithms/Ch3-GrowthofFunction.pptx)
+* [DivideNConqure](https://github.com/madanbaduwal/masters/blob/main/Analysis%20of%20Algorithms/Ch4-DivideNConqure.pptx)
 
 
 
