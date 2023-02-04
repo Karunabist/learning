@@ -2256,7 +2256,9 @@ Other branches of engineering
 # Computer and Network Security
 * [Syllabus](https://github.com/madanbaduwal/masters/blob/main/Computer%20And%20Network%20Security/SYL_COSC_6378_501_2388_6001040969.rtf)
 * [Intro](https://github.com/madanbaduwal/masters/blob/main/Computer%20And%20Network%20Security/T1-Intro.pdf)
-
+* [SymmetricEncryption](https://github.com/madanbaduwal/masters/blob/main/Computer%20And%20Network%20Security/T2-SymmetricEncryption.pdf)
+* [PublicKeyStructure](https://github.com/madanbaduwal/masters/blob/main/Computer%20And%20Network%20Security/T3-PublicKeyStructure.pdf)
+* [HashFunction](https://github.com/madanbaduwal/masters/blob/main/Computer%20And%20Network%20Security/T4-HashFunction.pdf)
 
 
 # Analysis of Algorithms
