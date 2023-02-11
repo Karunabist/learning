@@ -132,6 +132,8 @@ Life is solving a single problem after acquiring knowledge of all other fields r
 		  <li> <a href = "https://github.com/ossu/computer-science?fbclid=IwAR2rS811ELMo3IKzMPFS9MoQg1pGwnCMI7R409m0ScRfRMaWSfuALVLtIQc">computer-science</a></li>
 		  <li> <a href = "https://github.com/jwasham/coding-interview-university">coding-interview-university</a></li>
 		  <li> <a href = "https://github.com/yangshun/tech-interview-handbook"> tech-interview-handbook</a></li>
+		  <li> <a href = "https://github.com/vasanthk/how-web-works"> how-web-works</a></li>
+		  <li> <a href = "https://github.com/codecrafters-io/build-your-own-x"> build-your-own-x</a></li>
 		  </td>
 	  </ul>
   </tr>
