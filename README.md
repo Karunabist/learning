@@ -4526,6 +4526,7 @@ Moreover, we will need to perform the different analysis levels like morphologic
 #### Web 3.0
 
 #### API
+- [X] [API](https://aws.amazon.com/what-is/api/)
 - [X] [REST API]()
 - [X] [GraphQL]()
 - [X] [FastAPI]()
@@ -4533,6 +4534,16 @@ Moreover, we will need to perform the different analysis levels like morphologic
 - [X] [Requests]()
 - [X] [Streamlit](https://docs.streamlit.io/)
 - [X] [Gradio](https://gradio.app/docs/)
+  
+  HTTP Methods
+
+  * [GET]()
+  * [POST]()
+  * [PUT]()
+  * [PATCH]()
+  * [DELETE]()
+  * [HEAD/TRACE]()
+  
 
 ### Quality Assurance
 - [ ] [Pytest: Documentation](https://docs.pytest.org/en/7.1.x/contents.html)
