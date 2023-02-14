@@ -356,6 +356,7 @@ Dialects,accents, and varieties
 	
 **Books**
 
+- [X] [thinking fast and slow by Daniel  kahneman](https://ia800808.us.archive.org/14/items/DanielKahnemanThinkingFastAndSlow/Daniel%20Kahneman-Thinking%2C%20Fast%20and%20Slow%20%20.pdf)
 - [X] [Atomic Habit](https://www.opportunitiesforyouth.org/wp-content/uploads/2021/04/Atomic_Habits_by_James_Clear-1.pdf): The Surprising Power of Tiny Habits
 - [X] [The Psycology Of Money](https://www.planetayurveda.com/traditional-books/the-psychology-of-money-by-morgan-housel.pdf): Better relationship with money and to make smarter financial decisions. Instead of pretending that humans are ROI-optimizing machines, he shows you how your psychology can work for and against you.ow to think more rationally and make better decisions when it comes to money.
 - [X] [The Subtle Art Of Not Giving A F*ck](https://www.docdroid.net/KyoHFx5/the-subtle-art-of-not-giving-a-fuck-pdf#page=5): Thus, we can say that the key to living a good life is not giving a fuck about more things, but rather, giving a fuck only about the things that align with your personal values.
@@ -385,6 +386,16 @@ Dialects,accents, and varieties
 - [X] [Udacity: App Monetization](https://www.udacity.com/course/app-monetization--ud518)
 - [X] [Udacity: App Marketing](https://www.udacity.com/course/app-marketing--ud719)
 - [X] [Udacity: How to Build a Startup](https://www.udacity.com/course/how-to-build-a-startup--ep245)
+- [X] [Sapiens](https://www.1pezeshk.com/wp-content/uploads/2019/07/Sapiens-A-Brief-History-of-Humankind.pdf)
+- [X] [Siddhartha by Hermann Hesse](https://www.gutenberg.org/cache/epub/2500/pg2500-images.html)
+- [X] [The defining decade](https://www.tarkashastra.co.in/Materials/The%20Defining%20Decade-Why%20your%20twenties%20matter%20and%20how%20to%20make%20the%20most%20of%20them%20now.pdf)
+- [X] [Influence By Robert-Cialdini](https://motamem.org/wp-content/uploads/2017/10/Influence-Psychology-of-Persuasion-Robert-Cialdini.pdf)
+- [X] [Why we sleep book by matthew walker](https://icrrd.com/media/16-05-2021-080425Why-We-Sleep-Unlocking-the-Power-of-Sleep.pdf)
+- [X] [Fountainhead by ayn rand](https://ia802908.us.archive.org/28/items/TheFountainhead/The-Fountainhead.pdf)
+- [X] [I will teach you to be rich ](https://ia601809.us.archive.org/12/items/i-will-teach-you-to-be-rich/I%20Will%20Teach%20You%20To%20Be%20Rich.pdf)
+- [X] [Never split the difference](http://livre2.com/LIVREE/E1/E001005.pdf)
+- [X] [Getting past your breakup](https://lifeclub.org/books/getting-past-your-breakup-susan-j-elliott-review-summary)
+- [X] [The 4-hour workweek by tim ferriss](https://tim.blog/wp-content/uploads/2014/10/the-4-hour-workweek-expanded-and-updated-by-timothy-ferriss.pdf)
 
 **Podcasts**
 - [X] [A Way with Words](https://www.waywordradio.org/category/episodes/)
@@ -2300,6 +2311,12 @@ Daily paper reading
 
 ## Presentation
 - [X] [How to start a presentation?](https://twitter.com/jbhuang0604/status/1548882661581754370)
+    - ❌"Hi, my name is .. I am a .. from .. My research .. I am happy to be here. Today I am going to present this title on the slide."  
+
+    - ✅ Start your talk with a story, a picture, a surprising statistics, a quote, a question, a poll from audience, or a guessing game.
+
+    - 
+
 - [X] [How to end a presentation?](https://twitter.com/jbhuang0604/status/1549959041908150275)
 - [X] [How to handle questions in a presentation?](https://twitter.com/jbhuang0604/status/1553583984948531205)
 - [X] [How to present a line plot?](https://twitter.com/jbhuang0604/status/1506101759911116809)
@@ -2666,6 +2683,8 @@ Except for the Python keywords like “if def, globals”, using type(<name>) or
 - [X] [Python end parameter in print(): Print without a newline](https://www.geeksforgeeks.org/gfact-50-python-end-parameter-in-print/)
 - [X] [Python | sep parameter in print()](https://www.geeksforgeeks.org/python-sep-parameter-print/)
 - [X] [Python | Output Formatting](https://www.geeksforgeeks.org/python-output-formatting/)
+- [X] [zip function in python]()
+- [X] [* to unpack iterator in python]()
 
 - [X] [Reserv Keywords]()
     ```python
@@ -2746,6 +2765,7 @@ print(ClassName.mro())
 
 #### Article,Books And Courses
 - [ ] [Python Frequently Asked Questions (Programming)](https://docs.python.org/2/faq/programming.html)
+- [ ] [Python course in sololearn]()
 - [ ] [Article: A reverse chronology of some Python features](https://snarky.ca/a-reverse-chronology-of-some-python-features/)
 - [ ] [Book: A Byte of Python](https://python.swaroopch.com)
 - [ ] [Book: Learn Python The Hard way](https://learnpythonthehardway.org)
@@ -3330,6 +3350,7 @@ Notes:
 - [X] [GPT from scratch by Andrej Karpathy](https://www.youtube.com/watch?v=kCc8FmEb1nY&t=701s)
 - [X] [minGPT by andrej karpathy](https://github.com/karpathy/minGPT)
 - [X] [ChatGPT official website](https://openai.com/blog/chatgpt/)
+    - [X] [awsome chat gpt](https://github.com/saharmor/awesome-chatgpt)
 - [X] [BERT](https://neptune.ai/blog/how-to-code-bert-using-pytorch-tutorial)
 - [X] [Generative Models](https://developers.google.com/machine-learning/gan/generative)
     - [X] [AutoEncoder: github ](https://github.com/eriklindernoren/ML-From-Scratch/blob/master/mlfromscratch/unsupervised_learning/autoencoder.py)
@@ -4543,6 +4564,10 @@ Moreover, we will need to perform the different analysis levels like morphologic
   * [PATCH]()
   * [DELETE]()
   * [HEAD/TRACE]()
+  
+  Softwares for APT testing
+
+  * [X] [Postman](https://learning.postman.com/docs/getting-started/introduction/)
   
 
 ### Quality Assurance
