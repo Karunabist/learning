@@ -2497,7 +2497,7 @@ Note:
 	- [ ] [A* Search: Easy A* (star) Pathfinding](https://medium.com/@nicholas.w.swift/easy-a-star-pathfinding-7e6689c7f7b2)
 
 - [X] Algorithms Analysis
-    - [X] [Big-O: Geeksforgeeks](https://www.geeksforgeeks.org/analysis-algorithms-big-o-analysis/)
+    - [X] [Big-O: Geeksforgeeks](https://www.geeksforgeeks.org/analysis-algorithms-big-o-analysis/) 
 	- [X] [Little-o: Geeksforgeeks](https://www.geeksforgeeks.org/analysis-of-algorithems-little-o-and-little-omega-notations/?ref=gcse)
 	- [X] [Big- Omega](https://www.geeksforgeeks.org/analysis-of-algorithms-big-%CF%89-big-omega-notation/?ref=gcse)
 	- [X] [Algorithms Analysis: Geeksforgeeks](https://www.geeksforgeeks.org/analysis-of-algorithms-set-1-asymptotic-analysis/?ref=ghm)
@@ -2507,6 +2507,8 @@ Note:
 	- [ ] [Article: Asymptotic Analysis Explained with Pokémon: A Deep Dive into Complexity Analysis](https://www.freecodecamp.org/news/asymptotic-analysis-explained-with-pokemon-a-deep-dive-into-complexity-analysis-8bf4396804e0/)
 	- [ ] [Algorithms Design Techniques](https://www.geeksforgeeks.org/algorithms-design-techniques/)
 	
+- [X] [Terminology in data structure and algorithms]()
+    - [X] [Asymptotic Analysis](https://en.wikipedia.org/wiki/Asymptotic_analysis) : As an illustration, suppose that we are interested in the properties of a function $f(n)$ as $n$ becomes very large. If $f(n) = n^2 + 3n$, then as n becomes very large, the term $3n$ becomes insignificant compared to $n^2$. The function $f(n)$ is said to be "asymptotically equivalent to $n^2$, as $n → ∞ $". This is often written symbolically as $f (n) ~ n^2$, which is read as "$f(n)$ is asymptotic to $n^2$".
 
 ### Challenges
 
@@ -2624,6 +2626,7 @@ Except for the Python keywords like “if def, globals”, using type(<name>) or
 - [X] [Keyword-Only Arguments(*...)](https://betterprogramming.pub/how-to-create-a-keyword-only-function-in-python-fd3826d6df31)
 - [X] [Arbitrary positional arguments(*args)](https://www.w3schools.com/python/gloss_python_function_arbitrary_arguments.asp)
 - [X] [Arbitrary keyword arguments(**args)](https://www.w3schools.com/python/gloss_python_function_arbitrary_keyword_arguments.asp)
+- [X] [typing in python](https://docs.python.org/3/library/typing.html)
 - [X] [Lambda Function: Best UseCase](https://www.machinelearningplus.com/python/lambda-function/)
 - [X] [Documentation String: Class and Functio Documentation](https://www.programiz.com/python-programming/docstrings)
 - [X] [Function Annotations: Support for type hints](https://docs.python.org/3/library/typing.html)
@@ -2661,7 +2664,7 @@ Except for the Python keywords like “if def, globals”, using type(<name>) or
 
 - [X] [Python Operator](https://www.geeksforgeeks.org/python-operators/)
 - [X] [Python Operators](https://www.w3schools.com/python/python_operators.asp)
-    - [X] [/ vs //(17/2=8.5,17//2=8)](https://www.w3schools.com/python/python_operators.asp)
+    - [X] [/ vs // vs % (17/2=8.5,17//2=8, 17%2=1)](https://www.w3schools.com/python/python_operators.asp)
 	- [X] [^(XOR)](https://www.w3schools.com/python/python_operators.asp)
 	- [X] [Logical Operators vs Bitwise Operators](https://www.geeksforgeeks.org/difference-between-and-and-in-python/#:~:text=and%20is%20a%20Logical%20AND,otherwise%20True%20when%20using%20logically.)
 	- [X] [Python | a += b is not always a = a + b](https://www.geeksforgeeks.org/python-a-b-is-not-always-a-a-b/)
@@ -3135,7 +3138,7 @@ Notes:
 - [X] [Stochastic Gradient Descent](https://scikit-learn.org/stable/modules/sgd.html)
    - [X] [Classification](https://scikit-learn.org/stable/modules/sgd.html#classification)
    - [X] [Regression](https://scikit-learn.org/stable/modules/sgd.html#regression)
-   - [X] []()
+   - [X] [yuan-meng](https://www.yuan-meng.com/posts/md_coding/)
 - [X] [Linear regression: Article](https://www.jeremyjordan.me/linear-regression/)
 - [X] [ Stochastic Gradient Descent - SGD](https://scikit-learn.org/stable/modules/linear_model.html#stochastic-gradient-descent-sgd)
 - [X] [Perceptron](https://scikit-learn.org/stable/modules/linear_model.html#perceptron)
