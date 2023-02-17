@@ -2765,7 +2765,16 @@ print(ClassName.mro())
 - [X] [Dictionary Merge & Update Operators](https://docs.python.org/3/whatsnew/3.9.html#dictionary-merge-update-operators)
 - [X] [Type hinting generics for the built-in collections (list[int])](https://peps.python.org/pep-0585/)
 - [X] [Assignment expressions (:=)](https://docs.python.org/3/whatsnew/3.8.html#assignment-expressions)
+- [X] [Store values at a time in python list using [:]]()
+    
+	Example 
 
+    ```python3
+      	def removeDuplicates(self, nums: List[int]) -> int:
+		nums[:] = sorted(set(nums))
+		return len(nums)
+	```
+- [X] [Writing A Python While Loop With Multiple Conditions](https://initialcommit.com/blog/python-while-loop-multiple-conditions)
 #### Article,Books And Courses
 - [ ] [Python Frequently Asked Questions (Programming)](https://docs.python.org/2/faq/programming.html)
 - [ ] [Python course in sololearn]()
