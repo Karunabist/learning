@@ -57,9 +57,11 @@ My single platform is github with **Vscode: Extensions** > **github: Integrate o
 
 **g. What is life?**
 
-Life is solving a single problem after acquiring knowledge of all other fields related to this problem.
+Think like everything is problems and find the soultions for problems.Life is solving a single problem after acquiring knowledge of all other fields related to this problem. 
 
+**h. What will I do? how will I think?**
 
+Learning by doing or reverse engineering or doing by experiments or try to coding every problem.
 
 
 <table width="100%">
@@ -68,16 +70,16 @@ Life is solving a single problem after acquiring knowledge of all other fields r
 	<ul>
 		<p><b>Start from the tiny elements/units/objects of the system.</b></p>
 		<li><a href= "https://docs.google.com/document/d/1snROtUFb4DGpGE0kVZr6nFM1GUnRuaXFwLWCYvFM3ME/edit?usp=sharing">Language(English)(letter)</a></li>            
-		  <li><a href="https://colab.research.google.com/drive/15uiUNCEPbh1VhH-wfvJctbm8902po2zq?usp=sharing">Mathematics(number/object/element)</a></li>
+		  <li><a href="https://colab.research.google.com/drive/15uiUNCEPbh1VhH-wfvJctbm8902po2zq?usp=sharing">Mathematics(number,object,element)</a></li>
 		  <li><a href= "https://docs.google.com/document/d/1aMGL_ye6mxmdJSpQXOlcpahYdrwgrMh_p6EM0cPY6qQ/edit?usp=sharing">Physics(atom)</a></li>
 		  <li><a href= "https://docs.google.com/document/d/1e8HjXTtJcvfEQSxYotMXx7T2iexRoEQDNjtattCozus/edit?usp=sharing">Chemistry(ion)</a></li>
 		  <li><a href= "https://docs.google.com/document/d/1brdu9ShaaN1JTiQzs3ckHWFDOv2ft7c_-lpKsRqz5I0/edit?usp=sharing">Biology(cell)</a></li> 
 		  <li><a href= "https://docs.google.com/document/d/1gIVyhmQCia1pDzFCwEdKoF_tpSz5vZlQyeECx9riFGE/edit?usp=sharing">Engineering(atom)</a></li> 
-		  <li><a href= "https://docs.google.com/document/d/1nxTLBHwMnclj-nrvmHYMcwJveu0QHme-XwOw5DI3Y1Q/edit?usp=sharing">Economics(supply and demand)</a></li>
+		  <li><a href= "https://docs.google.com/document/d/1nxTLBHwMnclj-nrvmHYMcwJveu0QHme-XwOw5DI3Y1Q/edit?usp=sharing">Economics(production -> distributation -> consumption of goods and services)</a></li>
 		  <li><a href="#">Managment,accounting,Education,
 			  General Knowledge ...etc</a></li>
 		  <li><a href="#">Companies(motivations)</a></li>
-		  <li><a href="https://colab.research.google.com/drive/1eqOUu2cIzTNweQB_dr3NyiQhirm3ol_0?usp=sharing">Computer science(Array)</a></li>
+		  <li><a href="https://colab.research.google.com/drive/1eqOUu2cIzTNweQB_dr3NyiQhirm3ol_0?usp=sharing">Computer science(Object,Array)</a></li>
 		  <li><a href="#">\ career(Single problem)</a></li>
 		Download Book From Here:<a href="https://libgen.is/">libgen.is</a></br>
 		  Download Paid Research Papers From Here: <a href="https://sci-hub.se/">sci-hub.se</a></br>
@@ -147,7 +149,7 @@ Life is solving a single problem after acquiring knowledge of all other fields r
 <details>
 <summary>Language(5 things)</summary>
 
-# Language(English)
+# Language(Letter)
 
 First know the meaning of word.
 Second know the context in which this word can use.
@@ -360,6 +362,10 @@ Dialects,accents, and varieties
 - [X] [Atomic Habit](https://www.opportunitiesforyouth.org/wp-content/uploads/2021/04/Atomic_Habits_by_James_Clear-1.pdf): The Surprising Power of Tiny Habits
 - [X] [The Psycology Of Money](https://www.planetayurveda.com/traditional-books/the-psychology-of-money-by-morgan-housel.pdf): Better relationship with money and to make smarter financial decisions. Instead of pretending that humans are ROI-optimizing machines, he shows you how your psychology can work for and against you.ow to think more rationally and make better decisions when it comes to money.
 - [X] [The Subtle Art Of Not Giving A F*ck](https://www.docdroid.net/KyoHFx5/the-subtle-art-of-not-giving-a-fuck-pdf#page=5): Thus, we can say that the key to living a good life is not giving a fuck about more things, but rather, giving a fuck only about the things that align with your personal values.
+- [X] [Mahabharat](https://www.mahabharataonline.com/translation/), [Another website](https://www.gutenberg.org/files/15474/15474-h/15474-h.htm#link2H_4_0003)
+  
+  - [X] [Bhagavad Gita](https://www.bhagavad-gita.org/index-english.html)
+- [X] [ The Ramayana]()
 - [X] [Elon Musk](https://drive.google.com/file/d/1C8ODShsViYqTUGmbeW2y3aLg3Lbr_1fj/view?usp=sharing): If the rules are such that you can't make progress, then you have to fight the rules.
 - [X] [Born A Crime](https://drive.google.com/file/d/1_BmJeqonDQChIF2BoxqKh0jq-nSU25eS/view?usp=sharing): Stories of Noah's life are interspersed with insights into South Africa's culture, systems, and history.
 - [X] [A Text Book Of Professional Communication Skills and Esp for Engineers and Professional](https://drive.google.com/file/d/1oQBkfYVxkM7QQGdJmG2MfeyXHOonWtzb/view?usp=sharing)
@@ -449,7 +455,7 @@ Dialects,accents, and varieties
 <details>
 <summary>Mathematics(3 fields)</summary>
 
-# Mathematics(number/object/element)
+# Mathematics(number,object,element)
 
 3 field: 
 	
@@ -2071,7 +2077,7 @@ Newton's laws, Maxwell's equations, thermodynamics
 <details>
 <summary>Chemistry(10 Modern principles)</summary>
 
-# Chemistry(10 Modern principles)
+# Chemistry(ion)
 
 ## Matter
 
@@ -2099,7 +2105,7 @@ Newton's laws, Maxwell's equations, thermodynamics
 <details>
 <summary>Biology(8 fundamentals)</summary>
 
-# Biology(8 fundamentals)
+# Biology(cell)
 
 ## Chemical basis
 
@@ -2130,7 +2136,7 @@ Newton's laws, Maxwell's equations, thermodynamics
 <summary>Engineering(4 Main branches of engineering)</summary>
 
 
-# Engineering(4 Main branches of engineering)(hardware)
+# Engineering(atom)
 
 Main branches of engineering
 
@@ -2163,7 +2169,7 @@ Other branches of engineering
 <details>
 <summary>Economics(6 Branches of economics)</summary>
 
-# Economics(6 Branches of economics)
+# Economics(production -> distributation -> consumption of goods and services)
 
 ## Microeconomics
 
@@ -2181,15 +2187,42 @@ Other branches of engineering
 </details>
 
 <details>
-<summary>Managment,accounting,Education,General Knowledge ...etc</summary>
 
-# Managment,accounting,Education,General Knowledge ...etc
+<summary>Managment</summary>
+
+# Managment
+
+</details>
+
+
+<details>
+
+
+<summary>Accounting</summary>
+
+# Accounting
 
 </details>
 
 
+<details>
+
+
+<summary>Education</summary>
+
+# Education
+
 </details>
 
+
+<details>
+
+
+<summary>General Knowledge </summary>
+
+# General Knowledge
+
+</details>
 
 
 <details>
@@ -2350,7 +2383,7 @@ Daily paper reading
 <details>
 <summary>Computer science(3 fields)</summary>
 
-# Computer science(Array)
+# Computer science(Object,Array)
 
 3 fields:
 
@@ -2454,6 +2487,13 @@ Note:
 - [X] Hybrid
 	- [ ] [Hash tree: HW2 Implement HashTree and FP-Tree by Python](http://www.wiki.yelbee.top/2020/05/06/Data%20Mining/HW2%20Implement%20HashTree%20and%20FP-Tree%20by%20Python/)
 
+
+Real life application of data structure
+
+- [X] [Geeksforgeeks](https://www.geeksforgeeks.org/real-time-application-of-data-structures/)
+- [X] [Medium](https://zriyansh.medium.com/data-structures-and-algorithms-in-real-life-6b2b813d516e)
+- [X] [levelup](https://levelup.gitconnected.com/data-structures-and-algorithms-in-real-life-161619607632)
+
 ### Algorithms
 - [X] Recursion
     - [X] [Recursion in Python](https://www.geeksforgeeks.org/recursion-in-python/)
@@ -2470,6 +2510,7 @@ Note:
 	- [ ] [Merge Sort: Merge sort in Python](https://www.educative.io/answers/merge-sort-in-python)
 	- [ ] [Merge Sort: How To Implement Merge Sort Algorithm In Python](https://towardsdatascience.com/how-to-implement-merge-sort-algorithm-in-python-4662a89ae48c)
 	- [ ] [Insertion sort: Definition of Insertion sort in Python](https://www.educba.com/insertion-sort-in-python/)
+	- [ ] [Heap Sort](https://www.geeksforgeeks.org/python-program-for-heap-sort/)
 	- [ ] [Sorting algorithms](https://colab.research.google.com/drive/1zkBH0RUAulBup6hz2htJJWosdHZ28Exw#scrollTo=awCZJ7fB6Kik)
 	- [ ] [Sorting algorithms](https://realpython.com/sorting-algorithms-python/)
 
@@ -2557,7 +2598,9 @@ Note:
 - [X] [Top 50 Data Structures Interview Questions & Answers](https://media-exp1.licdn.com/dms/document/D4D1FAQF8IjMM1tXccQ/feedshare-document-pdf-analyzed/0/1662984127775?e=1663804800&v=beta&t=YXvqbxGujscGfVJMYCuwMyIrRN3tfONqkJS8sN9AFNs)
 	
 	
+### My leetcode questions and answer
 
+- [X] [Divide Two Integers without using multiplication, division, and mod operator.]()
 
 ### Books And Courses
 	
@@ -2775,6 +2818,8 @@ print(ClassName.mro())
 		return len(nums)
 	```
 - [X] [Writing A Python While Loop With Multiple Conditions](https://initialcommit.com/blog/python-while-loop-multiple-conditions)
+- [X] [You can check block if substring instring](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/submissions/899442951/)
+
 #### Article,Books And Courses
 - [ ] [Python Frequently Asked Questions (Programming)](https://docs.python.org/2/faq/programming.html)
 - [ ] [Python course in sololearn]()
@@ -3447,7 +3492,9 @@ Multi-Class Classification Loss Functions
 #### Model intrepration
 - [X] [SHAP]()
 
+### Machine Learning Model Testing
 
+- [X] [Google paper](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/aad9f93b86b7addfea4c419b9100c6cdd26cacea.pdf)
 #### Machine Learning and Deep learning Books and Cources
 - [ ] [Deepmind collected resources](https://storage.googleapis.com/deepmind-media/research/New_AtHomeWithAI%20resources.pdf)
 - [ ] [scikit-learn: Algorithms Documentation](https://github.com/scikit-learn/scikit-learn)
@@ -4070,7 +4117,7 @@ Multi-Class Classification Loss Functions
 - [ ] [KD nuggets](https://www.kdnuggets.com/tag/computer-vision)
 - [X] [computer-vision-algorithms: my own implementation](https://madanbaduwal.github.io/computer-vision-algorithms/categories/)
 - [X] [problem based computer vision algorithms: my own implementation](https://madanbaduwal.github.io/problem-based-computer-vision-algorithms/)
-
+- [X] [Roboflow](https://github.com/roboflow/notebooks)
 	
 
 #### Be familar with Computer Vision libraries
@@ -4757,6 +4804,7 @@ References
 - [X] [Diagram as Code]()
 - [X] [System design: codekarle](https://www.codekarle.com/)
  [X] [IEEE defines software design documentation](https://books.google.de/books?id=t4akDwAAQBAJ&pg=PA176&lpg=PA176&dq=%22a+description+of+software+created+to+facilitate+analysis,+planning,+implementation,+and+decision-making%22&source=bl&ots=L9CngwTwbO&sig=ACfU3U0JzGFpKRftX5pYPIwtlFOjDcUhrA&hl=en&sa=X&ved=2ahUKEwjYhvKjuvnoAhWxM-wKHdsLDaQQ6AEwAnoECAsQAQ#v=onepage&q&f=false)
+- [X] [bytebytego](https://blog.bytebytego.com/?utm_source=linkedin_post)
 
  ### Software design pattern
 
@@ -4815,7 +4863,7 @@ Keywords: Time,Space,Accuracy, Label Datasets,ML Model Explanibility,Money
 
 
 <details>
-<summary>Money</summary>
+<summary>Money(Penny)</summary>
 
 ## Career
 - [X] [How to prepare your Curriculum Vitae?](https://twitter.com/jbhuang0604/status/1433651068282540033)
