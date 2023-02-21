@@ -2126,6 +2126,12 @@ Newton's laws, Maxwell's equations, thermodynamics
 </details>
 
 
+
+<details>
+<summary>Anthropology</summary>
+
+# Anthropology
+
 </details>
 
 
@@ -2165,6 +2171,12 @@ Other branches of engineering
 
 </details>
 
+<details>
+<summary>Architecture</summary>
+
+# Architecture
+
+</details>
 
 <details>
 <summary>Economics(6 Branches of economics)</summary>
@@ -2186,11 +2198,38 @@ Other branches of engineering
 
 </details>
 
+
 <details>
 
-<summary>Managment</summary>
+<summary>History</summary>
 
-# Managment
+# History
+
+</details>
+
+<details>
+
+<summary>Geography</summary>
+
+# Geography
+
+</details>
+
+
+<details>
+
+<summary>Art and Design</summary>
+
+# Art and Design
+
+</details>
+
+<details>
+
+
+<summary>Accounting And Finance</summary>
+
+# Accounting And Finance
 
 </details>
 
@@ -2198,9 +2237,20 @@ Other branches of engineering
 <details>
 
 
-<summary>Accounting</summary>
+<summary>Law</summary>
 
-# Accounting
+# Law
+
+</details>
+
+
+
+<details>
+
+
+<summary>Medicin</summary>
+
+# Medicin
 
 </details>
 
@@ -2208,29 +2258,43 @@ Other branches of engineering
 <details>
 
 
-<summary>Education</summary>
+<summary>Sociology</summary>
 
-# Education
+# Sociology
+
+</details>
+
+<details>
+
+
+<summary>Political Science </summary>
+
+# Political Science
 
 </details>
 
 
 <details>
+<summary>Psycology</summary>
 
-
-<summary>General Knowledge </summary>
-
-# General Knowledge
+# Psycology
 
 </details>
-
 
 <details>
 <summary>Neuroscience</summary>
 
+# Neuroscience
+
 </details>
 
+<details>
 
+<summary>Business And Managment Study</summary>
+
+# Business And Managment Study
+
+</details>
 
 <details>
 <summary>MS(Cognative science, Machine learning paradigms for 2D/3D Segmentation and Detection)</summary>
