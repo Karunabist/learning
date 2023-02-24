@@ -2128,9 +2128,19 @@ Newton's laws, Maxwell's equations, thermodynamics
 
 
 <details>
-<summary>Anthropology</summary>
+<summary>Anthropology(5 fields)</summary>
 
-# Anthropology
+# Anthropology(Humanity)
+
+## Sociocultural
+## Biological
+
+## Archaeological
+
+## Linguistic
+
+## Ethnography
+
 
 </details>
 
@@ -2172,9 +2182,9 @@ Other branches of engineering
 </details>
 
 <details>
-<summary>Architecture</summary>
+<summary>Architecture(11 history)</summary>
 
-# Architecture
+# Architecture(designing and building)
 
 </details>
 
@@ -2882,7 +2892,20 @@ print(ClassName.mro())
 		return len(nums)
 	```
 - [X] [Writing A Python While Loop With Multiple Conditions](https://initialcommit.com/blog/python-while-loop-multiple-conditions)
-- [X] [You can check block if substring instring](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/submissions/899442951/)
+- [X] [Python loop iteratore from end with enumerate]()
+    ```python
+	a = [1,2,3]
+	for i,e in enumerate(a[::-1]):
+		print(i,e)
+
+		# Output
+		0,3
+		1,2
+		2,1
+
+
+	```
+
 
 #### Article,Books And Courses
 - [ ] [Python Frequently Asked Questions (Programming)](https://docs.python.org/2/faq/programming.html)
