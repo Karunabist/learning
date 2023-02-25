@@ -2211,17 +2211,44 @@ Other branches of engineering
 
 <details>
 
-<summary>History</summary>
+<summary>History(15 area of study)</summary>
 
-# History
+# History(time period of events)
+
+## Periods
+
+### Prehistoric periodization
+## Geographical locations
+### Regions
+
+## Military
+## Religious
+## Social
+## Subfields
+## Cultural
+## Diplomatic
+## Economic
+## Environmental
+## World
+## People's
+## Intellectual
+## Gender
+## Public
+
 
 </details>
 
 <details>
 
-<summary>Geography</summary>
+<summary>Geography(5 core concept)</summary>
 
-# Geography
+# Geography(space , place , time)
+
+## Space
+## Place
+## Time
+## Scale
+## Laws of geography
 
 </details>
 
@@ -3482,7 +3509,10 @@ Notes:
 - [X] [CNN: CNN-from-Scratch](https://github.com/zishansami102/CNN-from-Scratch)
 - [X] [CNN: Building Convolutional Neural Network using NumPy from Scratch](https://www.kdnuggets.com/2018/04/building-convolutional-neural-network-numpy-scratch.html)
 - [X] [CNN: Convolutional Neural Networks From Scratch on Python](https://q-viper.github.io/2020/06/05/convolutional-neural-networks-from-scratch-on-python/)
-
+- [X] [RNN]()
+- [X] [LSTM]()
+- [X] [GRU]()
+- [X] [BLSTM]()
 - [X] [Transformer: Transformers from Scratch in PyTorch](https://medium.com/the-dl/transformers-from-scratch-in-pytorch-8777e346ca51)
 - [X] [Transformer from scratch using pytorch](https://www.kaggle.com/code/arunmohan003/transformer-from-scratch-using-pytorch/notebook)
 - [X] [Transformer: TRANSFORMERS FROM SCRATCH](https://peterbloem.nl/blog/transformers)
