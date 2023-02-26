@@ -2189,27 +2189,6 @@ Other branches of engineering
 </details>
 
 <details>
-<summary>Economics(6 Branches of economics)</summary>
-
-# Economics(production -> distributation -> consumption of goods and services)
-
-## Microeconomics
-
-## Macroeconomics
-
-## International economics
-
-## Development economics
-
-## Labor economics
-
-## Welfare economics
-
-
-</details>
-
-
-<details>
 
 <summary>History(15 area of study)</summary>
 
@@ -2255,20 +2234,31 @@ Other branches of engineering
 
 <details>
 
-<summary>Art and Design</summary>
+<summary>Art(3 steps)</summary>
 
-# Art and Design
+# Art (creative, imaginative > technical proficiency, beauty, emotional power, or conceptual ideas)
+
+
+## Preparation
+## Creation
+## Appreciation
 
 </details>
+
 
 <details>
 
+<summary>Design(2 design process, type of designing)</summary>
 
-<summary>Accounting And Finance</summary>
+# Design(construction of an object)
 
-# Accounting And Finance
+## Rational model
+## Criticism of the rational model
+## Action-centric model
+
 
 </details>
+
 
 
 <details>
@@ -2326,10 +2316,66 @@ Other branches of engineering
 </details>
 
 <details>
+<summary>Economics(6 Branches of economics)</summary>
 
-<summary>Business And Managment Study</summary>
+# Economics(production -> distributation -> consumption of goods and services)
 
-# Business And Managment Study
+## Microeconomics
+
+## Macroeconomics
+
+## International economics
+
+## Development economics
+
+## Labor economics
+
+## Welfare economics
+
+
+</details>
+
+<details>
+
+
+<summary>Finance</summary>
+
+# Accounting And Finance(financial transactions related to a business)
+
+## 
+
+</details>
+
+
+
+
+<details>
+
+<summary>Business </summary>
+
+# Business 
+
+</details>
+
+
+<details>
+
+<summary>Managment Study</summary>
+
+# Managment Study
+
+</details>
+
+
+<details>
+
+
+<summary>Accounting()</summary>
+
+Accounting, also known as accountancy, is the measurement, processing, and communication of financial and non-financial information about economic entities such as businesses and corporations.
+# Accounting (financial transactions related to a business)
+
+## 
 
 </details>
 
