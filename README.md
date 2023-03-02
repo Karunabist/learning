@@ -2421,11 +2421,27 @@ Other branches of engineering
 <details>
 
 
-<summary>Finance</summary>
+<summary>Finance(5 areas,6 financeial theory )</summary>
 
-# Accounting And Finance(financial transactions related to a business)
+# Finance( discipline of money)
 
-## 
+## Areas of finance
+
+### Personal finance
+### Corporate finance
+### Public finance
+### Investment management
+### Risk management
+### Quantitative finance
+
+## Financial theory
+
+### Managerial finance
+### Financial economics
+### Financial mathematics
+### Experimental finance
+### Behavioral finance
+### Quantum finance
 
 </details>
 
@@ -2434,18 +2450,34 @@ Other branches of engineering
 
 <details>
 
-<summary>Business </summary>
+<summary>Business(9 activities) </summary>
 
-# Business 
+# Business(making money by producing or buying and selling products (such as goods and services))
+
+## Activities
+### Accounting
+### Commerce
+### Finance
+### Human Resources
+### Manufacturing
+### Marketing
+### Research and development
+### Safety
+### Sales
 
 </details>
 
 
 <details>
 
-<summary>Managment Study</summary>
+<summary>Managment Study(3 levels)</summary>
 
-# Managment Study
+# Managment Study(administration of organizations)
+
+## Levels
+### Top management
+### Middle management
+### Line management
 
 </details>
 
@@ -2453,12 +2485,21 @@ Other branches of engineering
 <details>
 
 
-<summary>Accounting()</summary>
+<summary>Accounting(7 topics)</summary>
 
 Accounting, also known as accountancy, is the measurement, processing, and communication of financial and non-financial information about economic entities such as businesses and corporations.
 # Accounting (financial transactions related to a business)
 
-## 
+## Topics
+
+### Financial accounting
+### Management accounting
+### Auditing
+### Information systems
+### Tax accounting
+### Forensic accounting
+### Political campaign accounting
+
 
 </details>
 
