@@ -2264,9 +2264,9 @@ Other branches of engineering
 <details>
 
 
-<summary>Law</summary>
+<summary>Law(8 areas)</summary>
 
-# Law
+# Law(rule)
 
 </details>
 
@@ -2275,41 +2275,124 @@ Other branches of engineering
 <details>
 
 
-<summary>Medicin</summary>
+<summary>Medicin(4 branches)</summary>
 
-# Medicin
-
-</details>
-
-
-<details>
-
-
-<summary>Sociology</summary>
-
-# Sociology
-
-</details>
-
-<details>
-
-
-<summary>Political Science </summary>
-
-# Political Science
+# Medicin(patient)
 
 </details>
 
 
 <details>
-<summary>Psycology</summary>
 
-# Psycology
+
+<summary>Sociology(21 subfields)</summary>
+
+# Sociology(society)
+
+## Culture
+
+### Art, music and literature
+## Criminality, deviance, law and punishment
+### Sociology of law
+## Communications and information technologies
+### Internet and digital media
+### Media
+## Economic sociology
+### Work, employment, and industry
+## Education
+## Environment
+### Human ecology
+### Social pre-wiring
+## Family, gender, and sexuality
+## Health, illness, and the body
+### Death, dying, bereavement
+## Knowledge and science
+## Leisure
+## Peace, war, and conflict
+## Political sociology
+## Population and demography
+## Public sociology
+## Race and ethnic relations
+## Religion
+## Social change and development
+## Social networks
+## Social psychology
+## Stratification, poverty and inequality
+## Urban and rural sociology
+### Community sociology
 
 </details>
 
 <details>
-<summary>Neuroscience</summary>
+
+
+<summary>Political Science(fields) </summary>
+
+# Political Science(politics)
+
+## Cognate fields
+
+
+### Global studies
+### Law
+
+  Public law
+
+  Administrative law
+
+  Constitutional law
+
+  International law
+
+### Criminal Justice
+  Criminology
+  Sociology of Law
+  Legal management (academic discipline) and Paralegal Studies
+  Administration of justice
+### Urban planning education and Urban studies
+  Urban planning
+  Urban studies
+### Geography
+### Economics
+### Communications
+  Journalism
+  Political communications
+### Social work
+### Peace and conflict studies
+### Intelligence studies
+### Data science
+### Public health
+### Business administration
+### Environmental studies
+  Environmental science
+### Civil engineering
+### Industrial engineering
+### Systems engineering
+### Human resource management
+### Operations research
+
+
+</details>
+
+
+<details>
+<summary>Psycology(7 research methods)</summary>
+
+# Psycology( mind and behavior)
+
+## Research methods
+### Controlled experiments
+### Other types of studies
+### Direct brain observation/manipulation
+### Computer simulation
+### Animal studies
+### Qualitative research
+### Program evaluation
+
+</details>
+
+<details>
+<summary>Neuroscience(29 major branches)</summary>
 
 # Neuroscience
 
