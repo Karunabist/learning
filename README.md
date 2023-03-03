@@ -363,11 +363,14 @@ Dialects,accents, and varieties
 - [X] [The Psycology Of Money](https://www.planetayurveda.com/traditional-books/the-psychology-of-money-by-morgan-housel.pdf): Better relationship with money and to make smarter financial decisions. Instead of pretending that humans are ROI-optimizing machines, he shows you how your psychology can work for and against you.ow to think more rationally and make better decisions when it comes to money.
 - [X] [The Subtle Art Of Not Giving A F*ck](https://www.docdroid.net/KyoHFx5/the-subtle-art-of-not-giving-a-fuck-pdf#page=5): Thus, we can say that the key to living a good life is not giving a fuck about more things, but rather, giving a fuck only about the things that align with your personal values.
 - [X] [Mahabharat](https://www.mahabharataonline.com/translation/), [Another website](https://www.gutenberg.org/files/15474/15474-h/15474-h.htm#link2H_4_0003)
-  
-  - [X] [Bhagavad Gita](https://www.bhagavad-gita.org/index-english.html)
+    - [X] [Bhagavad Gita](https://www.bhagavad-gita.org/index-english.html)
 - [X] [ The Ramayana]()
 - [X] [Elon Musk](https://drive.google.com/file/d/1C8ODShsViYqTUGmbeW2y3aLg3Lbr_1fj/view?usp=sharing): If the rules are such that you can't make progress, then you have to fight the rules.
 - [X] [Born A Crime](https://drive.google.com/file/d/1_BmJeqonDQChIF2BoxqKh0jq-nSU25eS/view?usp=sharing): Stories of Noah's life are interspersed with insights into South Africa's culture, systems, and history.
+- [X] [The power of subconscious mind](https://lawyersofpakistan.com/wp-content/uploads/power-subconscious-mind.pdf)
+- [X] [How to win friends and influence people](https://images.kw.com/docs/2/1/2/212345/1285134779158_htwfaip.pdf)
+- [X] [Think and grow rich](https://apex.oracle.com/pls/apex/lonestar/r/files/static/v13Y/Think-And-Grow-Rich_2011-06.pdf)
+- [X] [Awaken the giant within](https://www.ia-bc.com/upload/359044.pdf)
 - [X] [A Text Book Of Professional Communication Skills and Esp for Engineers and Professional](https://drive.google.com/file/d/1oQBkfYVxkM7QQGdJmG2MfeyXHOonWtzb/view?usp=sharing)
 - [X] [The Hidden Staircase](https://drive.google.com/file/d/1GpwUz1G-X7j0eqh8rhT3hFFT6cX_lbUg/view?usp=sharing)
 - [X] [A Thousand Splindid Sun](https://drive.google.com/file/d/1_xZ4RY7lv3DIL6n2ApVfCOMF9sxkWVGa/view?usp=sharing)
@@ -2506,14 +2509,65 @@ Accounting, also known as accountancy, is the measurement, processing, and commu
 <details>
 <summary>MS(Cognative science, Machine learning paradigms for 2D/3D Segmentation and Detection)</summary>
 
-# Intro to Computer Security
+# Intro to Computer Security(Security between| source/sender -> encryption algorithm-> secret message> channel -> -> secret message -> decryption algorithm -> destination/receiver)
 * [Objectives](https://github.com/madanbaduwal/masters/blob/main/Intro%20to%20Computer%20Security/ObjectivesMapCosc4375.docx)
-* [week1 : intro]()
-    * [Chapter 1](https://github.com/madanbaduwal/masters/blob/main/Intro%20to%20Computer%20Security/1_intro_A11y.pptx)
-	* [CIA]()
-* [Week 2: ]()
-    * [Chapter 2](https://github.com/madanbaduwal/masters/blob/main/Intro%20to%20Computer%20Security/3_Chapter2A11y.pptx)
-	* [Chapter 3](https://github.com/madanbaduwal/masters/blob/main/Intro%20to%20Computer%20Security/4_Chapter3A11y.pptx)
+* [Chapter 1: Introduction](https://github.com/madanbaduwal/masters/blob/main/Semester%201/Computer%20And%20Network%20Security/T1-Intro.pdf)
+	* [CIA triad](https://www.fortinet.com/resources/cyberglossary/cia-triad)
+	    - Confidentiality: accessible only by authorized individuals
+		- Integrity: program are changed only in a specific and authorized manner, system performs Its intended function in an unimpaired manner,free from deliberate or inadvertent unauthorized manipulation of the system
+		- Availability: systems work promptly and service is not denied to authorized users
+	* [Passive attack and active attack](https://www.geeksforgeeks.org/difference-between-active-attack-and-passive-attack/)
+	    - Passive attack: learn but doesn't affect the system resources, the release of message contents, traffic analysis 
+        - Active attack: alter system resources and affect there operation , masquerade,reply, modification of message, denial of service
+    * [Security Services](https://ecomputernotes.com/computernetworkingnotes/security/network-security-services)
+        - Nonreputation: Prevents either sender or receiver from denying a transmitted message, When a message is sent, the receiver can prove that the alleged sender in fact sent the message, When a message is received, the sender can prove that the alleged receiver in fact received the message
+    * [A Model for Network Security](https://wachemo-elearning.net/courses/information-assurance-and-security/lessons/chapter-one-cryptography-and-network-security/topic/a-model-for-network-security/)
+    * [Network Access Security Model](https://binaryterms.com/network-security-model.html)
+
+* [Chapter 2: Symmetric Encryption(secret key shared by sender and receiver)](https://github.com/madanbaduwal/masters/blob/main/Intro%20to%20Computer%20Security/3_Chapter2A11y.pptx)
+    
+	- [X] [Basis Terminology]()
+        - Plain text: Original Message
+		- Ciphertext: Coded message
+		- Cipher: algorithm for transforming plaintext to ciphertext
+		- Key: info used in cipher known only to sender/receiver
+		- Encipher(encrypt): converting plaintext to ciphertext
+		- Decipher (decrypt) : recovering ciphertext from plaintext
+		- Cryptography : study of encryption principles/methods
+		- Cryptanalysis (code breaking) : study of principles/methods of deciphering ciphertext without knowing key 
+		- Cryptology :  field of both cryptography and cryptanalysis 
+	- [X] [Model of symmetric encryption](https://www.brainkart.com/article/Symmetric-Cipher-Model_8386/)
+	- [X] [two requirements for secure use of conventional encryption]()
+	    - Strong encryption algorithm:
+		- Sender and receiver must have obtained copies of the secret key in a secure fashion and must keep the key secure.
+	- [X] [Cryptography]()
+
+	Cryptographic systems are generally classified as three dimensions
+
+	    * The type of operations used for transforming plaintext to
+          ciphertext
+            * Substitution
+              * Each element in the plaintext is mapped into another
+              element
+            * Transposition
+              * Elements in the plaintext are rearranged
+              * Fundamental requirement is that no information be lost
+            * Product systems
+              * Involve multiple stages of substitutions and transpositions
+        * The number of keys used
+            * Referred to as symmetric, single-key, secret-key, or
+          conventional encryption if both sender and receiver use the
+          same key
+            * Referred to as asymmetric, two-key, or public-key encryption
+             if the sender and receiver each use a different key
+        * The way in which the plaintext is processed
+            * Block cipher processes the input one block of elements ata ™
+            time, producing an output block for each input block
+            * Stream cipher processes the input elements continuously,
+            producing output one element at a time, as it goes along
+
+
+* [Chapter 3](https://github.com/madanbaduwal/masters/blob/main/Intro%20to%20Computer%20Security/4_Chapter3A11y.pptx)
 
 
 # Computer and Network Security
@@ -2769,6 +2823,10 @@ Note:
 	- [X] [Doubly Linked List | Set 1 (Introduction and Insertion)](https://www.geeksforgeeks.org/doubly-linked-list/)
 	- [X] [Doubly linked list: How to create a doubly linked list in Python](https://www.educative.io/answers/how-to-create-a-doubly-linked-list-in-python)
 	- [X] [Doubly linked list: Doubly Linked List | Set 1 (Introduction and Insertion)](https://www.geeksforgeeks.org/doubly-linked-list/)
+	- [X] [Reverse a Linked List](https://www.geeksforgeeks.org/reverse-a-linked-list/)
+	- [X] [Floyd's Cycle-Finding Algorithm](https://www.koderdojo.com/blog/detect-cycle-in-linked-list-using-floyd-s-cycle-finding-algorithm)
+	- [X] [Floyd's Cycle-Finding Algorithm: Geeks for geeks](https://www.geeksforgeeks.org/floyds-cycle-finding-algorithm/)
+
 - [X] [Binary Tree](https://www.geeksforgeeks.org/binary-tree-data-structure/?ref=ghm)
  
     - [X] Binary tree: [set1](https://www.geeksforgeeks.org/binary-tree-set-1-introduction/),[set2](https://www.geeksforgeeks.org/binary-tree-set-2-properties/),[set3](https://www.geeksforgeeks.org/binary-tree-set-3-types-of-binary-tree/)
@@ -2823,7 +2881,7 @@ Real life application of data structure
 - [X] [Medium](https://zriyansh.medium.com/data-structures-and-algorithms-in-real-life-6b2b813d516e)
 - [X] [levelup](https://levelup.gitconnected.com/data-structures-and-algorithms-in-real-life-161619607632)
 
-### Algorithms
+### Algorithms(recursion is most importatnt in algorithms)
 - [X] Recursion
     - [X] [Recursion in Python](https://www.geeksforgeeks.org/recursion-in-python/)
 	- [X] [Recursion : Python Recursion](https://www.programiz.com/python-programming/recursion)
@@ -2831,8 +2889,10 @@ Real life application of data structure
 	- [X] [Recursion vs Iteration](https://www.geeksforgeeks.org/difference-between-recursion-and-iteration/)
 
 - [X] Sorting Algorithms
+    - [ ] [Insertion sort: programiz](https://www.programiz.com/dsa/insertion-sort)
 	- [ ] [Bubble sort: Bubble Sort Algorithm with Python using List Example](https://www.guru99.com/bubble-sort.html)
 	- [ ] [Bubble sort: Python Program for Bubble Sort](https://www.geeksforgeeks.org/python-program-for-bubble-sort/)
+	- [ ] [Modified bubble sort](https://iq.opengenus.org/modified-bubble-sort/)
 	- [ ] [Merge Sort: Merge Sort Algorithm](https://www.programiz.com/dsa/merge-sort)
 	- [ ] [Merge Sort: Python Program for Merge Sort](https://www.geeksforgeeks.org/python-program-for-merge-sort/)
 	- [ ] [Merge Sort: Merge Sort](https://www.geeksforgeeks.org/merge-sort/)
@@ -2840,6 +2900,8 @@ Real life application of data structure
 	- [ ] [Merge Sort: How To Implement Merge Sort Algorithm In Python](https://towardsdatascience.com/how-to-implement-merge-sort-algorithm-in-python-4662a89ae48c)
 	- [ ] [Insertion sort: Definition of Insertion sort in Python](https://www.educba.com/insertion-sort-in-python/)
 	- [ ] [Heap Sort](https://www.geeksforgeeks.org/python-program-for-heap-sort/)
+	- [ ] [Selection Sort](https://www.geeksforgeeks.org/python-program-for-selection-sort/)
+	- [ ] [Quick Sort](https://www.geeksforgeeks.org/quick-sort/)
 	- [ ] [Sorting algorithms](https://colab.research.google.com/drive/1zkBH0RUAulBup6hz2htJJWosdHZ28Exw#scrollTo=awCZJ7fB6Kik)
 	- [ ] [Sorting algorithms](https://realpython.com/sorting-algorithms-python/)
 
@@ -2866,19 +2928,22 @@ Real life application of data structure
 	- [ ] [A* Search: medium](https://towardsdatascience.com/a-star-a-search-algorithm-eb495fb156bb)
 	- [ ] [A* Search: Easy A* (star) Pathfinding](https://medium.com/@nicholas.w.swift/easy-a-star-pathfinding-7e6689c7f7b2)
 
+- [X] [Convex Hall Algorithm](https://lvngd.com/blog/convex-hull-graham-scan-algorithm-python/#:~:text=The%20boundary%20of%20the%20smallest,convex%20hull%20in%202%20dimensions.)
+
 - [X] Algorithms Analysis
-    - [X] [Big-O: Geeksforgeeks](https://www.geeksforgeeks.org/analysis-algorithms-big-o-analysis/) 
-	- [X] [Little-o: Geeksforgeeks](https://www.geeksforgeeks.org/analysis-of-algorithems-little-o-and-little-omega-notations/?ref=gcse)
-	- [X] [Big- Omega](https://www.geeksforgeeks.org/analysis-of-algorithms-big-%CF%89-big-omega-notation/?ref=gcse)
-	- [X] [Algorithms Analysis: Geeksforgeeks](https://www.geeksforgeeks.org/analysis-of-algorithms-set-1-asymptotic-analysis/?ref=ghm)
-	- [X] [Big Theta: Geeksforgeeks](https://www.geeksforgeeks.org/analysis-of-algorithms-big-%CE%B8-big-theta-notation/?ref=gcse)
-	- [ ] [Introduction To Algorithms Analysis](https://cathyatseneca.gitbooks.io/data-structures-and-algorithms/content/analysis/)
+    - [X] [Asymptotic Analysis](https://en.wikipedia.org/wiki/Asymptotic_analysis) : As an illustration, suppose that we are interested in the properties of a function $f(n)$ as $n$ becomes very large. If $f(n) = n^2 + 3n$, then as n becomes very large, the term $3n$ becomes insignificant compared to $n^2$. The function $f(n)$ is said to be "asymptotically equivalent to $n^2$, as $n → ∞ $". This is often written symbolically as $f (n) ~ n^2$, which is read as "$f(n)$ is asymptotic to $n^2$".
 	- [ ] [Asymptotic Analysis](https://www.programiz.com/dsa/asymptotic-notations)
 	- [ ] [Article: Asymptotic Analysis Explained with Pokémon: A Deep Dive into Complexity Analysis](https://www.freecodecamp.org/news/asymptotic-analysis-explained-with-pokemon-a-deep-dive-into-complexity-analysis-8bf4396804e0/)
+    - [X] [Big-O($O$): Geeksforgeeks](https://www.geeksforgeeks.org/analysis-algorithms-big-o-analysis/) : O-notation characterizes an upper bound on the asympototic behavior of a function: it says that a function grows no faster than a certain rate. This rate is based on the highest order term. 
+	- [X] [Little-o: Geeksforgeeks($o$)](https://www.geeksforgeeks.org/analysis-of-algorithems-little-o-and-little-omega-notations/?ref=gcse)
+	- [X] [Big- Omega($\Omega$)](https://www.geeksforgeeks.org/analysis-of-algorithms-big-%CF%89-big-omega-notation/?ref=gcse) : $\Omega$-notation characterizes a lower bound on the asymptotic behavior of a function.
+	- [X] [Small omegs($\omega$)]() : 
+	- [X] [Big- Theta($\Theta$)](https://www.geeksforgeeks.org/analysis-of-algorithms-big-%CE%B8-big-theta-notation/?ref=gcse) : $\Theta$-notation characterizes a tight bound on the asymptotic behavior of a function: it says that a function grows precisely at a certain rate, again based on the highest-order term.
+	- [X] [Algorithms Analysis: Geeksforgeeks](https://www.geeksforgeeks.org/analysis-of-algorithms-set-1-asymptotic-analysis/?ref=ghm)
+	- [ ] [Introduction To Algorithms Analysis](https://cathyatseneca.gitbooks.io/data-structures-and-algorithms/content/analysis/)
 	- [ ] [Algorithms Design Techniques](https://www.geeksforgeeks.org/algorithms-design-techniques/)
 	
-- [X] [Terminology in data structure and algorithms]()
-    - [X] [Asymptotic Analysis](https://en.wikipedia.org/wiki/Asymptotic_analysis) : As an illustration, suppose that we are interested in the properties of a function $f(n)$ as $n$ becomes very large. If $f(n) = n^2 + 3n$, then as n becomes very large, the term $3n$ becomes insignificant compared to $n^2$. The function $f(n)$ is said to be "asymptotically equivalent to $n^2$, as $n → ∞ $". This is often written symbolically as $f (n) ~ n^2$, which is read as "$f(n)$ is asymptotic to $n^2$".
+- [X] [NP-complete problems](https://en.wikipedia.org/wiki/NP-completeness)
 
 ### Challenges
 
