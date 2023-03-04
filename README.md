@@ -2638,6 +2638,28 @@ Note: Security between| source/sender -> encryption algorithm-> secret message> 
 	- [X] [Hash-Based Message Authentication Codes(HMAC)](https://www.okta.com/identity-101/hmac/#:~:text=Hash%2Dbased%20message%20authentication%20code,use%20signatures%20and%20asymmetric%20cryptography.)
 	- [X] [CCM mode](https://en.wikipedia.org/wiki/CCM_mode)
 
+- [X] [Bitcoin Background](https://github.com/madanbaduwal/masters/blob/main/Semester%201/Computer%20And%20Network%20Security/1-BitCoinBackground.pdf)
+    - [X] [Traditional Financial Arrangement]()
+	- [X] [Cryptocurrency]()
+	- [X] [Double Spending Problem]()
+	- [X] [Blind signature mechanish]()
+
+
+- [X] [Bitcoin Overview](https://github.com/madanbaduwal/masters/blob/main/Semester%201/Computer%20And%20Network%20Security/3-BitCoinOverview.pdf)
+    - [X] [Bitcoin overview]()
+	- [X] []()
+
+- [X] [Hash function and asymmetric](https://github.com/madanbaduwal/masters/blob/main/Semester%201/Computer%20And%20Network%20Security/4-HashFunctionAsymetricEnc.pdf)
+    - [X] [Where does bitcoin use hash function]()
+	- [X] [Where does bitcoin use asymmetric encryption]()
+
+- [X] [Digital Signature and transition](https://github.com/madanbaduwal/masters/blob/main/Semester%201/Computer%20And%20Network%20Security/5-DigitalSignatureTransaction.pdf)
+
+    - [X] [Digital signature in bitcoin]()
+	- [X] [Private key and public key as identities]()
+
+- [X] [Key Distributatio](https://github.com/madanbaduwal/masters/blob/main/Semester%201/Computer%20And%20Network%20Security/T5-KeyDistributionI.pdf)
+    - [X] [Kerberos version 4]()
 
 
 # Computer and Network Security
