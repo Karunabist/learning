@@ -2509,7 +2509,12 @@ Accounting, also known as accountancy, is the measurement, processing, and commu
 <details>
 <summary>MS(Cognative science, Machine learning paradigms for 2D/3D Segmentation and Detection)</summary>
 
-# Intro to Computer Security(Security between| source/sender -> encryption algorithm-> secret message> channel -> -> secret message -> decryption algorithm -> destination/receiver | The strength of encryption algorithm is dependent on the length of key not the length of input)
+# Intro to Computer Security
+
+Note: Security between| source/sender -> encryption algorithm-> secret message> channel -> -> secret message -> decryption algorithm -> destination/receiver | The strength of encryption algorithm is dependent on the length of key not the length of input
+
+---------
+
 * [Objectives](https://github.com/madanbaduwal/masters/blob/main/Intro%20to%20Computer%20Security/ObjectivesMapCosc4375.docx)
 * [Chapter 1: Introduction](https://github.com/madanbaduwal/masters/blob/main/Semester%201/Computer%20And%20Network%20Security/T1-Intro.pdf)
 	* [CIA triad](https://www.fortinet.com/resources/cyberglossary/cia-triad)
