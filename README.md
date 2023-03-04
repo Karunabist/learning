@@ -2607,9 +2607,37 @@ Note: Security between| source/sender -> encryption algorithm-> secret message> 
     
 	- [X] [Stream Cipher](https://en.wikipedia.org/wiki/Stream_cipher):  In a stream cipher, each plaintext digit is encrypted one at a time with the corresponding digit of the keystream, to give a digit of the ciphertext stream. 
 	- [X] [Stream Cipher: geeksforgeeks](https://www.geeksforgeeks.org/stream-ciphers/)
+	- [X] [Stream cipher design considerations]():
+	    - The encryption sequence should have a large period
+          - The longer the period of repeat, the more difficult it will be to do cryptanalysis
+        - The keystream should approximate the properties of a true random number stream as close as possible
+          - The more random-appearing the keystream is, the more randomized the ciphertext is, making cryptanalysis more difficult
+        - The pseudorandom number generator is conditioned on the value of the input key
+          - To guard against brute-force attacks, the key needs to be sufficiently long
+          - With current technology, a key length of at least 128 bits is desirable
+	- [X] [RC4 algorithm](https://www.geeksforgeeks.org/rc4-encryption-algorithm/)
+	- [X] [Block Cipher modes of Operation](https://www.geeksforgeeks.org/block-cipher-modes-of-operation/)
+	- [X] [Electronic Code Book (ECB)](https://www.geeksforgeeks.org/block-cipher-modes-of-operation/)
 
 
 * [Chapter 3: PublicKeyStructure/ asymmetric encryption](https://github.com/madanbaduwal/masters/blob/main/Semester%201/Computer%20And%20Network%20Security/T3-PublicKeyStructure.pdf)
+   - [X] [Public key encryption structure/ Asymmetric structure](https://github.com/madanbaduwal/masters/blob/main/Semester%201/Computer%20And%20Network%20Security/T3-PublicKeyStructure.pdf)
+   - [X] [Public Key Encryption: geeksforgeeks](https://www.geeksforgeeks.org/public-key-encryption/)
+   - [X] [application for public-key cryptosystem](https://www.geeksforgeeks.org/public-key-encryption/)
+   - [X] [RSA algorithm](https://www.geeksforgeeks.org/rsa-algorithm-cryptography/)
+   - [X] [RSA algorithm: my implementation](https://github.com/madanbaduwal/masters/blob/main/Semester%201/Computer%20And%20Network%20Security/L1-Encryption-Solution.pdf)
+   - [X] [Diffie-Hellman Algorithm](https://www.geeksforgeeks.org/implementation-diffie-hellman-algorithm/)
+   - [X] [Digital Signature Standard (DSS)](https://www.geeksforgeeks.org/digital-signature-standard-dss/)
+   - [X] [Elliptic Curve Cryptography(ECC)](https://www.educative.io/answers/what-is-elliptic-curve-cryptography)
+   
+* [X] [Chapter 4: Hash function](https://github.com/madanbaduwal/masters/blob/main/Semester%201/Computer%20And%20Network%20Security/T4-HashFunction.pdf)
+    - [X] [Message Authentication](https://www.tutorialspoint.com/cryptography/message_authentication.htm)
+	- [X] [Secure hash function/ features of the hash function](https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm)
+	- [X] [Security of hash function]()
+	- [X] [SHA secure hash function](https://en.wikipedia.org/wiki/Secure_Hash_Algorithms)
+	- [X] [Hash-Based Message Authentication Codes(HMAC)](https://www.okta.com/identity-101/hmac/#:~:text=Hash%2Dbased%20message%20authentication%20code,use%20signatures%20and%20asymmetric%20cryptography.)
+	- [X] [CCM mode](https://en.wikipedia.org/wiki/CCM_mode)
+
 
 
 # Computer and Network Security
