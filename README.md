@@ -100,7 +100,7 @@ Learning by doing or reverse engineering or doing by experiments or try to codin
 		  <li><a href="https://www.opportunitiesforyouth.org/wp-content/uploads/2021/04/Atomic_Habits_by_James_Clear-1.pdf">Atomic Habit</a></li> 
 	  </ul>
 
-<img class="zoom" src="https://raw.githubusercontent.com/MadanBaduwal/learning/main/images/Atomic-Habits-Tiny-Changes-Remarkable-Results.png" alt="Italian Trulli"> 
+<img class="zoom" src="https://yuyangyy.com/blog/assets/img/posts/20210114-compoud-effect.png" alt="Italian Trulli"> 
 
 </td>
   <td width="40%">
@@ -2511,7 +2511,10 @@ Accounting, also known as accountancy, is the measurement, processing, and commu
 
 # Intro to Computer Security
 
-Note: Security between| source/sender -> encryption algorithm-> secret message> channel -> -> secret message -> decryption algorithm -> destination/receiver | The strength of encryption algorithm is dependent on the length of key not the length of input
+**Note: source/sender | -> encryption algorithm(cipher)+ (substitution(mapped into another element),transposition(plaintext are rearranged), product(substitution + transposition)) + public key, private key | -> secret message | -> channel | -> secret message | -> decryption algorithm | -> destination/receiver | The strength of encryption algorithm is dependent on the length of key not the length of input**
+
+Keywords: assure,preotect,private key, public key
+
 
 ---------
 
@@ -2529,7 +2532,7 @@ Note: Security between| source/sender -> encryption algorithm-> secret message> 
     * [A Model for Network Security](https://wachemo-elearning.net/courses/information-assurance-and-security/lessons/chapter-one-cryptography-and-network-security/topic/a-model-for-network-security/)
     * [Network Access Security Model](https://binaryterms.com/network-security-model.html)
 
-* [Chapter 2: Symmetric Encryption(secret key shared by sender and receiver)](https://github.com/madanbaduwal/masters/blob/main/Intro%20to%20Computer%20Security/3_Chapter2A11y.pptx)
+* [Chapter 2: Symmetric Encryption(secret key shared by sender and receiver)](https://github.com/madanbaduwal/masters/blob/main/Semester%201/Computer%20And%20Network%20Security/T2-SymmetricEncryption.pdf)
     
 	- [X] [Basis Terminology]()
         - Plain text: Original Message
@@ -2598,6 +2601,7 @@ Note: Security between| source/sender -> encryption algorithm-> secret message> 
 
 	    - [X] [Data Encryption Standard(DES): My implementation](https://github.com/madanbaduwal/masters/blob/main/Semester%201/Computer%20And%20Network%20Security/L1-Encryption-Solution.pdf)
 		    - Step 1: Plain text 64-bits 
+			- Step 2: 
 			- Step 2 : The key length is 56 bits.(Actually, the initial key consists of 64 bits. However, before the DES process even starts, every 8th bit of the key is discarded to produce a 56-bit key.)
 
 		- [X] [Data Encryption Standard(DES: geeksforgeeks](https://www.geeksforgeeks.org/data-encryption-standard-des-set-1/)
@@ -2639,10 +2643,11 @@ Note: Security between| source/sender -> encryption algorithm-> secret message> 
 	- [X] [CCM mode](https://en.wikipedia.org/wiki/CCM_mode)
 
 - [X] [Bitcoin Background](https://github.com/madanbaduwal/masters/blob/main/Semester%201/Computer%20And%20Network%20Security/1-BitCoinBackground.pdf)
-    - [X] [Traditional Financial Arrangement]()
+    - [X] [Traditional Financial Arrangement]():
+	    - Barter: Barter is a method of exchange where goods or services are traded directly without the use of money. 
 	- [X] [Cryptocurrency]()
-	- [X] [Double Spending Problem]()
-	- [X] [Blind signature mechanish]()
+	- [X] [Double Spending Problem](): make copies of cash and use them
+	- [X] [Blind signature mechanish](): 
 
 
 - [X] [Bitcoin Overview](https://github.com/madanbaduwal/masters/blob/main/Semester%201/Computer%20And%20Network%20Security/3-BitCoinOverview.pdf)
