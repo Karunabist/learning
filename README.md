@@ -74,13 +74,30 @@ Learning by doing or reverse engineering or doing by experiments or try to codin
 		  <li><a href= "https://docs.google.com/document/d/1aMGL_ye6mxmdJSpQXOlcpahYdrwgrMh_p6EM0cPY6qQ/edit?usp=sharing">Physics(atom)</a></li>
 		  <li><a href= "https://docs.google.com/document/d/1e8HjXTtJcvfEQSxYotMXx7T2iexRoEQDNjtattCozus/edit?usp=sharing">Chemistry(ion)</a></li>
 		  <li><a href= "https://docs.google.com/document/d/1brdu9ShaaN1JTiQzs3ckHWFDOv2ft7c_-lpKsRqz5I0/edit?usp=sharing">Biology(cell)</a></li> 
+		 <li><a href= "">Anthropology</a></li> 
 		  <li><a href= "https://docs.google.com/document/d/1gIVyhmQCia1pDzFCwEdKoF_tpSz5vZlQyeECx9riFGE/edit?usp=sharing">Engineering(atom)</a></li> 
+		  <li><a href= "">Architecture</a></li>
+		  <li><a href= "">History</a></li>
+		  <li><a href= "">Geography</a></li>
+		  <li><a href= "">Art</a></li>
+		  <li><a href= "">Design</a></li>
+		  <li><a href= "">Law</a></li>
+		  <li><a href= "">Medicin</a></li>
+		  <li><a href= "">Sociology</a></li>
+		  <li><a href= "">Political Science</a></li>
+		  <li><a href= "">Psycology</a></li>
+		  <li><a href= "">Neuroscience</a></li>
 		  <li><a href= "https://docs.google.com/document/d/1nxTLBHwMnclj-nrvmHYMcwJveu0QHme-XwOw5DI3Y1Q/edit?usp=sharing">Economics(production -> distributation -> consumption of goods and services)</a></li>
-		  <li><a href="#">Managment,accounting,Education,
-			  General Knowledge ...etc</a></li>
+		  <li><a href="#">Finance</a></li>
+		  <li><a href="#">Business</a></li>
+		  <li><a href="#">Management</a></li>
+		  <li><a href="#">Accounting</a></li>
+		  <li><a href="#">MS</a></li>
+		  <li><a href="#">PHD</a></li>
 		  <li><a href="#">Companies(motivations)</a></li>
+		  <li><a href="#">Money(Penny)</a></li>
 		  <li><a href="https://colab.research.google.com/drive/1eqOUu2cIzTNweQB_dr3NyiQhirm3ol_0?usp=sharing">Computer science(Object,Array)</a></li>
-		  <li><a href="#">\ career(Single problem)</a></li>
+		  <li><a href="#">career(Single problem)</a></li>
 		Download Book From Here:<a href="https://libgen.is/">libgen.is</a></br>
 		  Download Paid Research Papers From Here: <a href="https://sci-hub.se/">sci-hub.se</a></br>
 	Free Pdf hosting: <a href="https://pdfhost.io/">pdfhost.io</a>
