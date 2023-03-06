@@ -100,7 +100,7 @@ Learning by doing or reverse engineering or doing by experiments or try to codin
 		  <li><a href="https://www.opportunitiesforyouth.org/wp-content/uploads/2021/04/Atomic_Habits_by_James_Clear-1.pdf">Atomic Habit</a></li> 
 	  </ul>
 
-<img class="zoom" src="https://yuyangyy.com/blog/assets/img/posts/20210114-compoud-effect.png" alt="Italian Trulli"> 
+<img class="zoom" src="https://miro.medium.com/v2/resize:fit:828/0*x1-JTcc4ktP0mf8V" alt="Italian Trulli"> 
 
 </td>
   <td width="40%">
