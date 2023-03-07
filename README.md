@@ -68,7 +68,7 @@ Learning by doing or reverse engineering or doing by experiments or try to codin
   <tr>
 	  <td width="20%">
 	<ul>
-		<p><b>Start from the tiny elements/units/objects of the system.</b></p>
+		<p><b>Tiny elements/units/objects of every subject.</b></p>
 		<li><a href= "https://docs.google.com/document/d/1snROtUFb4DGpGE0kVZr6nFM1GUnRuaXFwLWCYvFM3ME/edit?usp=sharing">Language(English)(letter)</a></li>            
 		  <li><a href="https://colab.research.google.com/drive/15uiUNCEPbh1VhH-wfvJctbm8902po2zq?usp=sharing">Mathematics(number,object,element)</a></li>
 		  <li><a href= "https://docs.google.com/document/d/1aMGL_ye6mxmdJSpQXOlcpahYdrwgrMh_p6EM0cPY6qQ/edit?usp=sharing">Physics(atom)</a></li>
@@ -122,7 +122,7 @@ Learning by doing or reverse engineering or doing by experiments or try to codin
 </td>
   <td width="40%">
 	  <ul>    
-		  Inspired by 
+		  <b>Inspired by</b>
 		  <li><a href="https://github.com/donnemartin/system-design-primer">system-design-primer</a></li>
 		  <li><a href="https://github.com/donnemartin/interactive-coding-challenges">interactive-coding-challenges</a></li>
 		  <li><a href="https://github.com/donnemartin/data-science-ipython-notebooks">data-science-ipython-notebooks</a></li>
