@@ -2528,7 +2528,7 @@ Accounting, also known as accountancy, is the measurement, processing, and commu
 
 # How to apply to abroad universities for masters(particularly for us)
 
-[Step by step process](./../usa-university-application-process/README.md)
+[Step by step process](./../usa-university-application-process)
 
 # Intro to Computer Security
 
