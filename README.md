@@ -2526,6 +2526,10 @@ Accounting, also known as accountancy, is the measurement, processing, and commu
 <details>
 <summary>MS(Cognative science, Machine learning paradigms for 2D/3D Segmentation and Detection)</summary>
 
+# How to apply to abroad universities for masters(particularly for us)
+
+[Step by step process](./../usa-university-application-process/README.md)
+
 # Intro to Computer Security
 
 **Note: source/sender | -> encryption algorithm(cipher)+ (substitution(mapped into another element),transposition(plaintext are rearranged), product(substitution + transposition)) + public key, private key | -> secret message | -> channel | -> secret message | -> decryption algorithm | -> destination/receiver | The strength of encryption algorithm is dependent on the length of key not the length of input**
@@ -2709,6 +2713,10 @@ Keywords: assure,preotect,private key, public key
 <details>
 <summary>PHD career(Cognative science, Machine learning paradigms for 2D/3D Segmentation and Detection)</summary>
 
+
+# How to apply to abroad universities for PHD(particularly for us)
+
+[Step by step process](./../usa-university-application-process/README.md)
 
 # PHD career(Single problem)
 
