@@ -53,7 +53,7 @@ Find out the problem in existing system. Try to fix it with new approach.
 
 **f. Focus on single platform and spreed it anywhere**
 
-My single platform is github with **Vscode: Extensions** > **github: Integrate other Applications** > **I always connect everything to github**.
+My single platform is github with **Vscode: Extensions** > **github: Integrate other Applications** > **Any Server** > **I always connect everything to github**.
 
 **g. What is life?**
 
@@ -2532,7 +2532,7 @@ Accounting, also known as accountancy, is the measurement, processing, and commu
 
 # Intro to Computer Security
 
-**Note: source/sender | -> encryption algorithm(cipher)+ (substitution(mapped into another element),transposition(plaintext are rearranged), product(substitution + transposition)) + public key, private key | -> secret message | -> channel | -> secret message | -> decryption algorithm | -> destination/receiver | The strength of encryption algorithm is dependent on the length of key not the length of input**
+**Note: source/sender | -> encryption algorithm(cipher)+ (substitution(mapped into another element),transposition(plaintext are rearranged), product(substitution + transposition)) + public key, private key + assurance | -> secret message | -> channel -> | Server | -> secret message | -> decryption algorithm | -> destination/receiver | The strength of encryption algorithm is dependent on the length of key not the length of input**
 
 Keywords: assure,preotect,private key, public key
 
