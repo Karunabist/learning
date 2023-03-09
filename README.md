@@ -53,7 +53,7 @@ Find out the problem in existing system. Try to fix it with new approach.
 
 **f. Focus on single platform and spreed it anywhere**
 
-My single platform is github with **Vscode: Extensions** > **github: Integrate other Applications** > **Any Server** > **I always connect everything to github**.
+My single platform is github with | **Vscode: Extensions** > **github: Integrate other Applications** > **Any Server** | I always connect everything to github.
 
 **g. What is life?**
 
