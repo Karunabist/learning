@@ -74,9 +74,9 @@ Learning by doing or reverse engineering or doing by experiments or try to codin
 		  <li><a href= "https://docs.google.com/document/d/1aMGL_ye6mxmdJSpQXOlcpahYdrwgrMh_p6EM0cPY6qQ/edit?usp=sharing">Physics(atom)</a></li>
 		  <li><a href= "https://docs.google.com/document/d/1e8HjXTtJcvfEQSxYotMXx7T2iexRoEQDNjtattCozus/edit?usp=sharing">Chemistry(ion)</a></li>
 		  <li><a href= "https://docs.google.com/document/d/1brdu9ShaaN1JTiQzs3ckHWFDOv2ft7c_-lpKsRqz5I0/edit?usp=sharing">Biology(cell)</a></li> 
-		 <li><a href= "">Anthropology</a></li> 
+		 <li><a href= "">Anthropology(humanity)</a></li> 
 		  <li><a href= "https://docs.google.com/document/d/1gIVyhmQCia1pDzFCwEdKoF_tpSz5vZlQyeECx9riFGE/edit?usp=sharing">Engineering(atom)</a></li> 
-		  <li><a href= "">Architecture</a></li>
+		  <li><a href= "">Architecture(designing and building)</a></li>
 		  <li><a href= "">History</a></li>
 		  <li><a href= "">Geography</a></li>
 		  <li><a href= "">Art</a></li>
@@ -2526,11 +2526,11 @@ Accounting, also known as accountancy, is the measurement, processing, and commu
 <details>
 <summary>MS(Cognative science, Machine learning paradigms for 2D/3D Segmentation and Detection)</summary>
 
-# How to apply to abroad universities for masters(particularly for us)
+# How to apply to abroad universities for masters
 
 [Step by step process](https://github.com/madanbaduwal/usa-university-application-process)
 
-# Intro to Computer Security
+# Computer and Network Security 
 
 **Note: source/sender | -> encryption algorithm(cipher)+ (substitution(mapped into another element),transposition(plaintext are rearranged), product(substitution + transposition)) + public key, private key + assurance | -> secret message | -> channel -> | Server | -> secret message | -> decryption algorithm | -> destination/receiver | The strength of encryption algorithm is dependent on the length of key not the length of input**
 
@@ -2687,8 +2687,11 @@ Keywords: assure,preotect,private key, public key
 - [X] [Key Distributatio](https://github.com/madanbaduwal/masters/blob/main/Semester%201/Computer%20And%20Network%20Security/T5-KeyDistributionI.pdf)
     - [X] [Kerberos version 4]()
 
+## Final Project
 
-# Computer and Network Security
+- [X] [Phishing Detection](https://github.com/madanbaduwal/phishing-detection)
+
+# Intro to Computer Security
 * [Syllabus](https://github.com/madanbaduwal/masters/blob/main/Computer%20And%20Network%20Security/SYL_COSC_6378_501_2388_6001040969.rtf)
 * [Intro](https://github.com/madanbaduwal/masters/blob/main/Computer%20And%20Network%20Security/T1-Intro.pdf)
 * [SymmetricEncryption](https://github.com/madanbaduwal/masters/blob/main/Computer%20And%20Network%20Security/T2-SymmetricEncryption.pdf)
@@ -2703,7 +2706,9 @@ Keywords: assure,preotect,private key, public key
 * [GrowthofFunction](https://github.com/madanbaduwal/masters/blob/main/Analysis%20of%20Algorithms/Ch3-GrowthofFunction.pptx)
 * [DivideNConqure](https://github.com/madanbaduwal/masters/blob/main/Analysis%20of%20Algorithms/Ch4-DivideNConqure.pptx)
 
+## Final project 
 
+- [X] [Phishing Detection Using Transformer](https://github.com/madanbaduwal/phishing-detection-transformer)
 
 </details>
 
@@ -2714,7 +2719,7 @@ Keywords: assure,preotect,private key, public key
 <summary>PHD career(Cognative science, Machine learning paradigms for 2D/3D Segmentation and Detection)</summary>
 
 
-# How to apply to abroad universities for PHD(particularly for us)
+# How to apply to abroad universities
 
 [Step by step process](https://github.com/madanbaduwal/usa-university-application-process)
 
@@ -2727,6 +2732,8 @@ Few old papers
 
 * [INERTIA AND ENERGY CONTENT](https://cdn2.hubspot.net/hubfs/232514/Einstein%20E=mc2%20(pp172-174).pdf)
 * [Applying to Ph.D. Programs in Computer Science](http://www.cs.cmu.edu/~harchol/gradschooltalk.pdf)
+
+
 
 
 ## Vision Problems and datasets
@@ -2824,6 +2831,9 @@ Daily paper reading
 - [X] [How to work with your senior advisor?](https://twitter.com/jbhuang0604/status/1563740402657775618)
 
 
+
+- [X] [How to survive the first year of PhD?](https://twitter.com/jbhuang0604/status/1523505108318924802)
+
 </details>
 
 
@@ -2836,6 +2846,10 @@ Daily paper reading
 
 # Companies(8 Types of companies)
 
+## Build Resume
+- [X] [How to prepare your Curriculum Vitae?](https://twitter.com/jbhuang0604/status/1433651068282540033)
+- [X] [How to find a research internship?](https://twitter.com/jbhuang0604/status/1438337355031719941)
+- [X] [How to intern?](https://twitter.com/jbhuang0604/status/1505734716657438724)
 # My conpanies
 - [X] [Omniblue Tech](https://omnibluetech.com/)
     - [X] []()
@@ -2843,21 +2857,22 @@ Daily paper reading
 - [X] [Fusemachines](https://fusemachines.com/)
 - [X] [Matrix](https://computervisionlab.herokuapp.com/)
 
+# List of companies
+
+- [X] [List of companies](https://github.com/madanbaduwal/companies)
+
 </details>
 
 
 <details>
-<summary>Money(Penny)</summary>
+<summary>Immigration and Money(Penny)</summary>
 
+
+## student-life-in-usa
+
+- [X] [My note](https://github.com/madanbaduwal/student-life-in-usa)
 ## Career
-- [X] [How to prepare your Curriculum Vitae?](https://twitter.com/jbhuang0604/status/1433651068282540033)
-- [X] [How to find a research internship?](https://twitter.com/jbhuang0604/status/1438337355031719941)
-- [X] [How to intern?](https://twitter.com/jbhuang0604/status/1505734716657438724)
-- [X] [How to prepare graduate school interview?](https://twitter.com/jbhuang0604/status/1482238901595127808)
-- [X] [How to improve graduate application after submission?](https://twitter.com/jbhuang0604/status/1472410988322377732)
-- [X] [How do I maximize my chance for PhD programs?](https://twitter.com/jbhuang0604/status/1425204888301150208)
-- [X] [How to ask for a letter of recommendation?](https://twitter.com/jbhuang0604/status/1522072974068703233)
-- [X] [How to survive the first year of PhD?](https://twitter.com/jbhuang0604/status/1523505108318924802)
+
 - [X] [How to get a tenure-track faculty job?](https://twitter.com/jbhuang0604/status/1533302893364789257)
 
 ## Productivity
@@ -2881,6 +2896,10 @@ Daily paper reading
 
 ## Financial
 - [X] [How to save for retirement as a graduate student (in the US)?](https://twitter.com/jbhuang0604/status/1510479669962940416)
+
+## Investment
+
+- [X] [investment](https://github.com/madanbaduwal/investment)
 
 </details>
 
@@ -5003,6 +5022,7 @@ Moreover, we will need to perform the different analysis levels like morphologic
 - [X] UX Design
 - [X] UI Design
 	- [X] [Figma: Documentatio](https://www.figma.com/best-practices/guide-to-developer-handoff/components-styles-and-documentation/)
+	- [X] [Photoshop]()
 - [X] [HTML](https://html.com/document/)
 - [X] [HTML: Mozilla documentation](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [X] [CSS](https://devdocs.io/css/)
@@ -5138,6 +5158,7 @@ Moreover, we will need to perform the different analysis levels like morphologic
 #### Web 3.0
 
 #### API
+- [X] [Json](): Json is massively supported by API
 - [X] [API](https://aws.amazon.com/what-is/api/)
 - [X] [REST API]()
 - [X] [GraphQL]()
@@ -5194,6 +5215,7 @@ Moreover, we will need to perform the different analysis levels like morphologic
 - [ ] [Jira]()
     - Connect jira with github
 - [ ] [Pypi: Documentation](https://py-pkgs.org/08-ci-cd.html)
+- [ ] [Openssl]()
 - [ ] [Maven]()
 - [ ] [Sbt]()
 - [ ] [Pyunit]()
@@ -5243,12 +5265,13 @@ Moreover, we will need to perform the different analysis levels like morphologic
 - [ ] [Datadog](https://docs.datadoghq.com/)
 - [ ] [Airflow]()
 
-### Software Life Cycle
+### Software Life Cycle / Project Management
 - [X] [Agile]() 
+- [X] [Scrum]
 
 
 
-## System Design / Software design 
+## System Design / Software design pattern and principles
 
 System design is the process of defining the **architecture**, **interfaces**, and **data** for a system that satisfies specific requirements. 
 
@@ -5318,6 +5341,8 @@ System Design fundamentals
 - [X] [Machine learning and System Design]()
 - [X] [Containerization and System Design]()
 - [X] [The cloud and System Design]()
+- [X] [solid espically dependency inversion]()
+- []
 
 References
 - [X] [Roadmap.sh](https://roadmap.sh/design-system)
