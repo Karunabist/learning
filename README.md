@@ -77,25 +77,26 @@ Learning by doing or reverse engineering or doing by experiments or try to codin
 		 <li><a href= "">Anthropology(humanity)</a></li> 
 		  <li><a href= "https://docs.google.com/document/d/1gIVyhmQCia1pDzFCwEdKoF_tpSz5vZlQyeECx9riFGE/edit?usp=sharing">Engineering(atom)</a></li> 
 		  <li><a href= "">Architecture(designing and building)</a></li>
-		  <li><a href= "">History</a></li>
-		  <li><a href= "">Geography</a></li>
-		  <li><a href= "">Art</a></li>
-		  <li><a href= "">Design</a></li>
-		  <li><a href= "">Law</a></li>
-		  <li><a href= "">Medicin</a></li>
-		  <li><a href= "">Sociology</a></li>
-		  <li><a href= "">Political Science</a></li>
-		  <li><a href= "">Psycology</a></li>
-		  <li><a href= "">Neuroscience</a></li>
+		  <li><a href= "">History(time period of events)</a></li>
+		  <li><a href= "">Geography(space,place,time)</a></li>
+		  <li><a href= "">Art(creative)</a></li>
+		  <li><a href= "">Design(Construction of object)</a></li>
+		  <li><a href= "">Law(rule)</a></li>
+		  <li><a href= "">Medicin(patient)</a></li>
+		  <li><a href= "">Sociology(society)</a></li>
+		  <li><a href= "">Political Science(politics)</a></li>
+		  <li><a href= "">Psycology(mind and behaviour)</a></li>
+		  <li><a href= "">Neuroscience(brain)</a></li>
 		  <li><a href= "https://docs.google.com/document/d/1nxTLBHwMnclj-nrvmHYMcwJveu0QHme-XwOw5DI3Y1Q/edit?usp=sharing">Economics(production -> distributation -> consumption of goods and services)</a></li>
-		  <li><a href="#">Finance</a></li>
-		  <li><a href="#">Business</a></li>
-		  <li><a href="#">Management</a></li>
-		  <li><a href="#">Accounting</a></li>
-		  <li><a href="#">MS</a></li>
-		  <li><a href="#">PHD</a></li>
+		  <li><a href="#">Finance(discipline of money)</a></li>
+		  <li><a href="#">Business(making money producing or buying and selling products)</a></li>
+		  <li><a href="#">Management(administration of organizations)</a></li>
+		  <li><a href="#">Accounting(financial transactions related to a business)</a></li>
+		  <li><a href="#">BS(Cognative science, Machine learning paradigms for 2D/3D Segmentation and Detection)</a></li>
+		  <li><a href="#">MS(Cognative science, Machine learning paradigms for 2D/3D Segmentation and Detection)</a></li>
+		  <li><a href="#">PHD(Cognative science, Machine learning paradigms for 2D/3D Segmentation and Detection)</a></li>
 		  <li><a href="#">Companies(motivations)</a></li>
-		  <li><a href="#">Money(Penny)</a></li>
+		  <li><a href="#">Immigration and Money(Penny)</a></li>
 		  <li><a href="https://colab.research.google.com/drive/1eqOUu2cIzTNweQB_dr3NyiQhirm3ol_0?usp=sharing">Computer science(Object,Array)</a></li>
 		  <li><a href="#">career(Single problem)</a></li>
 		Download Book From Here:<a href="https://libgen.is/">libgen.is</a></br>
@@ -2981,7 +2982,7 @@ Daily paper reading
 
 
 <details>
-<summary>Immigration and Money(Penny)</summary>
+<summary>Immigration and Money(1 Penny)</summary>
 
 
 ## student-life-in-usa
