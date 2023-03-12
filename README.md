@@ -12,7 +12,7 @@
     * and data/object/arrays/matrics/tensors for computer science. 
     
     Each element of space has its own meaning.
-2. Second define a relationship: predicate,function(process),probability function: pmf,pdf between space elements: which takes space elements from space and does something meaningful operation. 
+2. Second define a relationship: predicate,function(process),probability function, energy transformation functions: pmf,pdf between space elements: which takes space elements from space and does something meaningful operation. 
     * Grammer(s+v+o) is for language, 
     * mathematical operations(+,-,/,...) for mathematics,..., 
     * Physical equations in physics(i.e F=ma,E=mc^2)
@@ -2524,6 +2524,111 @@ Accounting, also known as accountancy, is the measurement, processing, and commu
 </details>
 
 <details>
+<summary>BS(Cognative science, Machine learning paradigms for 2D/3D Segmentation and Detection)</summary>
+
+Applied Mechanics
+
+Computer Programming
+
+Basic Electrical engineering
+
+Engineering Drawing(I)
+
+Engineering Mathematics I
+
+Engineering Physics
+
+Basic Electronic Engineering
+
+Engineering Drawing II
+
+Fundamental of Thermodynamics and Head Transfer
+
+Workshop Technology
+
+Engineering Mathematics II
+
+Engineering Chemistry
+
+Object Oriented Programming 
+
+Theory of Computation
+
+Electric Circuit Theory
+
+Electronic Devices and Circuits
+
+Digital Logic
+
+Electromagnatics
+
+Engineering Mathematics III
+
+Discreate Structure
+
+Data Structure and Algorithm
+
+Instrumentation I
+
+Electrical Machine
+
+Microprocessor
+
+Applied Mathematics
+
+Numerical Methods
+
+Software Engineering
+
+Data Communication
+
+Computer Orginization and Architecture
+
+Instrumentation II
+
+Computer Graphics
+
+Communication English
+
+Probability and Statics
+
+Project Management
+
+Computer Network
+
+Distributed System
+
+Digital Signal Analysis and Processing
+
+Project I
+
+Image Processing & Pattern Recognition
+
+Energy Environment and Society
+
+Organization and Management
+
+Engineering Professional Practice
+
+Information Systems
+
+Simulation and Modeling
+
+Internet and Intranet
+
+Project II
+
+Big Data Technologies
+
+Multimedia System
+
+
+
+
+</details>
+
+
+<details>
 <summary>MS(Cognative science, Machine learning paradigms for 2D/3D Segmentation and Detection)</summary>
 
 # How to apply to abroad universities for masters
@@ -2702,13 +2807,24 @@ Keywords: assure,preotect,private key, public key
 # Analysis of Algorithms
 * [Syllabus](https://github.com/madanbaduwal/masters/blob/main/Analysis%20of%20Algorithms/SYL_COSC_6385_501_2208_6001029411-Spring2023.rtf)
 * [Intro](https://github.com/madanbaduwal/masters/blob/main/Analysis%20of%20Algorithms/chapter01.pdf)
+    - [X] [sequences of the 3 billion chemical base pairs comprising human DNA]()
+	- [X] [NP]()
 * [Intro2](https://github.com/madanbaduwal/masters/blob/main/Analysis%20of%20Algorithms/chapter02.pdf)
+   - 
+    
 * [GrowthofFunction](https://github.com/madanbaduwal/masters/blob/main/Analysis%20of%20Algorithms/Ch3-GrowthofFunction.pptx)
 * [DivideNConqure](https://github.com/madanbaduwal/masters/blob/main/Analysis%20of%20Algorithms/Ch4-DivideNConqure.pptx)
 
 ## Final project 
 
 - [X] [Phishing Detection Using Transformer](https://github.com/madanbaduwal/phishing-detection-transformer)
+
+
+# Career Fair
+
+# Maintain Student Status : International Office
+
+
 
 </details>
 
@@ -2856,7 +2972,7 @@ Daily paper reading
 - [X] [National Innovation Center](https://nicnepal.org/)
 - [X] [Fusemachines](https://fusemachines.com/)
 - [X] [Matrix](https://computervisionlab.herokuapp.com/)
-
+- [X] [Quick Track]()
 # List of companies
 
 - [X] [List of companies](https://github.com/madanbaduwal/companies)
@@ -3366,7 +3482,7 @@ print(ClassName.mro())
 
 
 	```
-
+- [X] [How to Return Nothing/Null From a Python Function?](https://www.designcise.com/web/tutorial/how-to-return-nothing-or-null-from-a-python-function)
 
 #### Article,Books And Courses
 - [ ] [Python Frequently Asked Questions (Programming)](https://docs.python.org/2/faq/programming.html)
