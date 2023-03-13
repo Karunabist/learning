@@ -2645,6 +2645,7 @@ Keywords: assure,preotect,private key, public key
 
 ---------
 
+* [X] [Book: Network Security Essentials Applications and Standards, 5/E by William Stallings. (ISBN-10: 0133370437 ISBN-13: 9780133370430) ](https://www.skylineuniversity.ac.ae/pdf/computer/Network%20security%20essentials%20%20applications%20and%20standards%20-%2017376.pdf)
 * [Objectives](https://github.com/madanbaduwal/masters/blob/main/Intro%20to%20Computer%20Security/ObjectivesMapCosc4375.docx)
 * [Chapter 1: Introduction](https://github.com/madanbaduwal/masters/blob/main/Semester%201/Computer%20And%20Network%20Security/T1-Intro.pdf)
 	* [CIA triad](https://www.fortinet.com/resources/cyberglossary/cia-triad)
@@ -2769,7 +2770,13 @@ Keywords: assure,preotect,private key, public key
 	- [X] [Hash-Based Message Authentication Codes(HMAC)](https://www.okta.com/identity-101/hmac/#:~:text=Hash%2Dbased%20message%20authentication%20code,use%20signatures%20and%20asymmetric%20cryptography.)
 	- [X] [CCM mode](https://en.wikipedia.org/wiki/CCM_mode)
 
-- [X] [Bitcoin Background](https://github.com/madanbaduwal/masters/blob/main/Semester%201/Computer%20And%20Network%20Security/1-BitCoinBackground.pdf)
+* [X] [Chapter 5: Key Distributatio](https://github.com/madanbaduwal/masters/blob/main/Semester%201/Computer%20And%20Network%20Security/T5-KeyDistributionI.pdf)
+    - [X] [Kerberos version 4]()
+
+* [X] [Chapter 6: Network Access Control](https://github.com/madanbaduwal/masters/blob/main/Semester%201/Computer%20And%20Network%20Security/T7-NetworkAccessControl.pdf)
+    - [X] []()
+
+- [X] [Bitcoin chapter 1: Bitcoin Background](https://github.com/madanbaduwal/masters/blob/main/Semester%201/Computer%20And%20Network%20Security/1-BitCoinBackground.pdf)
     - [X] [Traditional Financial Arrangement]():
 	    - Barter: Barter is a method of exchange where goods or services are traded directly without the use of money. 
 	- [X] [Cryptocurrency]()
@@ -2777,25 +2784,26 @@ Keywords: assure,preotect,private key, public key
 	- [X] [Blind signature mechanish](): 
 
 
-- [X] [Bitcoin Overview](https://github.com/madanbaduwal/masters/blob/main/Semester%201/Computer%20And%20Network%20Security/3-BitCoinOverview.pdf)
+- [X] [Bitcoin chapter 2: Bitcoin Overview](https://github.com/madanbaduwal/masters/blob/main/Semester%201/Computer%20And%20Network%20Security/3-BitCoinOverview.pdf)
     - [X] [Bitcoin overview]()
 	- [X] []()
 
-- [X] [Hash function and asymmetric](https://github.com/madanbaduwal/masters/blob/main/Semester%201/Computer%20And%20Network%20Security/4-HashFunctionAsymetricEnc.pdf)
+- [X] [Bitcoin chapter 3: Hash function and asymmetric](https://github.com/madanbaduwal/masters/blob/main/Semester%201/Computer%20And%20Network%20Security/4-HashFunctionAsymetricEnc.pdf)
     - [X] [Where does bitcoin use hash function]()
 	- [X] [Where does bitcoin use asymmetric encryption]()
 
-- [X] [Digital Signature and transition](https://github.com/madanbaduwal/masters/blob/main/Semester%201/Computer%20And%20Network%20Security/5-DigitalSignatureTransaction.pdf)
+- [X] [Bitcoin chapter 4: Digital Signature and transition](https://github.com/madanbaduwal/masters/blob/main/Semester%201/Computer%20And%20Network%20Security/5-DigitalSignatureTransaction.pdf)
 
     - [X] [Digital signature in bitcoin]()
 	- [X] [Private key and public key as identities]()
 
-- [X] [Key Distributatio](https://github.com/madanbaduwal/masters/blob/main/Semester%201/Computer%20And%20Network%20Security/T5-KeyDistributionI.pdf)
-    - [X] [Kerberos version 4]()
+
 
 ## Final Project
 
 - [X] [Phishing Detection](https://github.com/madanbaduwal/phishing-detection)
+
+
 
 # Intro to Computer Security
 * [Syllabus](https://github.com/madanbaduwal/masters/blob/main/Computer%20And%20Network%20Security/SYL_COSC_6378_501_2388_6001040969.rtf)
@@ -2811,10 +2819,24 @@ Keywords: assure,preotect,private key, public key
     - [X] [sequences of the 3 billion chemical base pairs comprising human DNA]()
 	- [X] [NP]()
 * [Intro2](https://github.com/madanbaduwal/masters/blob/main/Analysis%20of%20Algorithms/chapter02.pdf)
-   - 
-    
+   - [X] [Insertion sort](https://www.geeksforgeeks.org/insertion-sort/): Start from the second element and swap it with previous if its small, time complexity : worst case(0(n^2)), average case(0(n^2)), best case(0(n)),worst space complexity (0(1))
+
 * [GrowthofFunction](https://github.com/madanbaduwal/masters/blob/main/Analysis%20of%20Algorithms/Ch3-GrowthofFunction.pptx)
-* [DivideNConqure](https://github.com/madanbaduwal/masters/blob/main/Analysis%20of%20Algorithms/Ch4-DivideNConqure.pptx)
+* [DivideNConqure](https://github.com/madanbaduwal/masters/blob/main/Analysis%20of%20Algorithms/Ch4-DivideNConqure.pptx)\
+
+    - divide: divide the problem into one or more subproblems that are smaller instances of the same problem
+    - conquer: conquer the subproblems by solving them rechrsively.
+            - base case: if the subproblems are small enough, just solve them by brut force.
+    - combine: combine the subproblem solutions to form a solution to the original problem.
+
+    Example: merge sort(show divide, conquer, and merge stages)
+
+* [ProbabilisticAnalysis](https://github.com/madanbaduwal/masters/blob/main/Semester%201/Algorithm%20of%20Analysis/Ch5-ProbabilisticAnalysis.pdf)
+
+* [Heapsort](https://github.com/madanbaduwal/masters/blob/main/Semester%201/Algorithm%20of%20Analysis/Ch6-Heapsort.pdf):make a binary tree from left to right, and make max heap(heapify) from right to left, and swap root(max element) and first(bottom right) and remove end(bottom right, which is highest number),worst case(0(nlog(n))),average  case(0(nlog(n))),best case(0(nlog(n))),worst space complexity (0(n))
+    - [Geeksforgeeks](https://www.geeksforgeeks.org/heap-sort/)
+* [QuickSort]()
+
 
 ## Final project 
 
