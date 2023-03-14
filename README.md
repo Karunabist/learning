@@ -81,6 +81,7 @@ Learning by doing or reverse engineering or doing by experiments or try to codin
 		  <li><a href= "">Geography(space,place,time)</a></li>
 		  <li><a href= "">Art(creative)</a></li>
 		  <li><a href= "">Design(Construction of object)</a></li>
+		  <li><a href= "">Music(harmony, melody, rhythm or otherwise expressive content)</a></li>
 		  <li><a href= "">Law(rule)</a></li>
 		  <li><a href= "">Medicin(patient)</a></li>
 		  <li><a href= "">Sociology(society)</a></li>
@@ -2281,6 +2282,16 @@ Other branches of engineering
 </details>
 
 
+<details>
+
+<summary>Music(harmony, melody, rhythm or otherwise expressive content
+)</summary>
+
+# Music(harmony, melody, rhythm or otherwise expressive content
+)
+
+</details>
+
 
 <details>
 
@@ -2989,6 +3000,12 @@ Daily paper reading
 - [X] [How to prepare your Curriculum Vitae?](https://twitter.com/jbhuang0604/status/1433651068282540033)
 - [X] [How to find a research internship?](https://twitter.com/jbhuang0604/status/1438337355031719941)
 - [X] [How to intern?](https://twitter.com/jbhuang0604/status/1505734716657438724)
+
+## Cover Letter
+
+## Company review
+
+- [X] [Glassdoor](https://www.glassdoor.com/member/home/index.htm)
 # My conpanies
 - [X] [Omniblue Tech](https://omnibluetech.com/)
     - [X] []()
@@ -3000,19 +3017,31 @@ Daily paper reading
 
 - [X] [List of companies](https://github.com/madanbaduwal/companies)
 
+## Career
+
+- [X] [How to get a tenure-track faculty job?](https://twitter.com/jbhuang0604/status/1533302893364789257)
+
 </details>
 
-
 <details>
-<summary>Immigration and Money(1 Penny)</summary>
+<summary>Immigration(Nepal to America)</summary>
 
 
 ## student-life-in-usa
 
 - [X] [My note](https://github.com/madanbaduwal/student-life-in-usa)
-## Career
 
-- [X] [How to get a tenure-track faculty job?](https://twitter.com/jbhuang0604/status/1533302893364789257)
+</details>
+
+
+<details>
+<summary>Make Money(1 Penny)</summary>
+
+
+## student-life-in-usa
+
+- [X] [My note](https://github.com/madanbaduwal/student-life-in-usa)
+
 
 ## Productivity
 - [X] [How to manage your time?](https://twitter.com/jbhuang0604/status/1430003911037947904)
