@@ -3017,10 +3017,10 @@ Daily paper reading
 
 ## Cover Letter
 
-## Company review
+## Company review website
 
 - [X] [Glassdoor](https://www.glassdoor.com/member/home/index.htm)
-# My conpanies
+# Worked conpanies
 - [X] [Omniblue Tech](https://omnibluetech.com/)
     - [X] []()
 - [X] [National Innovation Center](https://nicnepal.org/)
