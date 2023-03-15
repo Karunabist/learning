@@ -2647,6 +2647,12 @@ Multimedia System
 
 [Step by step process](https://github.com/madanbaduwal/usa-university-application-process)
 
+# Credits system in US
+
+[Mastersportal](https://www.mastersportal.com/articles/1110/what-you-need-to-know-about-the-american-university-credit-system.html)
+    * To complete MS in computer science , you need 30 credit hours
+	* 
+
 # Computer and Network Security 
 
 **Note: source/sender | -> encryption algorithm(cipher)+ (substitution(mapped into another element),transposition(plaintext are rearranged), product(substitution + transposition)) + public key, private key + assurance | -> secret message | -> channel -> | Server | -> secret message | -> decryption algorithm | -> destination/receiver | The strength of encryption algorithm is dependent on the length of key not the length of input**
@@ -2987,7 +2993,15 @@ Daily paper reading
 </details>
 
 
+<details>
+<summary>Immigration(Nepal to America)</summary>
 
+
+## student-life-in-usa
+
+- [X] [My note](https://github.com/madanbaduwal/student-life-in-usa)
+
+</details>
 
 
 <details>
@@ -3016,20 +3030,11 @@ Daily paper reading
 # List of companies
 
 - [X] [List of companies](https://github.com/madanbaduwal/companies)
+- [X] [Fortune 500](https://www.zyxware.com/articles/4344/list-of-fortune-500-companies-and-their-websites)
 
 ## Career
 
 - [X] [How to get a tenure-track faculty job?](https://twitter.com/jbhuang0604/status/1533302893364789257)
-
-</details>
-
-<details>
-<summary>Immigration(Nepal to America)</summary>
-
-
-## student-life-in-usa
-
-- [X] [My note](https://github.com/madanbaduwal/student-life-in-usa)
 
 </details>
 
