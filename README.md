@@ -2974,9 +2974,7 @@ Daily paper reading
 
 ## Notes
 
-- [ ] [The life-cycle of your manuscript](https://reader.elsevier.com/reader/sd/pii/S1360859219303080?token=D562FBFA038922250D087894CA6165D4D537305858574F7160385D0C6B3BB24934770B0A5999AD624BCFACD77C5D2B6F&originRegion=eu-west-1&originCreation=20221126200258)
-
-## Research
+- [X] [The life-cycle of your manuscript](https://reader.elsevier.com/reader/sd/pii/S1360859219303080?token=D562FBFA038922250D087894CA6165D4D537305858574F7160385D0C6B3BB24934770B0A5999AD624BCFACD77C5D2B6F&originRegion=eu-west-1&originCreation=20221126200258)
 - [X] [How to make steady research progress?](steady-progress.md)
 - [X] [How to share progress with your mentors/collaborators?](https://twitter.com/jbhuang0604/status/1453378296608137229)
 - [X] [How to work with my mentors effectively?](working-with-mentor.md)
@@ -3031,6 +3029,8 @@ Daily paper reading
 
 - [X] [List of companies](https://github.com/madanbaduwal/companies)
 - [X] [Fortune 500](https://www.zyxware.com/articles/4344/list-of-fortune-500-companies-and-their-websites)
+
+# Comman interview questions
 
 ## Career
 
