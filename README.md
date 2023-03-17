@@ -2648,10 +2648,9 @@ Multimedia System
 [How to apply to abroad universities for masters](https://github.com/madanbaduwal/usa-university-application-process)
 
 
-[Credits system in US: Mastersportal](https://www.mastersportal.com/articles/1110/what-you-need-to-know-about-the-american-university-credit-system.html)
-
-    * To complete MS in computer science , you need 30 credit hours
-	* 
+- [X] [Credits system in US: Mastersportal](https://www.mastersportal.com/articles/1110/what-you-need-to-know-about-the-american-university-credit-system.html)
+    - To complete MS in computer science , you need 30 credit hours
+	- 
 
 # Computer and Network Security 
 
