@@ -2643,9 +2643,7 @@ Multimedia System
 <details>
 <summary>MS(Cognative science, Machine learning paradigms for 2D/3D Segmentation and Detection)</summary>
 
-# How to apply to abroad universities for masters
-
-[Step by step process](https://github.com/madanbaduwal/usa-university-application-process)
+[How to apply to abroad universities for masters](https://github.com/madanbaduwal/usa-university-application-process)
 
 # Credits system in US
 
@@ -2875,9 +2873,7 @@ Keywords: assure,preotect,private key, public key
 <summary>PHD career(Cognative science, Machine learning paradigms for 2D/3D Segmentation and Detection)</summary>
 
 
-# How to apply to abroad universities
-
-[Step by step process](https://github.com/madanbaduwal/usa-university-application-process)
+[How to apply to abroad universities](https://github.com/madanbaduwal/usa-university-application-process)
 
 # PHD career(Single problem)
 
