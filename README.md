@@ -2649,6 +2649,7 @@ Multimedia System
 
 
 [Credits system in US: Mastersportal](https://www.mastersportal.com/articles/1110/what-you-need-to-know-about-the-american-university-credit-system.html)
+
     * To complete MS in computer science , you need 30 credit hours
 	* 
 
