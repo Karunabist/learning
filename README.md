@@ -2649,6 +2649,7 @@ Multimedia System
 - [X] [Credits system in US: Mastersportal](https://www.mastersportal.com/articles/1110/what-you-need-to-know-about-the-american-university-credit-system.html)
     - To complete MS in computer science , you need 30 credit hours
 	- 
+# MS career(Single problem)
 
 # Computer and Network Security 
 
@@ -2874,7 +2875,7 @@ Keywords: assure,preotect,private key, public key
 
 
 
-[How to apply to abroad universities](https://github.com/madanbaduwal/usa-university-application-process)
+- [X] [How to apply to abroad universities](https://github.com/madanbaduwal/usa-university-application-process)
 
 # PHD career(Single problem)
 
