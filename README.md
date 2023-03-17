@@ -3016,21 +3016,21 @@ Daily paper reading
 ## Company review website
 
 - [X] [Glassdoor](https://www.glassdoor.com/member/home/index.htm)
-# Worked conpanies
+## Worked conpanies
 - [X] [Omniblue Tech](https://omnibluetech.com/)
     - [X] []()
 - [X] [National Innovation Center](https://nicnepal.org/)
 - [X] [Fusemachines](https://fusemachines.com/)
 - [X] [Matrix](https://computervisionlab.herokuapp.com/)
 - [X] [Quick Track]()
-# List of companies
+## List of companies
 
 - [X] [List of companies](https://github.com/madanbaduwal/companies)
 - [X] [Fortune 500](https://www.zyxware.com/articles/4344/list-of-fortune-500-companies-and-their-websites)
 
-# Comman interview questions
+## Comman interview questions
 
-## Career
+## Academia
 
 - [X] [How to get a tenure-track faculty job?](https://twitter.com/jbhuang0604/status/1533302893364789257)
 
