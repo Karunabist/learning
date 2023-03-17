@@ -2651,7 +2651,7 @@ Multimedia System
 	- 
 # MS career(Single problem)
 
-# Computer and Network Security 
+## Computer and Network Security 
 
 **Note: source/sender | -> encryption algorithm(cipher)+ (substitution(mapped into another element),transposition(plaintext are rearranged), product(substitution + transposition)) + public key, private key + assurance | -> secret message | -> channel -> | Server | -> secret message | -> decryption algorithm | -> destination/receiver | The strength of encryption algorithm is dependent on the length of key not the length of input**
 
@@ -2814,13 +2814,13 @@ Keywords: assure,preotect,private key, public key
 
 
 
-## Final Project
+### Final Project
 
 - [X] [Phishing Detection](https://github.com/madanbaduwal/phishing-detection)
 
 
 
-# Intro to Computer Security
+## Intro to Computer Security
 * [Syllabus](https://github.com/madanbaduwal/masters/blob/main/Computer%20And%20Network%20Security/SYL_COSC_6378_501_2388_6001040969.rtf)
 * [Intro](https://github.com/madanbaduwal/masters/blob/main/Computer%20And%20Network%20Security/T1-Intro.pdf)
 * [SymmetricEncryption](https://github.com/madanbaduwal/masters/blob/main/Computer%20And%20Network%20Security/T2-SymmetricEncryption.pdf)
@@ -2828,7 +2828,7 @@ Keywords: assure,preotect,private key, public key
 * [HashFunction](https://github.com/madanbaduwal/masters/blob/main/Computer%20And%20Network%20Security/T4-HashFunction.pdf)
 
 
-# Analysis of Algorithms
+## Analysis of Algorithms
 * [Syllabus](https://github.com/madanbaduwal/masters/blob/main/Analysis%20of%20Algorithms/SYL_COSC_6385_501_2208_6001029411-Spring2023.rtf)
 * [Intro](https://github.com/madanbaduwal/masters/blob/main/Analysis%20of%20Algorithms/chapter01.pdf)
     - [X] [sequences of the 3 billion chemical base pairs comprising human DNA]()
@@ -2853,14 +2853,21 @@ Keywords: assure,preotect,private key, public key
 * [QuickSort]()
 
 
-## Final project 
+### Final project 
 
 - [X] [Phishing Detection Using Transformer](https://github.com/madanbaduwal/phishing-detection-transformer)
 
 
-# Career Fair
+## Career Fair
+- [X] [Handshake](https://joinhandshake.com/)
 
-# Maintain Student Status : International Office
+## Maintain Student Status : International Office
+
+
+## Student Associate Editors(Author>Editors>reviewers)
+
+- [X] [UTPB Journal of Undergraduate Research](https://falconcommons.utpb.edu/utpb-jour/)
+    - [X] [falconcommons](https://falconcommons.utpb.edu/cgi/myaccount.cgi)
 
 
 
@@ -2897,7 +2904,8 @@ Few old papers
 	
 ## Peoples
 - [X] [People working in Artificial Intelligance](https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:artificial_intelligence)
-- [X] [People working in Machine Learning](https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:machine_learning)
+- [X] [People w- [X] []()
+orking in Machine Learning](https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:machine_learning)
 - [X] [people working in computer vision my note](https://madanbaduwal.github.io/people-in-computer-vision/) and [scholar](https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:computer_vision)
 
 ## Types of Research Papers
@@ -3027,8 +3035,10 @@ Daily paper reading
 
 - [X] [List of companies](https://github.com/madanbaduwal/companies)
 - [X] [Fortune 500](https://www.zyxware.com/articles/4344/list-of-fortune-500-companies-and-their-websites)
+- [X] [Handshake](https://joinhandshake.com/)
 
 ## Comman interview questions
+
 
 ## Academia
 
