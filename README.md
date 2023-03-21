@@ -3006,22 +3006,15 @@ Daily paper reading
 
 # Student Life In USA
 
-1. You can register classes from your country or you can register it after being in US
-2. If you are not getting funding 
 
-   * Focus on how much per credit hour you are going to pay
-   * Insurance(you can choose insurance instution  yourself)
-   * Apartment
-   * Grocessary 
-   * Book/Library ... 
-3. Open Bank account and deposite your draft
+1. Open Bank account and deposite your draft
     - You need passport,I-20 identity card, and student id card to open your bank account
     - [List of largest banks in the USA](https://en.wikipedia.org/wiki/List_of_largest_banks_in_the_United_States)
-4. Apartment rent and other utility
+2. Apartment rent and other utility
     - Electricity : Green Mountain Energy
     - Wifi : myAT&T
     - Water bill: Automatically added in apartment rent
-5. [On campus job](): Social Security Number(SSN) is an important for other activities, to get SSN we must have oncomapus job
+3. [On campus job](): Social Security Number(SSN) is an important for other activities, to get SSN we must have oncomapus job
     * [Apply through career portal](https://www.utpb.edu/university-offices/human-resources/index)
     * TA/RA
     * [Visit each department physically for job opportunaties](https://www.utpb.edu/academics/colleges/department-index)
@@ -3041,7 +3034,7 @@ Daily paper reading
         * Welcom center: Thursday 9:30 to 11
         * Resturant and dining: [portal](https://jobs.compassgroupcareers.com/search/)
         * [Computer Science Department](https://www.utpb.edu/academics/colleges/arts-sciences/departments/computer-science/index): vuckovic_v@utpb.edu
-6. [Credit Card](https://www.bankrate.com/finance/credit-cards/list-of-credit-card-companies/)
+4. [Credit Card](https://www.bankrate.com/finance/credit-cards/list-of-credit-card-companies/)
 
     Requirements for cradit card: Identity documents in the United States include: regional state-issued driver's license or identity card, the social security card (or the social security number) and the United States passport card. All three can be used nationwide as form of identification.
     
@@ -3051,13 +3044,13 @@ Daily paper reading
     * [TransUnion vs. Equifax: What's the Difference?](https://www.creditkarma.com/advice/i/transunion-vs-equifax)
     * Apps: [Credit Karma](https://www.creditkarma.com/)
     
-7. [Driving License]()
+5. [Driving License]()
    * [Driving licence process in texas](https://www.dps.texas.gov/section/driver-license/how-apply-texas-driver-license)
        * [comedydrivingcompany](https://www.comedydrivingcompany.com/login)
        * [impacttexasdrivers](https://impacttexasdrivers.dps.texas.gov/ITAD/Profile/Signup.aspx)
    	* In texas we don't need SSN for licence
 
-8. Make sure to keep all documents in a very safe place and drive backup
+6. Make sure to keep all documents in a very safe place and drive backup
 9. Keep an eye on student visa, CPT(part time 12 month, full time less then 12 month done before you graduate),OPT(1 year + 2 year extension), H1B rules
 
    CPT: 
@@ -3141,7 +3134,7 @@ And if you are a spouse
 * F1 Holder – You get a visa type of F2
 * H1b Holder – You get a visa type of H4 which can be authorized to work upon filing a request and applying for H4 EAD
 
-9. [Getting green card](https://www.uscis.gov/green-card)
+7. [Getting green card](https://www.uscis.gov/green-card)
 
     **[Green Card Eligibility Categories](https://www.uscis.gov/green-card/green-card-eligibility-categories)**
 
@@ -3283,11 +3276,9 @@ And if you are a spouse
     
     
 
-9. Off-campus exam(If you wanna work illigally)
+8. Off-campus jobs(If you wanna work illigally)
     * Don't show your id , instate giving id say I forget my id at room
     * Don't work at night
-
-10. For Investment Follow [this repo](https://github.com/madanbaduwal/investment).
 
 </details>
 
