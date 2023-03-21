@@ -2538,103 +2538,106 @@ Accounting, also known as accountancy, is the measurement, processing, and commu
 <details>
 <summary>BS(Cognative science, Machine learning paradigms for 2D/3D Segmentation and Detection)</summary>
 
-Applied Mechanics
+# Applied Mechanics
 
-Computer Programming
+# Computer Programming
 
-Basic Electrical engineering
+# Basic Electrical engineering
 
-Engineering Drawing(I)
+# Engineering Drawing(I)
 
-Engineering Mathematics I
+# Engineering Mathematics I
 
-Engineering Physics
+# Engineering Physics
 
-Basic Electronic Engineering
+# Basic Electronic Engineering
 
-Engineering Drawing II
+# Engineering Drawing II
 
-Fundamental of Thermodynamics and Head Transfer
+# Fundamental of Thermodynamics and Head Transfer
 
-Workshop Technology
+# Workshop Technology
 
-Engineering Mathematics II
+# Engineering Mathematics II
 
-Engineering Chemistry
+# Engineering Chemistry
 
-Object Oriented Programming 
+# Object Oriented Programming 
 
-Theory of Computation
+# Theory of Computation
 
-Electric Circuit Theory
+# Electric Circuit Theory
 
-Electronic Devices and Circuits
+# Electronic Devices and Circuits
 
-Digital Logic
+# Digital Logic
 
-Electromagnatics
+# Electromagnatics
 
-Engineering Mathematics III
+# Engineering Mathematics III
 
-Discreate Structure
+# Discreate Structure
 
-Data Structure and Algorithm
+# Data Structure and Algorithm
 
-Instrumentation I
+# Instrumentation I
 
-Electrical Machine
+# Electrical Machine
 
-Microprocessor
+# Microprocessor
 
-Applied Mathematics
+# Applied Mathematics
 
-Numerical Methods
+# Numerical Methods
 
-Software Engineering
+# Software Engineering
 
-Data Communication
+# Data Communication
 
-Computer Orginization and Architecture
+# Computer Orginization and Architecture
 
-Instrumentation II
+# Instrumentation II
 
-Computer Graphics
+# Computer Graphics
 
-Communication English
+# Communication English
 
-Probability and Statics
+# Probability and Statics
 
-Project Management
+# Project Management
 
-Computer Network
+# Computer Network
 
-Distributed System
+# Distributed System
 
-Digital Signal Analysis and Processing
+# Digital Signal Analysis and Processing
 
-Project I
+# Project I
 
-Image Processing & Pattern Recognition
+# Image Processing & Pattern Recognition
 
-Energy Environment and Society
+# Energy Environment and Society
 
-Organization and Management
+# Organization and Management
 
-Engineering Professional Practice
+# Engineering Professional Practice
 
-Information Systems
+# Information Systems
 
-Simulation and Modeling
+# Simulation and Modeling
 
-Internet and Intranet
+# Internet and Intranet
 
-Project II
+# Project II
 
-Big Data Technologies
+# Big Data Technologies
 
-Multimedia System
+# Multimedia System
 
 
+# Major project
+
+- [X] [Hastakshar](https://github.com/madanbaduwal/hastakshar)
 
 
 </details>
@@ -3001,9 +3004,290 @@ Daily paper reading
 <summary>Immigration(Nepal to America)</summary>
 
 
-## student-life-in-usa
+# Student Life In USA
 
-- [X] [My note](https://github.com/madanbaduwal/student-life-in-usa)
+1. You can register classes from your country or you can register it after being in US
+2. If you are not getting funding 
+
+   * Focus on how much per credit hour you are going to pay
+   * Insurance(you can choose insurance instution  yourself)
+   * Apartment
+   * Grocessary 
+   * Book/Library ... 
+3. Open Bank account and deposite your draft
+    - You need passport,I-20 identity card, and student id card to open your bank account
+    - [List of largest banks in the USA](https://en.wikipedia.org/wiki/List_of_largest_banks_in_the_United_States)
+4. Apartment rent and other utility
+    - Electricity : Green Mountain Energy
+    - Wifi : myAT&T
+    - Water bill: Automatically added in apartment rent
+5. [On campus job](): Social Security Number(SSN) is an important for other activities, to get SSN we must have oncomapus job
+    * [Apply through career portal](https://www.utpb.edu/university-offices/human-resources/index)
+    * TA/RA
+    * [Visit each department physically for job opportunaties](https://www.utpb.edu/academics/colleges/department-index)
+        * Career Education: maribea.merritt@utpb.edu
+        * [Literature and Language](https://www.utpb.edu/academics/colleges/arts-sciences/departments/literature-language/index): chamblee_m@utpb.edu : There is no any GA/RA at this department , recommended to Dr.Jessica Stephens
+        * [Mathematics](https://www.utpb.edu/academics/colleges/arts-sciences/departments/mathematics/index): feit_p@utpb.edu : There is no any GA/RA at this department
+        * [Chemistry and Physics](https://www.utpb.edu/academics/colleges/arts-sciences/departments/chemistry/index): montes_m@utpb.edu
+        * [Biology](https://www.utpb.edu/academics/colleges/arts-sciences/departments/biology/index): oldham_a@utpb.edu : No GA already left email and phone
+        * [Geosciences](https://www.utpb.edu/academics/colleges/arts-sciences/departments/geosciences/index): zavada_m@utpb.edu
+        * [Department of Management, Marketing, & Industrial Technology](https://www.utpb.edu/academics/colleges/business/departments/management-marketing-industrial-tech/index): 
+        * [ITS department](https://www.utpb.edu/university-offices/information-technology/index): crisanti_p@utpb.edu
+        * [UT Permian Basin testing center](https://www.utpb.edu/academics/advising-and-support/testing-center/index): testingcenter@utpb.edu
+        * [Library](https://www.utpb.edu/library/index):
+        * [Rasidant and dining](https://www.utpb.edu/life-at-utpb/housing-and-dining/index): 
+        * Student life department: no position
+        * Register Office : Taken an email
+        * Welcom center: Thursday 9:30 to 11
+        * Resturant and dining: [portal](https://jobs.compassgroupcareers.com/search/)
+        * [Computer Science Department](https://www.utpb.edu/academics/colleges/arts-sciences/departments/computer-science/index): vuckovic_v@utpb.edu
+6. [Credit Card](https://www.bankrate.com/finance/credit-cards/list-of-credit-card-companies/)
+
+    Requirements for cradit card: Identity documents in the United States include: regional state-issued driver's license or identity card, the social security card (or the social security number) and the United States passport card. All three can be used nationwide as form of identification.
+    
+    Credit score
+    * [TransUnion]()
+    * [Equifax]()
+    * [TransUnion vs. Equifax: What's the Difference?](https://www.creditkarma.com/advice/i/transunion-vs-equifax)
+    * Apps: [Credit Karma](https://www.creditkarma.com/)
+    
+7. [Driving License]()
+   * [Driving licence process in texas](https://www.dps.texas.gov/section/driver-license/how-apply-texas-driver-license)
+       * [comedydrivingcompany](https://www.comedydrivingcompany.com/login)
+       * [impacttexasdrivers](https://impacttexasdrivers.dps.texas.gov/ITAD/Profile/Signup.aspx)
+   	* In texas we don't need SSN for licence
+
+8. Make sure to keep all documents in a very safe place and drive backup
+9. Keep an eye on student visa, CPT(part time 12 month, full time less then 12 month done before you graduate),OPT(1 year + 2 year extension), H1B rules
+
+   CPT: 
+
+    * If you accumulate 12 months (365 or more days) of full-time CPT authorization, you lose your eligibility for OPT. Part-time CPT authorization, or fewer than 12 months of full-time CPT authorization, does not affect OPT eligibility.
+    * It must be part of an established curriculum. 
+    * CPT must be completed before graduating. 
+    * CPT can be part-time (20 hours or less a week) or full time (20 hours or more a week).
+    * We can only do 40 hours per week as a full time CPT, its dependent on employer
+   
+   OPT: 
+
+    * Optional Practical Training (OPT) is a program that temporarily allows international students with an F1 visa in the United States to work in relation to their major of study. 
+    * F1 visa students are eligible for OPT after completing their first academic year. 
+    * For a normal student, you are allowed 12 months of OPT.
+    
+    Note: International students with an F1 visa who have completed degrees in certain science, technology, engineering and mathematics (STEM) are eligible for a 24-month extension for post-graduation completion of OPT employment. Non STEM are only eligible for 12 months OPT.
+
+    Note: If you willn't get OPT then you need to leave US within 90 days. We will have total 3 years in OPT and H1B visa filed in this time period.
+   
+   [H1B](https://scholarstrategy.com/tag/h1b-visa/):(employr, 6 years : 3 years + 3 years extension , if green card is in certain stage then extend yearly, bridge between OPT and a green card, )
+
+   * [H1B grader](https://h1bgrader.com/)
+
+    * But to work for longer term, you cannot keep using the CPT and OPT. You need the highly competitive work visa – referred to as H1B visa.
+    * H1B visas are issued by employers and you cannot personally apply for them. This means you need to have a job offer from a company who is willing to sponsor your H1B visa (it has non trivial fee plus is subjected to regulations by US govt.).
+    * Few complications are involved such as H1B visas are issued only for some job categories where govt feels enough local American work force is not sufficiently skilled or available. For eg. while H1B visas are easily issued for software programmers, they are not for marketing or HR roles – this is one reason why more foreign students go for Computer Engineering than lets say MS in Marketing. 
+    * Even when you get H1B visa, you can only work that employer. This means, you cannot work part time at any other place in parallel and you cannot start your own company while working on H1B visa.
+    * H1B visas are issued for 3 years after which they can be reissued for another 3 years – thus 6 years in total. By the end of your 6 years, if your employer has filed your green card application and it has reached a specific stage, you can keep extending your H1B visa on a yearly basis. However, if your green card has not been filed or did not reach that stage at the end of 6 years, you need to live outside USA for at least 1 year before you can get H1B for 3 years again.
+    * H1B visas are extremely competitive and subject to strict quotas. If the govt. receives more H1B applications than the quota, then they are picked by lottery and your getting the visa depends on your luck.
+
+    * A sensitive time comes when you start working on OPT (the limited time for which you can work directly on student visa until you get the H1B) and your company has applied for H1B visa. In this period if you are traveling to India and re-enter USA on F1 visa (till the H1B is issued), you may be declined an entry due to conflict of interests since your H1B application means that you want to work in US whereas F1 visa status expects you to go back to your home country upon completion of your program. This is why some people prefer not to travel after graduation until you have received your H1B visa.
+
+    * H1B lottery in 2020 would become an online application - the cost of the application fee in previous years was $2000-$3000, and the application fee in 2020 is only $10. That is where the H1B Abuse started. 
+
+    * Downloaded the official data for FY(  facial year eg. October 1, 2021 - September 30, 2022, is the fiscal year 2022.) 2017-2022 of [USCIS](https://www.uscis.gov/) and analyzed OPT to H1B and H1B to green card Approval Rate.
+    * In the past, H1B was a bridge between OPT and a green card. 
+    * This category of visa will typically be your option if you start a job in industry after your PhD, while you are still on OPT.
+    * Your employer, whether in industry or academia, will have to sponsor your application for H1B to the USCIS.
+    * The H1B offered to academic positions, such as international postdoctoral scholars, falls under the cap-exempt H1B.
+    * H1B should be a green card transfer station for most students.  
+    * There is no absolute relationship between H1B and green cards. 
+    * Whether you are F1 or H1B, you can apply for a green card, but most companies require H1B before giving the Sponsor a green card to ensure that employees have a legal identity to work before the green card is approved.
+
+
+![](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F3412997e-c195-4e91-80f1-e13f947aee28%2FBlue_Timeline_Cycle_Presentation.png?table=block&id=0a1ea84e-faf5-4473-9b44-facd08709416&cache=v2)
+
+
+
+If you are an undergrad student
+
+* Four years of undergrad
+* CPT
+* One year of OPT
+* Two years of STEM extension
+* and then H1b
+
+If you are a grad student
+
+* Two years of Masters
+* CPT
+* One year of opt
+* Two years of stem
+* then H1b
+
+If you are a Ph.D. student
+
+* 4-5 years of PhD
+* CPT
+* One year of opting, and since you will be put under the Hb1 category, you can apply for a green card right away.
+* So Ph.D. students shouldn’t be worried at all.
+
+If you are a person who is coming directly from India
+
+* You could be of two types, but both types get H1B visas.
+* People who directly come to a company while you get hired by a company in the US
+* Or you are outsourced by TCS, WIPRO, INFOSYS.
+
+And if you are a spouse
+
+* F1 Holder – You get a visa type of F2
+* H1b Holder – You get a visa type of H4 which can be authorized to work upon filing a request and applying for H4 EAD
+
+9. [Getting green card](https://www.uscis.gov/green-card)
+
+    **[Green Card Eligibility Categories](https://www.uscis.gov/green-card/green-card-eligibility-categories)**
+
+    * Green Card through Family
+        * [Immediate relative of a U.S. citizen](https://www.uscis.gov/green-card/green-card-eligibility/green-card-for-immediate-relatives-of-us-citizen)
+            * Spouse of a U.S. citizen
+            * Unmarried child under the age of 21 of a U.S. citizen
+            * Parent of a U.S. citizen who is at least 21 years old
+        * [Other relative of a U.S. citizen or relative of a lawful permanent resident under the family-based preference categories](https://www.uscis.gov/green-card/green-card-eligibility/green-card-for-family-preference-immigrants)
+            * Family member of a U.S. citizen, meaning you are the: 
+                * Unmarried son or daughter of a U.S. citizen and you are 21 years old or older
+                * Married son or daughter of a U.S. citizen
+                * Brother or sister of a U.S. citizen who is at least 21 years old
+            * Family member of a lawful permanent resident, meaning you are the: 
+                * Spouse of a lawful permanent resident
+                * Unmarried child under the age of 21 of a lawful permanent resident
+                * Unmarried son or daughter of a lawful permanent resident 21 years old or older
+        * [Fiancé(e) of a U.S. citizen or the fiancé(e)’s child](https://www.uscis.gov/green-card/green-card-eligibility/green-card-for-fiancee-of-us-citizen)
+            * Person admitted to the U.S. as a fiancé(e) of a U.S. citizen (K-1 nonimmigrant)
+            * Person admitted to the U.S. as the child of a fiancé(e) of a U.S. citizen (K-2 nonimmigrant)
+        * [Widow(er) of a U.S. citizen](https://www.uscis.gov/green-card/green-card-eligibility/widower)
+
+            Widow or widower of a U.S. citizen and you were married to your U.S. citizen spouse at the time your spouse died
+
+        * [VAWA self-petitioner– victim of battery or extreme cruelty](https://www.uscis.gov/green-card/green-card-eligibility/green-card-for-vawa-self-petitioner)
+
+            * Abused spouse of a U.S. citizen or lawful permanent resident
+            * Abused child (unmarried and under 21 years old) of a U.S. citizen or lawful permanent resident
+            * Abused parent of a U.S. citizen
+
+    * Green Card through Employment
+
+         * [Immigrant worker](https://www.uscis.gov/green-card/green-card-eligibility/green-card-for-employment-based-immigrants)
+            * [EB-1 - Priority Workers /Employment-Based Immigration: First Preference EB-1](https://www.uscis.gov/working-in-the-united-states/permanent-workers/employment-based-immigration-first-preference-eb-1)
+            
+                This includes Nobel prize winners, Pulitzer prize winners, Olympians and other award winners. Generally, this is a difficult category to have approved. Since they are held in such high esteem, EB-1 workers do not need a job offer in order to be considered for a visa.
+                
+                * EB-1A
+                * EB-1B
+                * EB-1C
+            * [EB-2 - Professionals with exceptional ability/ Employment-Based Immigration: Second Preference EB-2](https://www.immi-usa.com/eb2-green-card/)
+            
+                A formal job offer from an employer is needed to enter the U.S. under this category. EB-2 workers hold advanced degrees and specialized knowledge in fields such as medicine, engineering, energy, leadership, and business.   
+                
+            * [EB-3 - Skilled or Professional Workers/ Employment-Based Immigration: Third Preference EB-3](https://www.uscis.gov/working-in-the-united-states/permanent-workers/employment-based-immigration-third-preference-eb-3)
+            
+                EB-3 candidates are those that hold a minimum of a Bachelor’s degree and have at least 5 years of experience. The EB-3 requirements are less stringent but the backlog is much longer as a result. Therefore the processing time for an EB-3 may be several years longer than that of an EB-2.
+                
+            * [EB-4 - Religious Workers/ Employment-Based Immigration: Fourth Preference EB-4](https://www.uscis.gov/working-in-the-united-states/permanent-workers/employment-based-immigration-fourth-preference-eb-4)
+            
+                These non-profit workers are usually affiliated with churches, synagogues, mosques, or other religious organizations. While in the U.S., they can only work for these institutions.
+            * [EB-5 - Investor/Green Card for Immigrant Investors](https://www.uscis.gov/green-card/green-card-eligibility/green-card-for-immigrant-investors)
+            
+                One of the most expensive paths to qualify for, the EB-5 category is reserved for investors that must invest at least **$1 million** into a U.S. enterprise. Investors need to hire 10 American workers and work in conjunction with the US Department of Labor. If the business succeeds at the end of a 2-year review period, the investor is given a residential visa.
+
+        * [Physician National Interest Waiver](https://www.uscis.gov/green-card/green-card-eligibility/green-card-through-a-physician-national-interest-waiver-niw)
+
+
+
+            * Are a physician who agrees to work full-time in clinical practice in a designated underserved area for a set period of time and also meets other eligibility requirements
+
+            * [EB-2 - Professionals with exceptional ability.](https://www.uscis.gov/green-card/green-card-eligibility/green-card-through-a-physician-national-interest-waiver-niw)
+            
+                A formal job offer from an employer is needed to enter the U.S. under this category. EB-2 workers hold advanced degrees and specialized knowledge in fields such as medicine, engineering, energy, leadership, and business.
+
+        * [Green Card for Immigrant Investors](https://www.uscis.gov/green-card/green-card-eligibility/green-card-for-immigrant-investors)
+
+
+
+            * Have invested or are actively in the process of investing at least $1,050,000 (or $800,000 in a targeted employment area or infrastructure project) in a new commercial enterprise in the U.S. which will create full-time positions for at least 10 qualifying employees
+
+            * [EB-5 - Investor](https://www.uscis.gov/green-card/green-card-eligibility/green-card-for-immigrant-investors)
+            
+                One of the most expensive paths to qualify for, the EB-5 category is reserved for investors that must invest at least **$1 million** into a U.S. enterprise. Investors need to hire 10 American workers and work in conjunction with the US Department of Labor. If the business succeeds at the end of a 2-year review period, the investor is given a residential visa.
+    * Green Card as a Special Immigrant
+        * [Religious worker](https://www.uscis.gov/green-card/green-card-eligibility/green-card-for-a-religious-worker-minister-or-nonminister)
+
+            Are a member of a religious denomination coming to the U.S. to work for a nonprofit religious organization
+
+        * [Special Immigrant Juvenile](https://www.uscis.gov/green-card/green-card-eligibility/green-card-based-on-special-immigrant-juvenile-classification)
+
+            Are a juvenile who needs the protection of a juvenile court because you have been abused, abandoned or neglected by a parent.
+
+        * [Afghanistan or Iraq national]()
+
+            * Were an Afghan or Iraqi translator or interpreter for the U.S. government;
+            * Were an Iraqi employed by or for the U.S. government in Iraq on or after March 20, 2003, for at least one year; or
+            * Were an Afghan employed by the U.S. government or International Security Assistance Force (ISAF).
+
+        * [International broadcaster](https://www.uscis.gov/green-card/green-card-eligibility/green-card-for-a-broadcaster)
+
+            Are coming to work in the U.S. as a member of the media for the U.S. Agency for Global Media (USAGM) or a USAGM grantee.
+
+        * [Employee of an international organization or family member or NATO-6 employee or family member](https://www.uscis.gov/green-card/green-card-eligibility/green-card-for-international-organization-employees)
+            
+            Are a retired officer or employee of an eligible international organization or NATO, or are an eligible family member of such an employee.
+
+
+    * Green Card through Refugee or Asylee Status
+        
+        * [Asylee](https://www.uscis.gov/green-card/green-card-eligibility/green-card-for-asylees)
+
+            Were granted asylum status at least 1 year ago
+
+        * [Refugee](https://www.uscis.gov/green-card/green-card-eligibility/green-card-for-refugees)
+
+            Were admitted as a refugee at least 1 year ago
+            
+
+    * Green Card for Human Trafficking and Crime Victims
+
+        * [Human trafficking victim](https://www.uscis.gov/green-card/green-card-eligibility/green-card-for-a-victim-of-trafficking-t-nonimmigrant)
+
+            Currently have a [T nonimmigrant visa](https://www.uscis.gov/humanitarian/victims-of-human-trafficking-and-other-crimes/victims-of-human-trafficking-t-nonimmigrant-status)
+
+        * [Crime victim](https://www.uscis.gov/green-card/green-card-eligibility/green-card-for-a-victim-of-a-crime-u-nonimmigrant)
+
+            Currently have a [U nonimmigrant visa](https://www.uscis.gov/humanitarian/victims-of-human-trafficking-and-other-crimes/victims-of-criminal-activity-u-nonimmigrant-status)
+        
+
+
+
+    ... 
+
+
+
+    **[Green Card Processes and Procedures](https://www.uscis.gov/green-card/green-card-processes-and-procedures)**
+
+
+
+    **[How to Apply for a Green Card](https://www.uscis.gov/green-card/how-to-apply-for-a-green-card)**
+
+    **[While Your Green Card Application Is Pending with USCIS](https://www.uscis.gov/green-card/while-your-green-card-application-is-pending-with-uscis)**
+
+
+    **[Replace Your Green Card](https://www.uscis.gov/green-card/after-we-grant-your-green-card/replace-your-green-card)**
+
+    **[Adjustment of Status](https://www.uscis.gov/policy-manual/volume-7)**
+    
+    
+
+9. Off-campus exam(If you wanna work illigally)
+    * Don't show your id , instate giving id say I forget my id at room
+    * Don't work at night
+
+10. For Investment Follow [this repo](https://github.com/madanbaduwal/investment).
 
 </details>
 
@@ -3028,7 +3312,11 @@ Daily paper reading
 - [X] [Omniblue Tech](https://omnibluetech.com/)
     - [X] []()
 - [X] [National Innovation Center](https://nicnepal.org/)
+    - [X] [Robot: Mina](https://github.com/madanbaduwal/robot)
+	- [X] [Eye](https://github.com/madanbaduwal/eye)
 - [X] [Fusemachines](https://fusemachines.com/)
+    - [X] [text-clustering](https://github.com/madanbaduwal/text-clustering)
+	- [X] [Student status engine](https://github.com/madanbaduwal/student-status-engine)
 - [X] [Matrix](https://computervisionlab.herokuapp.com/)
 - [X] [Quick Track]()
 ## List of companies
@@ -3590,6 +3878,8 @@ print(ClassName.mro())
 
 
 
+- [X] [python-project-structure](https://github.com/madanbaduwal/python-project-structure)
+
 #### Youtube Channel
 - [ ] [TheNewBoston: Python Programming Tutorials](https://www.youtube.com/watch?v=4Mf0h3HphEA&list=PLEA1FEF17E1E5C0DA)
 - [ ] [Youtube: Python 3 Programming Tutorial - Regular Expressions / Regex with re](https://www.youtube.com/watch?v=sZyAn2TW7GY)
@@ -4102,6 +4392,7 @@ Notes:
 - [ ] [StatQuest: Fiitting a curve to data, aka lowess, aka loess](https://www.youtube.com/watch?v=Vf7oJ6z2LCc) `0:10:10`
 - [ ] [Statistics Fundamentals: Population Parameters](https://www.youtube.com/watch?v=vikkiwjQqfU) `0:14:31`
 
+- [My implementation from scratch](https://github.com/madanbaduwal/ML-algorithms)
 	
 #### Be familar with deep learning algorithms
 
@@ -4152,7 +4443,7 @@ Notes:
 - [X] [Markov Decision Process](https://en.wikipedia.org/wiki/Markov_decision_process)
 - [X] [Multi-armed Bandits]()
 - [X] [Monte Carlo]()
-
+- [X] [My implementation from scratch](https://github.com/madanbaduwal/DNN-algorithms)
 ####  Activation Function In Neural Networks
 
 - [X] [Article: Neural networks: activation functions](https://www.jeremyjordan.me/neural-networks-activation-functions/)
@@ -4711,7 +5002,7 @@ Multi-Class Classification Loss Functions
 
 
 
-### Computer Vision
+### Computer Vision(Pixels)
 
 [Computer Vision Problems and datasets](https://madanbaduwal.github.io/computer-vision-problems-and-datasets)
 
@@ -4851,6 +5142,9 @@ Multi-Class Classification Loss Functions
 - [X] [problem based computer vision algorithms: my own implementation](https://madanbaduwal.github.io/problem-based-computer-vision-algorithms/)
 - [X] [Roboflow](https://github.com/roboflow/notebooks)
 	
+#### Deep learning architectures for computer vision
+
+- [X] [My implementation from scratch](https://github.com/madanbaduwal/computer-vision-architectures-or-algorithms)
 
 #### Be familar with Computer Vision libraries
 - [X] [PCL](https://pointclouds.org/)
@@ -4887,7 +5181,7 @@ Multi-Class Classification Loss Functions
 - [ ] [computer-vision-in-action ](https://github.com/Charmve/computer-vision-in-action)
 - [X] [Midjourney: Text-to-Image](https://www.midjourney.com/home/) > Expanding the imaginative powers of the human species
 
-### Natural Language Processing
+### Natural Language Processing(Vocabulary>token>vector)
 
 [NLP problems and datasets](https://github.com/MadanBaduwal/NLP-problems-and-datasets)
 
