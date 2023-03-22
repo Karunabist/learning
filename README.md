@@ -3004,7 +3004,7 @@ Daily paper reading
 <summary>Immigration(1 follow rule: Nepal to America)</summary>
 
 
-# Student Life In USA
+# Student , H1B, DV ...
 
 
 1. Open Bank account and deposite your draft
@@ -3033,7 +3033,7 @@ Daily paper reading
    	* In texas we don't need SSN for licence
 
 5. Make sure to keep all documents in a very safe place and drive backup
-6. Keep an eye on student visa, CPT(part time 12 month, full time less then 12 month done before you graduate),OPT(1 year + 2 year extension), H1B rules
+6. Student: Keep an eye on student visa, CPT(part time 12 month, full time less then 12 month done before you graduate),OPT(1 year + 2 year extension), H1B rules
 
    CPT: 
 
@@ -3116,7 +3116,7 @@ And if you are a spouse
 * F1 Holder – You get a visa type of F2
 * H1b Holder – You get a visa type of H4 which can be authorized to work upon filing a request and applying for H4 EAD
 
-7. [Getting green card](https://www.uscis.gov/green-card)
+7. [Student: Getting green card](https://www.uscis.gov/green-card)
 
     **[Green Card Eligibility Categories](https://www.uscis.gov/green-card/green-card-eligibility-categories)**
 
@@ -3258,7 +3258,7 @@ And if you are a spouse
     
     
 
-8. Off-campus jobs(If you wanna work illigally)
+8. Student: Off-campus jobs(If you wanna work illigally)
     * Don't show your id , instate giving id say I forget my id at room
     * Don't work at night
 
