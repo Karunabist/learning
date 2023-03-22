@@ -3001,7 +3001,7 @@ Daily paper reading
 
 
 <details>
-<summary>Immigration(Nepal to America)</summary>
+<summary>Immigration(1 follow rule: Nepal to America)</summary>
 
 
 # Student Life In USA
@@ -3014,27 +3014,9 @@ Daily paper reading
     - Electricity : Green Mountain Energy
     - Wifi : myAT&T
     - Water bill: Automatically added in apartment rent
-3. [On campus job](): Social Security Number(SSN) is an important for other activities, to get SSN we must have oncomapus job
-    * [Apply through career portal](https://www.utpb.edu/university-offices/human-resources/index)
-    * TA/RA
-    * [Visit each department physically for job opportunaties](https://www.utpb.edu/academics/colleges/department-index)
-        * Career Education: maribea.merritt@utpb.edu
-        * [Literature and Language](https://www.utpb.edu/academics/colleges/arts-sciences/departments/literature-language/index): chamblee_m@utpb.edu : There is no any GA/RA at this department , recommended to Dr.Jessica Stephens
-        * [Mathematics](https://www.utpb.edu/academics/colleges/arts-sciences/departments/mathematics/index): feit_p@utpb.edu : There is no any GA/RA at this department
-        * [Chemistry and Physics](https://www.utpb.edu/academics/colleges/arts-sciences/departments/chemistry/index): montes_m@utpb.edu
-        * [Biology](https://www.utpb.edu/academics/colleges/arts-sciences/departments/biology/index): oldham_a@utpb.edu : No GA already left email and phone
-        * [Geosciences](https://www.utpb.edu/academics/colleges/arts-sciences/departments/geosciences/index): zavada_m@utpb.edu
-        * [Department of Management, Marketing, & Industrial Technology](https://www.utpb.edu/academics/colleges/business/departments/management-marketing-industrial-tech/index): 
-        * [ITS department](https://www.utpb.edu/university-offices/information-technology/index): crisanti_p@utpb.edu
-        * [UT Permian Basin testing center](https://www.utpb.edu/academics/advising-and-support/testing-center/index): testingcenter@utpb.edu
-        * [Library](https://www.utpb.edu/library/index):
-        * [Rasidant and dining](https://www.utpb.edu/life-at-utpb/housing-and-dining/index): 
-        * Student life department: no position
-        * Register Office : Taken an email
-        * Welcom center: Thursday 9:30 to 11
-        * Resturant and dining: [portal](https://jobs.compassgroupcareers.com/search/)
-        * [Computer Science Department](https://www.utpb.edu/academics/colleges/arts-sciences/departments/computer-science/index): vuckovic_v@utpb.edu
-4. [Credit Card](https://www.bankrate.com/finance/credit-cards/list-of-credit-card-companies/)
+	- Sim Card: take a sim card
+
+3. [Credit Card](https://www.bankrate.com/finance/credit-cards/list-of-credit-card-companies/)
 
     Requirements for cradit card: Identity documents in the United States include: regional state-issued driver's license or identity card, the social security card (or the social security number) and the United States passport card. All three can be used nationwide as form of identification.
     
@@ -3044,14 +3026,14 @@ Daily paper reading
     * [TransUnion vs. Equifax: What's the Difference?](https://www.creditkarma.com/advice/i/transunion-vs-equifax)
     * Apps: [Credit Karma](https://www.creditkarma.com/)
     
-5. [Driving License]()
+4. [Driving License]()
    * [Driving licence process in texas](https://www.dps.texas.gov/section/driver-license/how-apply-texas-driver-license)
        * [comedydrivingcompany](https://www.comedydrivingcompany.com/login)
        * [impacttexasdrivers](https://impacttexasdrivers.dps.texas.gov/ITAD/Profile/Signup.aspx)
    	* In texas we don't need SSN for licence
 
-6. Make sure to keep all documents in a very safe place and drive backup
-9. Keep an eye on student visa, CPT(part time 12 month, full time less then 12 month done before you graduate),OPT(1 year + 2 year extension), H1B rules
+5. Make sure to keep all documents in a very safe place and drive backup
+6. Keep an eye on student visa, CPT(part time 12 month, full time less then 12 month done before you graduate),OPT(1 year + 2 year extension), H1B rules
 
    CPT: 
 
@@ -3279,6 +3261,9 @@ And if you are a spouse
 8. Off-campus jobs(If you wanna work illigally)
     * Don't show your id , instate giving id say I forget my id at room
     * Don't work at night
+
+9. Buying Car
+
 
 </details>
 
@@ -5173,6 +5158,8 @@ Multi-Class Classification Loss Functions
 - [X] [Midjourney: Text-to-Image](https://www.midjourney.com/home/) > Expanding the imaginative powers of the human species
 
 ### Natural Language Processing(Vocabulary>token>vector)
+
+Note: And with language models, the output is also a softmax over the entire vocabulary.
 
 [NLP problems and datasets](https://github.com/MadanBaduwal/NLP-problems-and-datasets)
 
