@@ -2817,7 +2817,7 @@ Keywords: assure,preotect,private key, public key
 
 
 
-### Final Project
+### Reading Assignment and Final Project
 
 - [X] [Phishing Detection](https://github.com/madanbaduwal/phishing-detection)
 
@@ -2856,7 +2856,7 @@ Keywords: assure,preotect,private key, public key
 * [QuickSort]()
 
 
-### Final project 
+### Reading Assignment and Final project 
 
 - [X] [Phishing Detection Using Transformer](https://github.com/madanbaduwal/phishing-detection-transformer)
 
@@ -3006,15 +3006,17 @@ Daily paper reading
 
 # Student , H1B, DV ...
 
-
+0. Your address: Everything will happen with your location, example: 
+    - [X] SimplAddress: City, State, and ZIP code
+    - [X] Property Address: Street number and name (address line 1) Apartment or unit and its number (address line 2) City, state and zip code (include all of this on one line with a comma between city and state, but not zip code)
 1. Open Bank account and deposite your draft
     - You need passport,I-20 identity card, and student id card to open your bank account
     - [List of largest banks in the USA](https://en.wikipedia.org/wiki/List_of_largest_banks_in_the_United_States)
 2. Apartment rent and other utility
-    - Electricity : Green Mountain Energy
-    - Wifi : myAT&T
+    - Electricity : [Green Mountain Energy](https://www.greenmountainenergy.com/)
+    - Wifi : [myAT&T](https://www.att.com/)
     - Water bill: Automatically added in apartment rent
-	- Sim Card: take a sim card
+	- Sim Card: [Tello](https://tello.com/)
 
 3. [Credit Card](https://www.bankrate.com/finance/credit-cards/list-of-credit-card-companies/)
 
@@ -3078,43 +3080,43 @@ Daily paper reading
     * Whether you are F1 or H1B, you can apply for a green card, but most companies require H1B before giving the Sponsor a green card to ensure that employees have a legal identity to work before the green card is approved.
 
 
-![](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F3412997e-c195-4e91-80f1-e13f947aee28%2FBlue_Timeline_Cycle_Presentation.png?table=block&id=0a1ea84e-faf5-4473-9b44-facd08709416&cache=v2)
+   ![](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F3412997e-c195-4e91-80f1-e13f947aee28%2FBlue_Timeline_Cycle_Presentation.png?table=block&id=0a1ea84e-faf5-4473-9b44-facd08709416&cache=v2)
 
 
 
-If you are an undergrad student
+   If you are an undergrad student
 
-* Four years of undergrad
-* CPT
-* One year of OPT
-* Two years of STEM extension
-* and then H1b
+   * Four years of undergrad
+   * CPT
+   * One year of OPT
+   * Two years of STEM extension
+   * and then H1b
 
-If you are a grad student
+   If you are a grad student
 
-* Two years of Masters
-* CPT
-* One year of opt
-* Two years of stem
-* then H1b
+   * Two years of Masters
+   * CPT
+   * One year of opt
+   * Two years of stem
+   * then H1b
 
-If you are a Ph.D. student
+   If you are a Ph.D. student
 
-* 4-5 years of PhD
-* CPT
-* One year of opting, and since you will be put under the Hb1 category, you can apply for a green card right away.
-* So Ph.D. students shouldn’t be worried at all.
+   * 4-5 years of PhD
+   * CPT
+   * One year of opting, and since you will be put under the Hb1 category, you can apply for a green card right away.
+   * So Ph.D. students shouldn’t be worried at all.
 
-If you are a person who is coming directly from India
+   If you are a person who is coming directly from India
 
-* You could be of two types, but both types get H1B visas.
-* People who directly come to a company while you get hired by a company in the US
-* Or you are outsourced by TCS, WIPRO, INFOSYS.
+   * You could be of two types, but both types get H1B visas.
+   * People who directly come to a company while you get hired by a company in the US
+   * Or you are outsourced by TCS, WIPRO, INFOSYS.
 
-And if you are a spouse
+   And if you are a spouse
 
-* F1 Holder – You get a visa type of F2
-* H1b Holder – You get a visa type of H4 which can be authorized to work upon filing a request and applying for H4 EAD
+   * F1 Holder – You get a visa type of F2
+   * H1b Holder – You get a visa type of H4 which can be authorized to work upon filing a request and applying for H4 EAD
 
 7. [Student: Getting green card](https://www.uscis.gov/green-card)
 
@@ -3285,6 +3287,8 @@ And if you are a spouse
 	- [X] [Buying Second Hand Car]()
 	- [X] [Buying New Car]()
 
+- [X] [Sending Money to your home country]()
+    - [X] [Nabil Bank Remit](https://nbankhome.nabilbank.com/digital-form/nremit?fbclid=IwAR2umOs4CB8Y4guP4Lek30FW-7A8dYVtAJDsO3mvEas3vMrlfNDpFh0pfbI)
 
 </details>
 
@@ -3551,7 +3555,7 @@ Real life application of data structure
 	- [ ] [Algorithms Design Techniques](https://www.geeksforgeeks.org/algorithms-design-techniques/)
 	
 - [X] [NP-complete problems](https://en.wikipedia.org/wiki/NP-completeness)
-
+- [Leetcode Note](https://www.piratekingdom.com/leetcode/cheat-sheet)
 ### Challenges
 
 - Use above data structure and algorithms to solve below challenges.
@@ -4423,6 +4427,15 @@ Notes:
 - [X] [Transformer: Transformers from Scratch](https://e2eml.school/transformers.html)
 - [X] [Transformer: Pytorch Transformers from Scratch (Attention is all you need)](https://morioh.com/p/9cab1b4a01f8)
 - [X] [Transformer: Transformer model for language understanding](https://www.tensorflow.org/text/tutorials/transformer)
+- [X] [Transformer pytorch official documentaion](https://pytorch.org/tutorials/beginner/transformer_tutorial.html)
+
+- [X] [Transformer: floydhub](https://blog.floydhub.com/the-transformer-in-pytorch/)
+
+- [X] [Transformer: hyunwoongko](https://github.com/hyunwoongko/transformer)
+
+- [X] [Transformer: mohitkpandey](https://mohitkpandey.github.io/posts/2020/11/trfm-code/)
+
+- [X] [Transformer: kaggle](https://www.kaggle.com/code/arunmohan003/transformer-from-scratch-using-pytorch)
 - [X] [GPT from Scratch](https://jaketae.github.io/study/gpt/)
 - [X] [GPT from scratch by Andrej Karpathy](https://www.youtube.com/watch?v=kCc8FmEb1nY&t=701s)
 - [X] [minGPT by andrej karpathy](https://github.com/karpathy/minGPT)
@@ -4623,7 +4636,7 @@ Multi-Class Classification Loss Functions
  #### Be familar with machine learning Libraries
 - [X] [Numpy](https://numpy.org/doc/)
 - [X] [Sklearn](https://scikit-learn.org/stable/)
-- [X] [Ptorch](https://pytorch.org/docs/stable/index.html)
+- [X] [Pytorch](https://pytorch.org/docs/stable/index.html): The torch package contains data structures for multi-dimensional tensors and defines mathematical operations over these tensors. Additionally, it provides many utilities for efficient serializing of Tensors and arbitrary types, and other useful utilities.
 - [ ] [REXMEX](https://rexmex.readthedocs.io/en/latest/)
 - [X] [bert-as-a-service](https://github.com/hanxiao/bert-as-service): Generate BERT Embeddings for production  
 - [X] [camelot](https://github.com/socialcopsdev/camelot): Extract tables from PDF files  
@@ -4779,7 +4792,7 @@ Multi-Class Classification Loss Functions
 * [X] [Colossal-AI](https://github.com/hpcaitech/ColossalAI): An open-source deep learning system for large-scale model training and inference with high efficiency and low cost.
 * [X] [dirty_cat](https://github.com/dirty-cat/dirty_cat) - facilitates machine-learning on dirty, non-curated categories. It provides transformers and encoders robust to morphological variants, such as typos.
 * [X] [Upgini](https://github.com/upgini/river): Free automated data & feature enrichment library for machine learning - automatically searches through thousands of ready-to-use features from public and community shared data sources and enriches your training dataset with only the accuracy improving features.    
-- [X] [pytorch](https://pytorch.org/): Open source machine learning framework  
+- [X] [pytorch](https://pytorch.org/): The torch package contains data structures for multi-dimensional tensors and defines mathematical operations over these tensors. Additionally, it provides many utilities for efficient serializing of Tensors and arbitrary types, and other useful utilities.  
 - [X] [pytorch-transformers](https://github.com/huggingface/transformers): State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch 	
 - [X] [finetune](https://github.com/IndicoDataSolutions/finetune): Scikit-learn style model finetuning for NLP  
 - [X] [gdal](https://pypi.org/project/GDAL/): GDAL: Geospatial Data Abstraction Library  
