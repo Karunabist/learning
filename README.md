@@ -3263,6 +3263,27 @@ And if you are a spouse
     * Don't work at night
 
 9. Buying Car
+    - [X] [About The Car]()
+	    - [X] [Heat and air conditioning](): Most people want to be comfortable when they’re driving, regardless of the season. If you’re buying a used vehicle, make sure you test both the heat and air conditioning to ensure they are in working order.
+		- [X] [Power windows](): If the vehicle has power windows, be sure to check every button on both sides and make sure they all work properly. If the windows roll down but not up, now is the time to find out—before you buy the car.
+		- [X] [Automatic vs. manual transmission](): Although most people prefer an automatic transmission, manual transmission vehicles tend to get better gas mileage. They also tend to be cheaper and require less maintenance.
+		- [X] [Front-wheel drive vs rear-wheel drive](): Rear-wheel drive vehicles tend to handle curves better, while front-wheel drive vehicles have more traction in rainy and snowy conditions. Front-wheel drive vehicles are generally less expensive and have better fuel economy.
+		- [X] [Engine type](): Do you care how big the engine is or how much power it delivers? If so, add that to your list.
+		- [X] [Safety features and ratings](): What safety features does the vehicle have? Has it been tested by the Insurance Institute for Highway Safety or the National Highway Traffic Safety Association? If so, how did it fare in those tests?
+		- [X] [Hauling capacity]():  Do you need to tow a utility trailer? A boat? A full-size RV? Make sure the vehicle you choose can handle the weight of whatever you plan to tow with it.
+		- [X] [Seats]():  Are the seats comfortable? Are they easy to adjust? Do you want the added luxury of heated seats to take the edge off winter?
+		- [X] [Radio]():  Does the radio sound good? Do you need extra features such as a CD player or XM satellite radio? Can you connect your phone to the radio system for hands-free calls? Can you plug in a USB flash drive filled with your favorite songs?
+		- [X] [Remote start/Proximity Key](): Do you want to be able to start your car from inside the house so it’s warmed up by the time you’re ready to leave for work?
+		- [X] [Adaptive cruise control](): For its part, adaptive cruise control takes it to the next level by using radar to detect if there’s a vehicle in front of you and automatically slows down without you having to do anything.
+		- [X] [Smart suspension](): stellar suspension system that helps keep your ride smooth and comfortable, especially when you’re driving over less-than-comfortable roads.
+		- [X] [Cameras - lots of them](): Did you know that backing up cameras are required on all passenger cars sold in the U.S. after May 1, 2018? But our focus isn’t on that. These days, a lot of automakers have begun to offer wide-ranging camera systems that are well more advanced than the standard backup cameras found in cars. Cameras are now located in the front and sides of the car, giving you more than one angle from which to view your surroundings without having to leave your car.
+		- [X] [Automatic Emergency Braking](): Automatic emergency braking functions as its name says. When the system detects an imminent collision and you’re not fast enough to react to the impending threat, the system hits the brakes for you before you get a chance to do it.
+		- [X] [Fast-charging USB ports](): You don’t appreciate a fast-charging USB port until you realize that a lot of the USB charging outlets in our cars are woefully underpowered. Standard USB charging outlets charge at 0.5 amperage, making it extremely slow if you want to charge your phone using them.
+		- [X] [WiFi Hotspots](): Yes, WiFi hotspots. Nowadays, being connected to the Internet is as important as anything in this world, for better or for worse. Cellular service providers offer data plans on your mobile phones, but those come with hefty monthly charges. The best and still most cost-efficient way to access the Internet is still through WiFi, and while a lot of public places already offer WiFi connections, in-car connections are still relatively new to the industry.
+		- [X] [](): 
+
+	- [X] [Buying Second Hand Car]()
+	- [X] [Buying New Car]()
 
 
 </details>
