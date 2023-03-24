@@ -1,4 +1,4 @@
-# Learning 👀 to solve problems
+# Learning 👀 to solve problems(Matrix and Tensor and operation/function on them)
 
 **a. The process of learning anything.**
 
@@ -2854,6 +2854,8 @@ Keywords: assure,preotect,private key, public key
 * [Heapsort](https://github.com/madanbaduwal/masters/blob/main/Semester%201/Algorithm%20of%20Analysis/Ch6-Heapsort.pdf):make a binary tree from left to right, and make max heap(heapify) from right to left, and swap root(max element) and first(bottom right) and remove end(bottom right, which is highest number),worst case(0(nlog(n))),average  case(0(nlog(n))),best case(0(nlog(n))),worst space complexity (0(n))
     - [Geeksforgeeks](https://www.geeksforgeeks.org/heap-sort/)
 * [QuickSort]()
+* [Dynamic Programming]()
+    - [Recursion vs dynamic programming]()
 
 
 ### Reading Assignment and Final project 
@@ -3240,11 +3242,6 @@ Daily paper reading
         
 
 
-
-    ... 
-
-
-
     **[Green Card Processes and Procedures](https://www.uscis.gov/green-card/green-card-processes-and-procedures)**
 
 
@@ -3287,8 +3284,12 @@ Daily paper reading
 	- [X] [Buying Second Hand Car]()
 	- [X] [Buying New Car]()
 
-- [X] [Sending Money to your home country]()
+10. Sending Money to your home country
     - [X] [Nabil Bank Remit](https://nbankhome.nabilbank.com/digital-form/nremit?fbclid=IwAR2umOs4CB8Y4guP4Lek30FW-7A8dYVtAJDsO3mvEas3vMrlfNDpFh0pfbI)
+11. Consultancy For Job
+    - Must of the consultancies are legal
+	- If they are trying to put wrong number of experience is illigle
+
 
 </details>
 
@@ -3305,6 +3306,9 @@ Daily paper reading
 - [X] [How to intern?](https://twitter.com/jbhuang0604/status/1505734716657438724)
 
 ## Cover Letter
+- [X] [Harvard](https://hwpi.harvard.edu/files/ocs/files/undergrad_resumes_and_cover_letters.pdf)
+- [X] [Harvard](https://hwpi.harvard.edu/files/ocs/files/gsas-cvs-and-cover-letters.pdf)
+- [X] [Harvard](https://hwpi.harvard.edu/files/ocs/files/hes-resume-cover-letter-guide.pdf)
 
 ## Company review website
 
@@ -3837,6 +3841,16 @@ print(ClassName.mro())
 
 	```
 - [X] [How to Return Nothing/Null From a Python Function?](https://www.designcise.com/web/tutorial/how-to-return-nothing-or-null-from-a-python-function)
+- [X] [Super keyword in python](https://www.programiz.com/python-programming/methods/built-in/super)
+- [X] [python super keyword with classname](https://realpython.com/python-super/)
+    ```python
+    class Square(Rectangle):
+    def __init__(self, length):
+        super(Square, self).__init__(length, length)
+
+	```
+	In Python 3, the super(Square, self) call is equivalent to the parameterless super() call. The first parameter refers to the subclass Square, while the second parameter refers to a Square object which, in this case, is self. You can call super() with other classes as well.
+
 
 #### Article,Books And Courses
 - [ ] [Python Frequently Asked Questions (Programming)](https://docs.python.org/2/faq/programming.html)
