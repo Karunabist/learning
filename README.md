@@ -98,7 +98,7 @@ Learning by doing or reverse engineering or doing by experiments or try to codin
 		  <li><a href="#">PHD(Cognative science, Machine learning paradigms for 2D/3D Segmentation and Detection)</a></li>
 		  <li><a href="#">Companies(motivations)</a></li>
 		  <li><a href="#">Immigration and Money(Penny)</a></li>
-		  <li><a href="https://colab.research.google.com/drive/1eqOUu2cIzTNweQB_dr3NyiQhirm3ol_0?usp=sharing">Computer science(Object,Array)</a></li>
+		  <li><a href="https://colab.research.google.com/drive/1eqOUu2cIzTNweQB_dr3NyiQhirm3ol_0?usp=sharing">Computer science(Object,Array,Tensor)</a></li>
 		  <li><a href="#">career(Single problem)</a></li>
 		Download Book From Here:<a href="https://libgen.is/">libgen.is</a></br>
 		  Download Paid Research Papers From Here: <a href="https://sci-hub.se/">sci-hub.se</a></br>
@@ -2815,7 +2815,7 @@ Keywords: assure,preotect,private key, public key
     - [X] [Digital signature in bitcoin]()
 	- [X] [Private key and public key as identities]()
 
-
+- [X] [Bitcoin Chapter:]
 
 ### Reading Assignment and Final Project
 
@@ -3381,7 +3381,7 @@ Daily paper reading
 <details>
 <summary>Computer science(3 fields)</summary>
 
-# Computer science(Object,Array)
+# Computer science(Object,Array, Tensor)
 
 3 fields:
 
@@ -3850,7 +3850,7 @@ print(ClassName.mro())
 
 	```
 	In Python 3, the super(Square, self) call is equivalent to the parameterless super() call. The first parameter refers to the subclass Square, while the second parameter refers to a Square object which, in this case, is self. You can call super() with other classes as well.
-
+#### Advance Python
 
 #### Article,Books And Courses
 - [ ] [Python Frequently Asked Questions (Programming)](https://docs.python.org/2/faq/programming.html)
@@ -3894,7 +3894,7 @@ print(ClassName.mro())
 
 
 - [X] [python-project-structure](https://github.com/madanbaduwal/python-project-structure)
-
+- [X] [Calmcode](https://calmcode.io/)
 #### Youtube Channel
 - [ ] [TheNewBoston: Python Programming Tutorials](https://www.youtube.com/watch?v=4Mf0h3HphEA&list=PLEA1FEF17E1E5C0DA)
 - [ ] [Youtube: Python 3 Programming Tutorial - Regular Expressions / Regex with re](https://www.youtube.com/watch?v=sZyAn2TW7GY)
