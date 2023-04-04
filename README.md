@@ -99,10 +99,7 @@ Learning by doing or reverse engineering or doing by experiments or try to codin
 		  <li><a href="#">Companies(motivations)</a></li>
 		  <li><a href="#">Money(Penny)</a></li>
 		  <li><a href="https://colab.research.google.com/drive/1eqOUu2cIzTNweQB_dr3NyiQhirm3ol_0?usp=sharing">Computer science(Object,Array,Tensor)</a></li>
-		  <li><a href="#">career(Single problem)</a></li>
-		Download Book From Here:<a href="https://libgen.is/">libgen.is</a></br>
-		  Download Paid Research Papers From Here: <a href="https://sci-hub.se/">sci-hub.se</a></br>
-	Free Pdf hosting: <a href="https://pdfhost.io/">pdfhost.io</a>
+		  
 	  </ul> </td>
 	  
   <td width="40%">
@@ -120,7 +117,10 @@ Learning by doing or reverse engineering or doing by experiments or try to codin
 	  </ul>
 
 <img class="zoom" src="https://miro.medium.com/v2/resize:fit:828/0*x1-JTcc4ktP0mf8V" alt="Italian Trulli"> 
-
+<li><a href="#">career(Single problem)</a></li>
+		Download Book From Here:<a href="https://libgen.is/">libgen.is</a></br>
+		  Download Paid Research Papers From Here: <a href="https://sci-hub.se/">sci-hub.se</a></br>
+	Free Pdf hosting: <a href="https://pdfhost.io/">pdfhost.io</a>
 </td>
   <td width="40%">
 	  <ul>    
