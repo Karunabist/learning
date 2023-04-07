@@ -1,8 +1,10 @@
-# Learning 👀 to solve problems(Matrix and Tensor and operation/function on them)
+# Learning 👀 to solve problems(Tensors and operations/functions on them)
+
+The Power Of Continuous Learning, Personal Learning Note
 
 **a. The process of learning anything.**
 
-1. First define space(Input): Space is a collection of tiny elements of a particular domain. 
+1. First : define space(Input): Space is a collection of tiny elements of a particular domain. 
 
     It might be the space of 
     * letters/words for language, 
@@ -10,16 +12,20 @@
     * atoms/subatomic particles(e,p,n)/Composite particles(quark, leptons, gauge bosons, higgs hosons) for physics, 
     * ions/chemical elements, for chemistry,..., 
     * and data/object/arrays/matrics/tensors for computer science. 
-    
+  
+    So on ... 
+ 
     Each element of space has its own meaning.
-2. Second define a relationship: predicate,function(process),probability function, energy transformation functions: pmf,pdf between space elements: which takes space elements from space and does something meaningful operation. 
+
+2. Second : define/create/research a relationship between the elements of that domain: predicate,function(process),probability function, energy transformation functions: pmf,pdf between space elements: which takes space elements from space and does something meaningful operation. 
     * Grammer(s+v+o) is for language, 
     * mathematical operations(+,-,/,...) for mathematics,..., 
     * Physical equations in physics(i.e F=ma,E=mc^2)
     * Chemical equation/reaction in chemistry
     * CRUD operation for computer science.
-    
-3. Third, we receive output from operation(Output): which has a beautiful meaning.
+  
+    So on...
+3. Third, we receive output from that relationship(Output): which has a beautiful meaning.
     * Meaningful vocabulary,sentance,paragraph
     * Meaningful mathematical numbers which have beautiful meaning
     * Meaningful energy which have beautiful meaning
@@ -32,13 +38,7 @@ Note: A predicate is a type of relation. A relation is a particular type of set.
 
 Because we continiously collect tiny elements(data) for our space(brain). And define relationship between these elements(Brain(model) training).To obtain perfect output.
 
-**c. Approach of solving any type of problem**
-
-1. First define space(Input)
-2. Second define a function(Process)
-3. Third, we receive output from operation(Output)
-
-**d. Universl Rules**
+**c. Universl Rules**
 * Everything is start from left to right
 
     Examples:
@@ -47,22 +47,27 @@ Because we continiously collect tiny elements(data) for our space(brain). And de
 	* Clock wise direction is left to right
 	* Writing in paper is start from left-top to right.
 
-**e. Result of learning?**
+**d. Result of learning?**
 
 Find out the problem in existing system. Try to fix it with new approach.
 
-**f. Focus on single platform and spreed it anywhere**
+**e. Focus on single platform and spreed it anywhere**
 
 My single platform is github with | **Vscode: Extensions** > **github: Integrate other Applications** > **Any Server** | I always connect everything to github.
 
-**g. What is life?**
+**f. What is life?**
 
 Think like everything is problems and find the soultions for problems.Life is solving a single problem after acquiring knowledge of all other fields related to this problem. 
 
-**h. What will I do? how will I think?**
+**g. What will I do? how will I think?**
 
 Learning by doing or reverse engineering or doing by experiments or try to coding every problem.
 
+**Miscellaneous**
+
+* Everyone goal is power: political power, scientific power, money power ...
+* Think 100 time before speaking
+* Just focus on present
 
 <table width="100%">
   <tr>
