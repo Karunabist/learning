@@ -67,7 +67,8 @@ Learning by doing or reverse engineering or doing by experiments or try to codin
 
 * Everyone goal is power: political power, scientific power, money power ...
 * Think 100 time before speaking
-* Just focus on present
+* Just focus on present and don't think about results
+* We living being are here generate data which is tensor
 
 <table width="100%">
   <tr>
@@ -2866,16 +2867,11 @@ Keywords: assure,preotect,private key, public key
 - [X] [Phishing Detection Using Transformer](https://github.com/madanbaduwal/phishing-detection-transformer)
 
 
-## Career Fair
-- [X] [Handshake](https://joinhandshake.com/)
 
 ## Maintain Student Status : International Office
 
 
-## Student Associate Editors(Author>Editors>reviewers)
 
-- [X] [UTPB Journal of Undergraduate Research](https://falconcommons.utpb.edu/utpb-jour/)
-    - [X] [falconcommons](https://falconcommons.utpb.edu/cgi/myaccount.cgi)
 
 
 # USA-Immigration
@@ -3005,6 +3001,11 @@ Daily paper reading
 
 - [X] [How to survive the first year of PhD?](https://twitter.com/jbhuang0604/status/1523505108318924802)
 
+# USA-Immigration
+
+- [X] [USA-Immigration](https://github.com/madanbaduwal/usa-immigration/blob/main/README.md)
+
+
 </details>
 
 
@@ -3041,6 +3042,13 @@ Daily paper reading
 	- [X] [Student status engine](https://github.com/madanbaduwal/student-status-engine)
 - [X] [Matrix](https://computervisionlab.herokuapp.com/)
 - [X] [Quick Track]()
+
+## Worked Academic Position
+- Student Associate Editors(Author>Editors>reviewers)
+
+  - [X] [UTPB Journal of Undergraduate Research](https://falconcommons.utpb.edu/utpb-jour/)
+      - [X] [falconcommons](https://falconcommons.utpb.edu/cgi/myaccount.cgi)
+
 ## List of companies
 
 - [X] [List of companies](https://github.com/madanbaduwal/companies)
