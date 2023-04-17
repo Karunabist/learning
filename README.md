@@ -2,6 +2,8 @@
 
 The Power Of Continuous Learning, Personal Learning Note
 
+I wanna create artificial human being
+
 **a. The process of learning anything.**
 
 1. First : define space(Input): Space is a collection of tiny elements of a particular domain. 
@@ -99,6 +101,7 @@ Learning by doing or reverse engineering or doing by experiments or try to codin
 		  <li><a href="#">Business(making money producing or buying and selling products)</a></li>
 		  <li><a href="#">Management(administration of organizations)</a></li>
 		  <li><a href="#">Accounting(financial transactions related to a business)</a></li>
+		  <li><a href="#">Quantum Computing(quantum)</a></li>
 		  <li><a href="#">BS(Cognative science, Machine learning paradigms for 2D/3D Segmentation and Detection)</a></li>
 		  <li><a href="#">MS(Cognative science, Machine learning paradigms for 2D/3D Segmentation and Detection)</a></li>
 		  <li><a href="#">PHD(Cognative science, Machine learning paradigms for 2D/3D Segmentation and Detection)</a></li>
@@ -2249,6 +2252,8 @@ Other branches of engineering
 
 <summary>Geography(5 core concept)</summary>
 
+[Google Earth](https://earth.google.com/web/)
+
 # Geography(space , place , time)
 
 ## Space
@@ -2542,7 +2547,24 @@ Accounting, also known as accountancy, is the measurement, processing, and commu
 </details>
 
 <details>
-<summary>BS(Cognative science, Machine learning paradigms for 2D/3D Segmentation and Detection)</summary>
+
+<summary>Quantum computing() </summary>
+
+
+## Computational science, finance and engineering
+
+</details>
+
+<details>
+
+<summary>Social computing and human–computer interaction</summary>
+
+- [ ] [Introduction to Human-Computer Interaction: Stanford](https://hci.stanford.edu/courses/cs147/2021/wi/index.html)
+
+</details>
+
+<details>
+<summary>BSC(Cognative science, Machine learning paradigms for 2D/3D Segmentation and Detection)</summary>
 
 # Applied Mechanics
 
@@ -2602,25 +2624,63 @@ Accounting, also known as accountancy, is the measurement, processing, and commu
 
 # Computer Orginization and Architecture
 
+- [X] [Computer Organization and Systems: Stanford](http://web.stanford.edu/class/cs107/)
+- [ ] [Computer Systems from the Ground Up: Stanford](http://web.stanford.edu/class/cs107e/)
+- [ ] [Principles of Computer Systems: Stanford](http://web.stanford.edu/class/cs110/)
+- [X] [CS 61C Great Ideas in Computer Architecture (Machine Structures) UC Berkeley](https://www-inst.eecs.berkeley.edu//~cs61c/sp15/)
+- [X] [CS 107 Computer Organization & Systems Stanford University](https://courseware.stanford.edu/pg/courses/lectures/371747)
+- [X] [CS 3410 Computer System Organization and Programming](https://www.cs.cornell.edu/courses/cs3410/2016fa/)
+- [ ] [CSCI 360 Computer Architecture 3 CUNY Hunter College](http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci360/csci360_f14.php)
+- [ ] [15-213 Introduction to Computer Systems (ICS)](http://www.cs.cmu.edu/~213/)
+- [ ] [15-418 Parallel Computer Architecture and Programming](http://15418.courses.cs.cmu.edu/spring2015/)
+- [ ] [18-447 Introduction to Computer Architecture CMU](https://course.ece.cmu.edu/~ece447/s15/doku.php?id=start)
+
 # Instrumentation II
 
-# Computer Graphics
-
+## Computer graphics and visualization
+- [ ] [Introduction to Computer Graphics and Imaging: Stanford](http://web.stanford.edu/class/cs148/)
 # Communication English
 
 # Probability and Statics
 
 # Project Management
 
-# Computer Network
+# Computer network(ip & port), Computer security and cryptography
 
-# Distributed System
+- [ ] [Introduction to Computer Networking: Stanford](https://cs144.github.io/)
+- [X] [CS 168 Introduction to the Internet: Architecture and Protocols UC Berkeley](https://inst.eecs.berkeley.edu/~cs168/fa14/)
+- [X] [Layers of OSI Model](https://en.wikipedia.org/wiki/OSI_model#Layer_7:_Application_layer)
+
+	- [X] [Application Layer](https://www.geeksforgeeks.org/application-layer-in-osi-model/)
+	- [X] [Presentation Layer](https://www.geeksforgeeks.org/presentation-layer-in-osi-model/)
+	- [X] [Session Layer](https://www.geeksforgeeks.org/session-layer-in-osi-model/)
+	- [X] [Transport Layer](https://osi-model.com/transport-layer/)
+	- [X] [Network Layer](https://www.studytonight.com/computer-networks/osi-model-network-layer)
+	- [X] [Data Link Layer](https://www.tutorialspoint.com/data_communication_computer_network/data_link_layer_introduction.htm)
+	- [X] [Physical Layer](https://www.tutorialspoint.com/data_communication_computer_network/data_link_layer_introduction.htm)
+
+## Other References
+- [X] [Computer Network: Wikipedia](https://en.wikipedia.org/wiki/Computer_network)
+
+## Distributed System ,Concurrent parallel and distributed computing
+- [ ] [Exploring Computing: Stanford](https://web.stanford.edu/class/cs106e/)
+- [ ] [Parallel Computing: Stanford](https://gfxcourses.stanford.edu/cs149/fall20)
+- [ ] [CS 425 Distributed Systems Univ of Illinois, Urbana-Champaign](https://courses.engr.illinois.edu/cs425/fa2016/index.html)
+- [ ] [CS 5412 Cloud Computing Cornell University](https://www.cs.cornell.edu/courses/cs5412/2014sp/)
+- [ ] [CSCI 493.75 Parallel Computing CUNY Hunter College](http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci493.65/csci493.65_spr14.php)
+- [ ] [PODC Principles of Distributed Computing ETH-Zurich](https://disco.ethz.ch/courses/podc_allstars/)
+- [ ] [SPAC Parallelism and Concurrency Univ of Washington](https://homes.cs.washington.edu/~djg/teachingMaterials/spac/)
+- [ ] [6.824 Distributed Systems MIT](http://css.csail.mit.edu/6.824/2014/index.html)
+- [ ] [CSEP 552 Distributed Systems University of Washington](https://courses.cs.washington.edu/courses/csep552/16wi/)
+- [ ] [15-319/619 Cloud Computing (ICS) Carnegie-Mellon University](http://www.cs.cmu.edu/~msakr/15619-s17/recitations.html)
+- [ ] [15-440 Distributed Systems Carnegie-Mellon University](http://www.cs.cmu.edu/~dga/15-440/F12/index.html)
+- [ ] [15-749 Engineering Distributed Systems Carnegie-Mellon University](https://www.andrew.cmu.edu/course/15-749/)
 
 # Digital Signal Analysis and Processing
 
 # Project I
 
-# Image Processing & Pattern Recognition
+# Image Processing, sound processing & Pattern Recognition
 
 # Energy Environment and Society
 
@@ -2648,9 +2708,12 @@ Accounting, also known as accountancy, is the measurement, processing, and commu
 
 </details>
 
+<details>
+<summary> MBA()</summary>
+</details>
 
 <details>
-<summary>MS(Cognative science, Machine learning paradigms for 2D/3D Segmentation and Detection)</summary>
+<summary>MSCS(Cognative science, Machine learning paradigms for 2D/3D Segmentation and Detection)</summary>
 
 
 
@@ -3001,6 +3064,12 @@ Daily paper reading
 
 - [X] [How to survive the first year of PhD?](https://twitter.com/jbhuang0604/status/1523505108318924802)
 
+## Tools
+
+- [X] [Edit Research Paper online from UI](https://www.dochub.com/)
+
+## Tips
+
 # USA-Immigration
 
 - [X] [USA-Immigration](https://github.com/madanbaduwal/usa-immigration/blob/main/README.md)
@@ -3105,6 +3174,8 @@ Daily paper reading
 
 <details>
 <summary>Computer science(3 fields)</summary>
+
+In this computer section I am only focusing on brain.
 
 # Computer science(Object,Array, Tensor)
 
@@ -4175,6 +4246,7 @@ Notes:
 - [X] [Transformer: mohitkpandey](https://mohitkpandey.github.io/posts/2020/11/trfm-code/)
 
 - [X] [Transformer: kaggle](https://www.kaggle.com/code/arunmohan003/transformer-from-scratch-using-pytorch)
+- [X] [Transformer from scratch: Youtube video](https://www.youtube.com/watch?v=U0s0f995w14&t=2522s)
 - [X] [GPT from Scratch](https://jaketae.github.io/study/gpt/)
 - [X] [GPT from scratch by Andrej Karpathy](https://www.youtube.com/watch?v=kCc8FmEb1nY&t=701s)
 - [X] [minGPT by andrej karpathy](https://github.com/karpathy/minGPT)
@@ -5118,54 +5190,6 @@ Moreover, we will need to perform the different analysis levels like morphologic
 ### General intelligence
 
 
-## Computer architecture and organization
-
-- [X] [Computer Organization and Systems: Stanford](http://web.stanford.edu/class/cs107/)
-- [ ] [Computer Systems from the Ground Up: Stanford](http://web.stanford.edu/class/cs107e/)
-- [ ] [Principles of Computer Systems: Stanford](http://web.stanford.edu/class/cs110/)
-- [X] [CS 61C Great Ideas in Computer Architecture (Machine Structures) UC Berkeley](https://www-inst.eecs.berkeley.edu//~cs61c/sp15/)
-- [X] [CS 107 Computer Organization & Systems Stanford University](https://courseware.stanford.edu/pg/courses/lectures/371747)
-- [X] [CS 3410 Computer System Organization and Programming](https://www.cs.cornell.edu/courses/cs3410/2016fa/)
-- [ ] [CSCI 360 Computer Architecture 3 CUNY Hunter College](http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci360/csci360_f14.php)
-- [ ] [15-213 Introduction to Computer Systems (ICS)](http://www.cs.cmu.edu/~213/)
-- [ ] [15-418 Parallel Computer Architecture and Programming](http://15418.courses.cs.cmu.edu/spring2015/)
-- [ ] [18-447 Introduction to Computer Architecture CMU](https://course.ece.cmu.edu/~ece447/s15/doku.php?id=start)
-
-## Concurrent parallel and distributed computing
-- [ ] [Exploring Computing: Stanford](https://web.stanford.edu/class/cs106e/)
-- [ ] [Parallel Computing: Stanford](https://gfxcourses.stanford.edu/cs149/fall20)
-- [ ] [CS 425 Distributed Systems Univ of Illinois, Urbana-Champaign](https://courses.engr.illinois.edu/cs425/fa2016/index.html)
-- [ ] [CS 5412 Cloud Computing Cornell University](https://www.cs.cornell.edu/courses/cs5412/2014sp/)
-- [ ] [CSCI 493.75 Parallel Computing CUNY Hunter College](http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci493.65/csci493.65_spr14.php)
-- [ ] [PODC Principles of Distributed Computing ETH-Zurich](https://disco.ethz.ch/courses/podc_allstars/)
-- [ ] [SPAC Parallelism and Concurrency Univ of Washington](https://homes.cs.washington.edu/~djg/teachingMaterials/spac/)
-- [ ] [6.824 Distributed Systems MIT](http://css.csail.mit.edu/6.824/2014/index.html)
-- [ ] [CSEP 552 Distributed Systems University of Washington](https://courses.cs.washington.edu/courses/csep552/16wi/)
-- [ ] [15-319/619 Cloud Computing (ICS) Carnegie-Mellon University](http://www.cs.cmu.edu/~msakr/15619-s17/recitations.html)
-- [ ] [15-440 Distributed Systems Carnegie-Mellon University](http://www.cs.cmu.edu/~dga/15-440/F12/index.html)
-- [ ] [15-749 Engineering Distributed Systems Carnegie-Mellon University](https://www.andrew.cmu.edu/course/15-749/)
-
-
-## Computer network(ip & port)
-- [ ] [Introduction to Computer Networking: Stanford](https://cs144.github.io/)
-- [X] [CS 168 Introduction to the Internet: Architecture and Protocols UC Berkeley](https://inst.eecs.berkeley.edu/~cs168/fa14/)
-- [X] [Layers of OSI Model](https://en.wikipedia.org/wiki/OSI_model#Layer_7:_Application_layer)
-
-	- [X] [Application Layer](https://www.geeksforgeeks.org/application-layer-in-osi-model/)
-	- [X] [Presentation Layer](https://www.geeksforgeeks.org/presentation-layer-in-osi-model/)
-	- [X] [Session Layer](https://www.geeksforgeeks.org/session-layer-in-osi-model/)
-	- [X] [Transport Layer](https://osi-model.com/transport-layer/)
-	- [X] [Network Layer](https://www.studytonight.com/computer-networks/osi-model-network-layer)
-	- [X] [Data Link Layer](https://www.tutorialspoint.com/data_communication_computer_network/data_link_layer_introduction.htm)
-	- [X] [Physical Layer](https://www.tutorialspoint.com/data_communication_computer_network/data_link_layer_introduction.htm)
-
-### Other References
-- [X] [Computer Network: Wikipedia](https://en.wikipedia.org/wiki/Computer_network)
-
-
-## Computer security and cryptography
-
-
 ## Databases and data mining 
 
 ### Database
@@ -5186,20 +5210,6 @@ Moreover, we will need to perform the different analysis levels like morphologic
 - [X] [Neo4j](https://neo4j.com/)
 - [ ] [15-721 Database Systems Carnegie-Mellon University](https://15721.courses.cs.cmu.edu/spring2016/)
 - [ ] [15-445/645 Database Systems Carnegie-Mellon University](https://15445.courses.cs.cmu.edu/fall2022/)
-
-## Computer graphics and visualization
-- [ ] [Introduction to Computer Graphics and Imaging: Stanford](http://web.stanford.edu/class/cs148/)
-
-
-## Image and sound processing
-
-
-## Computational science, finance and engineering
-
-
-## Social computing and human–computer interaction
-
-- [ ] [Introduction to Human-Computer Interaction: Stanford](https://hci.stanford.edu/courses/cs147/2021/wi/index.html)
 
 
 
@@ -5331,7 +5341,7 @@ Moreover, we will need to perform the different analysis levels like morphologic
 	- [X] [vscodeintellicode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode): AI-assisted development features for Python, TypeScript/JavaScript and Java developers in Visual Studio Code, with insights based on understanding your code context combined with machine learning.
 
 
-#### operating System
+#### operating System software
 
 - [ ] [Operating Systems: Stanford](https://www.scs.stanford.edu/21wi-cs140/)
 - [ ] [Embedded Operating Systems: Stanford](https://github.com/dddrrreee/cs140e-20win)
