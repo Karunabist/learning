@@ -107,8 +107,7 @@ Learning by doing or reverse engineering or doing by experiments or try to codin
 		  <li><a href="#">PHD(Cognative science, Machine learning paradigms for 2D/3D Segmentation and Detection)</a></li>
 		  <li><a href="#">Companies(motivations)</a></li>
 		  <li><a href="#">Money(Penny)</a></li>
-		  <li><a href="https://colab.research.google.com/drive/1eqOUu2cIzTNweQB_dr3NyiQhirm3ol_0?usp=sharing">Computer science(Object,Array,Tensor)</a></li>
-		  
+		  <li><a href="https://colab.research.google.com/drive/1eqOUu2cIzTNweQB_dr3NyiQhirm3ol_0?usp=sharing">Computer science(Object,Array,Tensor)</a></li> 
 	  </ul> </td>
 	  
   <td width="40%">
