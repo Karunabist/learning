@@ -3164,9 +3164,19 @@ Daily paper reading
 ## Financial
 - [X] [How to save for retirement as a graduate student (in the US)?](https://twitter.com/jbhuang0604/status/1510479669962940416)
 
-## Investment
+## Investment 
 
 - [X] [investment](https://github.com/madanbaduwal/investment)
+- [X] [Investment Education for Everyone](https://www.ruleoneinvesting.com/)
+
+### invest in stocks
+- [X] [Marko- WhiteBoard Finance](https://www.youtube.com/watch?v=bJHr6_skXWc)
+- [X] [How to buy stocks: A step-by-step guide](https://www.bankrate.com/investing/how-to-buy-stocks/)
+    - [Choose your online broker](https://www.brokerage-review.com/online-brokers/list-stock-broker-firms.aspx)
+	- Research and analyze stocks to buy: [company balance sheet:  filings with the Securities and Exchange Commission (SEC)](https://www.bankrate.com/investing/sec-filings-stock-investors-should-know/),[5 ways to research stocks like the pros](https://www.bankrate.com/investing/how-to-research-stocks-like-the-pros/), 
+	- Figure out how much you can invest: 
+	- Place your trade: 
+
 
 </details>
 
