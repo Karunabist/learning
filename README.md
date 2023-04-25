@@ -102,8 +102,10 @@ Learning by doing or reverse engineering or doing by experiments or try to codin
 		  <li><a href="#">Management(administration of organizations)</a></li>
 		  <li><a href="#">Accounting(financial transactions related to a business)</a></li>
 		  <li><a href="#">Quantum Computing(quantum)</a></li>
-		  <li><a href="#">BS(Cognative science, Machine learning paradigms for 2D/3D Segmentation and Detection)</a></li>
-		  <li><a href="#">MS(Cognative science, Machine learning paradigms for 2D/3D Segmentation and Detection)</a></li>
+		  <li><a href="#">Social computing and human–computer interaction</a></li>
+		  <li><a href="#">BSC(Cognative science, Machine learning paradigms for 2D/3D Segmentation and Detection)</a></li>
+		  <li><a href="#">MBA</a></li>
+		  <li><a href="#">MSCS(Cognative science, Machine learning paradigms for 2D/3D Segmentation and Detection)</a></li>
 		  <li><a href="#">PHD(Cognative science, Machine learning paradigms for 2D/3D Segmentation and Detection)</a></li>
 		  <li><a href="#">Companies(motivations)</a></li>
 		  <li><a href="#">Money(Penny)</a></li>
@@ -3134,7 +3136,7 @@ Daily paper reading
 
 
 <details>
-<summary>Make Money(1 Penny)</summary>
+<summary>Money(1 Penny)</summary>
 
 
 ## student-life-in-usa
