@@ -2100,6 +2100,8 @@ Newton's laws, Maxwell's equations, thermodynamics
 - [ ] [SH452_2020-12-07T06_56_49.949Z_physics](https://drive.google.com/file/d/1uV7N7Hb5JzpGC5dLQ5aOlH6EdtgZgPic/view?usp=sharing)
 - [ ] [SH452_2020-12-07T06_56_50.134Z_BE Physics-Solution](https://drive.google.com/file/d/1uVO1grLcZDMz7glGesQskLj5Jd1YMD-T/view?usp=sharing)
 - [ ] [SH452_2021-04-03T15_53_58.377Z_physicsBook](https://drive.google.com/file/d/1uYVlMdORC62WC5dImWiX_uRf2WP5a3Yv/view?usp=sharing)
+- [ ] [MIT: Classical Mechanics](https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/)
+
 
 
 
@@ -2173,6 +2175,11 @@ Newton's laws, Maxwell's equations, thermodynamics
 
 ## Ethnography
 
+# References
+
+- [X] [Wikipedia]()
+- [X] [MIT: ]()
+
 
 </details>
 
@@ -2210,6 +2217,8 @@ Other branches of engineering
 
 
 ## Astronomical engineering
+
+## Nuclear Engineering
 
 </details>
 
@@ -2329,7 +2338,7 @@ Other branches of engineering
 <details>
 
 
-<summary>Sociology(21 subfields)</summary>
+<summary>Sociology/ Social Science(21 subfields)</summary>
 
 # Sociology(society)
 
@@ -2364,6 +2373,10 @@ Other branches of engineering
 ## Stratification, poverty and inequality
 ## Urban and rural sociology
 ### Community sociology
+
+# Reference
+
+- [X] [Harvard: 4P Model for Strategic Leadership Podcasts](https://pll.harvard.edu/course/4p-model-strategic-leadership-podcasts?delta=0)
 
 </details>
 
@@ -2414,6 +2427,10 @@ Other branches of engineering
 ### Systems engineering
 ### Human resource management
 ### Operations research
+
+# Reference 
+
+- [X] [Harvard: Justice](https://pll.harvard.edu/course/justice?delta=0)
 
 
 </details>
@@ -2508,6 +2525,11 @@ Other branches of engineering
 ### Research and development
 ### Safety
 ### Sales
+
+# Business
+
+- [X] [Harvard: Investing in Private Equity](https://pll.harvard.edu/course/investing-private-equity?delta=0)
+- [X] [Harvard: Identifying Competitive Risk](https://pll.harvard.edu/course/identifying-competitive-risk?delta=0)
 
 </details>
 
@@ -3437,6 +3459,7 @@ Real life application of data structure
 - [X] [Data Structure: Wikipedia](https://en.wikipedia.org/wiki/Data_structure)
 - [X] [List of data structures: Wikipedia](https://en.wikipedia.org/wiki/List_of_data_structures)
 - [X] [Algorithm: Wikipedia](https://en.wikipedia.org/wiki/Algorithm)
+- [X] [MIT: Introduction To Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/)
      	
 ## Programming language theory and formal methods
 
@@ -3758,6 +3781,7 @@ print(ClassName.mro())
 #### References
 - [X] [Wikipedia: Python (programming language)](https://en.wikipedia.org/wiki/Python_(programming_language))
 - [X] [awesome-python:Python Library](https://github.com/vinta/awesome-python)
+- [X] [IIT: ntroduction to Python Programming](https://nptel.ac.in/courses/106106145)
 
 
 ### Java
@@ -3846,6 +3870,7 @@ PowerShell, a scripting language originally for use on Microsoft Windows but now
 - [ ] [Safety in Systems Programming: Stanford](https://web.stanford.edu/class/cs110l/)
 - [ ] [From Languages to Information: Stanford](http://web.stanford.edu/class/cs124/)
 - [ ] [Compiler](http://web.stanford.edu/class/cs143/)
+- [ ] [IIT: Introduction to Programming in C](https://nptel.ac.in/courses/106106145)
 
 
 ## Artificial intelligence
@@ -5201,7 +5226,12 @@ Moreover, we will need to perform the different analysis levels like morphologic
 ### General intelligence
 
 
-## Databases and data mining 
+### Reference
+- [X] [IIT: Introduction to Artificial Intelligence](https://nptel.ac.in/courses/106106212)
+
+
+
+## Databases and data mining and Datascience and Data Analytics
 
 ### Database
 - [ ] [Data Management and Data Systems: Stanford](https://cs145-fa20.github.io/)
@@ -5221,6 +5251,18 @@ Moreover, we will need to perform the different analysis levels like morphologic
 - [X] [Neo4j](https://neo4j.com/)
 - [ ] [15-721 Database Systems Carnegie-Mellon University](https://15721.courses.cs.cmu.edu/spring2016/)
 - [ ] [15-445/645 Database Systems Carnegie-Mellon University](https://15445.courses.cs.cmu.edu/fall2022/)
+
+### data mining
+
+### Datascience
+
+### Data Analytics
+
+
+References
+
+- [X] [IIT](https://nptel.ac.in/courses/111106141)
+- [X] []()
 
 
 
@@ -5643,6 +5685,9 @@ Space/Workspace
 
 ## References
 - [X] [Wikipedia: Computer Science](https://en.wikipedia.org/wiki/Computer_science)
+- [X] [Harvard:introduction-computer-science](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0)
+- [X] [MIT: Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)
+- [X] []()
 	
 	
 Keywords: Time,Space,Accuracy, Label Datasets,ML Model Explanibility,Money
