@@ -102,14 +102,14 @@ Learning by doing or reverse engineering or doing by experiments or try to codin
 		  <li><a href="#">Management(administration of organizations)</a></li>
 		  <li><a href="#">Accounting(financial transactions related to a business)</a></li>
 		  <li><a href="#">Quantum Computing(quantum)</a></li>
-		  <li><a href="#">Social computing and human–computer interaction</a></li>
+		  <li><a href="#">Social computing and human–computer interaction(how people interact with technology.)</a></li>
 		  <li><a href="#">BSC(Cognative science, Machine learning paradigms for 2D/3D Segmentation and Detection)</a></li>
-		  <li><a href="#">MBA</a></li>
+		  <li><a href="#">MBA(Business and Administration)</a></li>
 		  <li><a href="#">MSCS(Cognative science, Machine learning paradigms for 2D/3D Segmentation and Detection)</a></li>
 		  <li><a href="#">PHD(Cognative science, Machine learning paradigms for 2D/3D Segmentation and Detection)</a></li>
 		  <li><a href="#">Companies(motivations)</a></li>
-		  <li><a href="#">Money(Penny)</a></li>
 		  <li><a href="https://colab.research.google.com/drive/1eqOUu2cIzTNweQB_dr3NyiQhirm3ol_0?usp=sharing">Computer science(Object,Array,Tensor)</a></li> 
+		  <li><a href="#">Money(Penny)</a></li>
 	  </ul> </td>
 	  
   <td width="40%">
@@ -2571,7 +2571,7 @@ Accounting, also known as accountancy, is the measurement, processing, and commu
 
 <details>
 
-<summary>Quantum computing() </summary>
+<summary>Quantum computing(Quantum information processing + Algorithms) </summary>
 
 
 ## Computational science, finance and engineering
@@ -2580,7 +2580,7 @@ Accounting, also known as accountancy, is the measurement, processing, and commu
 
 <details>
 
-<summary>Social computing and human–computer interaction</summary>
+<summary>Social computing and human–computer interaction(Design + display design+current research)</summary>
 
 - [ ] [Introduction to Human-Computer Interaction: Stanford](https://hci.stanford.edu/courses/cs147/2021/wi/index.html)
 
@@ -2732,7 +2732,7 @@ Accounting, also known as accountancy, is the measurement, processing, and commu
 </details>
 
 <details>
-<summary> MBA()</summary>
+<summary> MBA(Content)</summary>
 </details>
 
 <details>
@@ -3157,52 +3157,7 @@ Daily paper reading
 </details>
 
 
-<details>
-<summary>Money(1 Penny)</summary>
 
-
-## student-life-in-usa
-
-- [X] [My note](https://github.com/madanbaduwal/student-life-in-usa)
-
-
-## Productivity
-- [X] [How to manage your time?](https://twitter.com/jbhuang0604/status/1430003911037947904)
-- [X] [How to be productive?](https://twitter.com/jbhuang0604/status/1430003911037947904)
-
-## Networking
-- [X] [How to network in a in-person conference?](https://twitter.com/jbhuang0604/status/1517352789780934656)
-- [X] [How to network in a virtual conference?](https://twitter.com/jbhuang0604/status/1446692346800873477)
-- [X] [How to write good cold emails?](cold-emails.md)
-- [X] [How do I get professors to answer my emails?](https://twitter.com/jbhuang0604/status/1441548826645602309)
-
-
-## Communication
-- [X] [How to disseminate your research?](https://twitter.com/jbhuang0604/status/1379448897823776769)
-- [X] [How to ask research questions?](https://twitter.com/jbhuang0604/status/1472808608874352641)
-- [X] [How to make a research poster?](https://twitter.com/jbhuang0604/status/1438948793718804486)
-- [X] [How to improve asynchronous communication?](https://twitter.com/jbhuang0604/status/1515912622721355781)
-- [X] [How to communicate clearly?](https://twitter.com/jbhuang0604/status/1520615196498214913)
-- [X] [How to set up a good calendar invite?](https://twitter.com/jbhuang0604/status/1528566229505650691)
-
-## Financial
-- [X] [How to save for retirement as a graduate student (in the US)?](https://twitter.com/jbhuang0604/status/1510479669962940416)
-
-## Investment 
-
-- [X] [investment](https://github.com/madanbaduwal/investment)
-- [X] [Investment Education for Everyone](https://www.ruleoneinvesting.com/)
-
-### invest in stocks
-- [X] [Marko- WhiteBoard Finance](https://www.youtube.com/watch?v=bJHr6_skXWc)
-- [X] [How to buy stocks: A step-by-step guide](https://www.bankrate.com/investing/how-to-buy-stocks/)
-    - [Choose your online broker](https://www.brokerage-review.com/online-brokers/list-stock-broker-firms.aspx)
-	- Research and analyze stocks to buy: [company balance sheet:  filings with the Securities and Exchange Commission (SEC)](https://www.bankrate.com/investing/sec-filings-stock-investors-should-know/),[5 ways to research stocks like the pros](https://www.bankrate.com/investing/how-to-research-stocks-like-the-pros/), 
-	- Figure out how much you can invest: 
-	- Place your trade: 
-
-
-</details>
 
 
 <details>
@@ -5691,5 +5646,52 @@ Space/Workspace
 	
 	
 Keywords: Time,Space,Accuracy, Label Datasets,ML Model Explanibility,Money
+
+</details>
+
+<details>
+<summary>Money(1 Penny)</summary>
+
+
+## student-life-in-usa
+
+- [X] [My note](https://github.com/madanbaduwal/student-life-in-usa)
+
+
+## Productivity
+- [X] [How to manage your time?](https://twitter.com/jbhuang0604/status/1430003911037947904)
+- [X] [How to be productive?](https://twitter.com/jbhuang0604/status/1430003911037947904)
+
+## Networking
+- [X] [How to network in a in-person conference?](https://twitter.com/jbhuang0604/status/1517352789780934656)
+- [X] [How to network in a virtual conference?](https://twitter.com/jbhuang0604/status/1446692346800873477)
+- [X] [How to write good cold emails?](cold-emails.md)
+- [X] [How do I get professors to answer my emails?](https://twitter.com/jbhuang0604/status/1441548826645602309)
+
+
+## Communication
+- [X] [How to disseminate your research?](https://twitter.com/jbhuang0604/status/1379448897823776769)
+- [X] [How to ask research questions?](https://twitter.com/jbhuang0604/status/1472808608874352641)
+- [X] [How to make a research poster?](https://twitter.com/jbhuang0604/status/1438948793718804486)
+- [X] [How to improve asynchronous communication?](https://twitter.com/jbhuang0604/status/1515912622721355781)
+- [X] [How to communicate clearly?](https://twitter.com/jbhuang0604/status/1520615196498214913)
+- [X] [How to set up a good calendar invite?](https://twitter.com/jbhuang0604/status/1528566229505650691)
+
+## Financial
+- [X] [How to save for retirement as a graduate student (in the US)?](https://twitter.com/jbhuang0604/status/1510479669962940416)
+
+## Investment 
+
+- [X] [investment](https://github.com/madanbaduwal/investment)
+- [X] [Investment Education for Everyone](https://www.ruleoneinvesting.com/)
+
+### invest in stocks
+- [X] [Marko- WhiteBoard Finance](https://www.youtube.com/watch?v=bJHr6_skXWc)
+- [X] [How to buy stocks: A step-by-step guide](https://www.bankrate.com/investing/how-to-buy-stocks/)
+    - [Choose your online broker](https://www.brokerage-review.com/online-brokers/list-stock-broker-firms.aspx)
+	- Research and analyze stocks to buy: [company balance sheet:  filings with the Securities and Exchange Commission (SEC)](https://www.bankrate.com/investing/sec-filings-stock-investors-should-know/),[5 ways to research stocks like the pros](https://www.bankrate.com/investing/how-to-research-stocks-like-the-pros/), 
+	- Figure out how much you can invest: 
+	- Place your trade: 
+
 
 </details>
