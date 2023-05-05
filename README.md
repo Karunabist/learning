@@ -87,9 +87,13 @@ Learning by doing or reverse engineering or doing by experiments or try to codin
 		  <li><a href= "">Architecture(designing and building)</a></li>
 		  <li><a href= "">History(time period of events)</a></li>
 		  <li><a href= "">Geography(space,place,time)</a></li>
+		  <li><a href= "">Environment(Cell)</a></li>
+		  <li><a href= "">Astronomy(Physics)</a></li>
+		  <li><a href= "">Astrology(Physics,time)</a></li>
 		  <li><a href= "">Art(creative)</a></li>
 		  <li><a href= "">Design(Construction of object)</a></li>
-		  <li><a href= "">Music(harmony, melody, rhythm or otherwise expressive content)</a></li>
+		  <li><a href= "">Entertainment(happiness)</a></li>
+		  <li><a href= "">Sports(discipline)</a></li>
 		  <li><a href= "">Law(rule)</a></li>
 		  <li><a href= "">Medicin(patient)</a></li>
 		  <li><a href= "">Sociology(society)</a></li>
@@ -192,11 +196,13 @@ Second know the context in which this word can use.
 * Accent
 	
 ## Daily news and blogs	
+- [X] [Google News: Home](https://news.google.com/home?hl=en-US&gl=US&ceid=US:en)
+- [X] [Google News: US](https://news.google.com/topics/CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE?hl=en-US&gl=US&ceid=US%3Aen)
+- [X] [Google News: Word](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US%3Aen)
+- [X] [Google News: Local](https://news.google.com/topics/CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE/sections/CAQiUENCSVNOam9JYkc5allXeGZkakpDRUd4dlkyRnNYM1l5WDNObFkzUnBiMjV5Q3hJSkwyMHZNRFJ5WDJNeWVnc0tDUzl0THpBMGNsOWpNaWdBKjEIACotCAoiJ0NCSVNGem9JYkc5allXeGZkako2Q3dvSkwyMHZNRFJ5WDJNeUtBQVABUAE?hl=en-US&gl=US&ceid=US%3Aen)
 - [X] [Vocabulary: Word of the day](https://www.vocabulary.com/dictionary/)
 - [X] [LDOCE5: Word of the day](https://www.ldoceonline.com/)
 - [X] [merriam-webster Word of the day](https://www.merriam-webster.com/word-of-the-day)
-- [X] [Google News](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB/sections/CAQiQ0NCQVNMQW9JTDIwdk1EZGpNWFlTQW1WdUdnSlZVeUlOQ0FRYUNRb0hMMjB2TUcxcmVpb0pFZ2N2YlM4d2JXdDZLQUEqKggAKiYICiIgQ0JBU0Vnb0lMMjB2TURkak1YWVNBbVZ1R2dKVlV5Z0FQAVAB?hl=en-US&gl=US&ceid=US%3Aen/)
-
 	
 ## English Basic
 ### Phonology/ IPA
@@ -2012,6 +2018,7 @@ Inferential statistics can be contrasted with descriptive statistics. Descriptiv
 <details>
 <summary>Physics(3 core theories)</summary>
 
+- [X] [Google New: physics](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB/sections/CAQiRkNCQVNMZ29JTDIwdk1EWnRjVGNTQW1WdUdnSlZVeUlPQ0FRYUNnb0lMMjB2TURWeGFuUXFDaElJTDIwdk1EVnhhblFvQUEqKggAKiYICiIgQ0JBU0Vnb0lMMjB2TURadGNUY1NBbVZ1R2dKVlV5Z0FQAVAB?hl=en-US&gl=US&ceid=US%3Aen)
 # Physics(atom)
 3 core theories
 
@@ -2138,6 +2145,9 @@ Newton's laws, Maxwell's equations, thermodynamics
 
 <details>
 <summary>Biology(8 fundamentals)</summary>
+
+- [X] [Google News: Genetic](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB/sections/CAQiRkNCQVNMZ29JTDIwdk1EWnRjVGNTQW1WdUdnSlZVeUlPQ0FRYUNnb0lMMjB2TURNMlh6SXFDaElJTDIwdk1ETTJYeklvQUEqKggAKiYICiIgQ0JBU0Vnb0lMMjB2TURadGNUY1NBbVZ1R2dKVlV5Z0FQAVAB?hl=en-US&gl=US&ceid=US%3Aen)
+- [X] [Google News: Health](https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ?hl=en-US&gl=US&ceid=US%3Aen)
 
 # Biology(cell)
 
@@ -2277,6 +2287,34 @@ Other branches of engineering
 
 <details>
 
+<summary>Environment(Cell)</summary>
+
+- [X] [Google News:Environment](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB/sections/CAQiS0NCQVNNZ29JTDIwdk1EWnRjVGNTQW1WdUdnSlZVeUlRQ0FRYURBb0tMMjB2TURRMk5qTXljeW9NRWdvdmJTOHdORFkyTXpKektBQSoqCAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVABUAE?hl=en-US&gl=US&ceid=US%3Aen)
+- [X] [Google News: Wildlife](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB/sections/CAQiS0NCQVNNZ29JTDIwdk1EWnRjVGNTQW1WdUdnSlZVeUlRQ0FRYURBb0tMMmN2TVROaVlsOTBjeW9NRWdvdlp5OHhNMkppWDNSektBQSoqCAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVABUAE?hl=en-US&gl=US&ceid=US%3Aen)
+
+</details>
+
+
+<details>
+
+<summary>Astronomy(physics)</summary>
+
+- [X] [Google News:Space](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB/sections/CAQiSENCQVNNQW9JTDIwdk1EWnRjVGNTQW1WdUdnSlZVeUlQQ0FRYUN3b0pMMjB2TURFNE16TjNLZ3NTQ1M5dEx6QXhPRE16ZHlnQSoqCAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVABUAE?hl=en-US&gl=US&ceid=US%3Aen)
+
+</details>
+
+
+<details>
+
+<summary>Astrology(physics,time)</summary>
+
+
+</details>
+
+
+
+<details>
+
 <summary>Art(3 steps)</summary>
 
 # Art (creative, imaginative > technical proficiency, beauty, emotional power, or conceptual ideas)
@@ -2305,11 +2343,26 @@ Other branches of engineering
 
 <details>
 
-<summary>Music(harmony, melody, rhythm or otherwise expressive content
-)</summary>
+<summary>Entertainment(happiness)</summary>
 
-# Music(harmony, melody, rhythm or otherwise expressive content
-)
+- [X] [Google News: Enter](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US%3Aen)
+
+# Music (harmony, melody, rhythm or otherwise expressive content)
+
+# Entertainment 
+
+</details>
+
+
+<details>
+
+<summary>Sports(happiness)</summary>
+
+- [X] [Google News: Enter](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US%3Aen)
+
+# Music (harmony, melody, rhythm or otherwise expressive content)
+
+# Entertainment 
 
 </details>
 
@@ -2512,6 +2565,8 @@ Other branches of engineering
 <details>
 
 <summary>Business(9 activities) </summary>
+
+- [Us news: Business](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US%3Aen)
 
 # Business(making money by producing or buying and selling products (such as goods and services))
 
@@ -3162,6 +3217,8 @@ Daily paper reading
 
 <details>
 <summary>Computer science(3 fields)</summary>
+
+- [X] [Google New: Technology](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US%3Aen)
 
 In this computer section I am only focusing on brain.
 
@@ -5503,7 +5560,7 @@ References
     - [X] [Lecture](https://stanford-cs329s.github.io/syllabus.html)
 	- [X] [Videos](https://www.youtube.com/watch?v=AZNTqytOhXk)
 
-
+* [X] [DataTalksClub](https://github.com/DataTalksClub/mlops-zoomcamp)
 ### Monitoring
 
 - [ ] [Datadog](https://docs.datadoghq.com/)
