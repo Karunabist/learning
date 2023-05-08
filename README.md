@@ -2939,6 +2939,11 @@ Keywords: assure,preotect,private key, public key
 * [X] [Chapter 6: Network Access Control](https://github.com/madanbaduwal/masters/blob/main/Semester%201/Computer%20And%20Network%20Security/T7-NetworkAccessControl.pdf)
     - [X] []()
 
+* [X] [Chapter 7: Cloud Security](https://github.com/madanbaduwal/masters/blob/main/Semester%201/Computer%20And%20Network%20Security/T8-Cloud%20Security.pdf)
+
+* [X] [CHapter 8: Transport Level Security](https://github.com/madanbaduwal/masters/blob/main/Semester%201/Computer%20And%20Network%20Security/T9-TransportLevelSecurity.pdf)
+
+
 - [X] [Bitcoin chapter 1: Bitcoin Background](https://github.com/madanbaduwal/masters/blob/main/Semester%201/Computer%20And%20Network%20Security/1-BitCoinBackground.pdf)
     - [X] [Traditional Financial Arrangement]():
 	    - Barter: Barter is a method of exchange where goods or services are traded directly without the use of money. 
@@ -2960,7 +2965,10 @@ Keywords: assure,preotect,private key, public key
     - [X] [Digital signature in bitcoin]()
 	- [X] [Private key and public key as identities]()
 
-- [X] [Bitcoin Chapter:]
+- [X] [Bitcoin Chapter 5:BlockNBlockchain](https://github.com/madanbaduwal/masters/blob/main/Semester%201/Computer%20And%20Network%20Security/6-BlockNBlockchain.pdf)
+- [X] [Bitcoin Chapter 6: Consensurs](https://github.com/madanbaduwal/masters/blob/main/Semester%201/Computer%20And%20Network%20Security/7-Concesurs.pdf)
+- [X] [Bitcoin Chapter 7: SecurityBlockchain](https://github.com/madanbaduwal/masters/blob/main/Semester%201/Computer%20And%20Network%20Security/8-SecurityinBlockchain.pdf)
+- [X] [Bitcoin Chapter 8: HowtoUse](https://github.com/madanbaduwal/masters/blob/main/Semester%201/Computer%20And%20Network%20Security/9-HowtoUse.pdf)
 
 ### Reading Assignment and Final Project
 
