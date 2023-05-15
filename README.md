@@ -2030,6 +2030,50 @@ Inferential statistics can be contrasted with descriptive statistics. Descriptiv
 
 Newton's laws, Maxwell's equations, thermodynamics
 
+1. [Atoms In Motion]()
+    - Introduction :
+	- Matter is made of atoms:
+	- Atomics Process:
+	- Chemical Reactions:
+2. [Basic Physics]()
+    - Introduction : 
+	- Physics Before 1920:
+	- Quantum Physics:
+	- Nuclei and paeticles:
+3. [The relation of Physics To Other Sciences]()
+    - Introduction:
+	- Chemistry:
+	- Biology:
+	- Astronomy:
+	- Geology:
+	- Psycology:
+	- How did it get that way?
+4. [Conservation Of Energy]()
+    - What is energy?:
+	- Gravational potential energy:
+	- Kinetic energy:
+	- Other forms of energy
+5. [Time and Distance]()
+    - Motion:
+	- Time:
+	- Short times:
+	- Long times:
+	- Units and standards of time
+	- Large distances:
+	- short distances:
+6. [Probability]()
+    - Chance and likelihood:
+	- Fluctuations:
+	- The random walk:
+	- A probability distribution:
+	- The uncertainty principle:
+7. [The Theory Of Gravation]()
+    - Planetary motions:
+	- Kapler's laws:
+	- Development of dynamics:
+	- Netwon's law of graviation
+	- Universal 
+
 - [X] [Classical mechanics]()
     - [ ] [Gerd Baumann - Mathematica for Theoretical Physics_ Classical Mechanics and Nonlinear Dynamics-Springer (2005)](https://drive.google.com/file/d/1JN2PBE9e24RQzjkDgjnPDZkj271P_fD4/view?usp=sharing)
 	- [ ] [Tom W B Kibble, Frank H Berkshire - Classical mechanics-Imperial College Press_ Distributed by World Scientific Pub (2004)](https://drive.google.com/file/d/17p0qEYPJCGSJ7HZ_Js7fplxm6aPPnHjg/view?usp=sharing)
@@ -2087,6 +2131,7 @@ Newton's laws, Maxwell's equations, thermodynamics
 ## References
 
 **Richard Feynman**
+- [X] [VOL1](https://dunapress.com/wp-content/uploads/2020/04/The_Feynman_Lectures_on_Physics_-_VOL1.pdf), [Another reference](https://antilogicalism.com/wp-content/uploads/2018/04/feynman-lectures.pdf)
 - [ ] [(Frontiers in Physics) Richard P. Feynman - Feynman lectures on computation-Addison-Wesley (1996)](https://drive.google.com/file/d/1dudPt_OICTWacGzhot8JsYEWkpt-5qCD/view?usp=sharing)
 - [ ] [(Helix Books) Richard P. Feynman - Six Not-So-Easy Pieces -Basic Books (1998)](https://drive.google.com/file/d/1iV3JlzprRpmJAuCzeI_2FSYuZBtMcwX3/view?usp=sharing)
 
@@ -2940,6 +2985,8 @@ Keywords: assure,preotect,private key, public key
     - [X] []()
 
 * [X] [Chapter 7: Cloud Security](https://github.com/madanbaduwal/masters/blob/main/Semester%201/Computer%20And%20Network%20Security/T8-Cloud%20Security.pdf)
+    - [X] [Cloud Computing Defination](https://en.wikipedia.org/wiki/Cloud_computing)
+	- [X] []()
 
 * [X] [CHapter 8: Transport Level Security](https://github.com/madanbaduwal/masters/blob/main/Semester%201/Computer%20And%20Network%20Security/T9-TransportLevelSecurity.pdf)
 
@@ -2973,8 +3020,7 @@ Keywords: assure,preotect,private key, public key
 ### Reading Assignment and Final Project
 
 - [X] [Phishing Detection](https://github.com/madanbaduwal/phishing-detection)
-
-
+- [X] [Writing Survay](https://www.overleaf.com/project/645bd5bffd4bb4cd1a34e08a)
 
 ## Intro to Computer Security
 * [Syllabus](https://github.com/madanbaduwal/masters/blob/main/Computer%20And%20Network%20Security/SYL_COSC_6378_501_2388_6001040969.rtf)
@@ -3007,14 +3053,20 @@ Keywords: assure,preotect,private key, public key
 * [Heapsort](https://github.com/madanbaduwal/masters/blob/main/Semester%201/Algorithm%20of%20Analysis/Ch6-Heapsort.pdf):make a binary tree from left to right, and make max heap(heapify) from right to left, and swap root(max element) and first(bottom right) and remove end(bottom right, which is highest number),worst case(0(nlog(n))),average  case(0(nlog(n))),best case(0(nlog(n))),worst space complexity (0(n))
     - [Geeksforgeeks](https://www.geeksforgeeks.org/heap-sort/)
 * [QuickSort]()
+* [Data Structure I]()
+* [Data Structure II]()
 * [Dynamic Programming]()
     - [Recursion vs dynamic programming]()
+* [Greedy]()
+* [DepthFirstSearch]()
+* [Graph II]()
+
 
 
 ### Reading Assignment and Final project 
 
 - [X] [Phishing Detection Using Transformer](https://github.com/madanbaduwal/phishing-detection-transformer)
-
+- [X] [Overleaf](https://www.overleaf.com/project/645bda82945c79b1d1703f7e)
 
 
 ## Maintain Student Status : International Office
@@ -5751,12 +5803,35 @@ Keywords: Time,Space,Accuracy, Label Datasets,ML Model Explanibility,Money
 - [X] [Investment Education for Everyone](https://www.ruleoneinvesting.com/)
 
 ### invest in stocks
+
+- [X] [What is stock?](): Share of ownership in a company
+      - Each share is a slice of pizza
+      - Buying Share gives you "equity" aka ownership in shares of company
+- [X] [Why Do Companies Issue Stocks?]():
+      - Initial public offerr(IPO): 
+      - Corporation issue stocks to raise money for their business (Fund a new product line, research and development, invest in growth, Pay off debt)
+- [X] [Dividend](): A portion of a company's profit paid to shareholders.
+      
+- [X] [Preferred Stock and Common Stock]()
+     - Preferred Stock:No Voting Rights
+     - Common Stock: Voting Rights
+- [X] [Stock Categorized]()
+    - Large Cap($10B + market cap):
+    - Mid Cap($2B - $10B market cap): 
+    - Small Cap($300M-$2B market cap):
+- [X] []():
+
+
 - [X] [Marko- WhiteBoard Finance](https://www.youtube.com/watch?v=bJHr6_skXWc)
 - [X] [How to buy stocks: A step-by-step guide](https://www.bankrate.com/investing/how-to-buy-stocks/)
     - [Choose your online broker](https://www.brokerage-review.com/online-brokers/list-stock-broker-firms.aspx)
 	- Research and analyze stocks to buy: [company balance sheet:  filings with the Securities and Exchange Commission (SEC)](https://www.bankrate.com/investing/sec-filings-stock-investors-should-know/),[5 ways to research stocks like the pros](https://www.bankrate.com/investing/how-to-research-stocks-like-the-pros/), 
 	- Figure out how much you can invest: 
 	- Place your trade: 
+	- Robinhood
+	- WeBull
+	- M1 Finance
+	- 
 
 
 </details>
