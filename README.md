@@ -5709,6 +5709,12 @@ References
 	- [X] [Videos](https://www.youtube.com/watch?v=AZNTqytOhXk)
 
 * [X] [DataTalksClub](https://github.com/DataTalksClub/mlops-zoomcamp)
+
+
+## Prompt Engineer
+
+## Graphic Developer
+
 ## Monitoring
 
 - [ ] [Datadog](https://docs.datadoghq.com/)
