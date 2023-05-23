@@ -3346,9 +3346,21 @@ Daily paper reading
 
 - [X] [Google New: Technology](https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US%3Aen)
 
-In this computer section I am only focusing on brain.
+In this computer section I am only focusing on brain(AI).
+
+Keywords: Time,Space,Accuracy, Label Datasets,ML Model Explanibility,Money
+
+Zero to hero in Computer Science Field
+* Resume(Overleaf)
+* Vscode(vs code extension)
+* Python
+* Math
+* Github Profile
+* Client Server System(How front, back and database work)
+* Documentations,Linkedine,google, research papers (continious learning)
 
 # Computer science(Object,Array, Tensor)
+
 
 3 fields:
 
@@ -3599,7 +3611,7 @@ Real life application of data structure
 - [X] [Algorithm: Wikipedia](https://en.wikipedia.org/wiki/Algorithm)
 - [X] [MIT: Introduction To Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/)
      	
-## Programming language theory and formal methods
+## Programming language theory and formal methods(Class/Object for Operation on Tensor/Matrix)
 
 
 ### Any programming project structure
@@ -4011,7 +4023,7 @@ PowerShell, a scripting language originally for use on Microsoft Windows but now
 - [ ] [IIT: Introduction to Programming in C](https://nptel.ac.in/courses/106106145)
 
 
-## Artificial intelligence
+## Artificial intelligence(Tensor/Matrix and operation on it)
 
 ### Data and Feature engineering
 - [X] [General Concept of feature engineering and data science](https://github.com/MadanBaduwal/feature-engineering/blob/main/2_General_concept_of_data_science.ipynb)
@@ -5369,7 +5381,7 @@ Moreover, we will need to perform the different analysis levels like morphologic
 
 
 
-## Databases and data mining and Datascience and Data Analytics
+## Databases, Data Engineer, Data mining, Datascience, Data Analytics(Collections of Tensor/Matrix)
 
 ### Database
 - [ ] [Data Management and Data Systems: Stanford](https://cs145-fa20.github.io/)
@@ -5390,7 +5402,10 @@ Moreover, we will need to perform the different analysis levels like morphologic
 - [ ] [15-721 Database Systems Carnegie-Mellon University](https://15721.courses.cs.cmu.edu/spring2016/)
 - [ ] [15-445/645 Database Systems Carnegie-Mellon University](https://15445.courses.cs.cmu.edu/fall2022/)
 
-### data mining
+
+### Data Engineering
+
+### Data mining
 
 ### Datascience
 
@@ -5404,11 +5419,10 @@ References
 
 
 
-## Software engineer(Frontend, Backend, and Database)
-### Software
+## Software engineer(Tensor /Matrix Pass from Frontend > Backend > Database)
 - [X] [My note on software engineering](https://github.com/MadanBaduwal/software-engineering/blob/main/1_Software_engineering_GENERAL.ipynb)
 
-#### Desktop
+### Desktop
 - [X] [Tkinter: Graphical User Interfaces with Tk](https://docs.python.org/3/library/tk.html)
 - [X] [Tkinter: TkDocs](https://tkdocs.com/tutorial/index.html)
 - [X] [Tkinter: Python interface to Tcl/Tk](https://python.readthedocs.io/en/stable/library/tkinter.html)
@@ -5418,34 +5432,31 @@ References
 - [X] [Pygam]()
 - [X] [Pyglet]()
 	
-#### Smartphone
+### Smartphone
 - [ ] [Cross-Platform Mobile Development: Stanford](https://web.stanford.edu/class/cs47/)
-##### Android
+#### Android
 - [X] [Android Studio : Tutorial](https://www.javatpoint.com/android-tutorial)
 - [X] [Android Studio : Android Tutorial](https://www.tutorialspoint.com/android/index.htm)
 - [X] [Unity](https://docs.unity3d.com/Manual/index.html)
-##### ios
+#### IOS
 - [ ] [Swift: documentation](https://www.swift.org/documentation/)
-##### Android and ios
+#### Android and IOS
 - [ ] [React Native: Documentation](https://reactnative.dev/docs/getting-started)
-#### Tablet
+### Tablet
 - [ ] [Flutter: documentation](https://docs.flutter.dev/)
 
 
-##### Javascript
+#### Javascript
 
 - [X] [Javascript Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [X] [Javascript Documentation](https://devdocs.io/javascript/)
 - [X] [Pyscript]()
 
-##### Server
-
-- [X] [Dell EMC]()
 
 
-#### Web application	
+### Web application	
 - [ ] [Web Applications (Spring 2022): Stanford](http://web.stanford.edu/class/cs142/)
-##### Front-End
+#### Front-End
 - [X] UX Design
 - [X] UI Design
 	- [X] [Figma: Documentatio](https://www.figma.com/best-practices/guide-to-developer-handoff/components-styles-and-documentation/)
@@ -5463,7 +5474,7 @@ References
 - [X] [Nextjs](https://nextjs.org/docs)
 
 
-##### Web framework
+#### Web framework
 
 - [X] [Django: Documentaion](https://docs.djangoproject.com/en/4.1/)
 - [X] [Django : awesome-django](https://github.com/wsvincent/awesome-django)
@@ -5476,11 +5487,11 @@ References
 - [ ] [ASP.NET](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-6.0)
 
 
-##### SEO
+#### SEO
 - [ ] [SEO: What Is SEO / Search Engine Optimization?](https://searchengineland.com/guide/what-is-seo)
 - [ ] [SEO: Search engine optimization](https://en.wikipedia.org/wiki/Search_engine_optimization)
 
-#### Plugin
+### Plugin
 - [ ] [Google chrome extension: documentation](https://developer.chrome.com/docs/extensions/mv3/getstarted/)
 - [ ] [Mozilla extension: Documentation](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Your_first_WebExtension)
 
@@ -5531,8 +5542,9 @@ References
 	- [X] [vscode-pull-request-github](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github): Review and manage your GitHub pull requests directly in VS Code
 	- [X] [vscodeintellicode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode): AI-assisted development features for Python, TypeScript/JavaScript and Java developers in Visual Studio Code, with insights based on understanding your code context combined with machine learning.
 
+#### Github Integration Applications
 
-#### operating System software
+### Operating System software
 
 - [ ] [Operating Systems: Stanford](https://www.scs.stanford.edu/21wi-cs140/)
 - [ ] [Embedded Operating Systems: Stanford](https://github.com/dddrrreee/cs140e-20win)
@@ -5556,35 +5568,35 @@ References
 - [ ] [Practical Unix: Stanford](https://practicalunix.org/)
 
 
-#### Device Drivers
+### Device Drivers
 - [X] [How to Write a Driver with Lantz](https://www.pythonforthelab.com/blog/how-to-write-a-driver-with-lantz/)
 
-#### Utilities
+### Utilities
 - [ ] [Utility Software](https://www.geeksforgeeks.org/utility-software/)
 - [ ] [Toppr](https://www.toppr.com/guides/computer-science/computer-fundamentals/software-concepts/utility-software/)
 	
-#### Malicious software
+### Malicious software
 - [X] [Kali linux](https://www.kali.org/)
 - [X] [awesome-security](https://github.com/sbilly/awesome-security)
 
 
-#### Embedded Software
+### Embedded Software
 - [X] [ECGR4101/5101 Embedded Systems using the Renesas RX63N Processor University of North Carolina at Charlotte](https://github.com/prakhar1989/awesome-courses#algorithms)
 
 
-#### Cars
+### Cars
 
 
 
-#### Robots
+### Robots
 - [X] [ROS: Documentation](https://docs.ros.org/)
 
-#### Microcode
+### Microcode
 - [ ] [MicroPython](https://micropython.org/)
 
-#### Web 3.0
+### Web 3.0
 
-#### API
+### API
 - [X] [Json](): Json is massively supported by API
 - [X] [API](https://aws.amazon.com/what-is/api/)
 - [X] [REST API]()
@@ -5609,7 +5621,16 @@ References
   * [X] [Postman](https://learning.postman.com/docs/getting-started/introduction/)
   
 
-### Quality Assurance
+### Software design pattern
+
+#### References
+
+- [X] [Wikipedia](https://en.wikipedia.org/wiki/Software_design_pattern#:~:text=In%20software%20engineering%2C%20a%20software,into%20source%20or%20machine%20code.)
+- [X] [Source Making](https://sourcemaking.com/design_patterns)
+- [X] [Refactoring Guru](https://refactoring.guru/design-patterns)
+
+
+## Quality Assurance
 - [ ] [Pytest: Documentation](https://docs.pytest.org/en/7.1.x/contents.html)
 - [ ] [Python robot framework: Documentation](https://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html)
 - [ ] [Pytest]()
@@ -5629,8 +5650,9 @@ References
 	
 
 
-### Devops
+## Devops
 - [ ] [My note on devops](https://github.com/MadanBaduwal/python-project-structure/blob/main/mlops.md)
+- [ ] [Dell EMC server]()
 - [ ] [git: Documentation](https://git-scm.com/doc)
 - [ ] [git: Command]()
 - [ ] [gitsome](https://github.com/donnemartin/gitsome)
@@ -5676,7 +5698,7 @@ References
 - [ ] [Ansible]()
 - [ ] [Chef]()
 
-### MLOPS
+## MLOPS
 - [ ] [My note in MLOPS](https://github.com/MadanBaduwal/python-project-structure/blob/main/mlops.md)
 - [X] [Stanford MLSys Seminars](https://www.youtube.com/@StanfordMLSysSeminars)
 * [X] [awesome-mlops](https://github.com/visenger/awesome-mlops)
@@ -5687,12 +5709,12 @@ References
 	- [X] [Videos](https://www.youtube.com/watch?v=AZNTqytOhXk)
 
 * [X] [DataTalksClub](https://github.com/DataTalksClub/mlops-zoomcamp)
-### Monitoring
+## Monitoring
 
 - [ ] [Datadog](https://docs.datadoghq.com/)
 - [ ] [Airflow]()
 
-### Software Life Cycle / Project Management
+## Software Life Cycle / Project Management
 - [X] [Agile]() 
 - [X] [Scrum]
 
@@ -5790,14 +5812,7 @@ References
  [X] [IEEE defines software design documentation](https://books.google.de/books?id=t4akDwAAQBAJ&pg=PA176&lpg=PA176&dq=%22a+description+of+software+created+to+facilitate+analysis,+planning,+implementation,+and+decision-making%22&source=bl&ots=L9CngwTwbO&sig=ACfU3U0JzGFpKRftX5pYPIwtlFOjDcUhrA&hl=en&sa=X&ved=2ahUKEwjYhvKjuvnoAhWxM-wKHdsLDaQQ6AEwAnoECAsQAQ#v=onepage&q&f=false)
 - [X] [bytebytego](https://blog.bytebytego.com/?utm_source=linkedin_post)
 
- ### Software design pattern
-
-#### References
-
-- [X] [Wikipedia](https://en.wikipedia.org/wiki/Software_design_pattern#:~:text=In%20software%20engineering%2C%20a%20software,into%20source%20or%20machine%20code.)
-- [X] [Source Making](https://sourcemaking.com/design_patterns)
-- [X] [Refactoring Guru](https://refactoring.guru/design-patterns)
-
+ 
 ## Documentation tools
 
 Documentation structure
@@ -5828,7 +5843,5 @@ Space/Workspace
 - [X] []()
 	
 	
-Keywords: Time,Space,Accuracy, Label Datasets,ML Model Explanibility,Money
-
 </details>
 
