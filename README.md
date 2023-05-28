@@ -192,6 +192,8 @@ Second know the context in which this word can use.
 * vocabulary 
 * writing
 * Accent
+
+Use we while doing communication. Eg: We will do it, How can we solve it, What we are doing.
 	
 ## Daily news and blogs	
 - [X] [Google News: Home](https://news.google.com/home?hl=en-US&gl=US&ceid=US:en)
@@ -2351,6 +2353,9 @@ Other branches of engineering
 
 <summary>Astrology(physics,time)</summary>
 
+Nepali date: 2053/05/21(friday)/night 3 am
+Location: jilla: satara, Wada: Karada, Location: kala
+
 
 </details>
 
@@ -3273,7 +3278,7 @@ Daily paper reading
 <details>
 <summary>Money(1 Penny)</summary>
 
-
+Time > Money
 ## student-life-in-usa
 
 - [X] [My note](https://github.com/madanbaduwal/student-life-in-usa)
@@ -3358,6 +3363,9 @@ Zero to hero in Computer Science Field
 * Github Profile
 * Client Server System(How front, back and database work)
 * Documentations,Linkedine,google, research papers (continious learning)
+
+Study: Understand and memorize
+Industry: Search understand and implementation
 
 # Computer science(Object,Array, Tensor)
 
@@ -5600,7 +5608,7 @@ References
 - [X] [Json](): Json is massively supported by API
 - [X] [API](https://aws.amazon.com/what-is/api/)
 - [X] [REST API]()
-- [X] [GraphQL]()
+- [X] [GraphQL](https://graphql.org/)
 - [X] [FastAPI]()
 - [X] [Flask]()
 - [X] [Requests]()
