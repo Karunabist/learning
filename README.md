@@ -69,6 +69,7 @@ Learning by doing or reverse engineering or doing by experiments or try to codin
 * Think 100 time before speaking
 * Just focus on present and don't think about results
 * We living being are here generate data which is tensor
+* Everything is extensions vs ecxensions,github extensions, extensions in google drive
 
 <table width="100%">
   <tr>
@@ -4441,6 +4442,7 @@ Notes:
 
 - [X] [Transformer: kaggle](https://www.kaggle.com/code/arunmohan003/transformer-from-scratch-using-pytorch)
 - [X] [Transformer from scratch: Youtube video](https://www.youtube.com/watch?v=U0s0f995w14&t=2522s)
+- [X] [Transformer Slides](https://docs.google.com/presentation/d/1ZXFIhYczos679r70Yu8vV9uO6B1J0ztzeDxbnBxD1S0/mobilepresent?slide=id.g13dd67c5ab8_0_2537)
 - [X] [GPT from Scratch](https://jaketae.github.io/study/gpt/)
 - [X] [GPT from scratch by Andrej Karpathy](https://www.youtube.com/watch?v=kCc8FmEb1nY&t=701s)
 - [X] [minGPT by andrej karpathy](https://github.com/karpathy/minGPT)
@@ -4453,6 +4455,7 @@ Notes:
     - [X] [DALL-E 2](https://www.assemblyai.com/blog/how-dall-e-2-actually-works/)
     - [X] ERNIE-ViLG : [paper](https://arxiv.org/abs/2112.15283),[Github](https://github.com/PaddlePaddle/PaddleHub/tree/develop/modules/image/text_to_image/ernie_vilg),[Reddit thread](https://www.reddit.com/r/MachineLearning/comments/x4l4af/r_ernievilg_a_stateoftheart_texttoimage_model/), [demo](https://huggingface.co/spaces/PaddlePaddle/ERNIE-ViLG),[Colab](https://colab.research.google.com/drive/1z1Sy7HXWPY8R295tNA-UrFYLfnBe0okl#scrollTo=TuAWt2O9J4_s)
     - [X] Stable Diffusion: [paper](https://arxiv.org/pdf/2112.10752.pdf),[Github](https://github.com/CompVis/stable-diffusion#stable-diffusion-v1), [Hugging Face](https://huggingface.co/blog/stable_diffusion)
+	- [X] [How Diffusion Models Work](https://learn.deeplearning.ai/diffusion-models/lesson/3/sampling)
     
 - [X] [Q-learning](https://en.wikipedia.org/wiki/Q-learning)
 - [X] [Markov Decision Process](https://en.wikipedia.org/wiki/Markov_decision_process)
@@ -4530,10 +4533,11 @@ Multi-Class Classification Loss Functions
 #### Model intrepration
 - [X] [SHAP]()
 
-### Machine Learning Model Testing
+#### Machine Learning Model Testing
 
 - [X] [Google paper](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/aad9f93b86b7addfea4c419b9100c6cdd26cacea.pdf)
 #### Machine Learning and Deep learning Books and Cources
+- [ ] [Deeplearning](https://www.deeplearning.ai/courses/)
 - [ ] [Deepmind collected resources](https://storage.googleapis.com/deepmind-media/research/New_AtHomeWithAI%20resources.pdf)
 - [ ] [scikit-learn: Algorithms Documentation](https://github.com/scikit-learn/scikit-learn)
 - [ ] [Applied Machine Learning: Stanford](https://web.stanford.edu/class/cs129/)
@@ -5369,6 +5373,23 @@ Moreover, we will need to perform the different analysis levels like morphologic
 - [X] [NLTK]()
 - [X] [spaCy]()
 - [X] [Gensim]()
+
+### Generative artificial intelligence or generative AI(Prompt Engineering ,LLMS, generative models for Developers)
+
+The goal of prompt engineering is to guide the language model towards producing accurate, relevant, and coherent responses. By carefully constructing the prompt, users can influence the behavior and output of the model. This process often requires experimentation, iteration, and understanding of the model's capabilities and limitations.
+
+#### Prompt Engineering
+* [X] [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
+
+#### LLMS
+* [X] [Building Systems with the ChatGPT API](https://learn.deeplearning.ai/chatgpt-building-system/lesson/1/introduction)
+* [X] [LangChain for LLM Application Development](https://learn.deeplearning.ai/langchain/lesson/1/introduction)
+* [X] []()
+* [X] [Quick Start Guide to Large Language Models: Strategies and Best Practices for using ChatGPT and Other LLMs](https://learning.oreilly.com/library/view/quick-start-guide/9780138199425/)
+* [X] [Hands-On Generative AI with Transformers and Diffusion Model](https://learning.oreilly.com/library/view/hands-on-generative-ai/9781098149239/)
+* [X] [Natural Language Processing with Transformers, Revised Edition](https://learning.oreilly.com/library/view/natural-language-processing/9781098136789/)
+* [X] [Transformers for Natural Language Processing - Second Edition](https://learning.oreilly.com/library/view/transformers-for-natural/9781803247335/)
+
 
 
 ### Machine olfaction
