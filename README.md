@@ -1,4 +1,4 @@
-# Learning 👀 to solve problems(Tensors and operations/functions on them)
+# Learning 👀 to solve problems(Relate everything with Tensors and operations/functions on them, Relate everything with research paper and its formate)
 
 The Power Of Continuous Learning, Personal Learning ,artificial human being
 
@@ -224,6 +224,9 @@ Use we while doing communication. Eg: We will do it, How can we solve it, What w
 Convert any type of sentence into following grammetical structure:
 
 Tens, Voice, Speech | phrase, slang, idom
+
+* Has/have/had/be/do/say/make/go/take/come/see/get are most important and used  verb in English 
+* 
 
 - [X] [My note on grammer](https://colab.research.google.com/drive/1_z4bJJy3MWq0GHh9mK3DyuiKjgA14E71?usp=sharing)
 - [X] [The Best Grammer Workbook Ever](https://drive.google.com/file/d/1xhuoBYELrKJoL2lwUae8F4SZk__sNNBm/view?usp=sharing)
@@ -2423,6 +2426,10 @@ Location: jilla: satara, Wada: Karada, Location: kala
 
 # Law(rule)
 
+## BALLB
+
+## LLM
+
 </details>
 
 
@@ -3455,6 +3462,7 @@ Note:
 	- [X] [Unidirected graph: geek](https://www.geeksforgeeks.org/building-an-undirected-graph-and-finding-shortest-path-using-dictionaries-in-python/)
 	- [X] [Unidirected graph: Implementing Undirected Graphs in Python(BFS for a Graph)](https://pythonandr.com/2016/07/28/implementing-undirected-graphs-in-python/)
 	- [X] [Graph](https://nbviewer.org/github/donnemartin/interactive-coding-challenges/blob/master/graphs_trees/graph/graph_solution.ipynb)
+	- [X] [Strongly connected graph]()
 
 - [X] [Heap Data Structure](https://www.geeksforgeeks.org/heap-data-structure/?ref=ghm)
 
@@ -3530,6 +3538,9 @@ Real life application of data structure
 	- [ ] [A* Search: Colab](https://colab.research.google.com/drive/1b1LaCBkAhkfsHzwwiqmYsYNje0wFhWAG?usp=sharing)
 	- [ ] [A* Search: medium](https://towardsdatascience.com/a-star-a-search-algorithm-eb495fb156bb)
 	- [ ] [A* Search: Easy A* (star) Pathfinding](https://medium.com/@nicholas.w.swift/easy-a-star-pathfinding-7e6689c7f7b2)
+
+- [X] Shortest Path
+    - [ ] [Djkastra](https://www.programiz.com/dsa/dijkstra-algorithm)
 
 - [X] [Convex Hall Algorithm](https://lvngd.com/blog/convex-hull-graham-scan-algorithm-python/#:~:text=The%20boundary%20of%20the%20smallest,convex%20hull%20in%202%20dimensions.)
 
@@ -5746,6 +5757,8 @@ References
 
 
 ## Block Chain
+
+## Web3
 
 ## Monitoring
 
