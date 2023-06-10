@@ -1,4 +1,4 @@
-# Learning 👀 to solve problems(Relate everything with Tensors and operations/functions on them, Relate everything with research paper and its formate)
+# Learning 👀 to solve problems(Relate everything with Tensors and operations/functions on them, Relate everything with research paper and its formate(maximum 4-10 pages paper))
 
 The Power Of Continuous Learning, Personal Learning ,artificial human being
 
@@ -77,7 +77,7 @@ Learning by doing or reverse engineering or doing by experiments or try to codin
 	<ul>
 		<p><b>Tiny elements/units/objects of every subject.</b></p>
 		<li><a href= "https://docs.google.com/document/d/1snROtUFb4DGpGE0kVZr6nFM1GUnRuaXFwLWCYvFM3ME/edit?usp=sharing">Language(English)(letter)</a></li>            
-		  <li><a href="https://colab.research.google.com/drive/15uiUNCEPbh1VhH-wfvJctbm8902po2zq?usp=sharing">Mathematics(number,object,element)</a></li>
+		  <li><a href="https://colab.research.google.com/drive/15uiUNCEPbh1VhH-wfvJctbm8902po2zq?usp=sharing">Mathematics(mathematical symbols:number,object,element)</a></li>
 		  <li><a href= "https://docs.google.com/document/d/1aMGL_ye6mxmdJSpQXOlcpahYdrwgrMh_p6EM0cPY6qQ/edit?usp=sharing">Physics(atom)</a></li>
 		  <li><a href= "https://docs.google.com/document/d/1e8HjXTtJcvfEQSxYotMXx7T2iexRoEQDNjtattCozus/edit?usp=sharing">Chemistry(ion)</a></li>
 		  <li><a href= "https://docs.google.com/document/d/1brdu9ShaaN1JTiQzs3ckHWFDOv2ft7c_-lpKsRqz5I0/edit?usp=sharing">Biology(cell)</a></li> 
@@ -5386,6 +5386,16 @@ Moreover, we will need to perform the different analysis levels like morphologic
 - [X] [Gensim]()
 
 ### Generative artificial intelligence or generative AI(Prompt Engineering ,LLMS, generative models for Developers)
+
+Generative AI: Category of AI that can "produce" content like text/images vs. specific tasks like predicting things.
+
+AI models: think of these as a big ,big math equations.
+
+Large Language Models: very big math equations that are very good at predicting that next word
+
+Prompts: message you send to ChatGPT
+
+Prompt engineering: the science of sending the exact right messages to ChatGPT to get the output you want.
 
 The goal of prompt engineering is to guide the language model towards producing accurate, relevant, and coherent responses. By carefully constructing the prompt, users can influence the behavior and output of the model. This process often requires experimentation, iteration, and understanding of the model's capabilities and limitations.
 
